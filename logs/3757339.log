@@ -1,0 +1,99 @@
+Log file open, 11/20/17 20:28:10
+LogGameplayTags:Display: FGameplayTagNativeAdder::FGameplayTagNativeAdder
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1309187773) SRandInit(1309187773).
+LogTaskGraph: Started task graph with 4 named threads and 7 total threads with 1 sets of task threads.
+LogStreaming:Display: Took  0.015s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++Fortnite+Release-Live-CL-3757339
+LogInit: Engine Version: 4.16.0-3757339+++Fortnite+Release-Live
+LogInit: Compatible Engine Version: 4.16.0-3757339+++Fortnite+Release-Live
+LogInit: Net CL: 3752911
+LogInit: Compiled (64-bit): Nov 14 2017 19:09:47
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Fortnite+Release-Live
+LogInit: Filtered Command Line: -frombe
+LogInit: Base Directory: C:/Program Files/Epic Games/Fortnite/FortniteGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming:Display: Took  0.010s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming:Display: Async Loading initialized: New Async IO: true, Event Driven Loader: true, Async Loading Thread: false
+LogInit: Object subsystem initialized
+LogFortMemory: AppInit - CPU:213.39MB (Peak: 213.39MB)
+[2017.11.21-04.28.11:333][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsClient]
+[2017.11.21-04.28.11:342][  0]LogInit: Computer: USER-ABCPC
+[2017.11.21-04.28.11:342][  0]LogInit: User: User
+[2017.11.21-04.28.11:342][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.21-04.28.11:342][  0]LogInit: High frequency timer resolution =3.410263 MHz
+[2017.11.21-04.28.11:342][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.11.21-04.28.11:342][  0]LogMemory: Platform Memory Stats for WindowsClient
+[2017.11.21-04.28.11:342][  0]LogMemory: Process Physical Memory: 214.49 MB used, 214.49 MB peak
+[2017.11.21-04.28.11:342][  0]LogMemory: Process Virtual Memory: 241.62 MB used, 241.62 MB peak
+[2017.11.21-04.28.11:342][  0]LogMemory: Physical Memory: 12064.04 MB used,  4303.06 MB free, 16367.10 MB total
+[2017.11.21-04.28.11:342][  0]LogMemory: Virtual Memory: 488.08 MB used,  4303.06 MB free, 8388608.00 MB total
+[2017.11.21-04.28.13:655][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.11.21-04.28.13:948][  0]LogStreaming:Display: Took  0.307s to EndInitTextLocalization.
+[2017.11.21-04.28.14:158][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.21-04.28.14:374][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780' (Feature Level 11_0)
+[2017.11.21-04.28.14:374][  0]LogD3D11RHI:       3013/0/7927 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.11.21-04.28.14:374][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.21-04.28.14:382][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.21-04.28.14:382][  0]LogD3D11RHI:     GPU DeviceId: 0x1004 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.21-04.28.14:382][  0]LogWindows: EnumDisplayDevices:
+[2017.11.21-04.28.14:382][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780' (P:1 D:1)
+[2017.11.21-04.28.14:383][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780' (P:0 D:1)
+[2017.11.21-04.28.14:383][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2017.11.21-04.28.14:383][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2017.11.21-04.28.14:383][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.11.21-04.28.14:383][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.11.21-04.28.14:383][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.11.21-04.28.14:383][  0]LogWindows:    7. 'VNC Mirror Driver' (P:0 D:0)
+[2017.11.21-04.28.14:383][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.11.21-04.28.14:383][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780
+[2017.11.21-04.28.14:383][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.11.21-04.28.14:383][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.11.21-04.28.14:383][  0]LogRHI: Texture pool is 2109 MB (70% of 3013 MB)
+[2017.11.21-04.28.14:549][  0]LogD3D11RHI:Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.11.21-04.28.14:550][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2017.11.21-04.28.14:550][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.21-04.28.14:565][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.21-04.28.14:577][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.21-04.28.14:578][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.21-04.28.14:578][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.21-04.28.15:244][  0]LogAssetRegistry: FAssetRegistry took 0.6186 seconds to start up
+[2017.11.21-04.28.15:482][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 2 prioritized culture(s) in 0.009257 seconds
+[2017.11.21-04.28.15:482][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak added to pak precacher.
+[2017.11.21-04.28.15:542][  0]LogGameplayTags:Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 1
+[2017.11.21-04.28.15:580][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak added to pak precacher.
+[2017.11.21-04.28.15:598][  0]LogFortSignificance:Display: Set AI budget to '8,16'
+[2017.11.21-04.28.15:652][  0]LogNetVersion: FortniteGame , NetCL: 3752911, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2586913610)
+[2017.11.21-04.28.15:656][  0]LogMaterial: Added default parameter collection resource, Default__MaterialParameterCollection, ID:00000000000000000000000000000000
+[2017.11.21-04.28.15:753][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak added to pak precacher.
+[2017.11.21-04.28.15:779][  0]LogMaterial: Added default parameter collection resource, DistortedScreenCollection, ID:B9864F384A319FAA50CECBB9E87E2DA3
+[2017.11.21-04.28.15:811][  0]ImportText (Datacenters): Missing closing parenthesis: (DisplayName=NSLOCTEXT("MMRegion", "Brazil", "Brazil"), RegionId="BR", bEnabled=true, bVisible=true, bBeta=false, Servers[0]=(Address="18.231.38.143", Port=22222), Servers[1]=(Address="18.231.52.12", Port=22222), Servers[2]=(Address="52.67.68.145", Port=22222, Servers[3]=(Address="54.207.41.123", Port=22222))
+[2017.11.21-04.28.15:811][  0]ImportText (Datacenters): Missing closing parenthesis: (DisplayName=NSLOCTEXT("MMRegion", "Asia", "Asia"), RegionId="ASIA", bEnabled=true, bVisible=true, bBeta=false, Servers[0]=(Address="13.115.140.167", Port=22222), Servers[1]=(Address="13.115.206.205", Port=22222), Servers[2]=(Address="52.196.239.119", Port=22222, Servers[3]=(Address="52.69.44.52", Port=22222))
+[2017.11.21-04.28.15:817][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.21-04.28.16:117][  0]LogMoviePlayer: Initializing movie player
+[2017.11.21-04.28.16:224][  0]LogSlate: Took 0.001861 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/BurbankBigRegular-Bold.ufont' (155K)
+[2017.11.21-04.28.16:236][  0]LogOnline: OSS: Using EpicApp backend 'Fortnite' based on environment 'Prod' and override 'Fortnite'
+[2017.11.21-04.28.16:236][  0]LogOnline: OSS: Using EpicApp backend 'Fortnite' based on environment 'Prod' and override 'Fortnite'
+[2017.11.21-04.28.16:319][  0]LogOnline:Verbose: TWITCH: Twitch Startup!
+[2017.11.21-04.28.16:319][  0]LogSIP:Display: SIP Module Initialized
+[2017.11.21-04.28.16:319][  0]LogSIP:Display: Plugin Status: 1
+[2017.11.21-04.28.16:319][  0]LogUAC: UACClient initialized

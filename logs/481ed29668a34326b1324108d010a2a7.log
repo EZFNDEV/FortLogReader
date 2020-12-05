@@ -1,0 +1,300 @@
+Log file open, 05/26/18 11:12:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+AppSettings: Version: 7.9.4-4058369+++Portal+Release-Live
+AppSettings: CommandLine: "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\..\..\..\Portal\Binaries\Win64\EpicGamesLauncher.exe" 
+AppSettings: RunningCommandlet: false
+AppSettings: ForwardMessage: false
+AppSettings: ForcedRestart: false
+AppSettings: bAllowMultipleInstances: false
+AppSettings: bBootstrap: false
+AppSettings: bSilent: false
+AppSettings: bForceDeprecated: false
+AppSettings: bDoesCompiledPlatformMatch: true
+AppSettings: bIsUnattended: false
+AppSettings: bAllowFullAppTesting: false
+AppSettings: bIsExecutingAutomation: false
+AppSettings: Mode: default
+LogInit: WinPlatform: User is admin: true
+LogInit: WinPlatform: Process ran as admin: false
+LogInit: WinPlatform: Process is elevated: false
+LogInit: WinPlatform: Process integrity level: Medium
+LogInit: WinPlatform: Running 64bit App: true
+LogInit: WinPlatform: Running 64bit OS: true
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1156740418) SRandInit(1156740419).
+LogTaskGraph: Started task graph with 4 named threads and 5 total threads with 1 sets of task threads.
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MessagingDebugger
+LogPluginManager: Mounting plugin UdpMessaging
+LogInit: Build: 7.9.4-4058369+++Portal+Release-Live
+LogInit: Engine Version: 4.18.0-4058369+++Portal+Release-Live
+LogInit: Compatible Engine Version: 4.18.0-4058369+++Portal+Release-Live
+LogInit: Net CL: 4058369
+LogInit: Compiled (64-bit): May  8 2018 15:31:38
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Portal+Release-Live
+LogInit: Command line: "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\..\..\..\Portal\Binaries\Win64\EpicGamesLauncher.exe"  -SaveToUserDir -Messaging -enablehighdpi
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.26-03.12.32:106][  0]LogInit: Computer: DESKTOP-M8RIBH0
+[2018.05.26-03.12.32:106][  0]LogInit: User: PC
+[2018.05.26-03.12.32:106][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.05.26-03.12.32:106][  0]LogInit: High frequency timer resolution =2.835940 MHz
+[2018.05.26-03.12.32:106][  0]LogMemory: Memory total: Physical=4.0GB (4GB approx)
+[2018.05.26-03.12.32:106][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.26-03.12.32:106][  0]LogMemory: Process Physical Memory: 25.09 MB used, 25.09 MB peak
+[2018.05.26-03.12.32:106][  0]LogMemory: Process Virtual Memory: 49.40 MB used, 49.40 MB peak
+[2018.05.26-03.12.32:106][  0]LogMemory: Physical Memory: 2432.59 MB used,  1627.66 MB free, 4060.25 MB total
+[2018.05.26-03.12.32:106][  0]LogMemory: Virtual Memory: 4331.36 MB used,  1627.66 MB free, 134217728.00 MB total
+[2018.05.26-03.12.32:160][  0]LogAssetRegistry: FAssetRegistry took 0.0099 seconds to start up
+[2018.05.26-03.12.32:160][  0]LogUObjectArray: 215 objects as part of root set at end of initial load.
+[2018.05.26-03.12.32:160][  0]LogUObjectAllocator: 36432 out of 0 bytes used by permanent object pool.
+[2018.05.26-03.12.32:160][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.26-03.12.32:160][  0]LogInit: Using OS detected language (en-US).
+[2018.05.26-03.12.32:160][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.26-03.12.32:317][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.26-03.12.32:568][  0]LogPackageLocalizationCache: Processed 2 localized package path(s) for 2 prioritized culture(s) in 0.000110 seconds
+[2018.05.26-03.12.32:593][  0]LogTaskGraph: Started task graph with 4 named threads and 5 total threads with 1 sets of task threads.
+[2018.05.26-03.12.32:651][  0]LogInit: Using libcurl 7.55.1-DEV
+[2018.05.26-03.12.32:651][  0]LogInit:  - built for x86_64-pc-win32
+[2018.05.26-03.12.32:651][  0]LogInit:  - supports SSL with OpenSSL/1.0.2h
+[2018.05.26-03.12.32:651][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+[2018.05.26-03.12.32:651][  0]LogInit:  - other features:
+[2018.05.26-03.12.32:651][  0]LogInit:      CURL_VERSION_SSL
+[2018.05.26-03.12.32:651][  0]LogInit:      CURL_VERSION_LIBZ
+[2018.05.26-03.12.32:651][  0]LogInit:      CURL_VERSION_IPV6
+[2018.05.26-03.12.32:651][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2018.05.26-03.12.32:651][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2018.05.26-03.12.32:651][  0]LogInit:      CURL_VERSION_IDN
+[2018.05.26-03.12.32:651][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2018.05.26-03.12.32:651][  0]LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+[2018.05.26-03.12.32:651][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2018.05.26-03.12.32:651][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2018.05.26-03.12.32:651][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2018.05.26-03.12.32:651][  0]LogInit:  - BufferSize = 65536
+[2018.05.26-03.12.40:280][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.26-03.12.40:488][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.26-03.12.44:366][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.26-03.12.44:379][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.26-03.12.44:812][  0]Portal: Constructing App Data Access Layer
+[2018.05.26-03.12.44:824][  0]LogBuildInfoRepository: Using LauncherLabel Live-Belica
+[2018.05.26-03.12.46:109][  0]LogSelfUpdateService: Initialising for EpicGamesLauncher 7.9.4-4058369+++Portal+Release-Live-Windows.
+[2018.05.26-03.12.46:545][  0]LogStreaming: Warning: Failed to read file 'C:/ProgramData/Epic/EpicGamesLauncher/Data/LauncherUpdate.manifest' error.
+[2018.05.26-03.12.46:545][  0]Portal: Constructing App Domain Layer
+[2018.05.26-03.12.47:410][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\UnrealEngineLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2018.05.26-03.12.47:562][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2018.05.26-03.12.47:562][  0]WinPlatform: Found matching shortcut: false
+[2018.05.26-03.12.47:562][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2018.05.26-03.12.47:563][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2018.05.26-03.12.47:563][  0]WinPlatform: Found matching shortcut: false
+[2018.05.26-03.12.47:563][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2018.05.26-03.12.47:563][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2018.05.26-03.12.47:563][  0]WinPlatform: Found matching shortcut: false
+[2018.05.26-03.12.47:563][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2018.05.26-03.12.47:564][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2018.05.26-03.12.47:564][  0]WinPlatform: Found matching shortcut: true
+[2018.05.26-03.12.47:564][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\UnrealEngineLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2018.05.26-03.12.47:590][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2018.05.26-03.12.47:590][  0]WinPlatform: Found matching shortcut: false
+[2018.05.26-03.12.47:590][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2018.05.26-03.12.47:591][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2018.05.26-03.12.47:591][  0]WinPlatform: Found matching shortcut: false
+[2018.05.26-03.12.47:591][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2018.05.26-03.12.47:592][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2018.05.26-03.12.47:592][  0]WinPlatform: Found matching shortcut: false
+[2018.05.26-03.12.47:592][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2018.05.26-03.12.47:592][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2018.05.26-03.12.47:592][  0]WinPlatform: Found matching shortcut: true
+[2018.05.26-03.12.52:735][  0]Manifest Check:   0x0000019098FC5840   Version:   ++Fortnite+Release-4.2-CL-4072250-Windows   AppName:   Fortnite  CPAM Line: 2246 Desc: HandleInstalledManifestReceived 
+[2018.05.26-03.12.52:735][  0]FCommunityPortalAppManagerImpl: Keeping discovered manifest
+[2018.05.26-03.12.52:735][  0]Portal: Constructing App Presentation Layer
+[2018.05.26-03.12.52:832][  0]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:2
+[2018.05.26-03.12.52:839][  0]Portal: Constructing App UI Layer
+[2018.05.26-03.12.53:181][  2]FCommunityPortalManagerImpl: Change State CPManagerState_Init->CPManagerState_WaitingRoom
+[2018.05.26-03.12.53:186][  2][SignInRouter] GoToUrl('/waiting-room')
+[2018.05.26-03.12.53:186][  2][SignInRouter]    Resolved To: '/waiting-room'
+[2018.05.26-03.12.53:186][  2][SignInRouter]    Best Match: waiting-room
+[2018.05.26-03.12.53:198][  2][SignInRouter]    Navigation Complete.
+[2018.05.26-03.12.53:306][  2]SCommunityPortalMainImpl::Construct UEPVM:4
+[2018.05.26-03.12.58:605][  2]~SCommunityPortalMainImpl UEPVM:2
+[2018.05.26-03.12.59:539][  2]LogSlate: Took 0.046801 seconds to synchronously load lazily loaded font '../../Content/Font/Lato-Regular.ttf' (118K)
+[2018.05.26-03.13.00:696][  4]FCommunityPortalManagerImpl: Change State CPManagerState_WaitingRoom->CPManagerState_UserLogin
+[2018.05.26-03.13.00:696][  4][SignInRouter] GoToUrl('/epic-login')
+[2018.05.26-03.13.00:696][  4][SignInRouter]    Resolved To: '/epic-login'
+[2018.05.26-03.13.00:696][  4][SignInRouter]    Best Match: epic-login
+[2018.05.26-03.13.01:153][  5]FCommunityPortalManagerImpl: Change State CPManagerState_UserLogin->CPManagerState_SelfUpdateCheck
+[2018.05.26-03.13.02:896][ 10]LogSelfUpdateService: Launcher build response 7.9.4-4058369+++Portal+Release-Live-Windows.
+[2018.05.26-03.13.02:947][ 10]LogSelfUpdateService: Launcher is up-to-date with the latest available version.
+[2018.05.26-03.13.02:947][ 10]LogSelfUpdateService: Waiting for next version update.
+[2018.05.26-03.13.02:947][ 10]LogEmsContentProvider: Content build response ++Portal+Main+prod-CL-4094569-Windows.
+[2018.05.26-03.13.02:947][ 10]LogEmsContentProvider: Requesting content manifest.
+[2018.05.26-03.13.03:160][ 11]FCommunityPortalManagerImpl: Change State CPManagerState_SelfUpdateCheck->CPManagerState_WaitEms
+[2018.05.26-03.13.03:730][ 26]LogEmsContentProvider: Content manifest received.
+[2018.05.26-03.13.03:885][ 26]LogBuildPatchServices: FBuildPatchInstaller CTOR Configuration.InstallManifest Check:   0x0000019098FCC0C0
+[2018.05.26-03.13.03:885][ 26]LogBuildPatchServices: FBuildPatchInstaller CTOR Configuration.CurrentManifest Check:   0x0000019098FC47C0
+[2018.05.26-03.13.03:885][ 26]LogBuildPatchServices: FBuildPatchInstaller CTOR CurrentBuildManifest Check:   0x0000019098FC47C0
+[2018.05.26-03.13.03:885][ 26]LogBuildPatchServices: FBuildPatchInstaller CTOR NewBuildManifest Check:   0x0000019098FCC0C0
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: InstallManifest: 0x0000019098FCC0C0
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: InstallManifest Version: ++Portal+Main+prod-CL-4094569-Windows
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: CurrentManifest: 0x0000019098FC47C0
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: CurrentManifest Version: ++Portal+Main+prod-CL-4085596-Windows
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: InstallDirectory: C:/ProgramData/Epic/EpicGamesLauncher/Data/EMS/EpicGamesLauncher
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: StagingDirectory: C:/ProgramData/Epic/EpicGamesLauncher/Data/EMS/stage/
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: BackupDirectory: 
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: CloudDirectories: https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/CloudDir
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: CloudDirectories: https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/CloudDir
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: CloudDirectories: https://download.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: CloudDirectories: https://download2.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: CloudDirectories: https://download3.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: CloudDirectories: https://download4.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: InstallTags: 
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: ValidTags: 
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: InstallMode: EInstallMode::NonDestructiveInstall
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: VerifyMode: EVerifyMode::ShaVerifyAllFiles
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: bIsRepair: false
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: bRunRequiredPrereqs: true
+[2018.05.26-03.13.03:961][ 26]LogBuildPatchServices: Build Config: bAllowConcurrentExecution: false
+[2018.05.26-03.13.03:961][ 26]LogEmsContentProvider: Installer started.
+[2018.05.26-03.13.04:257][ 26]LogBuildPatchServices: Starting Installation
+[2018.05.26-03.13.04:490][ 34]LogBuildPatchServices: Requiring 3 files
+[2018.05.26-03.13.04:753][ 38]BuildPatchResumeData file found 0
+[2018.05.26-03.13.05:715][ 62]LogBuildPatchServices: File construction complete
+[2018.05.26-03.13.05:715][ 62]LogBuildPatchServices: Staged install complete
+[2018.05.26-03.13.05:715][ 62]LogBuildPatchServices: Running backup and stage relocation
+[2018.05.26-03.13.05:715][ 62]LogBuildPatchServices: Create MM
+[2018.05.26-03.13.05:715][ 62]LogBuildPatchServices: Relocation complete 1
+[2018.05.26-03.13.05:715][ 62]LogBuildPatchServices: Verifying install
+[2018.05.26-03.13.14:648][308][SignInRouter]    Canceling in progress navigation. New command issued.
+[2018.05.26-03.13.14:793][308][SignInRouter]    Navigation Canceled.
+[2018.05.26-03.13.14:793][308][SignInRouter] RedirectToUrl('https://accounts.launcher-website-prod07.ol.epicgames.com/login/launcher?redirectUrl=https%3A%2F%2Faccounts.launcher-website-prod07.ol.epicgames.com%2Flogin%2FshowPleaseWait%3Fclient_id%3D24a1bff3f90749efbfcbc576c626a282%26rememberEmail%3Dfalse&client_id=24a1bff3f90749efbfcbc576c626a282&isLauncher=true')
+[2018.05.26-03.13.14:793][308][SignInRouter]    Resolved To: '/login/launcher?redirectUrl=https%3A%2F%2Faccounts.launcher-website-prod07.ol.epicgames.com%2Flogin%2FshowPleaseWait%3Fclient_id%3D24a1bff3f90749efbfcbc576c626a282%26rememberEmail%3Dfalse&client_id=24a1bff3f90749efbfcbc576c626a282&isLauncher=true'
+[2018.05.26-03.13.14:793][308][SignInRouter]    Best Match: login
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Verify stage complete 1
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Deleting staging area.
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Reset MM.
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: AppName: EpicGamesLauncherContent
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: AppInstalledVersion: ++Portal+Main+prod-CL-4085596-Windows
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: AppPatchVersion: ++Portal+Main+prod-CL-4094569-Windows
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: CloudDirectory: https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/CloudDir
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumFilesInBuild: 200
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumFilesOutdated: 3
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumFilesToRemove: 0
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumChunksRequired: 1
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: ChunksQueuedForDownload: 1
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: ChunksLocallyAvailable: 0
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: ChunksInChunkDbs: 0
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumChunksDownloaded: 1
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumChunksRecycled: 0
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumChunksReadFromChunkDbs: 0
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumFailedDownloads: 0
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumBadDownloads: 0
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumAbortedDownloads: 0
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumRecycleFailures: 0
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumChunksStoreBooted: 0
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumDriveStoreChunkLoads: 0
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumDriveStoreLoadFailures: 0
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumChunkDbChunksFailed: 0
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: TotalDownloadedData: 208125
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: AverageDownloadSpeed: 331,169.421 bytes (331.169 kB, 323.407 KiB) /sec
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: PeakDownloadSpeed: 331,169.421 bytes (331.169 kB, 323.407 KiB) /sec
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: TotalReadData: 2110557
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: AverageDiskReadSpeed: 288,773,725.989 bytes (288.773 MB, 275.396 MiB) /sec
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: PeakDiskReadSpeed: 288,773,725.989 bytes (288.773 MB, 275.396 MiB) /sec
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: TotalWrittenData: 24757
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: AverageDiskWriteSpeed: 215,151.663 bytes (215.151 kB, 210.108 KiB) /sec
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: PeakDiskWriteSpeed: 215,151.663 bytes (215.151 kB, 210.108 KiB) /sec
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumFilesConstructed: 3
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: InitializeTime: 803 ms
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: TheoreticalDownloadTime: 628 ms
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: ConstructTime: 859 ms
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: MoveFromStageTime: 7 ms
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: FileAttributesTime: 0 ms
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: VerifyTime: 16.0 sec
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: CleanUpTime: 0 ms
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: PrereqTime: 0 ms
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: ProcessPausedTime: 0 ms
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: ProcessActiveTime: 17.7 sec
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: ProcessExecuteTime: 17.7 sec
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: ProcessSuccess: TRUE
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: ErrorCode: OK
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: FailureReasonText: The operation was successful.
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: FailureType: SUCCESS
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: NumInstallRetries: 0
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: FinalProgressValue: 1.000000
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: OverallRequestSuccessRate: 1.000000
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: ExcellentDownloadHealthTime: 885 ms
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: GoodDownloadHealthTime: 0 ms
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: OkDownloadHealthTime: 0 ms
+[2018.05.26-03.13.21:670][516]LogBuildPatchServices: Build Stat: PoorDownloadHealthTime: 0 ms
+[2018.05.26-03.13.21:671][516]LogBuildPatchServices: Build Stat: DisconnectedDownloadHealthTime: 0 ms
+[2018.05.26-03.13.21:671][516]LogBuildPatchServices: Build Stat: AverageMemoryStoreUse: 0.5
+[2018.05.26-03.13.21:671][516]LogBuildPatchServices: Build Stat: PeakMemoryStoreUse: 1
+[2018.05.26-03.13.21:671][516]LogBuildPatchServices: Build Stat: AverageMemoryStoreRetained: 0.5
+[2018.05.26-03.13.21:671][516]LogBuildPatchServices: Build Stat: PeakMemoryStoreRetained: 1
+[2018.05.26-03.13.21:671][516]LogBuildPatchServices: Build Stat: MemoryStoreSize: 336
+[2018.05.26-03.13.21:671][516]LogEmsContentProvider: Installer complete. Success:1.
+[2018.05.26-03.13.21:675][516]LogEmsService: ChangedFile: Fortnite.v2product
+[2018.05.26-03.13.21:675][516]LogEmsService: ChangedFile: Orion.v4product
+[2018.05.26-03.13.21:675][516]LogEmsService: ChangedFile: Orion.v5product
+[2018.05.26-03.13.21:675][516]LogEmsContentProvider: Waiting for next version update.
+[2018.05.26-03.13.21:675][516]FAccountService::AutoSignIn
+[2018.05.26-03.13.21:675][516]FCommunityPortalManagerImpl: Change State CPManagerState_WaitEms->CPManagerState_LoggingIn
+[2018.05.26-03.13.23:740][578][SignInRouter]    Navigation Complete.
+[2018.05.26-03.13.25:335][620]FAccountService::OnLoginComplete - 0 TRUE cb34917e1d3047018f79ea72a0c2be30 
+[2018.05.26-03.13.25:347][620]Portal: Constructing User Data Access Layer
+[2018.05.26-03.13.25:347][620]Portal: Constructing User Domain Layer
+[2018.05.26-03.13.27:709][620]Portal: Constructing User Presentation Layer
+[2018.05.26-03.13.30:094][620]Portal: Constructing User UI Layer
+[2018.05.26-03.13.30:145][620]FUnrealEnginePortalViewModelImple_UpdateLauncherViewModel: LauncherViewModel is valid
+[2018.05.26-03.13.30:221][620]FAccountService::OnLoginChanged - LoggedIn 0
+[2018.05.26-03.13.30:310][621]FCommunityPortalManagerImpl: Change State CPManagerState_LoggingIn->CPManagerState_LaunchWebSession
+[2018.05.26-03.13.30:773][635]FCommunityPortalManagerImpl: Change State CPManagerState_LaunchWebSession->CPManagerState_LaunchInfo
+[2018.05.26-03.13.35:180][749][MainRouter] Refresh() failed. No location to refresh.
+[2018.05.26-03.13.35:180][749][MainRouter]    Navigation Canceled.
+[2018.05.26-03.13.35:180][749][MainRouter] GoToUrl('/fortnite')
+[2018.05.26-03.13.35:180][749][MainRouter]    Resolved To: '/fortnite'
+[2018.05.26-03.13.35:180][749][MainRouter]    Best Match: fortnite
+[2018.05.26-03.13.35:253][749][MainRouter]    Navigation Complete.
+[2018.05.26-03.13.35:253][749]FCommunityPortalManagerImpl: Change State CPManagerState_LaunchInfo->CPManagerState_Launch
+[2018.05.26-03.13.35:343][749]SCommunityPortalMainImpl::Construct UEPVM:4
+[2018.05.26-03.13.35:344][749][SignInRouter] GoToUrl('/null')
+[2018.05.26-03.13.35:344][749][SignInRouter]    Resolved To: '/null'
+[2018.05.26-03.13.35:344][749][SignInRouter]    Best Match: null
+[2018.05.26-03.13.35:528][749][SignInRouter]    Navigation Complete.
+[2018.05.26-03.13.35:889][749][00000190A9ADAA80] FWebPurchaseCommand::NotStartedState
+[2018.05.26-03.13.40:253][870]LogSlate: Request Window '' being destroyed
+[2018.05.26-03.14.14:268][141]LogSlate: Request Window '' being destroyed
+[2018.05.26-03.14.16:037][245]LogSlate: Request Window '' being destroyed
+[2018.05.26-03.14.16:824][291]LogSlate: Request Window '' being destroyed
+[2018.05.26-03.14.17:999][362]LogSlate: Request Window '' being destroyed
+[2018.05.26-03.14.20:301][500]LogSlate: Request Window 'Friends List' being destroyed
+[2018.05.26-03.15.48:584][198]LogSlate: Took 0.039763 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.26-03.16.00:391][767][MainRouter] GoToUrl('/settings?navappid=Fortnite')
+[2018.05.26-03.16.00:391][767][MainRouter]    Resolved To: '/settings?navappid=Fortnite'
+[2018.05.26-03.16.00:391][767][MainRouter]    Best Match: invalid - [36] states compared
+[2018.05.26-03.16.00:468][767][MainRouter]    Navigation Canceled.
+[2018.05.26-03.17.37:660][ 12]FDomainUriProtocolHandler "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe" com.epicgames.launcher://apps/C%3A/Program%20Files/Epic%20Games/Fortnite/FortniteGame/Binaries/Win64/?action=launch&silent=true
+[2018.05.26-03.17.37:660][ 12][MainRouter] GoToUrl('/fortnite')
+[2018.05.26-03.17.37:660][ 12][MainRouter]    Resolved To: '/fortnite'
+[2018.05.26-03.17.37:660][ 12][MainRouter]    Best Match: fortnite
+[2018.05.26-03.17.37:660][ 12][MainRouter]    Navigation Stopped. Already at location.
+[2018.05.26-03.17.37:660][ 12][MainRouter]    Navigation Canceled.
+[2018.05.26-03.17.38:888][ 47]DEBUGSZ  old=0 new=1
+[2018.05.26-03.17.38:901][ 48]DEBUGSZ  old=1 new=2
+[2018.05.26-03.17.40:168][ 85]DEBUGSZ  old=2 new=3
+[2018.05.26-03.17.40:202][ 86]DEBUGSZ  old=3 new=6
+[2018.05.26-03.17.40:273][ 87]DEBUGSZ  old=6 new=7
+[2018.05.26-03.17.41:385][121]LogAnalytics: Warning: Endpoint analytics name has changed from 'launcherwaitingroom-public-service-prod06.ol.epicgames.com' to 'fortnitewaitingroom-public-service-prod.ol.epicgames.com', aggregated stats will be incorrect
+[2018.05.26-03.17.41:385][121]DEBUGSZ  old=7 new=8
+[2018.05.26-03.17.41:442][122]DEBUGSZ  old=8 new=9
+[2018.05.26-03.17.42:664][159]DEBUGSZ  old=9 new=10
+[2018.05.26-03.17.42:697][160]FCommunityPortalLaunchAppTask: Launching app 'C:/Program Files/Epic Games/Fortnite/FortniteGame/Binaries/Win64/FortniteLauncher.exe' with commandline ' -AUTH_LOGIN=unused -AUTH_PASSWORD=8319e0db200d410fabe35b095fbd3f87 -AUTH_TYPE=exchangecode -epicapp=Fortnite -epicenv=Prod -EpicPortal '

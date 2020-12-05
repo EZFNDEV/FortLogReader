@@ -1,0 +1,940 @@
+Log file open, 04/05/18 19:35:38
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak.
+LogPlatformFile: Not using cached read wrapper
+LogInit: RandInit(850682467) SRandInit(850682467).
+LogTaskGraph: Started task graph with 4 named threads and 13 total threads with 3 sets of task threads.
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin AESHandlerComponent
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin BlueprintContext
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CommonUI
+LogPluginManager: Mounting plugin Crashlytics
+LogPluginManager: Mounting plugin DiscordRPC
+LogPluginManager: Mounting plugin EarlyStartupPatcher
+LogPluginManager: Found config from plugin[EarlyStartupPatcher] C:/Users/Caleb/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini
+LogPluginManager: Found config from plugin[EarlyStartupPatcher] C:/Users/Caleb/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Game.ini
+LogPluginManager: Mounting plugin EpicCMS
+LogPluginManager: Mounting plugin EpicCMSUIFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemMcp
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin Gauntlet
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LogitechLED
+LogPluginManager: Mounting plugin MatchmakingService
+LogPluginManager: Mounting plugin NetUI
+LogPluginManager: Mounting plugin NVIDIAGfeSDK
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystemLiveServer
+LogPluginManager: Mounting plugin OnlineSubsystemTencent
+LogPluginManager: Mounting plugin OnlineSubsystemFacebook
+LogPluginManager: Mounting plugin OnlineSubsystemGoogle
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemPS4Server
+LogPluginManager: Mounting plugin OnlineSubsystemTwitch
+LogPluginManager: Mounting plugin Oodle
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PurchaseFlow
+LogPluginManager: Mounting plugin ReplicationGraph
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SIP
+LogPluginManager: Mounting plugin Social
+LogPluginManager: Mounting plugin SubtitlesWidgets
+LogPluginManager: Mounting plugin SubtitlesWidgetsEditor
+LogPluginManager: Mounting plugin UAC
+LogPluginManager: Mounting plugin UACBase
+LogPluginManager: Mounting plugin AppboyClient
+LogPluginManager: Mounting plugin WinDualShock
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin RemoteSession
+LogPluginManager: Mounting plugin EpicGameplayStats
+LogPluginManager: Mounting plugin OnlineGameplayFramework
+LogPluginManager: Mounting plugin HTTPChunkInstaller
+LogPluginManager: Mounting plugin Vivox
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AndroidPermission
+LogStreaming: Display: Took  0.071s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - BufferSize = 65536
+LogOnline: MCP: Mcp Startup!
+LogOnline: Verbose: MCP: Created thread (ID:8844).
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogInit: Build: ++Fortnite+Release-3.4-CL-3973340
+LogInit: Engine Version: 4.20.0-3973340+++Fortnite+Release-3.4
+LogInit: Compatible Engine Version: 4.20.0-3973340+++Fortnite+Release-3.4
+LogInit: Net CL: 3966836
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Mar 29 2018 18:20:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Fortnite+Release-3.4
+LogInit: Filtered Command Line: -nobe
+LogInit: Base Directory: C:/Program Files/Epic Games/Fortnite/FortniteGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogInit: Object subsystem initialized
+LogFortMemory: AppInit - CPU:267.31MB (Peak: 267.31MB)
+[2018.04.06-02.35.38:578][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsClient]
+[2018.04.06-02.35.38:596][  0]LogInit: Computer: CALEB-PC
+[2018.04.06-02.35.38:596][  0]LogInit: User: Caleb
+[2018.04.06-02.35.38:596][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.06-02.35.38:596][  0]LogInit: High frequency timer resolution =3.320315 MHz
+[2018.04.06-02.35.38:598][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.04.06-02.35.38:598][  0]LogMemory: Platform Memory Stats for WindowsClient
+[2018.04.06-02.35.38:598][  0]LogMemory: Process Physical Memory: 269.04 MB used, 269.04 MB peak
+[2018.04.06-02.35.38:598][  0]LogMemory: Process Virtual Memory: 296.11 MB used, 296.11 MB peak
+[2018.04.06-02.35.38:598][  0]LogMemory: Physical Memory: 4554.54 MB used,  3581.48 MB free, 8136.02 MB total
+[2018.04.06-02.35.38:598][  0]LogMemory: Virtual Memory: 469.63 MB used,  3581.48 MB free, 134217728.00 MB total
+[2018.04.06-02.35.39:017][  0]LogInit: Using OS detected language (en-US).
+[2018.04.06-02.35.39:017][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.06-02.35.39:036][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.06-02.35.39:148][  0]LogTextLocalizationResource: LocRes 'C:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/Runtime/HTTPChunkInstaller/Content/Localization/HTTPChunkInstaller/en/HTTPChunkInstaller.locres' failed the magic number check! Assuming this is a legacy resource (please re-generate your localization resources!)
+[2018.04.06-02.35.39:236][  0]LogStreaming: Display: Took  0.220s to InitEngineTextLocalization.
+[2018.04.06-02.35.39:425][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.06-02.35.39:425][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.06-02.35.39:443][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.06-02.35.39:892][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.04.06-02.35.39:892][  0]LogD3D11RHI:       4043/0/4068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.06-02.35.39:954][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.06-02.35.39:954][  0]LogD3D11RHI:       0/0/4068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.06-02.35.39:954][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.06-02.35.39:967][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.06-02.35.39:967][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.06-02.35.39:967][  0]LogWindows: EnumDisplayDevices:
+[2018.04.06-02.35.39:967][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.04.06-02.35.39:967][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.04.06-02.35.39:967][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.04.06-02.35.39:967][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.04.06-02.35.39:968][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.04.06-02.35.39:968][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.04.06-02.35.39:968][  0]LogD3D11RHI:   Driver Version: 391.01 (internal:23.21.13.9101, unified:391.01)
+[2018.04.06-02.35.39:968][  0]LogD3D11RHI:      Driver Date: 2-23-2018
+[2018.04.06-02.35.39:968][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2018.04.06-02.35.40:271][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.06-02.35.40:339][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.06-02.35.40:389][  0]LogShaderLibrary: Display: Using ../../../FortniteGame/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 1137 unique shaders.
+[2018.04.06-02.35.40:389][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2018.04.06-02.35.40:389][  0]LogRHI: Warning: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+[2018.04.06-02.35.40:389][  0]LogRHI: Warning: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+[2018.04.06-02.35.40:390][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak added to pak precacher.
+[2018.04.06-02.35.40:438][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.06-02.35.40:466][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.06-02.35.40:466][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.06-02.35.40:466][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.06-02.35.40:581][  0]LogShaderLibrary: Display: Using ../../../FortniteGame/Content/ShaderArchive-FortniteGame-PCD3D_SM5.ushaderbytecode for material shader code. Total 68326 unique shaders.
+[2018.04.06-02.35.40:581][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library FortniteGame
+[2018.04.06-02.35.40:581][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteGame_SC and no native library supported.
+[2018.04.06-02.35.40:581][  0]LogRHI: Warning: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+[2018.04.06-02.35.40:581][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteGame and no native library supported.
+[2018.04.06-02.35.40:581][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteGame_SC and no native library supported.
+[2018.04.06-02.35.40:581][  0]LogRHI: Warning: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+[2018.04.06-02.35.40:581][  0]LogInit: Using OS detected language (en-US).
+[2018.04.06-02.35.40:581][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.06-02.35.40:585][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.06-02.35.41:881][  0]LogStreaming: Display: Took  1.299s to InitGameTextLocalization.
+[2018.04.06-02.35.43:039][  0]LogAssetRegistry: FAssetRegistry took 1.1582 seconds to start up
+[2018.04.06-02.35.43:684][  0]LogStreaming: Display: Flushing async loaders.
+[2018.04.06-02.35.43:724][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.039909 seconds
+[2018.04.06-02.35.43:753][  0]LogHAL: Display: Platform has ~ 8 GB [8531238912 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.04.06-02.35.43:786][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak added to pak precacher.
+[2018.04.06-02.35.43:982][  0]LogNetVersion: FortniteGame 1.0.0, NetCL: 3966836, EngineNetVer: 4, GameNetVer: 0 (Checksum: 3838845730)
+[2018.04.06-02.35.44:359][  0]LogFortSignificance: Display: Set AI budget to '8,16'
+[2018.04.06-02.35.44:359][  0]LogFortSignificance: Display: Set Athena Player Pawn budget to '5,10,10,75'
+[2018.04.06-02.35.44:359][  0]LogFortSignificance: Display: Set Athena Player Pawn URO rate to '0,1,2,3'
+[2018.04.06-02.35.44:359][  0]LogFortSignificance: Display: Set Athena Player Pawn URO interpolation to '1,1,1,1'
+[2018.04.06-02.35.44:359][  0]LogFortSignificance: Display: Set Athena Player SkelMeshMinLOD to '0,1,1,2'
+[2018.04.06-02.35.44:359][  0]LogFortSignificance: Display: Set bucket distances to '50,100,250,500'
+[2018.04.06-02.35.44:441][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak added to pak precacher.
+[2018.04.06-02.35.44:471][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak added to pak precacher.
+[2018.04.06-02.35.45:233][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.06-02.35.45:305][  0]LogMoviePlayer: Initializing movie player
+[2018.04.06-02.35.45:522][  0]LogOnline: OSS: Using EpicApp backend 'Fortnite' with host 'fortnite-public-service-prod11.ol.epicgames.com' based on environment 'Prod' and override 'Fortnite'
+[2018.04.06-02.35.45:525][  0]LogInit: Display: Build flavor: '"Western"'
+[2018.04.06-02.35.45:534][  0]LogSlate: Took 0.000586 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/BurbankBigRegular-Bold.ufont' (155K)
+[2018.04.06-02.35.45:534][  0]LogOnline: TENCENT: Tencent Startup!
+[2018.04.06-02.35.45:534][  0]LogOnline: Facebook Startup!
+[2018.04.06-02.35.45:534][  0]LogOnline: Google Startup!
+[2018.04.06-02.35.45:534][  0]LogOnline: Verbose: TWITCH: Twitch Startup!
+[2018.04.06-02.35.45:549][  0]LogSIP: Display: SIP Module Initialized
+[2018.04.06-02.35.45:549][  0]LogSIP: Display: Plugin Status: 1
+[2018.04.06-02.35.45:549][  0]LogUAC: UACClient initialized
+[2018.04.06-02.35.46:032][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.06-02.35.46:041][  0]LogUObjectArray: 84897 objects as part of root set at end of initial load.
+[2018.04.06-02.35.46:041][  0]LogUObjectArray: 3 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2018.04.06-02.35.46:041][  0]LogUObjectAllocator: 15316416 out of 0 bytes used by permanent object pool.
+[2018.04.06-02.35.46:041][  0]LogUObjectArray: CloseDisregardForGC: 84897/84897 objects in disregard for GC pool
+[2018.04.06-02.35.46:065][  0]LogEngine: Initializing Engine...
+[2018.04.06-02.35.46:081][  0]LogInit: Display: Limiting process virtual memory size to 8388608 KB
+[2018.04.06-02.35.46:226][  0]LogFortMemory: UFortAssetManager will split content preloading by submode
+[2018.04.06-02.35.46:226][  0]LogFortMemory: UFortAssetManager default bundle state is (Client)
+[2018.04.06-02.35.46:226][  0]LogFort: Display: Startup job "Super::StartInitialLoading()" starting
+[2018.04.06-02.35.47:267][  0]LogFort: Display: Startup job "Super::StartInitialLoading()" took 1.04 seconds to complete
+[2018.04.06-02.35.47:267][  0]LogFort: Display: Startup job "RegisterConstructorReferences()" starting
+[2018.04.06-02.35.47:267][  0]LogFort: Display: Startup job "RegisterConstructorReferences()" took 0.00 seconds to complete
+[2018.04.06-02.35.47:267][  0]LogFort: Display: Startup job "InitializeAbilitySystem()" starting
+[2018.04.06-02.35.47:710][  0]LogFort: Display: Startup job "InitializeAbilitySystem()" took 0.44 seconds to complete
+[2018.04.06-02.35.47:710][  0]LogFort: Display: Startup job "ScanForNavAgentCostData()" starting
+[2018.04.06-02.35.47:741][  0]LogFort: Display: Startup job "ScanForNavAgentCostData()" took 0.03 seconds to complete
+[2018.04.06-02.35.47:741][  0]LogFort: Display: Startup job "GetGameData()" starting
+[2018.04.06-02.35.47:741][  0]LogFort: Loading GameData: /Game/Balance/DefaultGameData.DefaultGameData ...
+[2018.04.06-02.36.03:056][  0]LogStreaming: Warning: FAsyncPackage::LoadImports for /Game/Effects/SplineTrails/Blueprints/BP_SplineVolumeTrail_v1b: Skipping import BoolProperty /Script/Engine.Texture:DeferCompression, depends on missing native class
+[2018.04.06-02.36.03:056][  0]LogStreaming: Warning: Took 1073.45ms to ProcessLoadedPackages
+[2018.04.06-02.36.03:252][  0]LogStreaming: Warning: Took 196.42ms to ProcessLoadedPackages
+[2018.04.06-02.36.03:252][  0]LogStats:             ... GameData loaded! - 15.511 s
+[2018.04.06-02.36.03:252][  0]LogFort: Display: Startup job "GetGameData()" took 15.51 seconds to complete
+[2018.04.06-02.36.03:252][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" starting
+[2018.04.06-02.36.31:338][  0]LogStreaming: Warning: Took 670.45ms to ProcessLoadedPackages
+[2018.04.06-02.36.33:152][  0]LogStreaming: Warning: Took 1814.89ms to ProcessLoadedPackages
+[2018.04.06-02.36.33:152][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" took 29.90 seconds to complete
+[2018.04.06-02.36.33:152][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupSubAssets()" starting
+[2018.04.06-02.36.33:228][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupSubAssets()" took 0.07 seconds to complete
+[2018.04.06-02.36.33:228][  0]LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" starting
+[2018.04.06-02.36.33:234][  0]LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" took 0.01 seconds to complete
+[2018.04.06-02.36.33:234][  0]LogFort: Display: All startup jobs took 47.01 seconds to complete
+[2018.04.06-02.36.33:234][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.04.06-02.36.33:373][  0]LogInit: XAudio2 using 'Headset Earphone (Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-02.36.33:432][  0]LogInit: FAudioDevice initialized.
+[2018.04.06-02.36.33:447][  0]LogNetVersion: Set ProjectVersion to 1.0.0. Version Checksum will be recalculated on next use.
+[2018.04.06-02.36.33:447][  0]LogInit: Texture streaming: Enabled
+[2018.04.06-02.36.33:471][  0]LogFortMemory: UFortAssetManager::ChangeLoadState() changing bundle state to (Client, Menu)
+[2018.04.06-02.36.33:477][  0]LogConsoleResponse: Display: Apply Settings:
+[2018.04.06-02.36.33:517][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak added to pak precacher.
+[2018.04.06-02.36.33:572][  0]LogScheduledEvents: Queuing calendar request to MCP
+[2018.04.06-02.36.33:593][  0]LogGfeSDK: Creating GfeSDK Version 1.0.5.68c9a9f7
+[2018.04.06-02.36.33:610][  0]LogGfeSDK: Start TaskRunner thread
+[2018.04.06-02.36.33:610][  0]LogGfeSDK: Creating default MessageBus wrapper
+[2018.04.06-02.36.34:191][  0]LogGfeSDK: Warning: Error creating message bus interface
+[2018.04.06-02.36.34:198][  0]LogGfeSDK: Warning: Failure during core::Controller constructor: NVGSDK_ERR_LOAD_LIBRARY Error creating message bus interface
+[2018.04.06-02.36.34:214][  0]LogGfeSDK: Shutting down TaskRunner thread
+[2018.04.06-02.36.34:214][  0]LogGfeSDK: Stopping TaskRunner thread. Flushing notifications
+[2018.04.06-02.36.34:214][  0]LogGfeSDK: Stopped TaskRunner thread
+[2018.04.06-02.36.34:214][  0]LogGfeSDK: Warning: Failure during NVGSDK_Create: NVGSDK_ERR_LOAD_LIBRARY Error creating message bus interface
+[2018.04.06-02.36.34:216][  0]LogGfeSDK: Warning: Error: failed initializing SDK -1022
+[2018.04.06-02.36.34:219][  0]LogGfeSDK: Destroyed GfeSDK
+[2018.04.06-02.36.34:219][  0]LogGfeSDK: Error: Failed to create GfeSDK: -1022
+[2018.04.06-02.36.34:219][  0]LogGfeSDK: Failed to connect to GfeSDK backend
+[2018.04.06-02.36.34:219][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.04.06-02.36.34:219][  0]LogBlueprintContext: Display: Creating blueprint contexts for Local Player ' FortLocalPlayer_0 ' of Game Instance ' FortGameInstance_0 '
+[2018.04.06-02.36.34:219][  0]LogBlueprintContext: Display: Created Blueprint Context 'CommonUIContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:219][  0]LogBlueprintContext: Display: Created Blueprint Context 'CommonInputContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:318][  0]LogBlueprintContext: Display: Created Blueprint Context 'HomeBaseContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:318][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortMatchmakingContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:318][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortMcpContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:318][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortOutpostContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortPartyContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortPrototypingContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortReplayContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'LocalServiceMessageContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'AthenaAccountContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'AthenaHUDContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'CMSContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortAbilitySystemContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortAccountStatsContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortFrontEndContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortGlobalUIContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortHeroManagementContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortHomebaseUIContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortHUDContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortInventoryContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortLeaderboardContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortPickerContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortStoreContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortTooltipUIContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortTutorialContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:319][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortUIDataConfigurationContext' for Local Player 'FortLocalPlayer_0'
+[2018.04.06-02.36.34:320][  0]LogInit: Display: Game Engine Initialized.
+[2018.04.06-02.36.34:320][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 1
+[2018.04.06-02.36.34:401][  0]LogFortMemory: PostEngineInit - CPU:1740.65MB (Peak: 1848.50MB)
+[2018.04.06-02.36.34:401][  0]LogInit: Display: Starting Game.
+[2018.04.06-02.36.34:401][  0]LogHotfixManager: Display: Update State UpdateIdle -> UpdatePending
+[2018.04.06-02.36.34:401][  0]LogNet: Browse: /Game/Maps/Frontend?Name=Player
+[2018.04.06-02.36.34:406][  0]LogFortLoadingScreen: Showing loading screen when 'IsShowingInitialLoadingScreen()' is true.
+[2018.04.06-02.36.34:406][  0]LogFortLoadingScreen: Showing LoadingScreen because bCurrentlyInLoadMap is true!
+[2018.04.06-02.36.34:413][  0]LogLoad: LoadMap: /Game/Maps/Frontend?Name=Player
+[2018.04.06-02.36.34:430][  0]LogGarbage: Collecting garbage   (GCheckForIllegalMarkPendingKill = 0)
+[2018.04.06-02.36.34:446][  0]LogGarbage: 16.002096 ms for GC
+[2018.04.06-02.36.34:448][  0]LogGarbage: 1.336018 ms for unhashing unreachable objects. Clusters removed: 0.   Items 987 Cluster Items 0
+[2018.04.06-02.36.34:451][  0]LogGarbage: GC purged 987 objects (320651 -> 319664)
+[2018.04.06-02.36.34:632][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/FrontEnd/Maps/FrontEndStore
+[2018.04.06-02.36.34:632][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/UI/Frontend_BG_Main
+[2018.04.06-02.36.34:642][  0]LogAIModule: Creating AISystem for world Frontend
+[2018.04.06-02.36.34:643][  0]LogLoad: Game class is 'FortGameModeFrontEnd'
+[2018.04.06-02.36.34:643][  0]LogLevelActorContainer: Created LevelActorCluster (773) for /Game/Maps/FrontEnd/Maps/FrontEndStore.FrontEndStore:PersistentLevel with 34 objects, 4 referenced clusters and 14 mutable objects.
+[2018.04.06-02.36.34:643][  0]LogLevelActorContainer: Created LevelActorCluster (774) for /Game/Maps/UI/Frontend_BG_Main.Frontend_BG_Main:PersistentLevel with 12 objects, 1 referenced clusters and 6 mutable objects.
+[2018.04.06-02.36.34:652][  0]LogLevelActorContainer: Created LevelActorCluster (775) for /Game/Maps/Frontend.Frontend:PersistentLevel with 4 objects, 0 referenced clusters and 2 mutable objects.
+[2018.04.06-02.36.34:652][  0]LogWorld: Bringing World /Game/Maps/Frontend.Frontend up for play (max tick rate 60) at 2018.04.05-19.36.34
+[2018.04.06-02.36.34:672][  0]LogFortDayNight: AFortTimeOfDayManager::PostInitializeComponents: World is "Frontend", this is "TODM_Disabled_C_0"
+[2018.04.06-02.36.34:676][  0]LogFortDayNight: Game State in World Frontend is resetting.  TimeOfDayManager is None.
+[2018.04.06-02.36.34:677][  0]LogWorld: Bringing up level for play took: 0.033059
+[2018.04.06-02.36.34:677][  0]LogOnlineGame: Client adding GameAccountId/AuthTicket for local player to login url. FortGameOptions=[ASID={7AAF3DD5-466D-D470-EF3E-1A9898012482}?Platform=Windows?bIsFirstServerJoin=1]
+[2018.04.06-02.36.34:677][  0]LogOnlineGame: Server received AuthTicket from client for player: UniqueId:[INVALID] Platform=[Windows]
+[2018.04.06-02.36.34:680][  0]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2018.04.06-02.36.34:680][  0]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2018.04.06-02.36.34:681][  0]LogParty: Verbose: Failed to get persistent party leader
+[2018.04.06-02.36.34:681][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.06-02.36.34:681][  0]LogFortDayNight: Day phase actor TODM_Disabled_C_0 is setting itself as the day phase handler for the GameState on World Frontend.
+[2018.04.06-02.36.34:681][  0]LogFortDayNight: SetTimeOfDayManager: World is "Frontend", Old TimeOfDayManager: "None", New TimeOfDayManager: "TODM_Disabled_C_0"
+[2018.04.06-02.36.34:681][  0]LogFortDayNight: OnRep_TimeOfDayManager: World is "Frontend", FortTimeOfDayManager is "TODM_Disabled_C_0"
+[2018.04.06-02.36.34:682][  0]LogFort: NO SKELETAL MESH FOR FeedbackAnnouncer_C_0
+[2018.04.06-02.36.34:682][  0]LogLevel: ActivateLevel /Game/Maps/FrontEnd/FortniteWorldMap 1 1 1
+[2018.04.06-02.36.34:682][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.06-02.36.34:682][  0]LogHealthSnapshot: ======= Snapshot: Waiting to Start (FortGameStateFrontEnd) =======
+[2018.04.06-02.36.34:682][  0]LogHealthSnapshot: Games Played: 0, MeasuredPerfTime 0.00 Secs
+[2018.04.06-02.36.34:682][  0]LogHealthSnapshot: CPU Memory: Used 0.00MB, Peak 0.00MB
+[2018.04.06-02.36.34:682][  0]LogHealthSnapshot: Physical Memory: Used 1599.89MB, Peak 1848.50MB
+[2018.04.06-02.36.34:682][  0]LogHealthSnapshot: =========================================================
+[2018.04.06-02.36.34:683][  0]LogLoad: Took 0.269858 seconds to LoadMap(/Game/Maps/Frontend)
+[2018.04.06-02.36.34:885][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.06-02.36.35:893][  0]LogFortMemory: InitComplete - CPU:1598.06MB (Peak: 1848.50MB)
+[2018.04.06-02.36.35:893][  0]LogLoad: (Engine Initialization) Total time: 60.12 seconds
+[2018.04.06-02.36.35:910][  0]LogDiscordRPC: FDiscordRPC::OnReady
+[2018.04.06-02.36.35:962][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.04.06-02.36.35:972][  0]LogSlate: Took 0.006078 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/NotoSans-Bold.ufont' (485K)
+[2018.04.06-02.36.35:975][  0]LogSlate: Took 0.001956 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/NotoSans-Regular.ufont' (484K)
+[2018.04.06-02.36.35:976][  0]LogStreaming: Display: Suspending async loading (1)
+[2018.04.06-02.36.36:043][  0]LogStreaming: Display: Resuming async loading (0)
+[2018.04.06-02.36.36:051][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/FortniteWorldMap) is flushing async loading
+[2018.04.06-02.36.36:052][  0]LogStreaming: Display: Flushing async loaders.
+[2018.04.06-02.36.36:081][  0]LogLevelActorContainer: Created LevelActorCluster (793) for /Game/Maps/FrontEnd/FortniteWorldMap.FortniteWorldMap:PersistentLevel with 16 objects, 20 referenced clusters and 10 mutable objects.
+[2018.04.06-02.36.36:093][  0]LogRenderer: Reallocating scene render targets to support 1600x900 Format 9 NumSamples 1 (Frame:1).
+[2018.04.06-02.36.36:093][  0]LogFortUI: Display: [UFortUIManagerWidget_NUI::NativeTick] change state to Login with current values CurrentState: Invalid and NextState: Invalid
+[2018.04.06-02.36.36:093][  0]LogFortUI: Display: [UFortUIManagerWidget_NUI::SetUIState] states from: Invalid to: Login
+[2018.04.06-02.36.36:094][  0]LogFortUI: Display: [UFortUIManagerWidget_NUI::TransitionToNextState] Switching states from: Login to: Invalid
+[2018.04.06-02.36.39:895][  0]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel SplashScreenWidget_C_0: 
+[2018.04.06-02.36.39:895][  0]LogCommonInput: Verbose: Input suspension: Started
+[2018.04.06-02.36.39:895][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.36.39:895][  0]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: SplashScreenWidget_C_0
+[2018.04.06-02.36.39:895][  0]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: SplashScreenWidget_C_0
+[2018.04.06-02.36.39:895][  0]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: SplashScreenWidget_C_0
+[2018.04.06-02.36.39:895][  0]LogFortNavigation: Verbose: CenterWidget(UWidget): SplashScreenWidget_C_0 
+[2018.04.06-02.36.39:895][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.36.39:895][  0]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.04.06-02.36.39:895][  0]LogFortUI: Warning: [UFortSplashScreenWidget] Enter ShouldBypassSplashScreen
+[2018.04.06-02.36.39:895][  0]LogOnline: Display: CloseSplashScreen UserIndex: 0
+[2018.04.06-02.36.39:895][  0]LogOnline: Display: CloseSplashScreen: No bootable invite detected
+[2018.04.06-02.36.39:895][  0]LogFortUI: [UFortUIStateWidget_Login] Start update check
+[2018.04.06-02.36.39:895][  0]LogOnlineGame: Display: StartUpdateCheck initial update not complete
+[2018.04.06-02.36.39:895][  0]LogOnlineGame: Display: StartUpdateCheck starting update check
+[2018.04.06-02.36.39:895][  0]LogHotfixManager: Display: Update already in progress
+[2018.04.06-02.36.39:896][  0]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: SplashScreenWidget_C_0
+[2018.04.06-02.36.39:896][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.36.39:896][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.36.39:896][  0]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.04.06-02.36.39:896][  0]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel SplashScreenWidget_C_0: 
+[2018.04.06-02.36.39:896][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.36.39:896][  0]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: SplashScreenWidget_C_0
+[2018.04.06-02.36.39:896][  0]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: SplashScreenWidget_C_0
+[2018.04.06-02.36.39:896][  0]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: SplashScreenWidget_C_0
+[2018.04.06-02.36.39:896][  0]LogFortNavigation: Verbose: CenterWidget(UWidget): SplashScreenWidget_C_0 
+[2018.04.06-02.36.39:896][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.36.39:896][  0]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.04.06-02.36.39:907][  1]LogOnline: Verbose: MCP: Large tick time detected 61.5910
+[2018.04.06-02.36.39:907][  1]LogOnline: Verbose: OSS: No valid auth for clientId=ec684b8c687f479fadea3cb2ad83f5c6
+[2018.04.06-02.36.39:907][  1]LogOnline: Verbose: OSS: Sending Client Auth request. url=https://account-public-service-prod03.ol.epicgames.com/account, Payload=[REDACTED]
+[2018.04.06-02.36.39:907][  1]LogHttp: Warning: 0000022DD906D780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.36.39:907][  1]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 0 (Could not resolve host: fortnitecontent-website-prod07.ol.epicgames.com)
+[2018.04.06-02.36.39:907][  1]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 1 (Closing connection 0)
+[2018.04.06-02.36.39:907][  1]LogHttp: Warning: 0000022D92809B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.36.39:907][  1]LogHttp: Warning: 0000022D92809B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.06-02.36.39:907][  1]LogHttp: Warning: 0000022D92809B80: libcurl info message cache 1 (Closing connection 1)
+[2018.04.06-02.36.39:911][  1]LogLevel: ActivateLevel /Game/Maps/FortniteTownmap 1 1 1
+[2018.04.06-02.36.39:916][  1]LogHotfixManager: Display: Update State UpdatePending -> CheckingForPatch
+[2018.04.06-02.36.39:916][  1]LogOnline: OSS: Sending User Privilege request. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/v2/versioncheck/Windows?version=%2B%2BFortnite%2BRelease-3.4-CL-3973340-Windows
+[2018.04.06-02.36.39:916][  1]LogFortLoadingScreen: Hiding loading screen when 'IsShowingInitialLoadingScreen()' is true.
+[2018.04.06-02.36.39:916][  1]LogFortLoadingScreen: Hiding loading screen because this AFortPlayerController is not in Zone and always returns 'hide loading screen'.
+[2018.04.06-02.36.39:916][  1]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FortniteTownmap) is flushing async loading
+[2018.04.06-02.36.39:922][  1]LogLevelActorContainer: Created LevelActorCluster (796) for /Game/Maps/FortniteTownmap.FortniteTownmap:PersistentLevel with 134 objects, 26 referenced clusters and 8 mutable objects.
+[2018.04.06-02.36.39:924][  1]LogSlate: Took 0.000990 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/BurbankBigCondensed-Black.ufont' (157K)
+[2018.04.06-02.36.40:007][  2]LogLevel: ActivateLevel /Game/Maps/UI/Frontend_SkillTree 1 1 1
+[2018.04.06-02.36.40:008][  2]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_SkillTree) is flushing async loading
+[2018.04.06-02.36.40:008][  2]LogStreaming: Display: Flushing async loaders.
+[2018.04.06-02.36.40:010][  2]LogLevelActorContainer: Created LevelActorCluster (797) for /Game/Maps/UI/Frontend_SkillTree.Frontend_SkillTree:PersistentLevel with 8 objects, 1 referenced clusters and 6 mutable objects.
+[2018.04.06-02.36.40:011][  3]LogHttp: Warning: 0000022DE1EFEE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.36.40:011][  3]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.36.40:011][  3]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 1 (Closing connection 2)
+[2018.04.06-02.36.40:024][  3]LogLevel: ActivateLevel /Game/Maps/FrontEnd/Maps/FrontEndStore_Pinata 1 1 1
+[2018.04.06-02.36.40:024][  3]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.04.06-02.36.40:024][  3]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/Maps/FrontEndStore_Pinata) is flushing async loading
+[2018.04.06-02.36.40:024][  3]LogStreaming: Display: Flushing async loaders.
+[2018.04.06-02.36.40:270][  3]LogLevelActorContainer: Created LevelActorCluster (845) for /Game/Maps/FrontEnd/Maps/FrontEndStore_Pinata.FrontEndStore_Pinata:PersistentLevel with 4 objects, 0 referenced clusters and 2 mutable objects.
+[2018.04.06-02.36.40:272][  4]LogHttp: Warning: Retry 1 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.36.40:273][  4]LogLevel: ActivateLevel /Game/Maps/UI/Frontend_Lobby 1 1 1
+[2018.04.06-02.36.40:278][  4]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby) is flushing async loading
+[2018.04.06-02.36.40:278][  4]LogStreaming: Display: Flushing async loaders.
+[2018.04.06-02.36.40:310][  4]LogStreaming: Display: /Game/Maps/UI/Frontend_Lobby is prestreaming /Game/Maps/NavMeshBounds
+[2018.04.06-02.36.40:310][  4]LogStreaming: Display: /Game/Maps/UI/Frontend_Lobby is prestreaming /Game/Maps/WorldLighting
+[2018.04.06-02.36.40:315][  4]LogLevel: ActivateLevel /Game/Maps/UI/Frontend_Lobby_Default 1 1 1
+[2018.04.06-02.36.40:319][  5]LogHttp: Warning: 0000022DE1EFEE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.36.40:319][  5]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.36.40:319][  5]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 1 (Closing connection 2)
+[2018.04.06-02.36.40:319][  5]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.36.40:319][  5]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 3 (Closing connection 3)
+[2018.04.06-02.36.40:319][  5]LogLevel: ActivateLevel /Game/Maps/WorldLightingMenu 1 1 1
+[2018.04.06-02.36.40:320][  5]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WorldLightingMenu) is flushing async loading
+[2018.04.06-02.36.40:320][  5]LogStreaming: Display: Flushing async loaders.
+[2018.04.06-02.36.40:321][  5]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby_Default) is flushing async loading
+[2018.04.06-02.36.40:327][  5]LogLevelActorContainer: Created LevelActorCluster (851) for /Game/Maps/UI/Frontend_Lobby_Default.Frontend_Lobby_Default:PersistentLevel with 14 objects, 11 referenced clusters and 8 mutable objects.
+[2018.04.06-02.36.40:328][  6]LogHttp: Warning: Lockout of 5.000000s on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.36.45:344][300]LogHttp: Warning: Retry 2 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.36.45:361][301]LogHttp: Warning: 0000022DE1EFEE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.36.45:361][301]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.36.45:361][301]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 1 (Closing connection 2)
+[2018.04.06-02.36.45:361][301]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.36.45:361][301]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 3 (Closing connection 3)
+[2018.04.06-02.36.45:361][301]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 4 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.36.45:361][301]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 5 (Closing connection 4)
+[2018.04.06-02.36.45:377][302]LogHttp: Warning: Lockout of 5.000000s on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.36.50:380][543]LogHttp: Warning: Retry 3 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.36.50:413][545]LogHttp: Warning: 0000022DE1EFEE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.36.50:413][545]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.36.50:413][545]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 1 (Closing connection 2)
+[2018.04.06-02.36.50:413][545]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.36.50:413][545]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 3 (Closing connection 3)
+[2018.04.06-02.36.50:413][545]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 4 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.36.50:413][545]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 5 (Closing connection 4)
+[2018.04.06-02.36.50:413][545]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 6 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.36.50:413][545]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 7 (Closing connection 5)
+[2018.04.06-02.36.50:430][546]LogHttp: Warning: Lockout of 10.000000s on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.00:432][133]LogHttp: Warning: Retry 4 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.00:449][134]LogHttp: Warning: 0000022DE1EFEE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.00:449][134]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.00:449][134]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 1 (Closing connection 2)
+[2018.04.06-02.37.00:449][134]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.00:449][134]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 3 (Closing connection 3)
+[2018.04.06-02.37.00:449][134]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 4 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.00:449][134]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 5 (Closing connection 4)
+[2018.04.06-02.37.00:449][134]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 6 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.00:449][134]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 7 (Closing connection 5)
+[2018.04.06-02.37.00:449][134]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 8 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.00:449][134]LogHttp: Warning: 0000022DE1EFEE00: libcurl info message cache 9 (Closing connection 6)
+[2018.04.06-02.37.00:449][134]LogHttp: Warning: Retry exhausted on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.00:450][134]LogOnline: Warning: OSS: Invalid response. CorrId=UE4-40bd1af9493a62ea7e83ecb78cafba00-1F7C18AE44A76D860ACFE79BD5E2DB15-C506EBE54C5C3833A1AC5D867BB83BB3 code=0 errorcode=ConnectionFailure errormessage=Connection to the server failed. errorraw=ConnectionFailure
+[2018.04.06-02.37.00:450][134]LogOnline: MCP: Service status updated [Normal] -> [ConnectionDropped]
+[2018.04.06-02.37.00:450][134]LogOnline: Warning: OSS: Client auth request failed. Connection to the server failed.
+[2018.04.06-02.37.00:450][134]LogOnline: Verbose: OSS: Sending Client Auth request. url=https://account-public-service-prod03.ol.epicgames.com/account, Payload=[REDACTED]
+[2018.04.06-02.37.00:480][136]LogHttp: Warning: 0000022DD906D780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.00:480][136]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.00:480][136]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 1 (Closing connection 7)
+[2018.04.06-02.37.00:480][136]LogHttp: Warning: Retry 1 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.00:513][138]LogHttp: Warning: 0000022DD906D780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.00:513][138]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.00:513][138]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 1 (Closing connection 7)
+[2018.04.06-02.37.00:513][138]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.00:513][138]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 3 (Closing connection 8)
+[2018.04.06-02.37.00:513][138]LogHttp: Warning: Lockout of 5.000000s on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.05:525][422]LogHttp: Warning: Retry 2 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.05:559][424]LogHttp: Warning: 0000022DD906D780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.05:559][424]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.05:559][424]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 1 (Closing connection 7)
+[2018.04.06-02.37.05:559][424]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.05:559][424]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 3 (Closing connection 8)
+[2018.04.06-02.37.05:559][424]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 4 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.05:559][424]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 5 (Closing connection 9)
+[2018.04.06-02.37.05:559][424]LogHttp: Warning: Lockout of 5.000000s on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.10:571][720]LogHttp: Warning: Retry 3 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.10:588][721]LogHttp: Warning: 0000022DD906D780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.10:588][721]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.10:588][721]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 1 (Closing connection 7)
+[2018.04.06-02.37.10:588][721]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.10:588][721]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 3 (Closing connection 8)
+[2018.04.06-02.37.10:588][721]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 4 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.10:588][721]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 5 (Closing connection 9)
+[2018.04.06-02.37.10:588][721]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 6 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.10:589][721]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 7 (Closing connection 10)
+[2018.04.06-02.37.10:605][722]LogHttp: Warning: Lockout of 10.000000s on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.20:611][299]LogHttp: Warning: Retry 4 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.20:677][303]LogHttp: Warning: 0000022DD906D780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.20:677][303]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.20:677][303]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 1 (Closing connection 7)
+[2018.04.06-02.37.20:677][303]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.20:677][303]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 3 (Closing connection 8)
+[2018.04.06-02.37.20:677][303]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 4 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.20:677][303]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 5 (Closing connection 9)
+[2018.04.06-02.37.20:677][303]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 6 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.20:677][303]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 7 (Closing connection 10)
+[2018.04.06-02.37.20:677][303]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 8 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.20:677][303]LogHttp: Warning: 0000022DD906D780: libcurl info message cache 9 (Closing connection 11)
+[2018.04.06-02.37.20:693][304]LogHttp: Warning: Retry exhausted on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.20:693][304]LogOnline: Warning: OSS: Invalid response. CorrId=UE4-40bd1af9493a62ea7e83ecb78cafba00-1F7C18AE44A76D860ACFE79BD5E2DB15-9D9A895744CCC0B17BD781B5C2FDF208 code=0 errorcode=ConnectionFailure errormessage=Connection to the server failed. errorraw=ConnectionFailure
+[2018.04.06-02.37.20:693][304]LogOnline: Warning: OSS: Client auth request failed. Connection to the server failed.
+[2018.04.06-02.37.20:693][304]LogHttp: Warning: 0000022DE1A86100: request failed, libcurl error: 0 (No error)
+[2018.04.06-02.37.20:693][304]LogHttp: Warning: 0000022DE0E88F80: request failed, libcurl error: 0 (No error)
+[2018.04.06-02.37.20:710][305]LogHttp: Warning: Request cancelled on https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/calendar/v1/timeline
+[2018.04.06-02.37.20:710][305]LogScheduledEvents: Calendar request returned HTTP 0
+[2018.04.06-02.37.20:710][305]LogHttp: Warning: Request cancelled on https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/v2/versioncheck/Windows?version=%2B%2BFortnite%2BRelease-3.4-CL-3973340-Windows
+[2018.04.06-02.37.20:710][305]LogOnline: Warning: OSS: Invalid response. CorrId=UE4-40bd1af9493a62ea7e83ecb78cafba00-1F7C18AE44A76D860ACFE79BD5E2DB15-19C33D4A43E78DFC45D7FBB0DB8B8529 code=0 errorcode=ConnectionFailure errormessage=Connection to the server failed. errorraw=ConnectionFailure
+[2018.04.06-02.37.20:710][305]LogOnline: Warning: OSS: GetUserPrivilege request failed. Connection to the server failed.
+[2018.04.06-02.37.20:711][305]LogHotfixManager: Verbose: [OnCheckForPatchComplete] Privilege=1 PrivilegeResult=256
+[2018.04.06-02.37.20:711][305]LogHotfixManager: Display: Update State CheckingForPatch -> WaitingOnInitialLoad
+[2018.04.06-02.37.20:712][305]LogHotfixManager: Finished initial load/hotfix phase in 0.000984s
+[2018.04.06-02.37.20:712][305]LogHotfixManager: Display: Update State WaitingOnInitialLoad -> InitialLoadComplete
+[2018.04.06-02.37.20:712][305]LogHotfixManager: Display: CheckComplete UpdateFailure_PatchCheck
+[2018.04.06-02.37.21:231][335]LogHotfixManager: Display: External CheckComplete UpdateFailure_PatchCheck
+[2018.04.06-02.37.21:231][335]LogHotfixManager: Display: Update State InitialLoadComplete -> UpdatePending
+[2018.04.06-02.37.21:231][335]LogFortUI: [UFortUIStateWidget_Login] HandleUpdateCheckComplete
+[2018.04.06-02.37.21:231][335]LogFortUI: [UFortUIStateWidget_Login] PatchingComplete
+[2018.04.06-02.37.21:231][335]LogFortUI: [UFortUIStateWidget_Login] EndUpdateCheck
+[2018.04.06-02.37.21:231][335]LogFortUI: [UFortUIStateWidget_Login] No Autologin
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: SplashScreenWidget_C_0
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding outro op for top activatable panel
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel SignInWidget_C_0: 
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: Input suspension: Started
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: StartNextOperation: EOperation::Outro but Stack empty, further calling StartNextOperation
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: SignInWidget_C_0
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: SignInWidget_C_0
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: SignInWidget_C_0
+[2018.04.06-02.37.21:237][335]LogFortNavigation: Verbose: CenterWidget(UWidget): Email 
+[2018.04.06-02.37.21:237][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding outro op for top activatable panel
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel SplashScreenWidget_C_0: 
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: StartNextOperation: deactivate for panel: SignInWidget_C_0
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: OnPostPanelDeactivatedForPush: deactivated panel: SignInWidget_C_0
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: SplashScreenWidget_C_0
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: StartNextOperation: EOperation::Push without intro or activation, calling StartNextOperation
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.37.21:237][335]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.04.06-02.37.21:267][337]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.04.06-02.37.35:716][178]LogScheduledEvents: Triggering automatic calendar refresh due to cache expiration.
+[2018.04.06-02.37.35:716][178]LogScheduledEvents: Queuing calendar request to MCP
+[2018.04.06-02.37.35:717][179]LogOnline: Verbose: OSS: Sending Client Auth request. url=https://account-public-service-prod03.ol.epicgames.com/account, Payload=[REDACTED]
+[2018.04.06-02.37.35:767][182]LogHttp: Warning: 0000022D98B60A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.35:767][182]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.35:767][182]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 1 (Closing connection 12)
+[2018.04.06-02.37.35:767][182]LogHttp: Warning: Retry 1 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.35:800][184]LogHttp: Warning: 0000022D98B60A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.35:800][184]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.35:800][184]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 1 (Closing connection 12)
+[2018.04.06-02.37.35:800][184]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.35:801][184]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 3 (Closing connection 13)
+[2018.04.06-02.37.35:801][184]LogHttp: Warning: Lockout of 5.000000s on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.35:966][194]LogHttp: Warning: 0000022DE1C9F580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.35:966][194]LogHttp: Warning: 0000022DE1C9F580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.06-02.37.35:966][194]LogHttp: Warning: 0000022DE1C9F580: libcurl info message cache 1 (Closing connection 14)
+[2018.04.06-02.37.37:005][255]LogGarbage: Collecting garbage   (GCheckForIllegalMarkPendingKill = 0)
+[2018.04.06-02.37.37:034][255]LogGarbage: 28.679809 ms for GC
+[2018.04.06-02.37.37:035][255]LogGarbage: 1.077609 ms for unhashing unreachable objects. Clusters removed: 0.   Items 522 Cluster Items 0
+[2018.04.06-02.37.37:058][257]LogGarbage: GC purged 522 objects (343473 -> 342951)
+[2018.04.06-02.37.39:909][428]LogGameStats: Warning: Trying to access StatManager when it does not exist
+[2018.04.06-02.37.39:909][428]LogFortMemory: Heartbeat - CPU:1650.61MB (Peak: 1848.50MB)
+[2018.04.06-02.37.40:304][443]LogOnlineAccount: [UOnlineAccountCommon::StartLogin] Starting Login state machine
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: SplashScreenWidget_C_0
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: SignInWidget_C_0
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: Input suspension: Started
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel SplashScreenWidget_C_0: 
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: SplashScreenWidget_C_0
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: StartNextOperation: EOperation::Push without intro or activation, calling StartNextOperation
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding outro op for top activatable panel
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel SignInWidget_C_0: 
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: StartNextOperation: deactivate for panel: SplashScreenWidget_C_0
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: OnPostPanelDeactivatedForPush: deactivated panel: SplashScreenWidget_C_0
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: SignInWidget_C_0
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: SignInWidget_C_0
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: SignInWidget_C_0
+[2018.04.06-02.37.40:304][443]LogFortNavigation: Verbose: CenterWidget(UWidget): Email 
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.37.40:304][443]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.04.06-02.37.40:305][443]LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Checking Epic services queue... (LoginWaitingRoom)
+[2018.04.06-02.37.40:321][444]LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Signing in to Epic services... (LoggingIn)
+[2018.04.06-02.37.40:321][444]LogOnline: OSS: Sending Login request. url=https://account-public-service-prod03.ol.epicgames.com/account, type=epic, id=[REDACTED]
+[2018.04.06-02.37.40:337][445]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.04.06-02.37.40:338][446]LogHttp: Warning: 0000022D98BCDC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.40:338][446]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.40:338][446]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 1 (Closing connection 15)
+[2018.04.06-02.37.40:338][446]LogHttp: Warning: Retry 1 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.40:372][448]LogHttp: Warning: 0000022D98BCDC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.40:372][448]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.40:372][448]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 1 (Closing connection 15)
+[2018.04.06-02.37.40:372][448]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.40:372][448]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 3 (Closing connection 16)
+[2018.04.06-02.37.40:372][448]LogHttp: Warning: Lockout of 5.000000s on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.40:807][474]LogHttp: Warning: Retry 2 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.40:840][476]LogHttp: Warning: 0000022D98B60A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.40:840][476]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.40:840][476]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 1 (Closing connection 12)
+[2018.04.06-02.37.40:840][476]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.40:840][476]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 3 (Closing connection 13)
+[2018.04.06-02.37.40:840][476]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 4 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.40:840][476]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 5 (Closing connection 17)
+[2018.04.06-02.37.40:840][476]LogHttp: Warning: Lockout of 5.000000s on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.45:376][744]LogHttp: Warning: Retry 2 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.45:409][746]LogHttp: Warning: 0000022D98BCDC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.45:409][746]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.45:409][746]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 1 (Closing connection 15)
+[2018.04.06-02.37.45:410][746]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.45:410][746]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 3 (Closing connection 16)
+[2018.04.06-02.37.45:410][746]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 4 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.45:410][746]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 5 (Closing connection 18)
+[2018.04.06-02.37.45:410][746]LogHttp: Warning: Lockout of 5.000000s on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.45:843][772]LogHttp: Warning: Retry 3 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.45:876][774]LogHttp: Warning: 0000022D98B60A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.45:876][774]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.45:876][774]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 1 (Closing connection 12)
+[2018.04.06-02.37.45:876][774]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.45:876][774]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 3 (Closing connection 13)
+[2018.04.06-02.37.45:876][774]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 4 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.45:876][774]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 5 (Closing connection 17)
+[2018.04.06-02.37.45:876][774]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 6 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.45:876][774]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 7 (Closing connection 19)
+[2018.04.06-02.37.45:876][774]LogHttp: Warning: Lockout of 10.000000s on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.50:410][ 27]LogHttp: Warning: Retry 3 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.50:460][ 30]LogHttp: Warning: 0000022D98BCDC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.50:460][ 30]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.50:460][ 30]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 1 (Closing connection 15)
+[2018.04.06-02.37.50:460][ 30]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.50:460][ 30]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 3 (Closing connection 16)
+[2018.04.06-02.37.50:460][ 30]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 4 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.50:460][ 30]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 5 (Closing connection 18)
+[2018.04.06-02.37.50:460][ 30]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 6 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.50:460][ 30]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 7 (Closing connection 20)
+[2018.04.06-02.37.50:460][ 30]LogHttp: Warning: Lockout of 10.000000s on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.55:883][348]LogHttp: Warning: Retry 4 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.55:933][351]LogHttp: Warning: 0000022D98B60A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.37.55:933][351]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.55:933][351]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 1 (Closing connection 12)
+[2018.04.06-02.37.55:933][351]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.55:933][351]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 3 (Closing connection 13)
+[2018.04.06-02.37.55:934][351]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 4 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.55:934][351]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 5 (Closing connection 17)
+[2018.04.06-02.37.55:934][351]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 6 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.55:934][351]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 7 (Closing connection 19)
+[2018.04.06-02.37.55:934][351]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 8 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.37.55:934][351]LogHttp: Warning: 0000022D98B60A00: libcurl info message cache 9 (Closing connection 21)
+[2018.04.06-02.37.55:950][352]LogHttp: Warning: Retry exhausted on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.37.55:950][352]LogOnline: Warning: OSS: Invalid response. CorrId=UE4-40bd1af9493a62ea7e83ecb78cafba00-1F7C18AE44A76D860ACFE79BD5E2DB15-B63F74B441F7A823CD54C5A9EEBE693F code=0 errorcode=ConnectionFailure errormessage=Connection to the server failed. errorraw=ConnectionFailure
+[2018.04.06-02.37.55:950][352]LogOnline: Warning: OSS: Client auth request failed. Connection to the server failed.
+[2018.04.06-02.37.55:950][352]LogHttp: Warning: 0000022DD906D780: request failed, libcurl error: 0 (No error)
+[2018.04.06-02.37.55:966][353]LogHttp: Warning: Request cancelled on https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/calendar/v1/timeline
+[2018.04.06-02.37.55:966][353]LogScheduledEvents: Calendar request returned HTTP 0
+[2018.04.06-02.38.00:471][619]LogHttp: Warning: Retry 4 on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.38.00:488][620]LogHttp: Warning: 0000022D98BCDC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.38.00:488][620]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 0 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.38.00:488][620]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 1 (Closing connection 15)
+[2018.04.06-02.38.00:488][620]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 2 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.38.00:488][620]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 3 (Closing connection 16)
+[2018.04.06-02.38.00:488][620]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 4 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.38.00:488][620]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 5 (Closing connection 18)
+[2018.04.06-02.38.00:488][620]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 6 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.38.00:488][620]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 7 (Closing connection 20)
+[2018.04.06-02.38.00:488][620]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 8 (Could not resolve host: account-public-service-prod03.ol.epicgames.com)
+[2018.04.06-02.38.00:488][620]LogHttp: Warning: 0000022D98BCDC00: libcurl info message cache 9 (Closing connection 22)
+[2018.04.06-02.38.00:488][620]LogHttp: Warning: Retry exhausted on https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+[2018.04.06-02.38.00:488][620]LogOnline: Warning: OSS: Invalid response. CorrId=UE4-40bd1af9493a62ea7e83ecb78cafba00-1F7C18AE44A76D860ACFE79BD5E2DB15-B5FDF5184E814DC0C5F252BE9FA3CB8F code=0 errorcode=ConnectionFailure errormessage=Connection to the server failed. errorraw=ConnectionFailure
+[2018.04.06-02.38.00:488][620]LogOnline: Warning: OSS: Login request failed. errormessage=Connection to the server failed. errorcode=3 errorpath=ConnectionFailure
+[2018.04.06-02.38.00:488][620]LogOnlineAccount: Warning: [UOnlineAccountCommon::AbortLoggingIn] Aborting OnlineAccountCommon login due to error [CurrentLoginStep=LoggingIn] [LoginResult=13] [DisplayError=Unable to login to Fortnite servers. Please try again later.] [DetailedError=Failed to login new user. Error=[errormessage=Connection to the server failed. errorcode=3 errorpath=ConnectionFailure]]
+[2018.04.06-02.38.00:488][620]LogOnlineAccount: [UFortOnlineAccount::ForceLogout] ForceLogout requested. LogoutReason=[Unable to login to Fortnite servers. Please try again later.]
+[2018.04.06-02.38.00:488][620]LogFortPlayerRegistration: UFortGameInstance::UnregisterAllPlayerInfos called with 0 registered players; bServerRestarting: False
+[2018.04.06-02.38.00:488][620]LogOnlineAccount: Warning: [UOnlineAccountCommon::ForceLogout] ForceLogout requested with reason "Unable to login to Fortnite servers. Please try again later."
+[2018.04.06-02.38.00:503][620]LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingOut] Logout: Removing authentication...
+[2018.04.06-02.38.00:520][621]LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingOut] Logout: Cleaning up...
+[2018.04.06-02.38.00:520][621]LogOnlineGame: Verbose: Cancelling with no timer and no lobby
+[2018.04.06-02.38.00:520][621]LogOnlineGame: Verbose: OnDisconnectFromLobbyComplete GameSession Success: 1
+[2018.04.06-02.38.00:520][621]LogParty: Display: Local player [Player] disconnected from lobby. Destroying all team info except the local party.
+[2018.04.06-02.38.00:536][622]LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingOut] Logout: Leaving party...
+[2018.04.06-02.38.00:553][623]LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingOut] Logout: Cleaning up audio...
+[2018.04.06-02.38.00:570][624]LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingOut] Logout: Logging out.
+[2018.04.06-02.38.00:570][624]LogOnline: OSS: Logout user 0. Logout requested
+[2018.04.06-02.38.00:570][624]LogOnline: Warning: OSS: No logged in user found for LocalUserNum=0.
+[2018.04.06-02.38.00:570][624]LogOnlineAccount: [UOnlineAccountCommon::OnLogoutComplete] Logout for user index=0 completed bsuccess=0
+[2018.04.06-02.38.00:570][624]LogOnline: Warning: OSS: Received a call to OnlineGameAccess DisablePeriodicChecks while already disabled.
+[2018.04.06-02.38.00:586][625]LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingOut] Logout: Completed
+[2018.04.06-02.38.00:586][625]LogOnlineGame: Verbose: [UFortUIStateWidget_Login::HandleLoginRequestComplete] [Result=13] [ErrorReason=Unable to login to Fortnite servers. Please try again later.]
+[2018.04.06-02.38.00:586][625]LogFortUI: [UFortUIStateWidget_Login] ShowResultWindow Unable to login to Fortnite servers. Please try again later.
+[2018.04.06-02.38.00:587][625]LogFortNavigation: Verbose: CenterWidget(UWidget): Button_Continue 
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: SignInWidget_C_0
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: PopActivatablePanel: Adding intro to previous panel: SplashScreenWidget_C_0
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding outro op for top activatable panel
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel LoginResultWIdget_C_0: 
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: Input suspension: Started
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: LoginResultWIdget_C_0
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: LoginResultWIdget_C_0
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: LoginResultWIdget_C_0
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding outro op for top activatable panel
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel SignInWidget_C_0: 
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: StartNextOperation: deactivate for panel: LoginResultWIdget_C_0
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: OnPostPanelDeactivatedForPush: deactivated panel: LoginResultWIdget_C_0
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: SignInWidget_C_0
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: StartNextOperation: EOperation::Push without intro or activation, calling StartNextOperation
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.00:588][625]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.04.06-02.38.00:620][627]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.04.06-02.38.02:555][737]LogFortUI: [UFortUIStateWidget_Login] ShowResultWindow lambda
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: SignInWidget_C_0
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: LoginResultWIdget_C_0
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: PopActivatablePanel: Adding intro to previous panel: SplashScreenWidget_C_0
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: Input suspension: Started
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: SplashScreenWidget_C_0
+[2018.04.06-02.38.02:556][737]LogFortNavigation: Verbose: CenterWidget(UWidget): SplashScreenWidget_C_0 
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding outro op for top activatable panel
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel SignInWidget_C_0: 
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: StartNextOperation: deactivate for panel: SplashScreenWidget_C_0
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: OnPostPanelDeactivatedForPush: deactivated panel: SplashScreenWidget_C_0
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: SignInWidget_C_0
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: SignInWidget_C_0
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: SignInWidget_C_0
+[2018.04.06-02.38.02:556][737]LogFortNavigation: Verbose: CenterWidget(UWidget): Email 
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.02:556][737]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.04.06-02.38.02:590][739]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.04.06-02.38.04:093][829]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding outro op for top activatable panel
+[2018.04.06-02.38.04:093][829]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel ConfirmationWindow_C_0: 
+[2018.04.06-02.38.04:094][829]LogCommonInput: Verbose: Input suspension: Started
+[2018.04.06-02.38.04:094][829]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.04:094][829]LogCommonInput: Verbose: StartNextOperation: begin outro for panel: SignInWidget_C_0
+[2018.04.06-02.38.04:094][829]LogCommonInput: Verbose: OnPostPanelDeactivatedForPush: deactivated panel: SignInWidget_C_0
+[2018.04.06-02.38.04:094][829]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.04:094][829]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: ConfirmationWindow_C_0
+[2018.04.06-02.38.04:094][829]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: ConfirmationWindow_C_0
+[2018.04.06-02.38.04:094][829]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: ConfirmationWindow_C_0
+[2018.04.06-02.38.04:094][829]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.04:094][829]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.04.06-02.38.04:123][831]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.04.06-02.38.05:214][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-02.38.05:214][889]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: ConfirmationWindow_C_0
+[2018.04.06-02.38.05:214][889]LogCommonInput: Verbose: PopActivatablePanel: Adding intro to previous panel: SignInWidget_C_0
+[2018.04.06-02.38.05:214][889]LogCommonInput: Verbose: Input suspension: Started
+[2018.04.06-02.38.05:214][889]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.05:215][889]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.05:215][889]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: SignInWidget_C_0
+[2018.04.06-02.38.05:215][889]LogFortNavigation: Verbose: CenterWidget(UWidget): Email 
+[2018.04.06-02.38.05:215][889]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.04.06-02.38.05:215][889]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.04.06-02.38.05:215][889]LogFort: Error: Settings save attempted before settings initialized, ignored!
+[2018.04.06-02.38.05:216][889]LogStreaming: Display: Flushing async loaders.
+[2018.04.06-02.38.05:290][889]Closing by request
+[2018.04.06-02.38.05:290][889]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.04.06-02.38.05:300][890]LogOnlineGame: Verbose: OnDisconnectFromLobbyComplete GameSession Success: 1
+[2018.04.06-02.38.05:300][890]LogParty: Display: Local player [Player] disconnected from lobby. Destroying all team info except the local party.
+[2018.04.06-02.38.05:301][890]LogFort: SetIsDisconnecting: Player Disconnecting State Change OldState: 0 NewState: 1
+[2018.04.06-02.38.05:302][890]LogOnline: Warning: NotifyLogout(): Invalid player id
+[2018.04.06-02.38.05:302][890]LogParty: Display: HandleZonePlayerStateRemoved: [INVALID]
+[2018.04.06-02.38.05:302][890]LogVivoxVoiceChat: TransmitToNoChannels
+[2018.04.06-02.38.05:302][890]LogFortPlayerRegistration: UFortGameInstance::UnregisterAllPlayerInfos called with 0 registered players; bServerRestarting: False
+[2018.04.06-02.38.05:302][890]LogBlueprintContext: Display: Destroying blueprint contexts for Local Player ' FortLocalPlayer_0 ' of Game Instance ' FortGameInstance_0 '
+[2018.04.06-02.38.06:134][890]LogStreaming: Display: Suspending async loading (1)
+[2018.04.06-02.38.06:148][890]LogStreaming: Display: Resuming async loading (0)
+[2018.04.06-02.38.06:150][890]LogSlate: Request Window 'Fortnite  ' being destroyed
+[2018.04.06-02.38.06:150][890]LogStreaming: Display: Suspending async loading (1)
+[2018.04.06-02.38.06:238][890]LogStreaming: Display: Resuming async loading (0)
+[2018.04.06-02.38.06:240][890]LogSlate: Window 'Fortnite  ' being destroyed
+[2018.04.06-02.38.06:242][890]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.06-02.38.06:856][890]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.04.06-02.38.06:856][890]LogExit: Preparing to exit.
+[2018.04.06-02.38.06:856][890]LogMoviePlayer: Shutting down movie player
+[2018.04.06-02.38.07:055][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.04.06-02.38.07:058][890]LogOnline: Display: OSS: Removing 1 named interfaces
+[2018.04.06-02.38.07:071][890]LogExit: Game engine shut down
+[2018.04.06-02.38.07:264][890]LogGarbage: GC purged 269155 objects (427977 -> 158822)
+[2018.04.06-02.38.07:384][890]LogGarbage: GC purged 428499 objects (427977 -> -522)
+[2018.04.06-02.38.07:384][890]LogGarbage: Freed 3270848b from 88 GC array pools.
+[2018.04.06-02.38.07:384][890]LogExit: Object subsystem successfully closed.
+[2018.04.06-02.38.07:446][890]LogD3D11RHI: Shutdown
+[2018.04.06-02.38.07:446][890]LogD3D11RHI: CleanupD3DDevice
+[2018.04.06-02.38.07:486][890]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.06-02.38.07:486][890]LogModuleManager: Shutting down and abandoning module WebBrowser (220)
+[2018.04.06-02.38.07:542][890]LogModuleManager: Shutting down and abandoning module GameFeedback (218)
+[2018.04.06-02.38.07:542][890]LogModuleManager: Shutting down and abandoning module AIModule (216)
+[2018.04.06-02.38.07:542][890]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (214)
+[2018.04.06-02.38.07:542][890]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (212)
+[2018.04.06-02.38.07:542][890]LogModuleManager: Shutting down and abandoning module SessionServices (210)
+[2018.04.06-02.38.07:542][890]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (208)
+[2018.04.06-02.38.07:543][890]LogModuleManager: Shutting down and abandoning module MovieScene (206)
+[2018.04.06-02.38.07:543][890]LogModuleManager: Shutting down and abandoning module GeometryCache (204)
+[2018.04.06-02.38.07:543][890]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (202)
+[2018.04.06-02.38.07:543][890]LogModuleManager: Shutting down and abandoning module AnalyticsET (200)
+[2018.04.06-02.38.07:543][890]LogModuleManager: Shutting down and abandoning module SocialDefaults (198)
+[2018.04.06-02.38.07:543][890]LogModuleManager: Shutting down and abandoning module FortniteUI (196)
+[2018.04.06-02.38.07:543][890]LogModuleManager: Shutting down and abandoning module AndroidPermission (194)
+[2018.04.06-02.38.07:543][890]LogModuleManager: Shutting down and abandoning module LinearTimecode (192)
+[2018.04.06-02.38.07:543][890]LogModuleManager: Shutting down and abandoning module DatasmithContent (190)
+[2018.04.06-02.38.07:543][890]LogModuleManager: Shutting down and abandoning module Vivox (188)
+[2018.04.06-02.38.07:645][890]LogModuleManager: Shutting down and abandoning module GameSubCatalog (186)
+[2018.04.06-02.38.07:645][890]LogModuleManager: Shutting down and abandoning module McpProfileSys (184)
+[2018.04.06-02.38.07:645][890]LogModuleManager: Shutting down and abandoning module RemoteSession (182)
+[2018.04.06-02.38.07:646][890]LogModuleManager: Shutting down and abandoning module BackChannel (180)
+[2018.04.06-02.38.07:646][890]LogModuleManager: Shutting down and abandoning module WinDualShock (178)
+[2018.04.06-02.38.07:646][890]LogModuleManager: Shutting down and abandoning module AppboyClient (176)
+[2018.04.06-02.38.07:646][890]LogModuleManager: Shutting down and abandoning module UACBase (174)
+[2018.04.06-02.38.07:646][890]LogModuleManager: Shutting down and abandoning module UACCommon (172)
+[2018.04.06-02.38.07:646][890]LogModuleManager: Shutting down and abandoning module UACClient (170)
+[2018.04.06-02.38.07:646][890]LogModuleManager: Shutting down and abandoning module UACServer (168)
+[2018.04.06-02.38.07:646][890]LogModuleManager: Shutting down and abandoning module SubtitlesWidgets (166)
+[2018.04.06-02.38.07:646][890]LogModuleManager: Shutting down and abandoning module SocialTypes (164)
+[2018.04.06-02.38.07:646][890]LogModuleManager: Shutting down and abandoning module Social (162)
+[2018.04.06-02.38.07:646][890]LogModuleManager: Shutting down and abandoning module SIP (160)
+[2018.04.06-02.38.07:647][890]LogSIP: Display: SIP Module Shutdown
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module PurchaseFlow (158)
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (156)
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module OodleHandlerComponent (154)
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module LoginFlow (142)
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module Rejoin (140)
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module Hotfix (138)
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module Lobby (136)
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module Party (134)
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module Qos (132)
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module NetUI (130)
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module MatchmakingServiceDedicatedServer (128)
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module MatchmakingServiceClient (126)
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module LogitechLED (124)
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module EpicCMSUIFramework (122)
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module EpicCMS (120)
+[2018.04.06-02.38.07:647][890]LogModuleManager: Shutting down and abandoning module DiscordRPC (118)
+[2018.04.06-02.38.07:648][890]LogModuleManager: Shutting down and abandoning module CommonInput (116)
+[2018.04.06-02.38.07:648][890]LogModuleManager: Shutting down and abandoning module CommonUI (114)
+[2018.04.06-02.38.07:648][890]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (112)
+[2018.04.06-02.38.07:648][890]LogModuleManager: Shutting down and abandoning module AESHandlerComponent (110)
+[2018.04.06-02.38.07:648][890]LogModuleManager: Shutting down and abandoning module FortniteGame (108)
+[2018.04.06-02.38.07:648][890]LogModuleManager: Shutting down and abandoning module TcpMessaging (106)
+[2018.04.06-02.38.07:648][890]LogModuleManager: Shutting down and abandoning module EpicGameplayStatsRuntime (104)
+[2018.04.06-02.38.07:648][890]LogModuleManager: Shutting down and abandoning module SignificanceManager (102)
+[2018.04.06-02.38.07:648][890]LogModuleManager: Shutting down and abandoning module ReplicationGraph (100)
+[2018.04.06-02.38.07:648][890]LogModuleManager: Shutting down and abandoning module PhysXVehicles (98)
+[2018.04.06-02.38.07:648][890]LogModuleManager: Shutting down and abandoning module Paper2D (96)
+[2018.04.06-02.38.07:648][890]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (94)
+[2018.04.06-02.38.07:648][890]LogModuleManager: Shutting down and abandoning module GameplayAbilities (92)
+[2018.04.06-02.38.07:648][890]LogModuleManager: Shutting down and abandoning module Crashlytics (90)
+[2018.04.06-02.38.07:648][890]LogModuleManager: Shutting down and abandoning module BlueprintContext (88)
+[2018.04.06-02.38.07:649][890]LogModuleManager: Shutting down and abandoning module WmfMedia (86)
+[2018.04.06-02.38.07:650][890]LogModuleManager: Shutting down and abandoning module FortniteLoadingScreen (84)
+[2018.04.06-02.38.07:650][890]LogModuleManager: Shutting down and abandoning module PacketHandler (82)
+[2018.04.06-02.38.07:650][890]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (80)
+[2018.04.06-02.38.07:650][890]LogModuleManager: Shutting down and abandoning module MediaAssets (78)
+[2018.04.06-02.38.07:650][890]LogModuleManager: Shutting down and abandoning module Overlay (76)
+[2018.04.06-02.38.07:650][890]LogModuleManager: Shutting down and abandoning module UMG (74)
+[2018.04.06-02.38.07:650][890]LogModuleManager: Shutting down and abandoning module Slate (72)
+[2018.04.06-02.38.07:650][890]LogModuleManager: Shutting down and abandoning module MRMesh (70)
+[2018.04.06-02.38.07:650][890]LogModuleManager: Shutting down and abandoning module Messaging (68)
+[2018.04.06-02.38.07:650][890]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (66)
+[2018.04.06-02.38.07:650][890]LogModuleManager: Shutting down and abandoning module XAudio2 (64)
+[2018.04.06-02.38.07:650][890]LogModuleManager: Shutting down and abandoning module Networking (62)
+[2018.04.06-02.38.07:651][890]LogModuleManager: Shutting down and abandoning module Core (58)
+[2018.04.06-02.38.07:651][890]LogModuleManager: Shutting down and abandoning module Media (56)
+[2018.04.06-02.38.07:657][890]LogModuleManager: Shutting down and abandoning module LevelSequence (54)
+[2018.04.06-02.38.07:657][890]LogModuleManager: Shutting down and abandoning module PlatformCrypto (52)
+[2018.04.06-02.38.07:657][890]LogModuleManager: Shutting down and abandoning module ImageWrapper (48)
+[2018.04.06-02.38.07:657][890]LogModuleManager: Shutting down and abandoning module InputCore (46)
+[2018.04.06-02.38.07:657][890]LogModuleManager: Shutting down and abandoning module PhysXCooking (44)
+[2018.04.06-02.38.07:657][890]LogModuleManager: Shutting down and abandoning module HTTPChunkInstaller (42)
+[2018.04.06-02.38.07:657][890]LogModuleManager: Shutting down and abandoning module NVIDIAGfeSDK (40)
+[2018.04.06-02.38.07:657][890]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (36)
+[2018.04.06-02.38.07:658][890]LogOnline: Display: FOnlineSubsystemFacebook::Shutdown()
+[2018.04.06-02.38.07:658][890]LogOnline: Display: FOnlineSubsystemFacebookCommon::Shutdown()
+[2018.04.06-02.38.07:658][890]LogOnline: Display: FOnlineSubsystemGoogle::Shutdown()
+[2018.04.06-02.38.07:658][890]LogOnline: Display: FOnlineSubsystemGoogleCommon::Shutdown()
+[2018.04.06-02.38.07:658][890]LogOnline: Verbose: Unloading online subsystem: MCP
+[2018.04.06-02.38.07:658][890]LogOnline: MCP: Mcp Shutdown!
+[2018.04.06-02.38.07:659][890]LogOnline: Verbose: Unloading online subsystem: TENCENT
+[2018.04.06-02.38.07:659][890]LogOnline: TENCENT: Tencent Shutdown!
+[2018.04.06-02.38.07:659][890]LogOnline: Verbose: Unloading online subsystem: FACEBOOK
+[2018.04.06-02.38.07:659][890]LogOnline: Facebook Shutdown!
+[2018.04.06-02.38.07:659][890]LogOnline: Verbose: Unloading online subsystem: GOOGLE
+[2018.04.06-02.38.07:659][890]LogOnline: Google Shutdown!
+[2018.04.06-02.38.07:659][890]LogOnline: Verbose: Unloading online subsystem: NULL
+[2018.04.06-02.38.07:659][890]LogOnline: Verbose: Unloading online subsystem: TWITCH
+[2018.04.06-02.38.07:659][890]LogOnline: Verbose: TWITCH: Twitch Shutdown!
+[2018.04.06-02.38.07:659][890]LogModuleManager: Shutting down and abandoning module XMPP (33)
+[2018.04.06-02.38.07:659][890]LogModuleManager: Shutting down and abandoning module WebSockets (32)
+[2018.04.06-02.38.07:694][890]LogModuleManager: Shutting down and abandoning module HTTP (29)
+[2018.04.06-02.38.07:694][890]LogHttp: Warning: 0000022DEB2DF400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.38.07:694][890]LogHttp: Warning: 0000022DEB2DF400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.06-02.38.07:694][890]LogHttp: Warning: 0000022DEB2DF400: libcurl info message cache 1 (Closing connection 23)
+[2018.04.06-02.38.07:694][890]LogHttp: Warning: 0000022DE7621300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.38.07:694][890]LogHttp: Warning: 0000022DE7621300: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x22dee033940 [serially])
+[2018.04.06-02.38.07:694][890]LogHttp: Warning: 0000022DE7621300: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.06-02.38.07:694][890]LogHttp: Warning: 0000022DE7621300: libcurl info message cache 2 (Closing connection 26)
+[2018.04.06-02.38.07:694][890]LogHttp: Warning: 0000022DE6C80E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.38.07:694][890]LogHttp: Warning: 0000022DE6C80E80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x22dee033940 [serially])
+[2018.04.06-02.38.07:695][890]LogHttp: Warning: 0000022DE6C80E80: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.06-02.38.07:695][890]LogHttp: Warning: 0000022DE6C80E80: libcurl info message cache 2 (Closing connection 25)
+[2018.04.06-02.38.07:695][890]LogHttp: Warning: 0000022D98B11F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.38.07:695][890]LogHttp: Warning: 0000022D98B11F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x22dee033940 [serially])
+[2018.04.06-02.38.07:695][890]LogHttp: Warning: 0000022D98B11F00: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.06-02.38.07:695][890]LogHttp: Warning: 0000022D98B11F00: libcurl info message cache 2 (Closing connection 24)
+[2018.04.06-02.38.07:695][890]LogHttp: Warning: 0000022DA1C3A900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.06-02.38.07:695][890]LogHttp: Warning: 0000022DA1C3A900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.06-02.38.07:695][890]LogHttp: Warning: 0000022DA1C3A900: libcurl info message cache 1 (Closing connection 27)
+[2018.04.06-02.38.07:712][890]LogModuleManager: Shutting down and abandoning module SSL (28)
+[2018.04.06-02.38.07:715][890]LogModuleManager: Shutting down and abandoning module ShaderCore (24)
+[2018.04.06-02.38.07:715][890]LogModuleManager: Shutting down and abandoning module Landscape (22)
+[2018.04.06-02.38.07:715][890]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (20)
+[2018.04.06-02.38.07:715][890]LogModuleManager: Shutting down and abandoning module OpenGLDrv (18)
+[2018.04.06-02.38.07:716][890]LogModuleManager: Shutting down and abandoning module D3D11RHI (16)
+[2018.04.06-02.38.07:716][890]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (14)
+[2018.04.06-02.38.07:716][890]LogModuleManager: Shutting down and abandoning module Renderer (12)
+[2018.04.06-02.38.07:716][890]LogModuleManager: Shutting down and abandoning module Engine (10)
+[2018.04.06-02.38.07:716][890]LogModuleManager: Shutting down and abandoning module CoreUObject (8)
+[2018.04.06-02.38.07:716][890]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2018.04.06-02.38.07:716][890]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2018.04.06-02.38.07:716][890]LogModuleManager: Shutting down and abandoning module LauncherCheck (2)
+[2018.04.06-02.38.07:724][890]LogExit: Exiting.
+[2018.04.06-02.38.07:731][890]Log file closed, 04/05/18 19:38:07

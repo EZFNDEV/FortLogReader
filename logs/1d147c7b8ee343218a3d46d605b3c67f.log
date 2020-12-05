@@ -1,0 +1,1680 @@
+Log file open, 12/19/18 17:55:24
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk2-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk2-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1_s1-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1_s1-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1015-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1015-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1015-WindowsClient.pak" until encryption key 'B0ACC6254D42350D124727B035C9CE55' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1014-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1014-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1014-WindowsClient.pak" until encryption key '32E8846645441197B80CF8B1C86B01A1' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1013-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1013-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1013-WindowsClient.pak" until encryption key '854D0D9F4EF33FB4410CB98340952245' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1012-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1012-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1012-WindowsClient.pak" until encryption key '30B98E694C38C868A4EDB892F3FF1940' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1011-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1011-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1011-WindowsClient.pak" until encryption key '8680408E4982495D8EC65D930CE902F3' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1010-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1010-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1010-WindowsClient.pak" until encryption key 'C17D1F224DBE7ACE1D1D998F9EC974B4' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1009-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1009-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1009-WindowsClient.pak" until encryption key '09BC93B3441ECBAC30FA23BBEF59CF89' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1008-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1008-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1008-WindowsClient.pak" until encryption key '929B82B3454DF80CC45B11A55400B6E7' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1007-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1007-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1007-WindowsClient.pak" until encryption key '57D2C065461284F546C48C971A44C6D0' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1006-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1006-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1006-WindowsClient.pak" until encryption key 'F533FEDB46B06F324383349BDBC825D1' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1005-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1005-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1005-WindowsClient.pak" until encryption key '713D64294CD1C40F60DEEB805E3A2D87' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1004-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1004-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1004-WindowsClient.pak" until encryption key 'C7623A35411F3D5FBDE2688C7E4A69EB' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1003-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1003-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1003-WindowsClient.pak" until encryption key 'C97FBD76436AD77913E727A0AD147FEB' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1002-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1002-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1002-WindowsClient.pak" until encryption key 'CB3D84444FF0E551D18939AA7226B17F' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1001-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1001-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1001-WindowsClient.pak" until encryption key '2CB7CC414F921DD774957AAF4AD5F8FE' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1000-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1000-WindowsClient.pak.
+LogPakFile: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1000-WindowsClient.pak" until encryption key '8A29D48D47F92655750C38908C8DD218' becomes available
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s7-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s7-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s6-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s6-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s5-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s5-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s4-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s4-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak.
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74740/74741]! Expected 0x901CE7FB, Received 0x1CDE3307
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74635/74741]! Expected 0xBED9FBEF, Received 0x2B7C954D
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74636/74741]! Expected 0x 85E400B, Received 0xC3A6F51B
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74637/74741]! Expected 0x32B99116, Received 0xB352F95D
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74638/74741]! Expected 0x115FA81E, Received 0x16A44F79
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74639/74741]! Expected 0x 12FAA16, Received 0x5C5F522D
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74640/74741]! Expected 0x7EB65AD2, Received 0x9EFD8855
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74641/74741]! Expected 0x70D3EFCA, Received 0x1C5C7D63
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74642/74741]! Expected 0xE975EC7A, Received 0x36DC1665
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74643/74741]! Expected 0x526AA3F4, Received 0xE6BC39CD
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74644/74741]! Expected 0xA7405437, Received 0x 346CB63
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74645/74741]! Expected 0xBA6B2D14, Received 0xA22E5880
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74646/74741]! Expected 0x1B09CE68, Received 0x48AFA9A5
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74647/74741]! Expected 0x1620218C, Received 0xA91A1A1A
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74648/74741]! Expected 0x535E5B48, Received 0x192C9DAE
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74649/74741]! Expected 0x4BC5B461, Received 0x54471206
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74650/74741]! Expected 0x81743A41, Received 0x D0190C7
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74651/74741]! Expected 0xF7DF0DA9, Received 0x2AEB06D9
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74652/74741]! Expected 0x5EEA2552, Received 0x BD55FF4
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74653/74741]! Expected 0xF4CBFF48, Received 0xCB5AB4F6
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74654/74741]! Expected 0x5ED0A11A, Received 0x4ECD5C6E
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74655/74741]! Expected 0x40D29925, Received 0xDA702D76
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74656/74741]! Expected 0x29F982C5, Received 0xC8B2BA62
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74657/74741]! Expected 0x6B181462, Received 0xB6556FDF
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74658/74741]! Expected 0xA368DF42, Received 0xAE8B51A9
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74659/74741]! Expected 0xE637D0FB, Received 0x85238869
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74660/74741]! Expected 0xC9B32FAC, Received 0x9DED8E7E
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74661/74741]! Expected 0x506151ED, Received 0x3133DCA5
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74662/74741]! Expected 0x97254390, Received 0x55FCDC2B
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74663/74741]! Expected 0x867A1048, Received 0x3FD6F140
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74664/74741]! Expected 0xA6C82D2F, Received 0x D1662D1
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74665/74741]! Expected 0x107FBDBC, Received 0x89280ACE
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74666/74741]! Expected 0xFE93F2F9, Received 0x7704B8C0
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74667/74741]! Expected 0xEE6EEE8F, Received 0x3C5C10D6
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74668/74741]! Expected 0x657B9B65, Received 0x411944B6
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74669/74741]! Expected 0xB7FDE402, Received 0x13DFC0FF
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74670/74741]! Expected 0x63D30C89, Received 0x 768F293
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74671/74741]! Expected 0x2F3DC64C, Received 0x4C9D70C0
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74672/74741]! Expected 0xDB684488, Received 0x EF6815D
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74673/74741]! Expected 0x4D6BC9E9, Received 0xA39993D1
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74674/74741]! Expected 0x210120A5, Received 0xF7D4D755
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74675/74741]! Expected 0x9D0601A9, Received 0xAEFCB281
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74676/74741]! Expected 0x9D3E1925, Received 0xF4ACF7D5
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74677/74741]! Expected 0x8DAC3139, Received 0xD1DD65AB
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74678/74741]! Expected 0xCC0F7B1F, Received 0x75A6952A
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74679/74741]! Expected 0xCE079445, Received 0x135812C5
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74680/74741]! Expected 0x39DF8ED4, Received 0x849A34BA
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74681/74741]! Expected 0x8754DDF3, Received 0x8FA8C9A6
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74682/74741]! Expected 0x2B31DF35, Received 0xE3A712BD
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74683/74741]! Expected 0x4283128A, Received 0x3695B8FF
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74684/74741]! Expected 0x99E2EFA3, Received 0x 54CDA29
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74685/74741]! Expected 0x70C10294, Received 0x543EF29F
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74686/74741]! Expected 0x772DBE7B, Received 0x4B6684A9
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74687/74741]! Expected 0xCB658707, Received 0x803BA5C6
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74688/74741]! Expected 0xDC82486E, Received 0x FD83B1F
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74689/74741]! Expected 0xDB3E1DBD, Received 0x B2F0501
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74690/74741]! Expected 0xC8C88B49, Received 0x A78B5DC
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74691/74741]! Expected 0xE4A89930, Received 0xAD7DCA4C
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74692/74741]! Expected 0xDAA7750C, Received 0xC43ED927
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74693/74741]! Expected 0x5F4F5D9F, Received 0x4CD24B33
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74694/74741]! Expected 0xC98E1026, Received 0xAAC7D923
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74695/74741]! Expected 0xC56DA680, Received 0xE504B527
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74696/74741]! Expected 0x55CBCA1A, Received 0x2EBB7BF9
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74697/74741]! Expected 0x54CDF369, Received 0xCECAD2F8
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74698/74741]! Expected 0x4853FAF6, Received 0x 40EDD1D
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74699/74741]! Expected 0x91A469BA, Received 0xD604DE3B
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74700/74741]! Expected 0x221DFF62, Received 0x4FA04469
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74701/74741]! Expected 0x2177230E, Received 0x9DA38F13
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74702/74741]! Expected 0x1EA26D5B, Received 0x97DF1BB5
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74703/74741]! Expected 0x 8A36C22, Received 0xD465FB5A
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74704/74741]! Expected 0xDC02353F, Received 0xED406C74
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74705/74741]! Expected 0xCE3BF7D6, Received 0xB057895C
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74706/74741]! Expected 0x 734ED91, Received 0x5B1C6D85
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74707/74741]! Expected 0x9965FB7B, Received 0xA6C9988C
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74708/74741]! Expected 0x BC68A27, Received 0x2FA4B304
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74709/74741]! Expected 0x8FCF17BE, Received 0xB843CE43
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74710/74741]! Expected 0x6A3B2912, Received 0x5227435F
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74711/74741]! Expected 0x6089F32A, Received 0x4E0C9694
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74712/74741]! Expected 0x68155A4F, Received 0x42D42067
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74713/74741]! Expected 0x7FB69068, Received 0x79ADB379
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74714/74741]! Expected 0xCBE7D626, Received 0x9BC95D6E
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74715/74741]! Expected 0xBFCC0949, Received 0x9A7EB645
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74716/74741]! Expected 0xC93631CA, Received 0xE916EB02
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74717/74741]! Expected 0x65D53FFC, Received 0xBDF37D8A
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74718/74741]! Expected 0x7AF5511C, Received 0x18BC801A
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74719/74741]! Expected 0xB9AD793E, Received 0xD0C51EA1
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74720/74741]! Expected 0xC5005425, Received 0xB5979F49
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74721/74741]! Expected 0xA2F753C5, Received 0xE460D8E2
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74722/74741]! Expected 0x3DC0ED2B, Received 0xF0EE195A
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74723/74741]! Expected 0x88145587, Received 0xFEFB8CAE
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74724/74741]! Expected 0xD6BFC50B, Received 0x4F587D62
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74725/74741]! Expected 0xDFDA428A, Received 0x1DB3C2D2
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74726/74741]! Expected 0x56959E54, Received 0xDBAAAFC8
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74727/74741]! Expected 0x193143DF, Received 0x237AF6F3
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74728/74741]! Expected 0x787AE8E0, Received 0x505D0EEF
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74729/74741]! Expected 0x7A77E881, Received 0x50AED61C
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74730/74741]! Expected 0x73EB3388, Received 0x6335EE94
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74731/74741]! Expected 0xD16B7A80, Received 0x23E02BBB
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74732/74741]! Expected 0x66907269, Received 0xCDA5EC58
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74733/74741]! Expected 0x382B3A08, Received 0xDEF8B590
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74734/74741]! Expected 0x6F01C814, Received 0x616D1E8E
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74735/74741]! Expected 0x4E785D9F, Received 0xCFD9BC97
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74736/74741]! Expected 0x2488DD83, Received 0x278CABC7
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74737/74741]! Expected 0xD17DC587, Received 0x3562F795
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74738/74741]! Expected 0x4D65FABF, Received 0x8B79693A
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [74739/74741]! Expected 0x74BADA69, Received 0x184C1B03
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 22 total threads with 3 sets of task threads.
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [7/74741]! Expected 0xC5CBCD24, Received 0x118E34B7
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [8/74741]! Expected 0x90D74864, Received 0xEBE71E38
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [9/74741]! Expected 0x8FB4E22D, Received 0x852D90B1
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [10/74741]! Expected 0x4364A1C4, Received 0x6BD4BFD0
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [11/74741]! Expected 0xE4718DF7, Received 0x9A836263
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [12/74741]! Expected 0xA588484B, Received 0xD3701E37
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [13/74741]! Expected 0x6505D85B, Received 0x8E1DC011
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [14/74741]! Expected 0x1DC5BC2A, Received 0x826D42DF
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [15/74741]! Expected 0x87896CC8, Received 0xECA02FFB
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [16/74741]! Expected 0x997FDF9A, Received 0x4620808D
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [17/74741]! Expected 0xCD92EB24, Received 0x4A771F2E
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [18/74741]! Expected 0x7871626A, Received 0xCAE773BE
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPluginManager: Mounting plugin AESHandlerComponent
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AnimationBudgetAllocator
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin BlueprintContext
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CommonUI
+LogPluginManager: Mounting plugin ControlRig
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [14504/74741]! Expected 0x56B2E876, Received 0xF9F1842B
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPluginManager: Mounting plugin Crashlytics
+LogPluginManager: Mounting plugin DiscordRPC
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FortniteEarlyStartupPatcher
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [19/74741]! Expected 0xCDCD42C8, Received 0x 7F1B859
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogPluginManager: Found config from plugin[FortniteEarlyStartupPatcher] C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini
+LogPluginManager: Found config from plugin[FortniteEarlyStartupPatcher] C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Game.ini
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin EpicCMS
+LogPluginManager: Mounting plugin EpicCMSUIFramework
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemMcp
+LogPluginManager: Mounting plugin FunctionalTestingEditor
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin Gauntlet
+LogPluginManager: Mounting plugin ImagePlate
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LiveStreamVoice
+LogPluginManager: Mounting plugin LogitechLED
+LogPluginManager: Mounting plugin MatchmakingService
+LogPluginManager: Mounting plugin MeshNetwork
+LogPluginManager: Mounting plugin ReplicationGraph
+LogPluginManager: Mounting plugin NetUI
+LogPluginManager: Mounting plugin NVIDIAGfeSDK
+LogPluginManager: Mounting plugin OnlineSubsystemLiveServer
+LogPluginManager: Mounting plugin OnlineSubsystemFacebook
+LogPluginManager: Mounting plugin OnlineSubsystemGoogle
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemPS4Server
+LogPluginManager: Mounting plugin OnlineSubsystemTwitch
+LogPluginManager: Mounting plugin Oodle
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PurchaseFlow
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin RazerChroma
+LogPluginManager: Mounting plugin Social
+LogPluginManager: Mounting plugin SocialUMG
+LogPluginManager: Mounting plugin SubtitlesWidgets
+LogPluginManager: Mounting plugin SubtitlesWidgetsEditor
+LogPluginManager: Mounting plugin UAC
+LogPluginManager: Mounting plugin UACBase
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting plugin WinDualShock
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin TimeSynth
+LogPluginManager: Mounting plugin MIDIDevice
+LogPluginManager: Mounting plugin FacialAnimSystem
+LogPluginManager: Mounting plugin SpeechGraphics
+LogPluginManager: Mounting plugin SequencerScripting
+LogPluginManager: Mounting plugin EpicGameplayStats
+LogPluginManager: Mounting plugin EsportsCamera
+LogPluginManager: Mounting plugin OnlineGameplayFramework
+LogPluginManager: Mounting plugin HTTPChunkInstaller
+LogPluginManager: Mounting plugin Vivox
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPakFile: Warning: Pak chunk signing mismatch on chunk [22/74741]! Expected 0x776F498F, Received 0x 2736BF5
+LogPakFile: Warning: Pak file has been corrupted or tampered with!
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: MCP: Mcp Startup!
+LogOnlineVoice: OSS: Voice interface disabled by config [OnlineSubsystem].bHasVoiceEnabled
+LogInit: Build: ++Fortnite+Release-7.10-CL-4667333
+LogInit: Engine Version: 4.22.0-4667333+++Fortnite+Release-7.10
+LogInit: Compatible Engine Version: 4.22.0-4667333+++Fortnite+Release-7.10
+LogInit: Net CL: 4601151
+LogInit: OS: Windows 10 (Release 1803) (), CPU: AMD FX(tm)-8350 Eight-Core Processor           , GPU: NVIDIA GeForce GTX 750 Ti
+LogInit: Compiled (64-bit): Dec 17 2018 19:10:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Fortnite+Release-7.10
+LogInit: Filtered Command Line: 
+LogInit: Base Directory: C:/Users/Jonas/Desktop/fortnite/Fortnite/FortniteGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 17825792 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogInit: Object subsystem initialized
+LogFortMemory: AppInit - CPU:234.20MB (Peak: 234.34MB)
+LogConfig: Setting CVar [[tick.LightweightTimeguardThresholdMS:30]]
+LogConfig: Setting CVar [[csv.Shipping.ContinuousWrites:1]]
+LogConfig: Setting CVar [[csv.ContinuousWrites:0]]
+LogConfig: Setting CVar [[r.AllowStaticLighting:0]]
+LogConfig: Setting CVar [[r.Shadow.CacheWPOPrimitives:1]]
+LogConfig: Setting CVar [[r.CapsuleIndirectConeAngle:.2]]
+LogConfig: Setting CVar [[r.AOSpecularOcclusionMode:0]]
+LogConfig: Setting CVar [[r.SupportSimpleForwardShading:1]]
+LogConfig: Setting CVar [[p.BatchPhysXTasksSize:8]]
+LogConfig: Setting CVar [[r.DoLazyStaticMeshUpdate:1]]
+LogConfig: Setting CVar [[FX.BatchAsync:1]]
+LogConfig: Setting CVar [[FX.BatchAsyncBatchSize:32]]
+LogConfig: Setting CVar [[grass.TickInterval:5]]
+LogConfig: Setting CVar [[r.Mobile.TonemapperFilm:1]]
+LogConfig: Setting CVar [[r.DistanceFields.ForceMaxAtlasSize:1]]
+LogConfig: Setting CVar [[r.DistanceFields.AtlasSizeZ:1024]]
+LogConfig: Setting CVar [[Compat.MAX_GPUSKIN_BONES:75]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[Slate.MaxFontAtlasPagesBeforeFlush:4]]
+LogConfig: Setting CVar [[net.ProcessQueuedBunchesMillisecondLimit:0]]
+LogConfig: Setting CVar [[InGamePerformanceTracking.Enabled:1]]
+LogConfig: Setting CVar [[InGamePerformanceTracking.HistorySize:240]]
+LogConfig: Setting CVar [[t.FPSChart.InterestingFramerates:30,60]]
+LogConfig: Setting CVar [[p.DisableQueryOnlyActors:1]]
+LogConfig: Setting CVar [[r.StencilForLODDither:1]]
+LogConfig: Setting CVar [[r.gpucrash.collectionenable:1]]
+LogConfig: Setting CVar [[r.gpucrash.datadepth:5]]
+LogConfig: Setting CVar [[demo.WithLevelStreamingFixes:1]]
+LogConfig: Setting CVar [[net.DisableRemapScriptActors:1]]
+LogConfig: Setting CVar [[demo.ReplayStreamerAutoDemoPrefix:UnsavedReplay-]]
+LogConfig: Setting CVar [[demo.ReplayStreamerAutoDemoUseDateTimePostfix:1]]
+LogConfig: Setting CVar [[Fort.AthenaReplayBrowserDisplayFileName:1]]
+LogConfig: Setting CVar [[Fort.AutomaticClientReplayRecordingLimit:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[tick.LightweightTimeguardThresholdMS:30]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[csv.Shipping.ContinuousWrites:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[csv.ContinuousWrites:0]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:0]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.Shadow.CacheWPOPrimitives:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.CapsuleIndirectConeAngle:.2]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.AOSpecularOcclusionMode:0]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.SupportSimpleForwardShading:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[p.BatchPhysXTasksSize:8]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.DoLazyStaticMeshUpdate:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[FX.BatchAsync:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[FX.BatchAsyncBatchSize:32]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[grass.TickInterval:5]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.Mobile.TonemapperFilm:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.DistanceFields.ForceMaxAtlasSize:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.DistanceFields.AtlasSizeZ:1024]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[Compat.MAX_GPUSKIN_BONES:75]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[Slate.MaxFontAtlasPagesBeforeFlush:4]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[net.ProcessQueuedBunchesMillisecondLimit:0]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[InGamePerformanceTracking.Enabled:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[InGamePerformanceTracking.HistorySize:240]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[t.FPSChart.InterestingFramerates:30,60]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[p.DisableQueryOnlyActors:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.StencilForLODDither:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.gpucrash.collectionenable:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.gpucrash.datadepth:5]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[demo.WithLevelStreamingFixes:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[net.DisableRemapScriptActors:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[demo.ReplayStreamerAutoDemoPrefix:UnsavedReplay-]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[demo.ReplayStreamerAutoDemoUseDateTimePostfix:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[Fort.AthenaReplayBrowserDisplayFileName:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[Fort.AutomaticClientReplayRecordingLimit:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.ExpandNewlyOcclusionTestedBBoxesAmount:75]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2018.12.19-16.55.25:225][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.EarlyZPass:2]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.DBuffer:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.LightShaftRenderToSeparateTranslucency:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.TonemapperFilm:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.Streaming.MaxTextureUVDensity:2500]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.Mobile.SkyLightPermutation:2]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.Mobile.CompressLandscapeWeightmaps:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[r.Mobile.ForceFullPrecisionInPS:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[OpenGL.UseEmulatedUBs:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini]
+[2018.12.19-16.55.25:226][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:40.0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:10.0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.ProcessPrestreamingRequests:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.ForceGCAfterLevelStreamedOut:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.ContinuouslyIncrementalGCWhileLevelsPendingPurge:0]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.AllowLevelRequestsWhileAsyncLoadingInMatch:1]]
+[2018.12.19-16.55.25:226][  0]LogConfig: Setting CVar [[s.MaxLevelRequestsAtOnceWhileInMatch:2]]
+[2018.12.19-16.55.25:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini]
+[2018.12.19-16.55.25:227][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.19-16.55.25:227][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:17825792]]
+[2018.12.19-16.55.25:227][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.19-16.55.25:227][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.19-16.55.25:227][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.19-16.55.25:227][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.19-16.55.25:227][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2018.12.19-16.55.25:227][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.19-16.55.25:227][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.19-16.55.25:227][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.19-16.55.25:227][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.19-16.55.25:227][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:1]]
+[2018.12.19-16.55.25:227][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:1]]
+[2018.12.19-16.55.25:227][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:1]]
+[2018.12.19-16.55.25:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini]
+[2018.12.19-16.55.25:227][  0]LogConfig: Setting CVar [[n.VerifyPeer:1]]
+[2018.12.19-16.55.25:233][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:233][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.19-16.55.25:233][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:2.0]]
+[2018.12.19-16.55.25:233][  0]LogConfig: Setting CVar [[Fort.Scalability.AIBudget:8,16]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget:5,10,10,75]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget.URORates:0,1,2,3]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget.SkelMeshMinLOD:0,1,1,2]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Fort.Scalability.BucketDistances:50,100,250,500]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Fort.Scalability.PlayerCosmeticPropBudget:0]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Fort.Scalability.TieUROToLODs:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Fort.Scalability.EnableAnimCurveOptimizations:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Athena.Scalability.SecondarySkelMeshTickingThreshold:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[p.AnimDynamicsLODThreshold:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[p.RigidBodyLODThreshold:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.StaticMeshLODDistanceScale:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.SecondaryScale:1.0]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.HLOD.DistanceOverride:40000,35000]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Athena.Scalability.HLODProxyMaxDrawDistance:0.0]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMaxAngle:80.0]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMaxAngleScale:1.0]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMinAngle:15.0]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMinAngleScale:2.0]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Athena.EnableProxyPredictionPawnLOD:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Athena.EnableProxySimulatedStepUpLOD:0]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Athena.EnableProxySimulatedStepUpMinNormalZ:0.1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Athena.ForceThrottledSimulatedFloorChecks:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingSkipFramesLowestLOD:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingSkipFramesInvisible:3]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingRelevancyThrottleThreshold_Players:66]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingRelevancyThrottleThreshold_AI:66]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingRelevancyThrottleThreshold_Combined:66]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.NeverOcclusionTestDistance:1250]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[a.Budget.Enabled:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[a.Budget.BudgetMs:1.5]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingSkipFramesLargeGameLOD2:0]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.Tonemapper.Sharpen:0.5]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.SimpleForwardShading:0]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[Fort.TODDirectionalLightUpdateRate:0]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.Shadow.MaxNumPointShadowCacheUpdatesPerFrame:-1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.Shadow.MaxNumSpotShadowCacheUpdatesPerFrame:-1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.19-16.55.25:234][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:1]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.AmbientOcclusion.Compute:0]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[Fort.Wind:1]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[fx.Significance.EmitterLevel_Low:0.85]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[fx.Significance.EmitterLevel_Medium:0.7]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[fx.Significance.EmitterLevel_High:0.3]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[fx.Significance.MaxRange:14000]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[p.AnimDynamicsWind:1]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.19-16.55.25:235][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.19-16.55.25:253][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [23/74741]! Expected 0x CE500F8, Received 0xF6B544A8
+[2018.12.19-16.55.25:253][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.25:253][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [24/74741]! Expected 0xC837F143, Received 0x4C4F482A
+[2018.12.19-16.55.25:253][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.25:253][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.19-16.55.25:325][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2018.12.19-16.55.25:325][  0]LogD3D11RHI:       2007/0/8182 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.19-16.55.25:327][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.19-16.55.25:327][  0]LogD3D11RHI:       0/0/8182 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.19-16.55.25:327][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.19-16.55.25:333][  0]LogInit: Selected Device Profile: [WindowsClient]
+[2018.12.19-16.55.25:333][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsClient]
+[2018.12.19-16.55.25:333][  0]LogConfig: Setting CVar [[dp.AllowScalabilityGroupsToChangeAtRuntime:1]]
+[2018.12.19-16.55.25:333][  0]LogHAL: Display: Platform has ~ 16 GB [17160142848 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.19-16.55.25:333][  0]LogConfig: Setting CVar [[au.DisableEnvelopeFollowing:1]]
+[2018.12.19-16.55.25:333][  0]LogConfig: Setting CVar [[r.DistanceFields.ParallelAtlasUpdate:1]]
+[2018.12.19-16.55.25:333][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2018.12.19-16.55.25:333][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.19-16.55.25:333][  0]LogConfig: Setting CVar [[sg.ViewDistanceQuality:2]]
+[2018.12.19-16.55.25:333][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:333][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.19-16.55.25:333][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.67]]
+[2018.12.19-16.55.25:333][  0]LogConfig: Setting CVar [[Fort.Scalability.AIBudget:8,16]]
+[2018.12.19-16.55.25:333][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget:5,10,10,75]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget.URORates:0,1,2,3]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget.SkelMeshMinLOD:0,1,1,2]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Fort.Scalability.BucketDistances:50,100,250,500]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Fort.Scalability.PlayerCosmeticPropBudget:0]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Fort.Scalability.TieUROToLODs:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Fort.Scalability.EnableAnimCurveOptimizations:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Athena.Scalability.SecondarySkelMeshTickingThreshold:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[p.AnimDynamicsLODThreshold:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[p.RigidBodyLODThreshold:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.StaticMeshLODDistanceScale:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.SecondaryScale:1.0]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.HLOD.DistanceOverride:40000,35000]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Athena.Scalability.HLODProxyMaxDrawDistance:0.0]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMaxAngle:80.0]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMaxAngleScale:1.0]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMinAngle:15.0]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMinAngleScale:2.0]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Athena.EnableProxyPredictionPawnLOD:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Athena.EnableProxySimulatedStepUpLOD:0]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Athena.EnableProxySimulatedStepUpMinNormalZ:0.1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Athena.ForceThrottledSimulatedFloorChecks:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingSkipFramesLowestLOD:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingSkipFramesInvisible:4]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingRelevancyThrottleThreshold_Players:50]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingRelevancyThrottleThreshold_AI:50]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingRelevancyThrottleThreshold_Combined:50]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.NeverOcclusionTestDistance:1250]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[a.Budget.Enabled:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[a.Budget.BudgetMs:1.5]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[sg.AntiAliasingQuality:2]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.Tonemapper.Sharpen:0.5]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[sg.ShadowQuality:2]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:2]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.SimpleForwardShading:0]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.Shadow.MaxNumPointShadowCacheUpdatesPerFrame:2]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[r.Shadow.MaxNumSpotShadowCacheUpdatesPerFrame:4]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[Fort.TODDirectionalLightUpdateRate:0]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Setting CVar [[sg.PostProcessQuality:2]]
+[2018.12.19-16.55.25:334][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:1]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusion.Compute:0]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[sg.TextureQuality:2]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[sg.EffectsQuality:2]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[Fort.Wind:1]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[fx.Significance.EmitterLevel_Low:0.85]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[fx.Significance.EmitterLevel_Medium:0.7]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[fx.Significance.EmitterLevel_High:0.3]]
+[2018.12.19-16.55.25:335][  0]LogConfig: Setting CVar [[fx.Significance.MaxRange:14000]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[p.AnimDynamicsWind:1]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2018.12.19-16.55.25:336][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.19-16.55.25:336][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:2.0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Fort.Scalability.AIBudget:8,16]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget:5,10,10,75]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget.URORates:0,1,2,3]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget.SkelMeshMinLOD:0,1,1,2]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Fort.Scalability.BucketDistances:50,100,250,500]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Fort.Scalability.PlayerCosmeticPropBudget:0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Fort.Scalability.TieUROToLODs:1]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Fort.Scalability.EnableAnimCurveOptimizations:1]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Athena.Scalability.SecondarySkelMeshTickingThreshold:1]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[p.AnimDynamicsLODThreshold:1]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[p.RigidBodyLODThreshold:1]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.StaticMeshLODDistanceScale:1]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.SecondaryScale:1.0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.HLOD.DistanceOverride:40000,35000]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Athena.Scalability.HLODProxyMaxDrawDistance:0.0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMaxAngle:80.0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMaxAngleScale:1.0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMinAngle:15.0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMinAngleScale:2.0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Athena.EnableProxyPredictionPawnLOD:1]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Athena.EnableProxySimulatedStepUpLOD:0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Athena.EnableProxySimulatedStepUpMinNormalZ:0.1]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Athena.ForceThrottledSimulatedFloorChecks:1]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingSkipFramesLowestLOD:1]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingSkipFramesInvisible:3]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingRelevancyThrottleThreshold_Players:66]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingRelevancyThrottleThreshold_AI:66]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingRelevancyThrottleThreshold_Combined:66]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.NeverOcclusionTestDistance:1250]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[a.Budget.Enabled:1]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[a.Budget.BudgetMs:1.5]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingSkipFramesLargeGameLOD2:0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.Tonemapper.Sharpen:0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2018.12.19-16.55.25:336][  0]LogConfig: Setting CVar [[r.SimpleForwardShading:1]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[Fort.TODDirectionalLightUpdateRate:6.0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[Fort.TODDirectionalLightInterpSpeed:2.0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.Shadow.MaxNumPointShadowCacheUpdatesPerFrame:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.Shadow.MaxNumSpotShadowCacheUpdatesPerFrame:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusion.Compute:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[Fort.Wind:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[fx.Significance.EmitterLevel_Low:0.85]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[fx.Significance.EmitterLevel_Medium:0.7]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[fx.Significance.EmitterLevel_High:0.3]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[fx.Significance.MaxRange:5000]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[p.AnimDynamicsWind:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jonas/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[net.AllowAsyncLoading:1]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[net.DelayUnmappedRPCs:1]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[net.MaxRPCPerNetUpdate:10]]
+[2018.12.19-16.55.25:337][  0]LogConfig: Setting CVar [[net.PingExcludeFrameTime:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[net.MaxChannelSize:65535]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[OSS.VerboseSessionInPayloads:0]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[OSS.VerboseSessionOutPayloads:0]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[OSS.VerboseIdentityPayloads:0]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[httpReplay.ChunkUploadDelayInSeconds:20]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[demo.CheckpointUploadDelayInSeconds:60]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[demo.ForceDisableAsyncPackageMapLoading:0]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[gpad.LeftStickInnerDeadzone:0.24]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[gpad.LeftStickOuterDeadzone:0.01]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[gpad.RightStickInnerDeadzone:0.27]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[gpad.RightStickOuterDeadzone:0.01]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[demo.UseNetRelevancy:0]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[demo.CullDistanceOverride:3000]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[demo.RecordHzWhenNotRelevant:2]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[demo.ClientRecordAsyncEndOfFrame:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:0]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[tick.DoAsyncEndOfFrameTasks:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[Athena.Vehicle.ShowAirHeightOver:3]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[Athena.Vehicle.ShowAirDistanceOver:5]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[Analytic.DumpPlayerInventoryPerZonePhase:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[Weapon.TryToFireRestrictedByTypeCooldowns:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[Weapon.UseInterpolateToPerfectAim:0]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[Weapon.UseShotgunMinNumberOfHits:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[Weapon.NumberOfMinHitsForShotguns:3]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[r.StaticMesh.StripMinLodDataDuringCooking:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[r.SkeletalMesh.StripMinLodDataDuringCooking:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[r.ForceStripAdjacencyDataDuringCooking:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[r.AOGlobalDFStartDistance:100]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[r.RHICmdBalanceParallelLists:0]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[foliage.MinVertsToSplitNode:8192]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[p.ForceNoKSPairs:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[p.ForceNoKKPairs:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[Athena.bMegaStormEnabled:0]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[FortRepGraph.SpatialBiasX:-270000]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[FortRepGraph.SpatialBiasY:-270000]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[Fort.EnableFacialAnimation:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[Fort.GliderRedeployRequiresJump:0]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[Fort.GliderRedeployUseWindowOfTime:0]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[Fort.GliderRedeployWindowLength:5.0]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[Fort.GliderRedeployPreventSkydiving:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[Fort.AllowInteractionChecksWhileSkydiving:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[fx.NewParticleEmptyThreshhold:32768]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[dp.AllowScalabilityGroupsToChangeAtRuntime:1]]
+[2018.12.19-16.55.25:338][  0]LogConfig: Setting CVar [[au.DisableHPFiltering:1]]
+[2018.12.19-16.55.25:338][  0]LogInit: Computer: JONAS
+[2018.12.19-16.55.25:338][  0]LogInit: User: Jonas
+[2018.12.19-16.55.25:338][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.19-16.55.25:338][  0]LogInit: High frequency timer resolution =3.932502 MHz
+[2018.12.19-16.55.25:338][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.12.19-16.55.25:338][  0]LogMemory: Platform Memory Stats for WindowsClient
+[2018.12.19-16.55.25:338][  0]LogMemory: Process Physical Memory: 238.46 MB used, 243.84 MB peak
+[2018.12.19-16.55.25:338][  0]LogMemory: Process Virtual Memory: 296.23 MB used, 296.23 MB peak
+[2018.12.19-16.55.25:338][  0]LogMemory: Physical Memory: 4548.19 MB used,  11817.00 MB free, 16365.19 MB total
+[2018.12.19-16.55.25:338][  0]LogMemory: Virtual Memory: 63963.85 MB used,  134153768.00 MB free, 134217728.00 MB total
+[2018.12.19-16.55.25:367][  0]LogInit: Overriding language with game user settings culture configuration option (en).
+[2018.12.19-16.55.25:367][  0]LogInit: Overriding locale with game user settings culture configuration option (en).
+[2018.12.19-16.55.25:394][  0]LogOnline: OSS: Flushing Catalog Service cached offers/items.
+[2018.12.19-16.55.25:456][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [74632/74741]! Expected 0x6336F4D0, Received 0x76CBA090
+[2018.12.19-16.55.25:456][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.25:456][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [14505/74741]! Expected 0xDEB32EE3, Received 0xFC9FD134
+[2018.12.19-16.55.25:456][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.25:456][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [14506/74741]! Expected 0x9F271BA8, Received 0xDBD4406F
+[2018.12.19-16.55.25:456][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.25:456][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [74631/74741]! Expected 0xCFE9F753, Received 0x44A475CB
+[2018.12.19-16.55.25:456][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.25:456][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [74634/74741]! Expected 0x898D059D, Received 0xC7345BB2
+[2018.12.19-16.55.25:456][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.25:456][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.19-16.55.25:482][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [24/74741]! Expected 0xC837F143, Received 0x4C4F482A
+[2018.12.19-16.55.25:482][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.25:482][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.19-16.55.25:482][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.19-16.55.25:496][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.19-16.55.25:496][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.19-16.55.25:496][  0]LogWindows: EnumDisplayDevices:
+[2018.12.19-16.55.25:496][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2018.12.19-16.55.25:496][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
+[2018.12.19-16.55.25:497][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.12.19-16.55.25:497][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.12.19-16.55.25:497][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2018.12.19-16.55.25:497][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2018.12.19-16.55.25:497][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2018.12.19-16.55.25:497][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2018.12.19-16.55.25:558][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.19-16.55.25:578][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.19-16.55.25:584][  0]LogShaderLibrary: Display: Using ../../../FortniteGame/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 1481 unique shaders.
+[2018.12.19-16.55.25:584][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2018.12.19-16.55.25:584][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes and no native library supported.
+[2018.12.19-16.55.25:584][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes_SC and no native library supported.
+[2018.12.19-16.55.25:584][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes and no native library supported.
+[2018.12.19-16.55.25:584][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes_SC and no native library supported.
+[2018.12.19-16.55.25:584][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ControlRig and no native library supported.
+[2018.12.19-16.55.25:585][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ControlRig_SC and no native library supported.
+[2018.12.19-16.55.25:585][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ControlRig and no native library supported.
+[2018.12.19-16.55.25:585][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ControlRig_SC and no native library supported.
+[2018.12.19-16.55.25:585][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteEarlyStartupPatcher and no native library supported.
+[2018.12.19-16.55.25:585][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteEarlyStartupPatcher_SC and no native library supported.
+[2018.12.19-16.55.25:585][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteEarlyStartupPatcher and no native library supported.
+[2018.12.19-16.55.25:585][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteEarlyStartupPatcher_SC and no native library supported.
+[2018.12.19-16.55.25:585][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ImagePlate and no native library supported.
+[2018.12.19-16.55.25:585][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ImagePlate_SC and no native library supported.
+[2018.12.19-16.55.25:585][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ImagePlate and no native library supported.
+[2018.12.19-16.55.25:585][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ImagePlate_SC and no native library supported.
+[2018.12.19-16.55.25:585][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI and no native library supported.
+[2018.12.19-16.55.25:586][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI_SC and no native library supported.
+[2018.12.19-16.55.25:586][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI and no native library supported.
+[2018.12.19-16.55.25:586][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI_SC and no native library supported.
+[2018.12.19-16.55.25:586][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2018.12.19-16.55.25:586][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2018.12.19-16.55.25:586][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2018.12.19-16.55.25:586][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2018.12.19-16.55.25:586][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin and no native library supported.
+[2018.12.19-16.55.25:586][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin_SC and no native library supported.
+[2018.12.19-16.55.25:586][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin and no native library supported.
+[2018.12.19-16.55.25:586][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin_SC and no native library supported.
+[2018.12.19-16.55.25:586][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Social and no native library supported.
+[2018.12.19-16.55.25:587][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Social_SC and no native library supported.
+[2018.12.19-16.55.25:587][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Social and no native library supported.
+[2018.12.19-16.55.25:587][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Social_SC and no native library supported.
+[2018.12.19-16.55.25:587][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SocialUMG and no native library supported.
+[2018.12.19-16.55.25:587][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SocialUMG_SC and no native library supported.
+[2018.12.19-16.55.25:587][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SocialUMG and no native library supported.
+[2018.12.19-16.55.25:587][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SocialUMG_SC and no native library supported.
+[2018.12.19-16.55.25:587][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor and no native library supported.
+[2018.12.19-16.55.25:587][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor_SC and no native library supported.
+[2018.12.19-16.55.25:587][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor and no native library supported.
+[2018.12.19-16.55.25:587][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor_SC and no native library supported.
+[2018.12.19-16.55.25:587][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: TimeSynth and no native library supported.
+[2018.12.19-16.55.25:587][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: TimeSynth_SC and no native library supported.
+[2018.12.19-16.55.25:588][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: TimeSynth and no native library supported.
+[2018.12.19-16.55.25:588][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: TimeSynth_SC and no native library supported.
+[2018.12.19-16.55.25:588][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FacialAnimSystem and no native library supported.
+[2018.12.19-16.55.25:588][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FacialAnimSystem_SC and no native library supported.
+[2018.12.19-16.55.25:588][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FacialAnimSystem and no native library supported.
+[2018.12.19-16.55.25:588][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FacialAnimSystem_SC and no native library supported.
+[2018.12.19-16.55.25:588][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SequencerScripting and no native library supported.
+[2018.12.19-16.55.25:588][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SequencerScripting_SC and no native library supported.
+[2018.12.19-16.55.25:588][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SequencerScripting and no native library supported.
+[2018.12.19-16.55.25:588][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SequencerScripting_SC and no native library supported.
+[2018.12.19-16.55.25:588][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EsportsCamera and no native library supported.
+[2018.12.19-16.55.25:588][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EsportsCamera_SC and no native library supported.
+[2018.12.19-16.55.25:589][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EsportsCamera and no native library supported.
+[2018.12.19-16.55.25:589][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EsportsCamera_SC and no native library supported.
+[2018.12.19-16.55.25:589][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2018.12.19-16.55.25:589][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2018.12.19-16.55.25:589][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2018.12.19-16.55.25:589][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2018.12.19-16.55.25:604][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak added to pak precacher.
+[2018.12.19-16.55.25:647][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.19-16.55.25:670][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.19-16.55.25:681][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.19-16.55.25:790][  0]LogShaderLibrary: Display: Using ../../../FortniteGame/Content/ShaderArchive-FortniteGame-PCD3D_SM5.ushaderbytecode for material shader code. Total 136381 unique shaders.
+[2018.12.19-16.55.25:790][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library FortniteGame
+[2018.12.19-16.55.25:790][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteGame_SC and no native library supported.
+[2018.12.19-16.55.25:792][  0]LogRHI: Display: Failed to open default shader pipeline cache for  using shader platform 0.
+[2018.12.19-16.55.25:792][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2018.12.19-16.55.25:792][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteGame and no native library supported.
+[2018.12.19-16.55.25:792][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteGame_SC and no native library supported.
+[2018.12.19-16.55.25:793][  0]LogRHI: Display: Failed to open default shader pipeline cache for  using shader platform 0.
+[2018.12.19-16.55.25:793][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2018.12.19-16.55.25:793][  0]LogRHI: Display: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+[2018.12.19-16.55.25:793][  0]LogInit: Overriding language with game user settings culture configuration option (en).
+[2018.12.19-16.55.25:793][  0]LogInit: Overriding locale with game user settings culture configuration option (en).
+[2018.12.19-16.55.26:151][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [24/74741]! Expected 0xC837F143, Received 0x4C4F482A
+[2018.12.19-16.55.26:152][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.26:152][  0]LogTextLocalizationManager: Compacting localization data took   3.74ms
+[2018.12.19-16.55.27:244][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [3270/74741]! Expected 0xD27395A6, Received 0xFE05614C
+[2018.12.19-16.55.27:244][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.27:244][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [3271/74741]! Expected 0xEBE5D28E, Received 0x 6266941
+[2018.12.19-16.55.27:244][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.27:244][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [3273/74741]! Expected 0x 9E595D2, Received 0x2DA7DFD0
+[2018.12.19-16.55.27:244][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.27:244][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [3281/74741]! Expected 0x3CBB4DC2, Received 0x566E1310
+[2018.12.19-16.55.27:244][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.27:244][  0]LogAssetRegistry: FAssetRegistry took 1.0910 seconds to start up
+[2018.12.19-16.55.27:602][  0]LogStreaming: Display: Flushing async loaders.
+[2018.12.19-16.55.27:602][  0]LogPackageLocalizationCache: Processed 17 localized package path(s) for 1 prioritized culture(s) in 0.000087 seconds
+[2018.12.19-16.55.27:603][  0]LogInit: Selected Device Profile: [WindowsClient]
+[2018.12.19-16.55.27:638][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [7/74741]! Expected 0xC5CBCD24, Received 0x118E34B7
+[2018.12.19-16.55.27:638][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.27:638][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [22/74741]! Expected 0x776F498F, Received 0x 2736BF5
+[2018.12.19-16.55.27:638][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.27:638][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [23/74741]! Expected 0x CE500F8, Received 0xF6B544A8
+[2018.12.19-16.55.27:638][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.27:638][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [24/74741]! Expected 0xC837F143, Received 0x4C4F482A
+[2018.12.19-16.55.27:638][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.27:638][  0]LogNetVersion: FortniteGame 1.0.0, NetCL: 4601151, EngineNetVer: 6, GameNetVer: 0 (Checksum: 4109782814)
+[2018.12.19-16.55.27:638][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s6-WindowsClient.pak added to pak precacher.
+[2018.12.19-16.55.27:653][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak added to pak precacher.
+[2018.12.19-16.55.28:059][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [3971/74741]! Expected 0x8ED2137F, Received 0x6C5CD4CD
+[2018.12.19-16.55.28:059][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [3971/74741]! Expected 0x85EC3D97, Received 0x6C5CD4CD
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [3972/74741]! Expected 0xF6660540, Received 0xBAAE70FA
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [3973/74741]! Expected 0x562937CE, Received 0x125F6111
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [9/74741]! Expected 0x8FB4E22D, Received 0x852D90B1
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [10/74741]! Expected 0x4364A1C4, Received 0x6BD4BFD0
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [11/74741]! Expected 0xE4718DF7, Received 0x9A836263
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [3973/74741]! Expected 0x8ED2137F, Received 0x125F6111
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [3974/74741]! Expected 0x8ED2137F, Received 0xEADCB9D8
+[2018.12.19-16.55.28:060][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.28:060][  0]LogGameplayTags: Display: Loading Tag File: ../../../FortniteGame/Config/Tags/GamepadActionNameTags.ini
+[2018.12.19-16.55.28:064][  0]LogPakFile: Warning: Pak chunk signing mismatch on chunk [3974/74741]! Expected 0x3F622DD6, Received 0xEADCB9D8
+[2018.12.19-16.55.28:064][  0]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2018.12.19-16.55.28:064][  0]LogGameplayTags: Display: Loading Tag File: ../../../FortniteGame/Config/Tags/LootTags.ini
+[2018.12.19-16.55.28:142][  0]LogConsoleResponse: User settings scalability group: Mixed
+[2018.12.19-16.55.28:155][  0]ImportText (ScriptedBehaviors): Missing closing parenthesis: (ScriptName="AnimTestCrouch", Actions=((Template="Crouch"), (Template="Wait", Params=("1")), (Template="Uncrouch"), (Template="Wait", Params=("1")), (Template="Crouch"), (Template="NestedScript", Params=("WalkCardinal")), (Template="Uncrouch"))
+[2018.12.19-16.55.28:179][  0]LogFortSignificance: Display: Set AI budget to '8,16'
+[2018.12.19-16.55.28:179][  0]LogFortSignificance: Display: Set Athena Player Pawn budget to '5,10,10,75'
+[2018.12.19-16.55.28:179][  0]LogFortSignificance: Display: Set Athena SKVehicle budget to '3, 3, 100'
+[2018.12.19-16.55.28:179][  0]LogFortSignificance: Display: Set Athena Player Pawn URO rate to '0,1,2,3'
+[2018.12.19-16.55.28:179][  0]LogFortSignificance: Display: Set Athena Player Pawn URO interpolation to '1,1,1,1'
+[2018.12.19-16.55.28:179][  0]LogFortSignificance: Display: Set Athena Player SkelMeshMinLOD to '0,1,1,2'
+[2018.12.19-16.55.28:179][  0]LogFortSignificance: Display: Set bucket distances to '50,100,250,500'
+[2018.12.19-16.55.28:193][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s7-WindowsClient.pak added to pak precacher.
+[2018.12.19-16.55.28:227][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.12.19-16.55.28:285][  0]LogSlate: Took 0.000637 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/BurbankBigRegular-Bold.ufont' (155K)
+[2018.12.19-16.55.28:285][  0]LogInit: Display: Build flavor: '"Western"'
+[2018.12.19-16.55.28:335][  0]LogUAC: UACClient initialized
+[2018.12.19-16.55.28:335][  0]LogUAC: Error: UACClient appears to have been directly launched. False-positive kicks are likely
+[2018.12.19-16.55.28:335][  0]LogOnline: OSS: Using EpicApp backend 'Fortnite' with host 'fortnite-public-service-prod11.ol.epicgames.com' based on environment 'Prod' and override 'Fortnite'
+[2018.12.19-16.55.28:379][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.19-16.55.28:381][  0]LogOnline: Facebook: Facebook Startup!
+[2018.12.19-16.55.28:381][  0]LogOnline: Google: Google Startup!
+[2018.12.19-16.55.28:410][  0]LogUObjectArray: 97016 objects as part of root set at end of initial load.
+[2018.12.19-16.55.28:410][  0]LogUObjectArray: 3 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2018.12.19-16.55.28:410][  0]LogUObjectAllocator: 16990792 out of 17825792 bytes used by permanent object pool.
+[2018.12.19-16.55.28:410][  0]LogUObjectArray: CloseDisregardForGC: 97016/97016 objects in disregard for GC pool
+[2018.12.19-16.55.28:488][  0]LogMoviePlayer: Warning: PassLoadingScreenWindowBackToGame failed.  No Window
+[2018.12.19-16.55.28:492][  0]LogEngine: Initializing Engine...
+[2018.12.19-16.55.28:503][  0]LogInit: Display: Limiting process virtual memory size to 16777216 KB
+[2018.12.19-16.55.28:512][  0]LogFortMemory: UFortAssetManager default bundle state is (Client)
+[2018.12.19-16.55.28:512][  0]LogFort: Display: Fastcook is 0
+[2018.12.19-16.55.28:512][  0]LogFort: Display: Startup job "Super::StartInitialLoading()" starting
+[2018.12.19-16.55.28:989][  0]LogFort: Display: Startup job "Super::StartInitialLoading()" took 0.48 seconds to complete
+[2018.12.19-16.55.28:989][  0]LogFort: Display: Startup job "ScanPrototypePrimaryAssetTypes()" starting
+[2018.12.19-16.55.28:989][  0]LogFort: Display: Startup job "ScanPrototypePrimaryAssetTypes()" took 0.00 seconds to complete
+[2018.12.19-16.55.28:990][  0]LogFort: Display: Startup job "RegisterConstructorReferences()" starting
+[2018.12.19-16.55.28:990][  0]LogFort: Display: Startup job "RegisterConstructorReferences()" took 0.00 seconds to complete
+[2018.12.19-16.55.28:990][  0]LogFort: Display: Startup job "InitializeAbilitySystem()" starting
+[2018.12.19-16.55.29:389][  0]LogFort: Display: Startup job "InitializeAbilitySystem()" took 0.40 seconds to complete
+[2018.12.19-16.55.29:389][  0]LogFort: Display: Startup job "ScanForNavAgentCostData()" starting
+[2018.12.19-16.55.29:397][  0]LogFort: Display: Startup job "ScanForNavAgentCostData()" took 0.01 seconds to complete
+[2018.12.19-16.55.29:397][  0]LogFort: Display: Startup job "GetGameData()" starting
+[2018.12.19-16.55.29:397][  0]LogFort: Loading GameData: /Game/Balance/DefaultGameData.DefaultGameData ...
+[2018.12.19-16.55.37:325][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s5-WindowsClient.pak added to pak precacher.
+[2018.12.19-16.55.37:325][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak added to pak precacher.
+[2018.12.19-16.55.37:325][  0]LogStreaming: Error: Couldn't find file for package /Game/Items/Datatables/LootQuotaData requested by async loading code. NameToLoad: /Game/Items/Datatables/LootQuotaData
+[2018.12.19-16.55.37:325][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2018.12.19-16.55.37:325][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.12.19-16.55.37:325][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak added to pak precacher.
+[2018.12.19-16.55.37:325][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s4-WindowsClient.pak added to pak precacher.
+[2018.12.19-16.55.37:325][  0]LogStreaming: Warning: FAsyncPackage::LoadImports for /Game/Effects/SplineTrails/Blueprints/BP_SplineVolumeTrail_v1b: Skipping import BoolProperty /Script/Engine.Texture:DeferCompression, depends on missing native class
+[2018.12.19-16.55.37:325][  0]LogConsoleResponse: User settings scalability group: Mixed
+[2018.12.19-16.55.37:325][  0]LogConsoleResponse: User settings scalability group: Mixed
+[2018.12.19-16.55.37:326][  0]LogConsoleResponse: User settings scalability group: Mixed
+[2018.12.19-16.55.37:326][  0]LogRHI: Display: Applied New ShaderPipelineCache GameUsageMask [Material=0 | Shadow=0 | Foliage=3]
+[2018.12.19-16.55.37:326][  0]LogFort: UFortGameUserSettings::LoadSettings - Loaded 0 Failed Invites
+[2018.12.19-16.55.37:755][  0]LogStreaming: Warning: Took 429.62ms to ProcessLoadedPackages
+[2018.12.19-16.55.38:227][  0]LogStreaming: Warning: Took 210.53ms to ProcessLoadedPackages
+[2018.12.19-16.55.38:227][  0]LogStats:             ... GameData loaded! -  8.829 s
+[2018.12.19-16.55.38:227][  0]LogFort: Display: Startup job "GetGameData()" took 8.83 seconds to complete
+[2018.12.19-16.55.38:227][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" starting
+[2018.12.19-16.55.47:451][  0]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'Sprite' for 'Music Loop' in BlueprintGeneratedClass 'Minigame_PlayerCreated_C' (it may have been removed)
+[2018.12.19-16.55.47:465][  0]LogStreaming: Warning: Took 117.24ms to ProcessLoadedPackages
+[2018.12.19-16.55.48:636][  0]LogStreaming: Warning: Took 1171.39ms to ProcessLoadedPackages
+[2018.12.19-16.55.52:829][  0]LogStreaming: Warning: Took 4192.10ms to ProcessLoadedPackages
+[2018.12.19-16.55.52:830][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" took 14.60 seconds to complete
+[2018.12.19-16.55.52:830][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupSubAssets()" starting
+[2018.12.19-16.55.52:878][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupSubAssets()" took 0.05 seconds to complete
+[2018.12.19-16.55.52:879][  0]LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" starting
+[2018.12.19-16.55.52:898][  0]LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" took 0.02 seconds to complete
+[2018.12.19-16.55.52:898][  0]LogFort: Display: All startup jobs took 24.39 seconds to complete
+[2018.12.19-16.55.52:898][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.19-16.55.52:913][  0]LogInit: XAudio2 using 'Kopfhörer (Razer Kraken USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-16.55.52:958][  0]LogInit: FAudioDevice initialized.
+[2018.12.19-16.55.52:969][  0]LogNetVersion: Set ProjectVersion to 1.0.0. Version Checksum will be recalculated on next use.
+[2018.12.19-16.55.52:969][  0]LogInit: Texture streaming: Enabled
+[2018.12.19-16.55.53:011][  0]LogFort: Warning: UFortAssetManager::InitializeItemToSchematicMaps missing or empty result on SID_Sniper_Medieval_SR_Crystal_T04
+[2018.12.19-16.55.53:011][  0]LogFort: Warning: UFortAssetManager::InitializeItemToSchematicMaps missing or empty result on SID_Sniper_Medieval_SR_Crystal_T05
+[2018.12.19-16.55.53:011][  0]LogFort: Warning: UFortAssetManager::InitializeItemToSchematicMaps missing or empty result on SID_Sniper_Medieval_SR_Ore_T01
+[2018.12.19-16.55.53:012][  0]LogFort: Warning: UFortAssetManager::InitializeItemToSchematicMaps missing or empty result on SID_Sniper_Medieval_SR_Ore_T02
+[2018.12.19-16.55.53:012][  0]LogFort: Warning: UFortAssetManager::InitializeItemToSchematicMaps missing or empty result on SID_Sniper_Medieval_SR_Ore_T03
+[2018.12.19-16.55.53:012][  0]LogFort: Warning: UFortAssetManager::InitializeItemToSchematicMaps missing or empty result on SID_Sniper_Medieval_SR_Ore_T04
+[2018.12.19-16.55.53:012][  0]LogFort: Warning: UFortAssetManager::InitializeItemToSchematicMaps missing or empty result on SID_Sniper_Medieval_SR_Ore_T05
+[2018.12.19-16.55.53:012][  0]LogFort: Warning: UFortAssetManager::InitializeItemToSchematicMaps missing or empty result on SID_Sniper_Medieval_VR_Crystal_T04
+[2018.12.19-16.55.53:012][  0]LogFort: Warning: UFortAssetManager::InitializeItemToSchematicMaps missing or empty result on SID_Sniper_Medieval_VR_Crystal_T05
+[2018.12.19-16.55.53:012][  0]LogFort: Warning: UFortAssetManager::InitializeItemToSchematicMaps missing or empty result on SID_Sniper_Medieval_VR_Ore_T01
+[2018.12.19-16.55.53:012][  0]LogFort: Warning: UFortAssetManager::InitializeItemToSchematicMaps missing or empty result on SID_Sniper_Medieval_VR_Ore_T02
+[2018.12.19-16.55.53:012][  0]LogFort: Warning: UFortAssetManager::InitializeItemToSchematicMaps missing or empty result on SID_Sniper_Medieval_VR_Ore_T03
+[2018.12.19-16.55.53:012][  0]LogFort: Warning: UFortAssetManager::InitializeItemToSchematicMaps missing or empty result on SID_Sniper_Medieval_VR_Ore_T04
+[2018.12.19-16.55.53:012][  0]LogFort: Warning: UFortAssetManager::InitializeItemToSchematicMaps missing or empty result on SID_Sniper_Medieval_VR_Ore_T05
+[2018.12.19-16.55.53:033][  0]LogFort: Warning: UFortAssetManager::InitializeItemToParentItemMaps - ItemToRarityUpgradeParentItemMap Hero:HID_Ninja_XBOX_SR_T03 has more than one schematic that parents it: Hero:HID_Ninja_XBOX_VR_T03, Hero:HID_Ninja_TEST
+[2018.12.19-16.55.53:033][  0]LogFort: Warning: UFortAssetManager::InitializeItemToParentItemMaps - ItemToConversionParentItemMap Hero:HID_Ninja_XBOX_VR_T04 has more than one schematic that parents it: Hero:HID_Ninja_XBOX_VR_T03, Hero:HID_Ninja_TEST
+[2018.12.19-16.55.53:075][  0]LogFortMemory: UFortAssetManager::ChangeLoadState() changing bundle state to (Client, Menu)
+[2018.12.19-16.55.53:270][  0]LogConsoleResponse: User settings scalability group: Mixed
+[2018.12.19-16.55.53:271][  0]LogRHI: Display: Applied New ShaderPipelineCache GameUsageMask [Material=0 | Shadow=0 | Foliage=3]
+[2018.12.19-16.55.53:271][  0]LogFort: UFortGameUserSettings::LoadSettings - Loaded 0 Failed Invites
+[2018.12.19-16.55.53:271][  0]LogConsoleResponse: Display: Apply Settings:
+[2018.12.19-16.55.53:271][  0]LogRHI: Display: Applied New ShaderPipelineCache GameUsageMask [Material=0 | Shadow=0 | Foliage=3]
+[2018.12.19-16.55.53:277][  0]LogGfeSDK: 2018-12-19T17:55:53.278[I] GAME              Core.cpp:31   Creating GfeSDK Version 1.1.195.b747996a
+
+[2018.12.19-16.55.53:278][  0]LogGfeSDK: 2018-12-19T17:55:53.279[I] TASK        TaskRunner.cpp:39   Start TaskRunner thread
+
+[2018.12.19-16.55.53:278][  0]LogGfeSDK: 2018-12-19T17:55:53.279[D] GAME       FactoryImpl.cpp:28   Get shared messagebus interface directly
+
+[2018.12.19-16.55.53:306][  0]LogGfeSDK: 2018-12-19T17:55:53.307[D] TASK        Controller.cpp:231  Joined Bus
+
+[2018.12.19-16.55.53:306][  0]LogGfeSDK: 2018-12-19T17:55:53.307[D] TASK     CallbackContext.h:68   Message JoinMessageBus[join] return value: NVGSDK_SUCCESS Joined bus
+
+[2018.12.19-16.55.53:306][  0]LogGfeSDK: 2018-12-19T17:55:53.307[I] GAME        Controller.cpp:153  Posted Request Create[f222c380]
+
+[2018.12.19-16.55.54:672][  0]LogGfeSDK: 2018-12-19T17:55:54.671[D] TASK     CallbackContext.h:68   Message Create[f222c380] return value: NVGSDK_ERR_LIB_CALL_FAILED Failed to whitelist 7496 with error 0x80070422
+
+[2018.12.19-16.55.54:672][  0]LogGfeSDK: 2018-12-19T17:55:54.673[D] TASK     CoreCallbacks.cpp:91   CreateSDKInstanceResponse response
+
+[2018.12.19-16.55.54:672][  0]LogGfeSDK: Warning: 2018-12-19T17:55:54.673[E] TASK     CoreCallbacks.cpp:138  FAILED TO CONNECT GfeSDK.dll: 1.1.195.b747996a GFE: 3.16.0.140 SDKNode: 1.1
+
+[2018.12.19-16.55.54:672][  0]LogGfeSDK: Warning: 2018-12-19T17:55:54.673[E] GAME              Core.cpp:126  Failure during NVGSDK_Create: NVGSDK_ERR_LIB_CALL_FAILED Error: Failed initializing SDK
+
+[2018.12.19-16.55.54:672][  0]LogGfeSDK: 2018-12-19T17:55:54.673[I] GAME        Controller.cpp:270  LEAVE BUS
+
+[2018.12.19-16.55.54:672][  0]LogGfeSDK: 2018-12-19T17:55:54.673[D] GAME MessagebusWrapper.cpp:64   Leave Bus
+
+[2018.12.19-16.55.54:673][  0]LogGfeSDK: 2018-12-19T17:55:54.673[I] TASK        TaskRunner.cpp:170  Shutting down TaskRunner thread
+
+[2018.12.19-16.55.54:673][  0]LogGfeSDK: 2018-12-19T17:55:54.673[I] TASK        TaskRunner.cpp:55   Stopping TaskRunner thread. Flushing notifications
+
+[2018.12.19-16.55.54:673][  0]LogGfeSDK: 2018-12-19T17:55:54.673[I] TASK        TaskRunner.cpp:66   Stopped TaskRunner thread
+
+[2018.12.19-16.55.54:673][  0]LogGfeSDK: 2018-12-19T17:55:54.673[D] GAME       FactoryImpl.cpp:72   Release shared messagebus interface directly
+
+[2018.12.19-16.55.54:690][  0]LogGfeSDK: Warning: 2018-12-19T17:55:54.690[E] GAME    CoreCInterface.cpp:79   Error: failed initializing SDK -1023
+
+[2018.12.19-16.55.54:690][  0]LogGfeSDK: 2018-12-19T17:55:54.691[I] GAME              Core.cpp:36   Destroyed GfeSDK
+
+[2018.12.19-16.55.54:690][  0]LogGfeSDK: Error: Failed to create GfeSDK: -1023
+[2018.12.19-16.55.54:690][  0]LogGfeSDK: Warning: Failed to connect to GfeSDK backend
+[2018.12.19-16.55.54:690][  0]LogGfeSDK: FAILED to connect with GfeSDK. Backend Version 1.1 GFE version 3.16.0.140
+[2018.12.19-16.55.54:691][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-16.55.54:691][  0]LogBlueprintContext: Display: Creating blueprint contexts for Local Player ' FortLocalPlayer_2147482532 ' of Game Instance ' FortGameInstance_2147482571 '
+[2018.12.19-16.55.54:692][  0]LogBlueprintContext: Display: Created Blueprint Context 'HomeBaseContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:692][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortMcpContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:692][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortMusicContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:692][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortOutpostContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:692][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortPrototypingContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:692][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortReplayContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:692][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortToyContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:692][  0]LogBlueprintContext: Display: Created Blueprint Context 'LocalServiceMessageContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:692][  0]LogBlueprintContext: Display: Created Blueprint Context 'AthenaAccountContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:692][  0]LogBlueprintContext: Display: Created Blueprint Context 'AthenaHUDContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:692][  0]LogBlueprintContext: Display: Created Blueprint Context 'AthenaProfileStatContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:692][  0]LogBlueprintContext: Display: Created Blueprint Context 'AthenaSpectatorUIContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:693][  0]LogBlueprintContext: Display: Created Blueprint Context 'CMSContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:693][  0]LogBlueprintContext: Display: Created Blueprint Context 'CreativeHUDLContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:693][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortAbilitySystemContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:693][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortAccountStatsContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.54:693][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortHeroManagementContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.55:711][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortHomebaseUIContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.55:711][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortHUDContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.55:711][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortInventoryContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.55:711][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortLeaderboardContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.55:711][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortPickerContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.55:719][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortSettingsContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.55:719][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortStoreContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.55:719][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortTooltipUIContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.55:719][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortTutorialContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.55:719][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortUIDataConfigurationContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.55:719][  0]LogBlueprintContext: Display: Created Blueprint Context 'HUDLayoutToolContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.55:719][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortMatchmakingContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.55:719][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortPartyContext' for Local Player 'FortLocalPlayer_2147482532'
+[2018.12.19-16.55.55:720][  0]LogFortChat: *!* UFortChatManager::InitializeChatManager - 
+[2018.12.19-16.55.55:721][  0]LogInit: Display: Game Engine Initialized.
+[2018.12.19-16.55.55:721][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 1
+[2018.12.19-16.55.55:811][  0]LogGameplayTags: Display: Loading Tag File: ../../../FortniteGame/Config/Tags/GamepadActionNameTags.ini
+[2018.12.19-16.55.55:812][  0]LogGameplayTags: Display: Loading Tag File: ../../../FortniteGame/Config/Tags/LootTags.ini
+[2018.12.19-16.55.55:843][  0]LogFortMemory: PostEngineInit - CPU:1290.33MB (Peak: 1361.23MB)
+[2018.12.19-16.55.55:843][  0]LogInit: Display: Starting Game.
+[2018.12.19-16.55.55:843][  0]LogHotfixManager: Display: Update State UpdateIdle -> UpdatePending
+[2018.12.19-16.55.55:843][  0]LogNet: Browse: /Game/Maps/Frontend?Name=Player
+[2018.12.19-16.55.55:858][  0]LogFortLoadingScreen: Fail to show loading screen when 'IsShowingInitialLoadingScreen()' is true.
+[2018.12.19-16.55.55:858][  0]LogFortLoadingScreen: bCurrentlyInLoadMap is true
+[2018.12.19-16.55.55:862][  0]LogLoad: LoadMap: /Game/Maps/Frontend?Name=Player
+[2018.12.19-16.55.55:889][  0]LogGarbage: Collecting garbage   (GCheckForIllegalMarkPendingKill = 0)
+[2018.12.19-16.55.55:906][  0]LogGarbage: 17.406984 ms for GC
+[2018.12.19-16.55.55:907][  0]LogGarbage: 0.725492 ms for Gather Unreachable Objects (52 objects collected including 0 cluster objects from 0 clusters)
+[2018.12.19-16.55.55:908][  0]LogGarbage: 0.249460 ms for unhashing unreachable objects. Items 52 (52/52)
+[2018.12.19-16.55.55:914][  0]LogGarbage: GC purged 52 objects (299391 -> 299339)
+[2018.12.19-16.55.55:944][  0]LogUObjectHash: Compacting FUObjectHashTables data took  29.60ms
+[2018.12.19-16.55.56:731][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/FrontEnd/Maps/FrontEndStore
+[2018.12.19-16.55.56:731][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/UI/Frontend_BG_Main
+[2018.12.19-16.55.56:731][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/UI/Frontend_STW_Default
+[2018.12.19-16.55.56:731][  0]LogStreaming: Display: /Game/Maps/FrontEnd/Maps/FrontEndStore is prestreaming /Game/Maps/FrontEnd/Maps/FrontEndStore_Pinata
+[2018.12.19-16.55.56:754][  0]LogAIModule: Creating AISystem for world Frontend
+[2018.12.19-16.55.56:756][  0]LogLoad: Game class is 'FortGameModeFrontEnd'
+[2018.12.19-16.55.56:756][  0]LogLevelActorContainer: Created LevelActorCluster (0) for /Game/Maps/FrontEnd/Maps/FrontEndStore.FrontEndStore:PersistentLevel with 34 objects, 0 referenced clusters and 16 mutable objects.
+[2018.12.19-16.55.56:756][  0]LogLevelActorContainer: Created LevelActorCluster (1) for /Game/Maps/UI/Frontend_BG_Main.Frontend_BG_Main:PersistentLevel with 12 objects, 0 referenced clusters and 7 mutable objects.
+[2018.12.19-16.55.56:756][  0]LogLevelActorContainer: Created LevelActorCluster (2) for /Game/Maps/UI/Frontend_STW_Default.Frontend_STW_Default:PersistentLevel with 8 objects, 0 referenced clusters and 9 mutable objects.
+[2018.12.19-16.55.56:758][  0]LogLevelActorContainer: Created LevelActorCluster (3) for /Game/Maps/Frontend.Frontend:PersistentLevel with 6 objects, 0 referenced clusters and 3 mutable objects.
+[2018.12.19-16.55.56:758][  0]LogWorld: Bringing World /Game/Maps/Frontend.Frontend up for play (max tick rate 0) at 2018.12.19-17.55.56
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_DefaultDuo (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_DefaultSolo (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_DefaultSquad (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_33 (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_50v50 (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Close_50 (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_50v50HE (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_50v50SAU (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Disco_32 (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Disco_32_Alt (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Soaring_50s (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_5x20 (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Barrier (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Barrier_12 (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Barrier_16 (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Blades_Duos (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Blades_Solo (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Blades_Squads (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Blitz_Duos (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Blitz_Solo (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Blitz_Squad (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Classic_Duos (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Classic_Solo (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Classic_Squads (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_PlaygroundV2 (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Deimos_50 (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Final_12 (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Final_20 (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Final_50 (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Fortnite (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Fortnite_B_Duos (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Fortnite_B_Solo (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Fortnite_B_Squads (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Ground_Duos (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Ground_Solo (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Ground_Squads (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Hard_Duos (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Hard_Solo (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Hard_Squads (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_FlyExplosives_Duos (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_FlyExplosives_Solo (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_FlyExplosives_Squads (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_HighExplosives_Duos (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_HighExplosives_Solo (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_HighExplosives_Squads (Server Only)
+[2018.12.19-16.55.56:949][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Low_Duos (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Low_Solo (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Low_Squads (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Playground (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Playground16 (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Respawn_24 (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Score_Duos (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Score_Solo (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Score_Squads (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Close_Duos (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Close_Solo (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Close_Squad (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_ShowdownAlt_Duos (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_ShowdownAlt_Solo (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_ShowdownAlt_Squads (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Showdown_Duos (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Showdown_Solo (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Showdown_Squads (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Slide_Duos (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Slide_Solo (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Slide_Squads (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Sneaky_Duos (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Sneaky_Solo (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Sneaky_Squads (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Snipers_Duos (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Snipers_Solo (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Snipers (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Soaring_Duos (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Soaring_Solo (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Soaring_Squads (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_SolidGold_Duos (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_SolidGold_Solo (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_SolidGold_Squads (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Steady_Duos (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Steady_Solo (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Steady_Squads (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Trios (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Vamp_Duo (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Vamp_Solo (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_Vamp_Squad (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_WW_Duos (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_WW_Solo (Server Only)
+[2018.12.19-16.55.56:950][  0]LogFort: PLAYLIST: FortPlaylistManager::IntializePlaylists() Adding Playlist: Playlist_WW_Squads (Server Only)
+[2018.12.19-16.55.56:950][  0]LogOnlineGame: PLAYLIST: Serving ALL available playlists given to client from MCP!
+[2018.12.19-16.55.56:950][  0]LogOnlineGame: PLAYLIST: Excluding NO playlists given to client from MCP!
+[2018.12.19-16.55.56:984][  0]LogFortDayNight: AFortTimeOfDayManager::PostInitializeComponents: World is "Frontend", this is "TODM_Disabled_C_2147482301"
+[2018.12.19-16.55.56:995][  0]LogFortDayNight: Game State in World Frontend is resetting.  TimeOfDayManager is None.
+[2018.12.19-16.55.57:000][  0]LogWorld: Bringing up level for play took: 0.242590
+[2018.12.19-16.55.57:000][  0]LogOnlineGame: Client adding GameAccountId/AuthTicket for local player to login url. FortGameOptions=[ASID={CCD32024-4CAE-293A-8C40-51A9E7C2FCD7}?Platform=WIN?AnalyticsPlat=Windows?bIsFirstServerJoin=1]
+[2018.12.19-16.55.57:005][  0]LogOnlineGame: Server received AuthTicket from client for player: UniqueId:[INVALID] Platform=[WIN] Analytics=[Windows]
+[2018.12.19-16.55.57:037][  0]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2018.12.19-16.55.57:037][  0]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2018.12.19-16.55.57:037][  0]LogParty: Verbose: Failed to get persistent party leader
+[2018.12.19-16.55.57:037][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.12.19-16.55.57:045][  0]LogLevel: ActivateLevel /Game/Maps/FrontEnd/FortniteWorldMap 1 1 1
+[2018.12.19-16.55.57:045][  0]LogFortDayNight: Day phase actor TODM_Disabled_C_2147482301 is setting itself as the day phase handler for the GameState on World Frontend.
+[2018.12.19-16.55.57:045][  0]LogFortDayNight: SetTimeOfDayManager: World is "Frontend", Old TimeOfDayManager: "None", New TimeOfDayManager: "TODM_Disabled_C_2147482301"
+[2018.12.19-16.55.57:045][  0]LogFortDayNight: SetupTimeOfDayCallbacks: World is "Frontend", FortTimeOfDayManager is "TODM_Disabled_C_2147482301"
+[2018.12.19-16.55.57:046][  0]LogFortMusic: Warning: Trying to assign a bank to a music manager that doesn't yet exist.
+[2018.12.19-16.55.57:605][  0]LogConsoleResponse: Scalability mode 1 is now ACTIVE.
+[2018.12.19-16.55.57:605][  0]LogConsoleResponse: Scalability mode 1 applied as highest priority mode active.
+[2018.12.19-16.55.57:607][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.12.19-16.55.57:607][  0]LogHealthSnapshot: ======= Snapshot: Waiting to Start (FortGameStateFrontEnd) =======
+[2018.12.19-16.55.57:607][  0]LogHealthSnapshot: Games Played: 0
+[2018.12.19-16.55.57:607][  0]LogHealthSnapshot: CPU Memory: Used 0.00MB, Peak 0.00MB
+[2018.12.19-16.55.57:607][  0]LogHealthSnapshot: Physical Memory: Used 1154.01MB, Peak 1361.23MB
+[2018.12.19-16.55.57:607][  0]LogHealthSnapshot: =========================================================
+[2018.12.19-16.55.57:608][  0]LogLoad: Took 1.745868 seconds to LoadMap(/Game/Maps/Frontend)
+[2018.12.19-16.55.58:004][  0]LogFortMemory: InitComplete - CPU:1153.92MB (Peak: 1361.23MB)
+[2018.12.19-16.55.58:005][  0]LogLoad: (Engine Initialization) Total time: 35.72 seconds
+[2018.12.19-16.55.58:005][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.19-16.55.58:005][  0]LogCore: Display: Setting hang detector multiplier to 3.0000s. New hang duration: 90.0000s. New present duration: 0.0000s.
+[2018.12.19-16.55.58:014][  0]LogDiscordRPC: FDiscordRPC::OnReady
+[2018.12.19-16.55.58:330][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.19-16.55.58:334][  0]LogSlate: Took 0.000940 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/NotoSans-Bold.ufont' (445K)
+[2018.12.19-16.55.58:337][  0]LogSlate: Took 0.000717 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/NotoSans-Regular.ufont' (445K)
+[2018.12.19-16.55.58:378][  0]LogStreaming: Display: Suspending async loading (1)
+[2018.12.19-16.55.58:404][  0]LogStreaming: Display: Resuming async loading (0)
+[2018.12.19-16.55.58:405][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/FortniteWorldMap) is flushing async loading
+[2018.12.19-16.55.58:405][  0]LogStreaming: Display: Flushing async loaders.
+[2018.12.19-16.55.58:445][  0]LogLevelActorContainer: Created LevelActorCluster (4) for /Game/Maps/FrontEnd/FortniteWorldMap.FortniteWorldMap:PersistentLevel with 16 objects, 0 referenced clusters and 12 mutable objects.
+[2018.12.19-16.55.58:461][  0]LogFortUI: Display: [UFortUIManagerWidget_NUI::NativeTick] change state to Login with current values CurrentState: Invalid and NextState: Invalid
+[2018.12.19-16.55.58:461][  0]LogFortUI: Display: [UFortUIManagerWidget_NUI::SetUIState] states from: Invalid to Login
+[2018.12.19-16.55.58:462][  0]LogFortUI: Display: [UFortUIManagerWidget_NUI::TransitionToNextState] Switching states from: Invalid to Login
+[2018.12.19-16.55.58:462][  0]LogFortUI: [UFortSplashScreenWidget] Enter BeginSplashScreenFlow
+[2018.12.19-16.55.58:463][  0]LogFortUI: [UFortSplashScreenWidget] Enter ShouldBypassSplashScreen
+[2018.12.19-16.55.58:463][  0]LogFortUI: [UFortUIStateWidget_Login] EndSplashScreenFlow
+[2018.12.19-16.55.58:463][  0]LogFortUI: [UFortUIStateWidget_Login] Start update check
+[2018.12.19-16.55.58:463][  0]LogCommonUI: Pushing StatusWidget_C_2147482148 into widget stack LoginFlowStack
+[2018.12.19-16.55.58:463][  0]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel StatusWidget_C_2147482148: 
+[2018.12.19-16.55.58:463][  0]LogCommonInput: Verbose: Input suspension: Started
+[2018.12.19-16.55.58:463][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.12.19-16.55.58:463][  0]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: StatusWidget_C_2147482148
+[2018.12.19-16.55.58:463][  0]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: StatusWidget_C_2147482148
+[2018.12.19-16.55.58:463][  0]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: StatusWidget_C_2147482148
+[2018.12.19-16.55.58:463][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.12.19-16.55.58:463][  0]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.12.19-16.55.58:463][  0]LogOnlineGame: Display: StartUpdateCheck initial update not complete
+[2018.12.19-16.55.58:463][  0]LogOnlineGame: Display: StartUpdateCheck starting update check
+[2018.12.19-16.55.58:463][  0]LogHotfixManager: Display: Update already in progress
+[2018.12.19-16.55.58:479][  1]LogLevel: ActivateLevel /Game/Maps/FortniteTownmap 1 1 1
+[2018.12.19-16.55.58:479][  1]LogHotfixManager: Display: Update State UpdatePending -> CheckingForPatch
+[2018.12.19-16.55.58:479][  1]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.12.19-16.55.58:479][  1]LogOnlineIdentity: OSS: Sending User Privilege request. url=http://127.0.0.1:60101/fortnite/api/v2/versioncheck/Windows?version=%2B%2BFortnite%2BRelease-7.10-CL-4667333-Windows
+[2018.12.19-16.55.58:555][  1]LogFort: Loading GameData: /Game/Balance/AthenaGameData.AthenaGameData ...
+[2018.12.19-16.55.58:556][  1]LogStats:             ... GameData loaded! -  0.001 s
+[2018.12.19-16.55.58:556][  1]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FortniteTownmap) is flushing async loading
+[2018.12.19-16.55.58:563][  1]LogLevelActorContainer: Created LevelActorCluster (5) for /Game/Maps/FortniteTownmap.FortniteTownmap:PersistentLevel with 134 objects, 0 referenced clusters and 7 mutable objects.
+[2018.12.19-16.55.58:569][  1]LogRenderer: Reallocating scene render targets to support 1440x900 Format 9 NumSamples 1 (Frame:1).
+[2018.12.19-16.55.58:569][  1]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/BurbankBigCondensed-Black.ufont' (157K)
+[2018.12.19-16.55.58:572][  2]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.12.19-16.55.58:572][  2]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.12.19-16.55.58:630][  2]LogConsoleResponse: Scalability mode 1 is now INACTIVE.
+[2018.12.19-16.55.58:630][  2]LogOnlineGame: Verbose: OnDisconnectFromLobbyComplete GameSession Success: 1
+[2018.12.19-16.55.58:630][  2]LogParty: Display: Local player [Player] disconnected from lobby. Destroying all team info except the local party.
+[2018.12.19-16.55.58:630][  2]LogFort: SetIsDisconnecting: Player Disconnecting State Change OldState: 0 NewState: 1
+[2018.12.19-16.55.58:631][  2]LogOnline: Warning: NotifyLogout(): Invalid player id
+[2018.12.19-16.55.58:631][  2]LogParty: Display: HandleZonePlayerStateRemoved: [INVALID]
+[2018.12.19-16.55.58:631][  2]LogFortPlayerRegistration: UFortGameInstance::UnregisterAllPlayerInfos called with 0 registered players; bServerRestarting: False
+[2018.12.19-16.55.58:631][  2]LogBlueprintContext: Display: Destroying blueprint contexts for Local Player ' FortLocalPlayer_2147482532 ' of Game Instance ' FortGameInstance_2147482571 '
+[2018.12.19-16.55.59:518][  2]LogStreaming: Display: Suspending async loading (1)
+[2018.12.19-16.55.59:531][  2]LogStreaming: Display: Resuming async loading (0)
+[2018.12.19-16.55.59:533][  2]LogSlate: Request Window 'Fortnite  ' being destroyed
+[2018.12.19-16.55.59:533][  2]LogStreaming: Display: Suspending async loading (1)
+[2018.12.19-16.55.59:588][  2]LogStreaming: Display: Resuming async loading (0)
+[2018.12.19-16.55.59:590][  2]LogSlate: Window 'Fortnite  ' being destroyed
+[2018.12.19-16.55.59:637][  2]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.19-16.55.59:639][  2]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.19-16.56.00:345][  2]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.19-16.56.00:345][  2]LogExit: Preparing to exit.
+[2018.12.19-16.56.00:517][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-16.56.00:539][  2]LogOnline: Display: OSS: Removing 2 named interfaces
+[2018.12.19-16.56.00:548][  2]LogExit: Game engine shut down
+[2018.12.19-16.56.00:814][  2]LogGarbage: GC purged 236161 objects (417577 -> 181416)
+[2018.12.19-16.56.00:966][  2]LogGarbage: GC purged 417629 objects (417577 -> -52)
+[2018.12.19-16.56.00:966][  2]LogGarbage: Freed 576b from 1 GC array pools.
+[2018.12.19-16.56.00:968][  2]LogExit: Object subsystem successfully closed.
+[2018.12.19-16.56.01:017][  2]LogD3D11RHI: Shutdown
+[2018.12.19-16.56.01:017][  2]LogD3D11RHI: CleanupD3DDevice
+[2018.12.19-16.56.01:081][  2]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.19-16.56.01:081][  2]LogHttp: Warning: 00000169EF7C8140: request failed, libcurl error: 0 (No error)
+[2018.12.19-16.56.01:081][  2]LogHttp: Warning: 00000169EF7C8140: request failed, libcurl error: 0 (No error)
+[2018.12.19-16.56.01:081][  2]LogModuleManager: Shutting down and abandoning module GameFeedback (238)
+[2018.12.19-16.56.01:081][  2]LogModuleManager: Shutting down and abandoning module AIModule (236)
+[2018.12.19-16.56.01:081][  2]LogModuleManager: Shutting down and abandoning module NavigationSystem (235)
+[2018.12.19-16.56.01:081][  2]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (232)
+[2018.12.19-16.56.01:081][  2]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (230)
+[2018.12.19-16.56.01:081][  2]LogModuleManager: Shutting down and abandoning module SessionServices (228)
+[2018.12.19-16.56.01:081][  2]LogModuleManager: Shutting down and abandoning module AnalyticsET (226)
+[2018.12.19-16.56.01:081][  2]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (224)
+[2018.12.19-16.56.01:081][  2]LogModuleManager: Shutting down and abandoning module MovieScene (222)
+[2018.12.19-16.56.01:081][  2]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (220)
+[2018.12.19-16.56.01:081][  2]LogModuleManager: Shutting down and abandoning module SocialDefaults (218)
+[2018.12.19-16.56.01:081][  2]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (216)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module BackChannel (214)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module AppleImageUtils (212)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module Vivox (210)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module GameSubCatalog (208)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module McpProfileSys (206)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module SpeechGraphics (204)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module FacialAnimSystem (202)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module MIDIDevice (200)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module TimeSynth (198)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module WinDualShock (196)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module UACBase (194)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module UACCommon (192)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module UACServer (190)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module SubtitlesWidgets (188)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module SocialUMG (186)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module SocialTypes (184)
+[2018.12.19-16.56.01:082][  2]LogModuleManager: Shutting down and abandoning module Social (182)
+[2018.12.19-16.56.01:083][  2]LogModuleManager: Shutting down and abandoning module RazerChroma (180)
+[2018.12.19-16.56.01:108][  2]LogModuleManager: Shutting down and abandoning module PurchaseFlow (178)
+[2018.12.19-16.56.01:108][  2]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (176)
+[2018.12.19-16.56.01:108][  2]LogModuleManager: Shutting down and abandoning module OodleHandlerComponent (174)
+[2018.12.19-16.56.01:108][  2]LogModuleManager: Shutting down and abandoning module NetUI (164)
+[2018.12.19-16.56.01:108][  2]LogModuleManager: Shutting down and abandoning module MatchmakingServiceDedicatedServer (160)
+[2018.12.19-16.56.01:108][  2]LogModuleManager: Shutting down and abandoning module MatchmakingServiceClient (158)
+[2018.12.19-16.56.01:108][  2]LogModuleManager: Shutting down and abandoning module LogitechLED (156)
+[2018.12.19-16.56.01:108][  2]LogModuleManager: Shutting down and abandoning module LiveStreamVoice (154)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module ImagePlate (152)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module LoginFlow (150)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module PlayTimeLimit (148)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module Rejoin (146)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module Hotfix (144)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module Lobby (142)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module Party (140)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module Qos (138)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module EpicCMS (136)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module DiscordRPC (134)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module CommonInput (132)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module AndroidPermission (130)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (128)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module AESHandlerComponent (126)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module FortniteUI (124)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module EpicCMSUIFramework (123)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module CommonUI (121)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module FortniteGame (118)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module UACClient (117)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module EpicGameplayStatsRuntime (114)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module PhysXVehicles (112)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module Paper2D (110)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module ReplicationGraph (108)
+[2018.12.19-16.56.01:109][  2]LogModuleManager: Shutting down and abandoning module LiveLink (106)
+[2018.12.19-16.56.01:303][  2]LogModuleManager: Shutting down and abandoning module GameplayAbilities (104)
+[2018.12.19-16.56.01:303][  2]LogModuleManager: Shutting down and abandoning module ControlRig (102)
+[2018.12.19-16.56.01:303][  2]LogModuleManager: Shutting down and abandoning module LevelSequence (101)
+[2018.12.19-16.56.01:303][  2]LogModuleManager: Shutting down and abandoning module BlueprintContext (98)
+[2018.12.19-16.56.01:303][  2]LogModuleManager: Shutting down and abandoning module SignificanceManager (96)
+[2018.12.19-16.56.01:303][  2]LogModuleManager: Shutting down and abandoning module AnimationSharing (94)
+[2018.12.19-16.56.01:303][  2]LogModuleManager: Shutting down and abandoning module AnimationBudgetAllocator (92)
+[2018.12.19-16.56.01:303][  2]LogModuleManager: Shutting down and abandoning module WmfMedia (90)
+[2018.12.19-16.56.01:303][  2]LogModuleManager: Shutting down and abandoning module Media (89)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module FortniteEngineLoadingScreen (86)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module PacketHandler (84)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (82)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module MediaAssets (80)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module Overlay (78)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module MRMesh (72)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module Messaging (70)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (68)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module XAudio2 (66)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module Networking (64)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module Core (60)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module PlatformCrypto (58)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module ImageWrapper (54)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module InputCore (52)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module PhysXCooking (50)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module HTTPChunkInstaller (48)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (46)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (44)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module NVIDIAGfeSDK (42)
+[2018.12.19-16.56.01:309][  2]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (38)
+[2018.12.19-16.56.01:310][  2]LogOnline: MCP: Mcp Shutdown!
+[2018.12.19-16.56.01:310][  2]LogOnline: Facebook: Facebook Shutdown!
+[2018.12.19-16.56.01:310][  2]LogOnline: Google: Google Shutdown!
+[2018.12.19-16.56.01:310][  2]LogModuleManager: Shutting down and abandoning module XMPP (35)
+[2018.12.19-16.56.01:310][  2]LogModuleManager: Shutting down and abandoning module WebSockets (34)
+[2018.12.19-16.56.01:344][  2]LogModuleManager: Shutting down and abandoning module HTTP (31)
+[2018.12.19-16.56.01:348][  2]LogModuleManager: Shutting down and abandoning module SSL (30)
+[2018.12.19-16.56.01:349][  2]LogModuleManager: Shutting down and abandoning module Crashlytics (26)
+[2018.12.19-16.56.01:349][  2]LogModuleManager: Shutting down and abandoning module ShaderCore (24)
+[2018.12.19-16.56.01:349][  2]LogModuleManager: Shutting down and abandoning module Landscape (22)
+[2018.12.19-16.56.01:350][  2]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (20)
+[2018.12.19-16.56.01:350][  2]LogModuleManager: Shutting down and abandoning module OpenGLDrv (18)
+[2018.12.19-16.56.01:350][  2]LogModuleManager: Shutting down and abandoning module D3D11RHI (16)
+[2018.12.19-16.56.01:350][  2]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (14)
+[2018.12.19-16.56.01:350][  2]LogModuleManager: Shutting down and abandoning module Renderer (12)
+[2018.12.19-16.56.01:350][  2]LogModuleManager: Shutting down and abandoning module Engine (10)
+[2018.12.19-16.56.01:350][  2]LogModuleManager: Shutting down and abandoning module CoreUObject (8)
+[2018.12.19-16.56.01:350][  2]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2018.12.19-16.56.01:350][  2]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2018.12.19-16.56.01:350][  2]LogModuleManager: Shutting down and abandoning module LauncherCheck (2)
+[2018.12.19-16.56.01:353][  2]LogExit: Exiting.
+[2018.12.19-16.56.01:362][  2]Log file closed, 12/19/18 17:56:01

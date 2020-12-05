@@ -1,0 +1,1241 @@
+Log file open, 10/30/19 20:21:22
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to 
+
+default.
+OodleCompression: Display: Oodle initializing compressor with Mermaid, level Normal, SpaceSpeed tradeoff 
+
+256
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: MCP: Mcp Startup!
+LogOnline: OSS: Creating online subsystem instance for: MCP
+LogOnlineVoice: OSS: Voice interface disabled by config [OnlineSubsystem].bHasVoiceEnabled
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [MCP]
+LogInit: Build: ++Fortnite+Release-11.10-CL-9844520
+LogInit: Engine Version: 4.24.0-9844520+++Fortnite+Release-11.10
+LogInit: Compatible Engine Version: 4.24.0-9843882+++Fortnite+Release-11.10
+LogInit: Net CL: 9199180
+LogInit: OS: Windows 7 (Service Pack 1), CPU:        Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz, GPU: NVIDIA 
+
+GeForce GTX 960
+LogInit: Compiled (64-bit): Oct 25 2019 17:45:43
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Fortnite+Release-11.10
+LogInit: Filtered Command Line: -obfuscationid=UZdFTmhsTz4-4fKWHk-ZoPJIFRpLRg -epicusername=sigri44 -
+
+epicuserid=93e080f3ac3d410a94d86b00fd0a654f -epiclocale=fr-FR -noeac -fromfl=be -
+
+fltoken=d39ae5f0f198hbh041i0bd90 -frombe
+LogInit: Base Directory: B:/Program Files/Epic Games/Fortnite/FortniteGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 
+
+21825792 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true, 
+
+Async Post Load: true
+LogInit: Object subsystem initialized
+LogFortMemory: AppInit - CPU:376.04MB (Peak: 376.04MB)
+[2019.10.30-19.22.26:689][117]LogParty: Verbose: PopulateRejoinablePlayersFromPartyState: Adding player 
+
+MCP:93e080f3ac3d410a94d86b00fd0a654f to our rejoinable list
+[2019.10.30-19.22.26:689][117]LogParty: Verbose: OnRep_PlayerState: No PartyJoinInfo
+[2019.10.30-19.22.26:689][117]LogFort: AFortPlayerControllerAthena::AddCachedRecentPlayers, Num Squad 
+
+Members: 0, bHasGameState 0
+[2019.10.30-19.22.26:689][117]LogFortPlayerRegistration: BindToState(AFortPlayerState* State) trying to 
+
+initialize ability system actor
+[2019.10.30-19.22.26:689][117]LogFortPlayerRegistration: UpdateAbilitySystemActor with no 
+
+PlayerController, Initializing [sigri44]
+[2019.10.30-19.22.26:689][117]LogFortPlayerRegistration: InitializeAbilitySystemActor initialized with 
+
+valid zone state for sigri44
+[2019.10.30-19.22.26:689][117]LogFort: World Inventory received
+[2019.10.30-19.22.26:871][132]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.26:871][132]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.26:871][132]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.27:058][154]LogFort: OnRep_bHasServerFinishedLoading 1
+[2019.10.30-19.22.27:426][197]LogBlueprint: Warning: 
+
+USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 
+
+'Sprite' for 'MusicA' in BlueprintGeneratedClass 'Mutator_DADBRO_C' (it may have been removed)
+[2019.10.30-19.22.27:426][197]LogBlueprint: Warning: 
+
+USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 
+
+'Sprite' for 'MusicB' in BlueprintGeneratedClass 'Mutator_DADBRO_C' (it may have been removed)
+[2019.10.30-19.22.27:452][199]LogParty: Display: HandleZonePlayerStateInitialized: 
+
+[MCP:93e080f3ac3d410a94d86b00fd0a654f]
+[2019.10.30-19.22.27:475][199]LogChartCreation: Started creating FPS charts at 16786351.311522 seconds
+[2019.10.30-19.22.27:475][199]LogUnicornDriver: Unicorn driver will not run - state not correct
+[2019.10.30-19.22.27:475][199]LogHealthSnapshot: ======= Snapshot: Waiting to Start (Athena_GameState_C, 
+
+Difficulty 0.00) =======
+[2019.10.30-19.22.27:475][199]LogHealthSnapshot: Games Played: 0
+[2019.10.30-19.22.27:475][199]LogHealthSnapshot: CPU Memory: Used 0.00MB, Peak 0.00MB
+[2019.10.30-19.22.27:475][199]LogHealthSnapshot: Physical Memory: Used 1940.59MB, Peak 1987.54MB
+[2019.10.30-19.22.27:475][199]LogHealthSnapshot: =========================================================
+[2019.10.30-19.22.27:475][199]LogFortDayNight: SetupTimeOfDayCallbacks: World is "Apollo_Terrain", 
+
+FortTimeOfDayManager is "TODM_BR_s11_C_2147477698"
+[2019.10.30-19.22.27:475][199]LogFort: Client gameplay tag hash is 888e3cef
+[2019.10.30-19.22.27:475][199]LogFort: Server gameplay tag hash is 888e3cef
+[2019.10.30-19.22.27:475][199]LogFort: Client is running CL 9844520
+[2019.10.30-19.22.27:475][199]LogFort: Server is running CL 9883041
+[2019.10.30-19.22.27:475][199]LogFort: Warning: Client and Server are on different CLs
+[2019.10.30-19.22.27:475][199]LogParty: Verbose: UpdateChangeCallbacks: Getting Team Member Info for 
+
+[sigri44] Id [MCP:93e080f3ac3d410a94d86b00fd0a654f].
+[2019.10.30-19.22.27:475][199]LogParty: Verbose: [sigri44] Id [MCP:93e080f3ac3d410a94d86b00fd0a654f] team 
+
+member data updated, team [MAX] at index [0] in [sigri44]'s game.
+[2019.10.30-19.22.27:475][199]LogParty: Verbose: Got bad homebase data
+[2019.10.30-19.22.27:475][199]LogStreaming: Display: Flushing async loaders.
+[2019.10.30-19.22.28:544][199]LogFort: PLAYLIST: Playlist Object replicated to client in 
+
+AFortGameStateAthena::OnRep_CurrentPlaylistInfo() PlaylistName is Playlist_DADBRO_Squads_12 (Client Only)
+[2019.10.30-19.22.28:544][199]LogFort: PLAYLIST: Playlist Object is loading its assets in 
+
+AFortGameStateAthena::LoadCurrentPlaylistData(), PlaylistName is Playlist_DADBRO_Squads_12 (Client Side)
+[2019.10.30-19.22.28:546][199]LogFort: Paused FPSChart
+[2019.10.30-19.22.28:548][200]LogParty: FSocialQuery_UserInfo executing for [5] users on subsystem 
+
+[Primary]
+[2019.10.30-19.22.28:548][200]LogParty: FSocialQuery_AvatarInfo executing for [5] users on subsystem 
+
+[Primary]
+[2019.10.30-19.22.28:642][210]LogFort: PLAYLIST: Playlist Object finished loading its assets in 
+
+AFortGameStateAthena::OnPlaylistDataLoadCompleted(), PlaylistName is Playlist_DADBRO_Squads_12 (Server AND 
+
+Client)
+[2019.10.30-19.22.28:653][210]LogFort: Determining Loot Based Item Defs to Load : ...
+[2019.10.30-19.22.28:658][210]LogFort: **** Preloading Item Defs from PLAYLIST - COUNT = 26
+[2019.10.30-19.22.28:658][210]LogStats:     ... Loot Item Defs determined! -  0.005 s
+[2019.10.30-19.22.28:658][210]LogFort: PLAYLIST: Playlist Object finished loading its assets in 
+
+AFortGameStateAthena::OnPlaylistDataLoadCompleted(), PlaylistName is Playlist_DADBRO_Squads_12 (Server AND 
+
+Client)
+[2019.10.30-19.22.28:658][210]LogFort: Determining Loot Based Item Defs to Load : ...
+[2019.10.30-19.22.28:660][210]LogFort: **** Preloading Item Defs from PLAYLIST - COUNT = 26
+[2019.10.30-19.22.28:660][210]LogStats:     ... Loot Item Defs determined! -  0.002 s
+[2019.10.30-19.22.28:905][232]LogParty: FSocialQuery_UserInfo completed query for [5] users on subsystem 
+
+[Primary] with error []
+[2019.10.30-19.22.29:021][245]LogFort: Display: SetHasFinishedLoading bHasClientFinishedLoading: 0 
+
+bInHasFinishedLoading: 1 Player: MCP:93e080f3ac3d410a94d86b00fd0a654f
+[2019.10.30-19.22.29:021][245]LogFort: AFortPlayerController::OnReadyToStartMatch: Marking player 
+
+MCP:93e080f3ac3d410a94d86b00fd0a654f ready to start
+[2019.10.30-19.22.29:021][245]LogFort: ClearCachedReports IN OnReadyToStartMatch!
+[2019.10.30-19.22.29:023][245]LogFortUI: Display: [UFortUIManagerWidget_NUI::NativeTick] change state to 
+
+InGame_BR with current values CurrentState: Invalid and NextState: Invalid
+[2019.10.30-19.22.29:023][245]LogFortUI: Display: [UFortUIManagerWidget_NUI::SetUIState] states from: 
+
+Invalid to InGame_BR
+[2019.10.30-19.22.29:052][245]LogFort: UFortSocialPanelView_UserLists::EvaluatePartyMembersInChat - 
+
+PartyMember: sigri44  Status: Enabled
+[2019.10.30-19.22.29:052][245]LogFort: UFortSocialPanelView_UserLists::EvaluatePartyMembersInChat - 
+
+PartyMember: sigri44  Status: Enabled
+[2019.10.30-19.22.29:054][245]LogFort: UFortBladeMenu_MainMenu::NativeOnInitialized bInGame:1 bIsKairos:0
+[2019.10.30-19.22.29:054][245]LogDataTable: Warning: UDataTable::FindRow : 
+
+'UFortGlobalUIContext::GetHealthyGamingData' requested row 'fr' not in DataTable 
+
+'/Game/UI/Foundation/Config/HealthyGamingData.HealthyGamingData'.
+[2019.10.30-19.22.29:054][245]LogFortUI: Display: [UFortUIManagerWidget_NUI::TransitionToNextState] 
+
+Switching states from: Invalid to InGame_BR
+[2019.10.30-19.22.29:109][245]LogSlate: Toggling fast path.  New State: 1
+[2019.10.30-19.22.29:113][246]LogParty: FSocialQuery_AvatarInfo completed query for [5] users on subsystem
+[2019.10.30-19.22.29:116][246]LogFortGameUI: Refreshing Capture in AFortInGameMapManager::WorldReady() 
+
+since client has 'finished initialization'.
+[2019.10.30-19.22.30:556][417]LogFort: Warning: Client timing out (no server replication in 2.01 seconds)
+[2019.10.30-19.22.30:556][417]LogFort: Warning: Client timing out after > 2.00 seconds, blocking 
+
+action/movement input!
+[2019.10.30-19.22.30:589][421]LogFort: MatchState changed previous=WaitingToStart current=InProgress
+[2019.10.30-19.22.30:589][421]LogHealthSnapshot: ======= Snapshot: Start of Match (Athena_GameState_C, 
+
+Difficulty 0.00) =======
+[2019.10.30-19.22.30:589][421]LogHealthSnapshot: Games Played: 0
+[2019.10.30-19.22.30:589][421]LogHealthSnapshot: CPU Memory: Used 0.00MB, Peak 0.00MB
+[2019.10.30-19.22.30:589][421]LogHealthSnapshot: Physical Memory: Used 1994.02MB, Peak 2008.21MB
+[2019.10.30-19.22.30:589][421]LogHealthSnapshot: =========================================================
+[2019.10.30-19.22.30:594][421]LogFort: Warning: Client recovered from timeout, unlocking action/movement 
+
+input.
+[2019.10.30-19.22.30:800][445]LogVoiceChatManager: Setting channel type GameServer to 
+
+EU.Any.250f7085f2c04009a897992cb05909a1.1
+[2019.10.30-19.22.30:800][445]LogFort: AFortPlayerControllerZone::OnRep_VoiceChatChannel - joining game 
+
+voice channel: b:0
+[2019.10.30-19.22.30:800][445]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.30:800][445]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.30:800][445]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.30:800][445]LogParty: Display: HandleZonePlayerStateInitialized: [MCP:9ee90...bf119]
+[2019.10.30-19.22.30:801][445]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.30:801][445]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.30:801][445]LogFort: AFortPlayerControllerAthena::AddCachedRecentPlayers, Num Squad 
+
+Members: 2, bHasGameState 1
+[2019.10.30-19.22.30:801][445]LogParty: Warning: SocialUser [MCP:30fa7...d3fdb] is establishing new recent 
+
+player info on [Primary], but the existing info is still valid.
+[2019.10.30-19.22.30:801][445]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.30:801][445]LogFort: AFortPlayerControllerAthena::AddCachedRecentPlayers, Num Squad 
+
+Members: 2, bHasGameState 1
+[2019.10.30-19.22.30:801][445]LogParty: Display: HandleZonePlayerStateInitialized: [MCP:160d1...12989]
+[2019.10.30-19.22.30:805][445]LogFortPlayerRegistration: UpdateAbilitySystemActor with no 
+
+PlayerController, Initializing [sigri44]
+[2019.10.30-19.22.30:805][445]LogFortPlayerRegistration: InitializeAbilitySystemActor initialized with 
+
+valid zone state for sigri44
+[2019.10.30-19.22.30:817][447]LogStaticMesh: [S_Gnomon] Mesh is marked for CPU read.
+[2019.10.30-19.22.30:979][447]LogRenderTargetPool: Warning: r.RenderTargetPoolMin exceeded 311/300 MB (ok 
+
+in editor, bad on fixed memory platform)
+[2019.10.30-19.22.30:981][447]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial 
+
+start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is 
+
+smaller than (Time + InitialStartDelay).
+[2019.10.30-19.22.30:981][447]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial 
+
+start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is 
+
+smaller than (Time + InitialStartDelay).
+[2019.10.30-19.22.30:981][447]LogFort: Attempting to add harvesting tool WID_Harvest_Pickaxe_StreetRacer 
+
+to quickbar 3 in slot -3.
+[2019.10.30-19.22.30:981][447]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147476512 Outil 
+
+de collecte with GUID: -1512683444 -909357070 -1627819277 446028944
+[2019.10.30-19.22.30:981][447]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147476511  with 
+
+GUID: -1552844742 877086770 -1248480282 1008055297
+[2019.10.30-19.22.30:981][447]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147476510  with 
+
+GUID: 2085509480 1007370384 -1451005454 1296540514
+[2019.10.30-19.22.30:981][447]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147476509  with 
+
+GUID: 1821067174 -1538243035 -1850090820 -59605466
+[2019.10.30-19.22.30:981][447]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147476508  with 
+
+GUID: -1000920334 1318209823 -1767605507 182214282
+[2019.10.30-19.22.30:982][447]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.30:982][447]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.30:982][447]LogFort: AFortPlayerControllerAthena::AddCachedRecentPlayers, Num Squad 
+
+Members: 2, bHasGameState 1
+[2019.10.30-19.22.30:982][447]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.30:982][447]LogFort: AFortPlayerControllerAthena::AddCachedRecentPlayers, Num Squad 
+
+Members: 2, bHasGameState 1
+[2019.10.30-19.22.30:982][447]LogParty: Display: HandleZonePlayerStateInitialized: [MCP:4b636...9e0d7]
+[2019.10.30-19.22.30:982][447]LogFort: AFortGameStateAthena::NotifyGameMemberAdded: Didn't find existing 
+
+player state with UniqueId: MCP:5f8c7...3d84f, in team: 3, and in squad: 3
+[2019.10.30-19.22.30:982][447]LogFort: AFortGameStateAthena::NotifyGameMemberAdded: Didn't find existing 
+
+player state with UniqueId: MCP:58fa8...5b187, in team: 3, and in squad: 4
+[2019.10.30-19.22.30:982][447]LogFort: AFortGameStateAthena::NotifyGameMemberAdded: Adding Player state 
+
+with UniqueId: MCP:160d1...12989, in team: 3, and in squad: 1
+[2019.10.30-19.22.30:984][447]LogFort: AFortPlayerControllerAthena::HandleGameMemberAdded Squad Member 
+
+Added
+[2019.10.30-19.22.30:984][447]LogFort: AFortPlayerControllerAthena::AddCachedRecentPlayers, Num Squad 
+
+Members: 3, bHasGameState 1
+[2019.10.30-19.22.30:984][447]LogFort: AFortGameStateAthena::NotifyGameMemberAdded: Adding Player state 
+
+with UniqueId: MCP:9ee90...bf119, in team: 3, and in squad: 3
+[2019.10.30-19.22.30:985][447]LogFort: AFortGameStateAthena::NotifyGameMemberAdded: Adding Player state 
+
+with UniqueId: MCP:4b636...9e0d7, in team: 3, and in squad: 1
+[2019.10.30-19.22.30:987][447]LogFort: AFortPlayerControllerAthena::HandleGameMemberAdded Squad Member 
+
+Added
+[2019.10.30-19.22.30:987][447]LogFort: AFortPlayerControllerAthena::AddCachedRecentPlayers, Num Squad 
+
+Members: 4, bHasGameState 1
+[2019.10.30-19.22.30:987][447]LogParty: Verbose: UpdateChangeCallbacks: Getting Team Member Info for 
+
+[sigri44] Id [MCP:93e080f3ac3d410a94d86b00fd0a654f].
+[2019.10.30-19.22.30:987][447]LogParty: Verbose: [sigri44] Id [MCP:93e080f3ac3d410a94d86b00fd0a654f] team 
+
+member data updated, team [MAX] at index [0] in [sigri44]'s game.
+[2019.10.30-19.22.30:987][447]LogParty: Verbose: Got bad homebase data
+[2019.10.30-19.22.31:001][448]LogParty: FSocialQuery_UserInfo executing for [3] users on subsystem 
+
+[Primary]
+[2019.10.30-19.22.31:001][448]LogParty: FSocialQuery_AvatarInfo executing for [3] users on subsystem 
+
+[Primary]
+[2019.10.30-19.22.31:101][453]LogFortWorld: World Generation random stream initialized using seed 15165
+[2019.10.30-19.22.31:117][454]LogParty: FSocialQuery_UserInfo completed query for [3] users on subsystem 
+
+[Primary] with error []
+[2019.10.30-19.22.31:117][454]LogParty: Warning: SocialUser [MCP:160d1...12989] is establishing new recent 
+
+player info on [Primary], but the existing info is still valid.
+[2019.10.30-19.22.31:117][454]LogParty: Warning: SocialUser [MCP:4b636...9e0d7] is establishing new recent 
+
+player info on [Primary], but the existing info is still valid.
+[2019.10.30-19.22.31:123][454]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.31:123][454]LogFort: AFortGameStateAthena::CheckAndAddMissedPlayerStatesToMaps(): Added 
+
+missed player state to team and squad map, with UniqueId: MCP:58fa8...5b187, in team: 3 and squad: 4.
+[2019.10.30-19.22.31:124][454]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.31:124][454]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.31:124][454]LogParty: Display: HandleZonePlayerStateInitialized: [MCP:58fa8...5b187]
+[2019.10.30-19.22.31:124][454]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.31:124][454]LogFort: AFortGameStateAthena::CheckAndAddMissedPlayerStatesToMaps(): Added 
+
+missed player state to team and squad map, with UniqueId: MCP:5f8c7...3d84f, in team: 3 and squad: 3.
+[2019.10.30-19.22.31:126][454]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.31:126][454]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.31:126][454]LogParty: Display: HandleZonePlayerStateInitialized: [MCP:5f8c7...3d84f]
+[2019.10.30-19.22.31:131][455]LogParty: FSocialQuery_UserInfo executing for [2] users on subsystem 
+
+[Primary]
+[2019.10.30-19.22.31:131][455]LogParty: FSocialQuery_AvatarInfo executing for [2] users on subsystem 
+
+[Primary]
+[2019.10.30-19.22.31:185][458]LogParty: FSocialQuery_AvatarInfo completed query for [3] users on subsystem 
+
+[Primary] with error []
+[2019.10.30-19.22.31:185][458]LogParty: UFortSocialUser::HandleAvatarImageDownloadComplete - Received CMS 
+
+Texture /Engine/Transient.CMS-Texture_cid_005_athena_commando_m_default_2147481583 for User Epson_2019
+[2019.10.30-19.22.31:185][458]LogEpicCMS: Adding Request: 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_229_958
+
+a137116daaab28a7be438028c50991162c76018dbcb6faa03c0677b01b9a3.png?preview=1
+[2019.10.30-19.22.31:185][458]LogEpicCMS: Adding Request: 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_250_bf7
+
+55859df4255f65fee62ae31ff4336b72ac4bda211348fe7a37fc0bb5799b6.png?preview=1
+[2019.10.30-19.22.31:188][458]LogEpicCMS: Processing Request: 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_229_958
+
+a137116daaab28a7be438028c50991162c76018dbcb6faa03c0677b01b9a3.png?preview=1
+[2019.10.30-19.22.31:188][458]LogEpicCMS: Processing Request: 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_250_bf7
+
+55859df4255f65fee62ae31ff4336b72ac4bda211348fe7a37fc0bb5799b6.png?preview=1
+[2019.10.30-19.22.31:197][459]LogEpicCMS: 
+
+'https://cdn2.unrealengine.com/Kairos/portraits/cid_250_bf755859df4255f65fee62ae31ff4336b72ac4bda211348fe7
+
+a37fc0bb5799b6.png?preview=1' was not present in the cache, downloading...
+[2019.10.30-19.22.31:205][460]LogEpicCMS: 
+
+'https://cdn2.unrealengine.com/Kairos/portraits/cid_229_958a137116daaab28a7be438028c50991162c76018dbcb6faa
+
+03c0677b01b9a3.png?preview=1' was not present in the cache, downloading...
+[2019.10.30-19.22.31:247][462]LogParty: FSocialQuery_UserInfo completed query for [2] users on subsystem 
+
+[Primary] with error []
+[2019.10.30-19.22.31:380][468]LogParty: FSocialQuery_AvatarInfo completed query for [2] users on subsystem 
+
+[Primary] with error []
+[2019.10.30-19.22.31:380][468]LogParty: UFortSocialUser::HandleAvatarImageDownloadComplete - Received CMS 
+
+Texture /Engine/Transient.CMS-Texture_cid_007_athena_commando_m_default_2147481595 for User Tomoblaster
+[2019.10.30-19.22.31:380][468]LogParty: UFortSocialUser::HandleAvatarImageDownloadComplete - Received CMS 
+
+Texture /Engine/Transient.CMS-Texture_cid_006_athena_commando_m_default_2147481585 for User ㅤuNp DRAFTSㅤㅤ
+[2019.10.30-19.22.31:380][468]LogEpicCMS: Error: Write of file 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_229_958
+
+a137116daaab28a7be438028c50991162c76018dbcb6faa03c0677b01b9a3.png?preview=1 failed, err: L’opération a 
+
+réussi.
+[2019.10.30-19.22.31:381][468]LogEpicCMS: Uncompressing image tool 0.000699s
+[2019.10.30-19.22.31:381][468]LogEpicCMS: Error: Write of file 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_250_bf7
+
+55859df4255f65fee62ae31ff4336b72ac4bda211348fe7a37fc0bb5799b6.png?preview=1 failed, err: L’opération a 
+
+réussi.
+[2019.10.30-19.22.31:381][468]LogEpicCMS: File Read: 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_229_958
+
+a137116daaab28a7be438028c50991162c76018dbcb6faa03c0677b01b9a3.png?preview=1
+[2019.10.30-19.22.31:381][468]LogEpicCMS: Creating Texture (128x128): 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_229_958
+
+a137116daaab28a7be438028c50991162c76018dbcb6faa03c0677b01b9a3.png?preview=1
+[2019.10.30-19.22.31:381][468]LogEpicCMS: Texture Cache Add: 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_229_958
+
+a137116daaab28a7be438028c50991162c76018dbcb6faa03c0677b01b9a3.png?preview=1
+[2019.10.30-19.22.31:381][468]LogEpicCMS: Texture Creation Complete (Callback: Bound): 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_229_958
+
+a137116daaab28a7be438028c50991162c76018dbcb6faa03c0677b01b9a3.png?preview=1
+[2019.10.30-19.22.31:381][468]LogParty: UFortSocialUser::HandleAvatarImageDownloadComplete - Received CMS 
+
+Texture /Engine/Transient.CMS-
+
+Texture_cid_229_958a137116daaab28a7be438028c50991162c76018dbcb6faa03c0677b01b9a3_2147476318 for User 
+
+shakedsaban1608
+[2019.10.30-19.22.31:382][468]LogEpicCMS: Completing Request: 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_229_958
+
+a137116daaab28a7be438028c50991162c76018dbcb6faa03c0677b01b9a3.png?preview=1
+[2019.10.30-19.22.31:382][468]LogEpicCMS: Uncompressing image tool 0.000816s
+[2019.10.30-19.22.31:382][468]LogEpicCMS: File Read: 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_250_bf7
+
+55859df4255f65fee62ae31ff4336b72ac4bda211348fe7a37fc0bb5799b6.png?preview=1
+[2019.10.30-19.22.31:382][468]LogEpicCMS: Creating Texture (128x128): 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_250_bf7
+
+55859df4255f65fee62ae31ff4336b72ac4bda211348fe7a37fc0bb5799b6.png?preview=1
+[2019.10.30-19.22.31:382][468]LogEpicCMS: Texture Cache Add: 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_250_bf7
+
+55859df4255f65fee62ae31ff4336b72ac4bda211348fe7a37fc0bb5799b6.png?preview=1
+[2019.10.30-19.22.31:382][468]LogEpicCMS: Texture Creation Complete (Callback: Bound): 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_250_bf7
+
+55859df4255f65fee62ae31ff4336b72ac4bda211348fe7a37fc0bb5799b6.png?preview=1
+[2019.10.30-19.22.31:382][468]LogParty: UFortSocialUser::HandleAvatarImageDownloadComplete - Received CMS 
+
+Texture /Engine/Transient.CMS-
+
+Texture_cid_250_bf755859df4255f65fee62ae31ff4336b72ac4bda211348fe7a37fc0bb5799b6_2147476316 for User mega 
+
+zombie1235
+[2019.10.30-19.22.31:382][468]LogEpicCMS: Completing Request: 
+
+../../../FortniteGame/PersistentDownloadDir/CMS/Files/8567C6EC99B6B7E0696FCAF7A7E738049C165DD0/cid_250_bf7
+
+55859df4255f65fee62ae31ff4336b72ac4bda211348fe7a37fc0bb5799b6.png?preview=1
+[2019.10.30-19.22.31:536][476]LogFort: Display: [FortCustomizationAssetLoader 
+
+CP_Head_Med_Soldier_M_Assassin] Finished loading. 8 assets loaded.
+[2019.10.30-19.22.32:061][478]LogFort: Display: [FortCustomizationAssetLoader 
+
+CP_Athena_Head_M_DarkPaintballer] Finished loading. 8 assets loaded.
+[2019.10.30-19.22.32:061][478]LogFort: Display: [FortCustomizationAssetLoader CP_Head_F_RebirthDefaultC] 
+
+Finished loading. 3 assets loaded.
+[2019.10.30-19.22.35:891][800]LogBattlEye: Server computed GUID: df4976e471e1ebd28c492f00209e84c3
+[2019.10.30-19.22.35:992][811]LogEpicCMS: Updating Access Cache
+[2019.10.30-19.22.36:142][825]LogFortLoadingScreen: Garbage Collecting before dropping load screen
+[2019.10.30-19.22.36:142][825]LogCore: Display: Setting hang detector multiplier to 1.0000s. New hang 
+
+duration: 30.0000s. New present duration: 0.0000s.
+[2019.10.30-19.22.36:142][825]LogFortLoadingScreen: Hiding loading screen when 
+
+'IsShowingInitialLoadingScreen()' is false.
+[2019.10.30-19.22.36:142][825]LogFortLoadingScreen: Reason for Showing/Hiding LoadingScreen is unknown!
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: DUMPCHECKPOINTS
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: SessionLength: 20.23
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: MatchStart: 0.000 (duration: 0.000)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: MatchmakingPreloadingStarted: 0.000 
+
+(duration: 0.002)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: MatchmakingPartyReady: 0.002 (duration: 
+
+0.966)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: MatchmakingPreloadingEnded: 0.967 (duration: 
+
+0.000)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: MatchmakingConnecting: 0.967 (duration: 
+
+0.000)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: MatchmakingStarted: 0.968 (duration: 0.000)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: MatchmakingPartyPreloaded: 0.968 (duration: 
+
+0.675)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: MatchmakingInQueue: 1.643 (duration: 3.300)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: MatchmakingInAssignment: 4.943 (duration: 
+
+1.821)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: MatchAssignment: 6.763 (duration: 0.450)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: TravelStarted: 7.213 (duration: 0.002)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: MatchmakingEnded: 7.215 (duration: 0.077)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: LoadingScreenInUp: 7.292 (duration: 1.045)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: ClientMapPreload: 8.337 (duration: 1.483)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: ClientMapLoaded: 9.820 (duration: 0.376)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: ReceivedPlayerController: 10.196 (duration: 
+
+0.001)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: LoadingScreenOutUp: 10.197 (duration: 0.578)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: ReceivedPlayerState: 10.775 (duration: 2.333)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: ReadyToStartMatch: 13.108 (duration: 1.568)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: Warmup: 14.676 (duration: 5.553)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: Checkpoint: LoadingScreenInDown: 20.229 (duration: 0.000)
+[2019.10.30-19.22.36:142][825]LogMatchAnalytics: TimeInPhase Stats
+[2019.10.30-19.22.36:143][825]LogMatchAnalytics: TimePreloading 0.967
+[2019.10.30-19.22.36:143][825]LogMatchAnalytics: TimeConnecting 0.675
+[2019.10.30-19.22.36:143][825]LogMatchAnalytics: TimeInQueue 3.300
+[2019.10.30-19.22.36:143][825]LogMatchAnalytics: TimeInAssignment 1.821
+[2019.10.30-19.22.36:143][825]LogMatchAnalytics: TimeInJoin 0.450
+[2019.10.30-19.22.36:143][825]LogMatchAnalytics: TimeBeforeLoadMap 1.045
+[2019.10.30-19.22.36:143][825]LogMatchAnalytics: TimeInLoadMap 1.483
+[2019.10.30-19.22.36:143][825]LogMatchAnalytics: TimeUntilReady 3.287
+[2019.10.30-19.22.36:143][825]LogMatchAnalytics: TimeWaitingForLoadingScreen 7.121
+[2019.10.30-19.22.36:143][825]LogMatchAnalytics: TotalLoadingScreen 12.936
+[2019.10.30-19.22.36:143][825]LogMatchAnalytics: LoadingScreenMissingTime: 0.000
+[2019.10.30-19.22.36:143][825]LogMatchAnalytics: TotalMissingTime: 0.079
+[2019.10.30-19.22.36:143][825]LogMatchAnalytics: TotalTime: 20.229
+[2019.10.30-19.22.36:143][825]LogFort: TogglePerformanceAnalytics Slot: 4, Name: LoadingScreen, 
+
+PausedSlotMask: 0
+[2019.10.30-19.22.36:143][825]LogFort: Resumed FPSCharts
+[2019.10.30-19.22.36:143][825]LogCore: HitchHeartBeat Resume called (count 1) - State: Suspended
+[2019.10.30-19.22.36:146][825]LogGarbage: Collecting garbage
+[2019.10.30-19.22.36:177][825]LogGarbage: 30.539089 ms for GC
+[2019.10.30-19.22.36:178][825]LogGarbage: 0.833122 ms for Gather Unreachable Objects (5648 objects 
+
+collected including 0 cluster objects from 0 clusters)
+[2019.10.30-19.22.36:183][825]LogGarbage: 5.190992 ms for unhashing unreachable objects. Items 5648 
+
+(5648/5648)
+[2019.10.30-19.22.36:188][825]LogGarbage: GC purged 5648 objects (417595 -> 411947) in 4.774ms
+[2019.10.30-19.22.36:226][825]LogUObjectHash: Compacting FUObjectHashTables data took  37.66ms
+[2019.10.30-19.22.37:167][906]LogVivoxVoiceChat: onConnectCompleted 
+
+server:https://fnwp.www.vivox.com/api2/
+[2019.10.30-19.22.37:169][906]LogVoiceChatManager: Requesting login token for 
+
+MCP:93e080f3ac3d410a94d86b00fd0a654f
+[2019.10.30-19.22.38:265][ 12]LogVivoxVoiceChat: onLoginCompleted 
+
+account:.Fortnite.93e080f3ac3d410a94d86b00fd0a654f.
+[2019.10.30-19.22.38:266][ 12]LogVoiceChatManager: Requesting join token for channel: type:GameServer 
+
+name:EU.Any.250f7085f2c04009a897992cb05909a1.1
+[2019.10.30-19.22.38:266][ 12]LogFort: UFortSocialPanelView_UserLists::EvaluatePartyMembersInChat - 
+
+PartyMember: sigri44  Status: GameVoice
+[2019.10.30-19.22.38:317][ 17]LogVoiceChatManager: Joining channel 
+
+EU.Any.250f7085f2c04009a897992cb05909a1.1
+[2019.10.30-19.22.40:046][198]LogFort: Display: [FortCustomizationAssetLoader M_Med_Soldier_Head_01_ATH] 
+
+Finished loading. 9 assets loaded.
+[2019.10.30-19.22.40:622][257]LogInit: Selected Device Profile: [WindowsClient]
+[2019.10.30-19.22.40:622][257]LogInit: Selected Device Profile: [WindowsClient]
+[2019.10.30-19.22.40:622][257]LogFortPerformance: Display: Detailed Bad Match Report: no [probability: 
+
+0.000010]
+[2019.10.30-19.22.40:622][257]LogInit: Selected Device Profile: [WindowsClient]
+[2019.10.30-19.22.40:622][257]LogFortHitches: Resuming GameThreadHitchHeartBeat
+[2019.10.30-19.22.40:622][257]LogCore: HitchHeartBeat Resume called (count 0) - State: Running
+[2019.10.30-19.22.40:639][259]LogInit: Selected Device Profile: [WindowsClient]
+[2019.10.30-19.22.40:639][259]LogInit: Selected Device Profile: [WindowsClient]
+[2019.10.30-19.22.41:169][312]LogFort: Display: [FortCustomizationAssetLoader 
+
+CP_Head_Med_Soldier_M_CarbideBlack] Finished loading. 8 assets loaded.
+[2019.10.30-19.22.43:828][585]LogFort: Display: [FortCustomizationAssetLoader CP_Head_F_Candy] Finished 
+
+loading. 7 assets loaded.
+[2019.10.30-19.22.43:869][589]LogFort: Display: [FortCustomizationAssetLoader 
+
+CP_Athena_Head_M_MeteorManRemix] Finished loading. 9 assets loaded.
+[2019.10.30-19.22.46:015][811]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.46:015][811]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.46:015][811]LogFort: AFortPlayerStateAthena::UpdateCachedRecentPlayers
+[2019.10.30-19.22.46:015][811]LogParty: Display: HandleZonePlayerStateInitialized: [MCP:05545...8c908]
+[2019.10.30-19.22.46:015][811]LogFort: AFortGameStateAthena::NotifyGameMemberAdded: Adding Player state 
+
+with UniqueId: MCP:05545...8c908, in team: 3, and in squad: 4
+[2019.10.30-19.22.46:016][811]LogParty: Verbose: UpdateChangeCallbacks: Getting Team Member Info for 
+
+[sigri44] Id [MCP:93e080f3ac3d410a94d86b00fd0a654f].
+[2019.10.30-19.22.46:017][811]LogParty: Verbose: [sigri44] Id [MCP:93e080f3ac3d410a94d86b00fd0a654f] team 
+
+member data updated, team [MAX] at index [0] in [sigri44]'s game.
+[2019.10.30-19.22.46:017][811]LogParty: Verbose: Got bad homebase data
+[2019.10.30-19.22.46:024][812]LogParty: FSocialQuery_UserInfo executing for [1] users on subsystem 
+
+[Primary]
+[2019.10.30-19.22.46:024][812]LogParty: FSocialQuery_AvatarInfo executing for [1] users on subsystem 
+
+[Primary]
+[2019.10.30-19.22.46:157][826]LogParty: FSocialQuery_UserInfo completed query for [1] users on subsystem 
+
+[Primary] with error []
+[2019.10.30-19.22.46:157][826]LogParty: FSocialQuery_AvatarInfo completed query for [1] users on subsystem 
+
+[Primary] with error []
+[2019.10.30-19.22.46:157][826]LogParty: UFortSocialUser::HandleAvatarImageDownloadComplete - Received CMS 
+
+Texture /Engine/Transient.CMS-Texture_cid_001_athena_commando_f_default_2147481587 for User pelle _
+[2019.10.30-19.22.46:625][874]LogFort: Display: [FortCustomizationAssetLoader F_Med_Head1_ATH] Finished 
+
+loading. 3 assets loaded.
+[2019.10.30-19.22.47:151][926]LogFort: Display: [FortCustomizationAssetLoader 
+
+CP_Athena_Head_M_SlurpMonster] Finished loading. 8 assets loaded.
+[2019.10.30-19.22.48:128][ 27]LogFortMemory: Heartbeat - CPU:2285.69MB (Peak: 2285.69MB)
+[2019.10.30-19.22.50:717][297]LogFort: Display: [FortCustomizationAssetLoader 
+
+CP_Athena_Head_M_TacticalFishermanAlterEgo] Finished loading. 9 assets loaded.
+[2019.10.30-19.22.51:165][343]LogFort: Display: [FortCustomizationAssetLoader CP_Athena_Head_F_DarkBomber] 
+
+Finished loading. 5 assets loaded.
+[2019.10.30-19.23.01:010][343]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial 
+
+start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is 
+
+smaller than (Time + InitialStartDelay).
+[2019.10.30-19.23.03:270][574]LogFort: Display: [FortCustomizationAssetLoader CP_Head_F_TacticalDesert] 
+
+Finished loading. 5 assets loaded.
+[2019.10.30-19.23.06:173][868]LogFort: Warning: PlayerPawn_Athena_C destroyed Role: -2067218430 
+
+OnDestroyed: 
+
+[/Game/Athena/Apollo/Maps/Apollo_Terrain.Apollo_Terrain:PersistentLevel.GC_Athena_OutsideSafeZone_C_214747
+
+6556.OnOwnerDestroyed]
+[2019.10.30-19.23.06:177][868]LogFort: EnterAircraft: Athena_PlayerController_C_2147477738
+[2019.10.30-19.23.06:180][868]LogFortAnalyticsEvent: Display: Core.EndGamePhase_ClientMetrics: 
+
+CurrentGamePhaseName: Warmup DurationSec: 35.589912 CPU: GenuineIntel|Intel(R) Core(TM) i5-3570K CPU @ 
+
+3.40GHz NetworkType: Unknown
+PingRTT: 16 MinPing: 0.00 MaxPing: 25.52 InPacketsLostPercentage: 0.00 
+
+OutPacketsLostPercentage: 0.00 PacketOverhead: 28
+InBytesPerSecond: 8299 OutBytesPerSecond: 2608 
+
+InPacketsPerSecond: 32 OutPacketsPerSecond: 36 InBunchesPerSecond: 118 OutBunchesPerSecond: 13
+TotalMovementCorrectionDistanceV2: 0 AverageMovementCorrectionDistance: 0 
+
+TotalNumMovementCorrectionsPerMinute: 0.000000
+OutAcksRate: 32 RPCsCalledRate: 12 
+
+PercentFramesOverBadPingThreshold: 0.00 PercentFramesOverSeverePingThreshold: 0.00 
+
+PercentOfFramesSaturated: 0.008514 LongestRunOfSaturatedFrames: 8
+LongestRunOfDroppedInPackets: 0 
+
+LongestRunOfDroppedOutPackets: 0 BurstyPacketLossPerSecond: 0.000000
+ServerLowUnstability: (AvgTimeInSec 
+
+0.000000 | MaxTimeInSec 0.000000 | NbPeriods 0) ServerHighUnstability: (AvgTimeInSec 0.000000 | 
+
+MaxTimeInSec 0.000000 | NbPeriods 0)
+[2019.10.30-19.23.06:180][868]LogFortAnalyticsEvent: Display: TopDelinquentAsyncLoads: 
+
+[/Game/Athena/Playlists/DADBRO/Mutator_DADBRO_CustomSky:1.389852,/Game/Athena/Playlists/Deimos/GameplayMod
+
+_DeimosAI:1.389852,/Game/Athena/Playlists/DADBRO/DADBROModifierDef:1.389852,/Game/Athena/Prototype/Texture
+
+s/T_Placeholder_Generic:1.389852,/Game/Athena/Playlists/DADBRO/Mutator_DADBRO:1.389852,/Game/Athena/Playli
+
+sts/GameplayMutators/Mutator_SpecialEvent:1.389852,/Game/Athena/Aircraft/Skins/B_BattleBus_Halloween:1.389
+
+852,/Game/Building/ActorBlueprints/Prop/Lawn_Light_Green:0.559992,/Game/Building/ActorBlueprints/Prop/Fog_
+
+Machine:0.559992,/Game/Building/ActorBlueprints/Prop/Halloween_Tubeman_Llama:0.448347] 
+
+TotalTimeSpentOnAsyncLoads: 18.102859 NumberOfUniqueAsyncLoadAssets: 30 MaxConcurrentAsyncLoads: 23
+TopDelinquentQueuedActors: 
+
+[Mutator_SpecialEvent_C:0.608875,Lawn_Light_Green_C:0.571177,Fog_Machine_C:0.571177] 
+
+TotalTimeSpentOnQueuedActors: 2.322406 NumberOfUniqueQueuedActors: 3 MaxConcurrentQueuedActors: 11
+[2019.10.30-19.23.06:180][868]LogOnlineGame: Querying StatsV2 PlayerStats for 
+
+93e080f3ac3d410a94d86b00fd0a654f
+[2019.10.30-19.23.06:182][868]LogFort: CharacterCustomization streaming summary -1
+[2019.10.30-19.23.06:182][868]LogFort: Customization loaded:                    12
+[2019.10.30-19.23.06:182][868]LogFort: Average load time:                       0.44
+[2019.10.30-19.23.06:182][868]LogFort: Max load time:                           1.37
+[2019.10.30-19.23.06:182][868]LogFort: Failed customization loading:            0
+[2019.10.30-19.23.06:182][868]LogFort: Abandoned customization loading:         0
+[2019.10.30-19.23.06:182][868]LogFort: Average abandoned load time:             0.00
+[2019.10.30-19.23.06:182][868]LogFort: Customization loading time out:          0
+[2019.10.30-19.23.06:182][868]LogFort: Pawns with missing Parts:                0
+[2019.10.30-19.23.06:186][868]LogGarbage: Collecting garbage
+[2019.10.30-19.23.06:222][868]LogGarbage: 35.279973 ms for GC
+[2019.10.30-19.23.06:223][868]LogGarbage: 0.931207 ms for Gather Unreachable Objects (4209 objects 
+
+collected including 0 cluster objects from 0 clusters)
+[2019.10.30-19.23.06:234][869]LogFortHitches: HITCHHUNTER: Hitch in GameThread of 63.8 ms has been 
+
+detected this frame. Number of Draw Calls this Frame: 1160
+[2019.10.30-19.23.06:234][869]LogInit: Selected Device Profile: [WindowsClient]
+[2019.10.30-19.23.06:234][869]LogInit: Selected Device Profile: [WindowsClient]
+[2019.10.30-19.23.06:239][869]LogGarbage: 2.000215 ms for incrementally unhashing unreachable objects. 
+
+Items 2161 (2161/4209)
+[2019.10.30-19.23.06:262][870]LogGarbage: 2.013454 ms for incrementally unhashing unreachable objects. 
+
+Items 1961 (4122/4209)
+[2019.10.30-19.23.06:275][871]LogGarbage: 0.130279 ms for incrementally unhashing unreachable objects. 
+
+Items 87 (4209/4209)
+[2019.10.30-19.23.06:277][871]LogGarbage: 1.763 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 1131, Destroyed: 0 / 4209)
+[2019.10.30-19.23.06:294][872]LogGarbage: 2.097 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 2202, Destroyed: 0 / 4209)
+[2019.10.30-19.23.06:306][873]LogGarbage: 2.089 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 4123, Destroyed: 0 / 4209)
+[2019.10.30-19.23.06:317][874]LogGarbage: 2.091 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 4209, Destroyed: 1400 / 4209)
+[2019.10.30-19.23.06:333][875]LogGarbage: 2.053 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 4209, Destroyed: 2700 / 4209)
+[2019.10.30-19.23.06:346][876]LogGarbage: 2.010 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 4209, Destroyed: 3800 / 4209)
+[2019.10.30-19.23.06:353][877]LogGarbage: GC purged 4209 objects (419218 -> 415009) in 0.706ms
+[2019.10.30-19.23.06:893][920]LogOnlineGame: Received response for StatsV2 PlayerStats. Status=Succeeded
+[2019.10.30-19.23.06:893][920]LogOnlineGame: Cached StatsV2 PlayerStats response
+[2019.10.30-19.23.13:375][570]LogFort: Display: [FortCustomizationAssetLoader 
+
+CP_Athena_Head_M_SlurpMonster] Finished loading. 11 assets loaded.
+[2019.10.30-19.23.13:522][580]LogFort: Display: [FortCustomizationAssetLoader 
+
+CP_Head_Med_Soldier_M_Assassin] Finished loading. 8 assets loaded.
+[2019.10.30-19.23.13:651][592]LogFort: Display: [FortCustomizationAssetLoader 
+
+CP_Athena_Head_M_DarkPaintballer] Finished loading. 7 assets loaded.
+[2019.10.30-19.23.13:750][601]LogFort: Display: [FortCustomizationAssetLoader CP_Head_F_Candy] Finished 
+
+loading. 8 assets loaded.
+[2019.10.30-19.23.14:395][669]LogFort: Display: [FortCustomizationAssetLoader 
+
+CP_Head_Med_Soldier_M_CarbideBlack] Finished loading. 8 assets loaded.
+[2019.10.30-19.23.15:356][761]LogFort: Display: [FortCustomizationAssetLoader F_Med_Head1_ATH] Finished 
+
+loading. 3 assets loaded.
+[2019.10.30-19.23.15:364][762]LogGameStats: Updating Self Completion for sigri44
+[2019.10.30-19.23.15:364][762]LogFort: ExitAircraft: Athena_PlayerController_C_2147477738 (Pawn None)
+[2019.10.30-19.23.15:368][762]LogFort: Display: Player is skydiving from bus.
+[2019.10.30-19.23.15:368][762]LogFort: Display: Adjusting s.AsyncLoadingPrecachePriority to 2.
+[2019.10.30-19.23.15:376][762]LogFortPlayerRegistration: UpdateAbilitySystemActor with no 
+
+PlayerController, Initializing [sigri44]
+[2019.10.30-19.23.15:376][762]LogFortPlayerRegistration: InitializeAbilitySystemActor initialized with 
+
+valid zone state for sigri44
+[2019.10.30-19.23.15:426][766]LogFort: Attempting to add harvesting tool WID_Harvest_Pickaxe_StreetRacer 
+
+to quickbar 3 in slot -3.
+[2019.10.30-19.23.15:427][766]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147472273 
+
+Pistolet with GUID: 1282268870 -982760543 -2144487436 1262180198
+[2019.10.30-19.23.15:427][766]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147472279 Outil 
+
+de collecte with GUID: 1256217796 -983676725 -1425831260 -717425656
+[2019.10.30-19.23.15:427][766]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147472278  with 
+
+GUID: -2145956468 -516666541 -1866105069 -1784451520
+[2019.10.30-19.23.15:427][766]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147472277  with 
+
+GUID: -796517024 1125469478 -1377893091 53786859
+[2019.10.30-19.23.15:427][766]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147472276  with 
+
+GUID: 2117481833 1984974274 -1881392718 1659214019
+[2019.10.30-19.23.15:427][766]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147472275  with 
+
+GUID: 1541563802 1126319710 -1240570147 -980836714
+[2019.10.30-19.23.16:228][811]LogFort: Display: [FortCustomizationAssetLoader 
+
+CP_Athena_Head_M_TacticalFishermanAlterEgo] Finished loading. 9 assets loaded.
+[2019.10.30-19.23.17:845][943]LogFort: Display: [FortCustomizationAssetLoader CP_Athena_Head_F_DarkBomber] 
+
+Finished loading. 5 assets loaded.
+[2019.10.30-19.23.19:740][ 98]LogFort: Display: [FortCustomizationAssetLoader CP_Head_F_TacticalDesert] 
+
+Finished loading. 7 assets loaded.
+[2019.10.30-19.23.20:242][140]LogFort: Display: [FortCustomizationAssetLoader M_Med_Soldier_Head_01_ATH] 
+
+Finished loading. 6 assets loaded.
+[2019.10.30-19.23.22:561][351]LogFort: Display: [FortCustomizationAssetLoader 
+
+CP_Athena_Head_M_MeteorManRemix] Finished loading. 6 assets loaded.
+[2019.10.30-19.23.29:419][ 40]LogFortAnalyticsEvent: Display: Core.EndGamePhase_ClientMetrics: 
+
+CurrentGamePhaseName: Aircraft DurationSec: 23.238917 CPU: GenuineIntel|Intel(R) Core(TM) i5-3570K CPU @ 
+
+3.40GHz NetworkType: Unknown
+PingRTT: 10 MinPing: 4.71 MaxPing: 17.29 InPacketsLostPercentage: 0.00 
+
+OutPacketsLostPercentage: 0.00 PacketOverhead: 28
+InBytesPerSecond: 6016 OutBytesPerSecond: 2864 
+
+InPacketsPerSecond: 30 OutPacketsPerSecond: 46 InBunchesPerSecond: 96 OutBunchesPerSecond: 29
+TotalMovementCorrectionDistanceV2: 69 AverageMovementCorrectionDistance: 69 
+
+TotalNumMovementCorrectionsPerMinute: 2.581874
+OutAcksRate: 30 RPCsCalledRate: 29 
+
+PercentFramesOverBadPingThreshold: 0.00 PercentFramesOverSeverePingThreshold: 0.00 
+
+PercentOfFramesSaturated: 0.000000 LongestRunOfSaturatedFrames: 0
+LongestRunOfDroppedInPackets: 0 
+
+LongestRunOfDroppedOutPackets: 0 BurstyPacketLossPerSecond: 0.000000
+ServerLowUnstability: (AvgTimeInSec 
+
+0.000000 | MaxTimeInSec 0.000000 | NbPeriods 0) ServerHighUnstability: (AvgTimeInSec 0.000000 | 
+
+MaxTimeInSec 0.000000 | NbPeriods 0)
+[2019.10.30-19.23.29:419][ 40]LogFortAnalyticsEvent: Display: TopDelinquentAsyncLoads: [] 
+
+TotalTimeSpentOnAsyncLoads: 18.102859 NumberOfUniqueAsyncLoadAssets: 0 MaxConcurrentAsyncLoads: 1
+TopDelinquentQueuedActors: [] TotalTimeSpentOnQueuedActors: 2.322406 NumberOfUniqueQueuedActors: 0 
+
+MaxConcurrentQueuedActors: 1
+[2019.10.30-19.23.30:155][115]LogFort: BuildingFoundation streaming summary 0
+[2019.10.30-19.23.30:155][115]LogFort: Current Visible Buildings:  2
+[2019.10.30-19.23.30:155][115]LogFort: Buildings shown:            18
+[2019.10.30-19.23.30:155][115]LogFort: Buildings hidden:           16
+[2019.10.30-19.23.30:155][115]LogFort: Buildings started loading:  19
+[2019.10.30-19.23.30:155][115]LogFort: Buildings finished loading: 19
+[2019.10.30-19.23.30:155][115]LogFort: Buildings shown late:       0
+[2019.10.30-19.23.30:155][115]LogFort: Buildings cancelled:        0
+[2019.10.30-19.23.30:155][115]LogFort: Buildings constructed:      26
+[2019.10.30-19.23.30:155][115]LogFort: Buildings destructed:       0
+[2019.10.30-19.23.30:155][115]LogFort: Average total time:         0.28
+[2019.10.30-19.23.30:155][115]LogFort: Average load time:          0.22
+[2019.10.30-19.23.30:155][115]LogFort: Average make visible time:  0.06
+[2019.10.30-19.23.30:155][115]LogFort: Average shown distance:     26669.63
+[2019.10.30-19.23.30:155][115]LogFort: Max total time:             0.64
+[2019.10.30-19.23.30:155][115]LogFort: Max load time:              0.61
+[2019.10.30-19.23.30:155][115]LogFort: Max make visible time:      0.24
+[2019.10.30-19.23.30:155][115]LogFort: Min shown distance:         15187.73
+[2019.10.30-19.23.30:155][115]LogFort: Shown distance Histogram
+[2019.10.30-19.23.30:155][115]LogFort:   All:                      18
+[2019.10.30-19.23.30:155][115]LogFort:   Distance < 120000:        18
+[2019.10.30-19.23.30:155][115]LogFort:   Distance < 60000:         18
+[2019.10.30-19.23.30:155][115]LogFort:   Distance < 30000:         12
+[2019.10.30-19.23.30:155][115]LogFort:   Distance < 15000:         0
+[2019.10.30-19.23.30:155][115]LogFort: CharacterCustomization streaming summary 0
+[2019.10.30-19.23.30:155][115]LogFort: Customization loaded:                    24
+[2019.10.30-19.23.30:155][115]LogFort: Average load time:                       0.25
+[2019.10.30-19.23.30:155][115]LogFort: Max load time:                           1.37
+[2019.10.30-19.23.30:155][115]LogFort: Failed customization loading:            0
+[2019.10.30-19.23.30:155][115]LogFort: Abandoned customization loading:         0
+[2019.10.30-19.23.30:155][115]LogFort: Average abandoned load time:             0.00
+[2019.10.30-19.23.30:155][115]LogFort: Customization loading time out:          0
+[2019.10.30-19.23.30:155][115]LogFort: Pawns with missing Parts:                0
+[2019.10.30-19.23.32:378][345]LogFort: Display: Player is not skydiving from bus.
+[2019.10.30-19.23.32:378][345]LogFort: Display: Adjusting s.AsyncLoadingPrecachePriority to 0.
+[2019.10.30-19.23.32:399][347]LogInit: Selected Device Profile: [WindowsClient]
+[2019.10.30-19.23.32:400][347]LogInit: Selected Device Profile: [WindowsClient]
+[2019.10.30-19.23.33:395][458]LogFortPrioSwitcher: 
+
+[UFortPrioritizedWidgetSwitcher::OnWidgetRequestedActivation()] Current active widget 
+
+[AthenaKillFeedWidget] does not want to show content
+[2019.10.30-19.23.34:435][573]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial 
+
+start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is 
+
+smaller than (Time + InitialStartDelay).
+[2019.10.30-19.23.34:441][574]LogInit: Selected Device Profile: [WindowsClient]
+[2019.10.30-19.23.34:441][574]LogInit: Selected Device Profile: [WindowsClient]
+[2019.10.30-19.23.36:301][796]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147470998 Fusil 
+
+d'assaut with GUID: 1008653963 -2128264923 -1898916822 -1886618169
+[2019.10.30-19.23.36:502][820]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147470983 
+
+Bandage with GUID: 221740015 1371884704 -1144844580 405595078
+[2019.10.30-19.23.37:510][926]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147470964 Potion 
+
+de bouclier with GUID: 276515586 2109621996 -1250313339 569291533
+[2019.10.30-19.23.42:385][475]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147470737 
+
+Grenade with GUID: 2063752369 1261520072 -1983593685 -259995576
+[2019.10.30-19.23.42:651][506]LogGameStats: Updating Self Completion for sigri44
+[2019.10.30-19.23.44:524][727]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147470675 
+
+Lance-roquettes    with GUID: 1754077160 -555136486 -1651875152 -1798984143
+[2019.10.30-19.23.45:588][854]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147470638 Kit de 
+
+soins with GUID: -2065945077 2007715469 -1809090034 -769858493
+[2019.10.30-19.23.46:726][990]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147470604 
+
+Lance-roquettes    with GUID: 1432323624 620512064 -1203334921 -960307300
+[2019.10.30-19.23.48:132][157]LogFortMemory: Heartbeat - CPU:2532.34MB (Peak: 2579.81MB)
+[2019.10.30-19.23.50:528][441]LogAbilitySystem: Display: ClientActivateAbilityFailed_Implementation. 
+
+PredictionKey :19 Ability: Default__FortGameplayAbility_Jump
+[2019.10.30-19.23.53:804][825]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147470466 Mini 
+
+potion de bouclier with GUID: 1542435455 1011434168 -1455453282 -1271862679
+[2019.10.30-19.23.59:080][451]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147470326 Potion 
+
+de bouclier with GUID: 715407420 14437284 -2142794989 767046113
+[2019.10.30-19.24.04:455][ 85]LogFortPrioSwitcher: 
+
+[UFortPrioritizedWidgetSwitcher::OnWidgetRequestedActivation()] Current active widget [GamePhaseAlert] 
+
+does not want to show content
+[2019.10.30-19.24.05:295][172]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147470190 Mini 
+
+potion de bouclier with GUID: -358721961 -834583477 -2147209716 1023072834
+[2019.10.30-19.24.07:279][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/POI/Apollo_POI_LobbyIsland_a_7f9bf283.Apollo_POI_LobbyIsland_a:PersistentLev
+
+el
+[2019.10.30-19.24.07:280][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/Buildings/7x12/Apollo_7x12_BusDepot_a_47fd79a2.Apollo_7x12_BusDepot_a:Persis
+
+tentLevel
+[2019.10.30-19.24.07:280][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/Buildings/7x12/Apollo_7x12_BusPort_a_58366ff3.Apollo_7x12_BusPort_a:Persiste
+
+ntLevel
+[2019.10.30-19.24.07:280][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/Buildings/11x11/Apollo_11x11_PleasantGarden_b_2d65c804.Apollo_11x11_Pleasant
+
+Garden_b:PersistentLevel
+[2019.10.30-19.24.07:281][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/Streaming/Apollo_Terrain_Sub_D2_30eb91be.Apollo_Terrain_Sub_D2:PersistentLev
+
+el
+[2019.10.30-19.24.07:281][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/Streaming/Apollo_Terrain_Sub_E2_cbd6a03b.Apollo_Terrain_Sub_E2:PersistentLev
+
+el
+[2019.10.30-19.24.07:281][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/Buildings/3x3/Apollo_SUB_5x5_House2_a_f8e4bfdc.Apollo_SUB_5x5_House2_a:Persi
+
+stentLevel
+[2019.10.30-19.24.07:281][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/Buildings/1x1/Apollo_1x1_BusStation_a_053e59b1.Apollo_1x1_BusStation_a:Persi
+
+stentLevel
+[2019.10.30-19.24.07:281][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/Buildings/1x1/Apollo_SUB_1x1_StorageGarage_c0ac2dbb.Apollo_SUB_1x1_StorageGa
+
+rage:PersistentLevel
+[2019.10.30-19.24.07:281][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/Buildings/3x3/Apollo_SUB_3x3_House_M_60129cc4.Apollo_SUB_3x3_House_m:Persist
+
+entLevel
+[2019.10.30-19.24.07:281][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/Buildings/9x12/Apollo_9x12_PleasantSoccer_a_124bfc63.Apollo_9x12_PleasantSoc
+
+cer_a:PersistentLevel
+[2019.10.30-19.24.07:281][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/POI/Apollo_POI_PleasantPark_001_75d5bbf0.Apollo_POI_PleasantPark_001:Persist
+
+entLevel
+[2019.10.30-19.24.07:282][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/Buildings/1x1/Apollo_REM_1x1_Shack_q_3a2eda85.Apollo_REM_1x1_Shack_q:Persist
+
+entLevel
+[2019.10.30-19.24.07:282][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/POI/Apollo_POI_Bridge_001_654b0880.Apollo_POI_Bridge_001:PersistentLevel
+[2019.10.30-19.24.07:282][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/Buildings/5x5/Apollo_SUB_5x5_House_g_84bccc9b.Apollo_SUB_5x5_House_g:Persist
+
+entLevel
+[2019.10.30-19.24.07:282][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/Buildings/1x1/Apollo_1x1_BusStation_a_5a96888e.Apollo_1x1_BusStation_a:Persi
+
+stentLevel
+[2019.10.30-19.24.07:282][377]LogNet: NotifyStreamingLevelUnload: Level 
+
+/Temp/Game/Athena/Apollo/Maps/Buildings/3x3/Apollo_SUB_3x3_House_g_1d4578ab.Apollo_SUB_3x3_House_g:Persist
+
+entLevel
+[2019.10.30-19.24.07:285][377]LogGarbage: Collecting garbage
+[2019.10.30-19.24.07:324][377]LogGarbage: 38.464732 ms for GC
+[2019.10.30-19.24.07:324][377]LogGarbage: 0.000602 ms for dissolving GC clusters
+[2019.10.30-19.24.07:325][377]LogGarbage: 0.699835 ms for Gather Unreachable Objects (24041 objects 
+
+collected including 0 cluster objects from 0 clusters)
+[2019.10.30-19.24.07:337][378]LogGarbage: 2.001118 ms for incrementally unhashing unreachable objects. 
+
+Items 1931 (1931/24041)
+[2019.10.30-19.24.07:346][379]LogGarbage: 2.001118 ms for incrementally unhashing unreachable objects. 
+
+Items 1681 (3612/24041)
+[2019.10.30-19.24.07:357][380]LogGarbage: 2.004127 ms for incrementally unhashing unreachable objects. 
+
+Items 1971 (5583/24041)
+[2019.10.30-19.24.07:365][381]LogGarbage: 2.001720 ms for incrementally unhashing unreachable objects. 
+
+Items 1981 (7564/24041)
+[2019.10.30-19.24.07:373][382]LogGarbage: 2.004729 ms for incrementally unhashing unreachable objects. 
+
+Items 2281 (9845/24041)
+[2019.10.30-19.24.07:384][383]LogGarbage: 2.002923 ms for incrementally unhashing unreachable objects. 
+
+Items 2221 (12066/24041)
+[2019.10.30-19.24.07:398][384]LogGarbage: 2.000215 ms for incrementally unhashing unreachable objects. 
+
+Items 2121 (14187/24041)
+[2019.10.30-19.24.07:409][385]LogGarbage: 2.001419 ms for incrementally unhashing unreachable objects. 
+
+Items 2201 (16388/24041)
+[2019.10.30-19.24.07:419][386]LogGarbage: 2.007436 ms for incrementally unhashing unreachable objects. 
+
+Items 2301 (18689/24041)
+[2019.10.30-19.24.07:432][387]LogGarbage: 2.008339 ms for incrementally unhashing unreachable objects. 
+
+Items 2011 (20700/24041)
+[2019.10.30-19.24.07:449][388]LogGarbage: 2.005330 ms for incrementally unhashing unreachable objects. 
+
+Items 2091 (22791/24041)
+[2019.10.30-19.24.07:456][389]LogGarbage: 1.222755 ms for incrementally unhashing unreachable objects. 
+
+Items 1250 (24041/24041)
+[2019.10.30-19.24.07:457][389]LogGarbage: 0.363 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 1041, Destroyed: 0 / 24041)
+[2019.10.30-19.24.07:467][390]LogGarbage: 2.211 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 4972, Destroyed: 0 / 24041)
+[2019.10.30-19.24.07:475][391]LogGarbage: 2.001 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 11883, Destroyed: 0 / 24041)
+[2019.10.30-19.24.07:488][392]LogGarbage: 2.001 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 15984, Destroyed: 0 / 24041)
+[2019.10.30-19.24.07:497][393]LogGarbage: 2.002 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 21525, Destroyed: 0 / 24041)
+[2019.10.30-19.24.07:507][394]LogGarbage: 2.169 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 24041, Destroyed: 700 / 24041)
+[2019.10.30-19.24.07:517][395]LogGarbage: 2.031 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 24041, Destroyed: 3100 / 24041)
+[2019.10.30-19.24.07:525][396]LogGarbage: 2.025 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 24041, Destroyed: 5000 / 24041)
+[2019.10.30-19.24.07:535][397]LogGarbage: 2.121 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 24041, Destroyed: 7300 / 24041)
+[2019.10.30-19.24.07:543][398]LogGarbage: 2.017 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 24041, Destroyed: 10500 / 24041)
+[2019.10.30-19.24.07:552][399]LogGarbage: 2.036 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 24041, Destroyed: 12500 / 24041)
+[2019.10.30-19.24.07:562][400]LogGarbage: 2.106 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 24041, Destroyed: 13900 / 24041)
+[2019.10.30-19.24.07:572][401]LogGarbage: 2.036 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 24041, Destroyed: 16500 / 24041)
+[2019.10.30-19.24.07:579][402]LogGarbage: 2.028 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 24041, Destroyed: 18700 / 24041)
+[2019.10.30-19.24.07:589][403]LogGarbage: 2.087 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 24041, Destroyed: 21400 / 24041)
+[2019.10.30-19.24.07:597][404]LogGarbage: 2.037 ms for incrementally purging unreachable objects 
+
+(FinishDestroyed: 24041, Destroyed: 23900 / 24041)
+[2019.10.30-19.24.07:603][405]LogGarbage: GC purged 24041 objects (438258 -> 414217) in 0.189ms
+[2019.10.30-19.24.09:513][624]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new 
+
+activatable panel AthenaInventoryPanel: 
+[2019.10.30-19.24.09:513][624]LogCommonInput: Verbose: Input suspension: Started
+[2019.10.30-19.24.09:513][624]LogCommonInput: Verbose: Begin StartNextOperation
+[2019.10.30-19.24.09:513][624]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on 
+
+stack for panel: AthenaInventoryPanel
+[2019.10.30-19.24.09:513][624]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: 
+
+AthenaInventoryPanel
+[2019.10.30-19.24.09:513][624]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: 
+
+AthenaInventoryPanel
+[2019.10.30-19.24.09:513][624]LogCommonInput: Verbose: Begin StartNextOperation
+[2019.10.30-19.24.09:513][624]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2019.10.30-19.24.09:520][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.30-19.24.09:540][626]LogCommonInput: Verbose: Input suspension: Stopped
+[2019.10.30-19.24.10:705][755]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: 
+
+AthenaInventoryPanel
+[2019.10.30-19.24.10:706][755]LogCommonInput: Verbose: Input suspension: Started
+[2019.10.30-19.24.10:706][755]LogCommonInput: Verbose: Begin StartNextOperation
+[2019.10.30-19.24.10:706][755]LogCommonInput: Verbose: Begin StartNextOperation
+[2019.10.30-19.24.10:706][755]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2019.10.30-19.24.10:706][755]LogFort: Modal System: UFortUIManagerWidget_NUI::PopCurrentModal
+[2019.10.30-19.24.10:728][757]LogCommonInput: Verbose: Input suspension: Stopped
+[2019.10.30-19.24.15:482][223]LogFort: Error: ReturnFXActorToPool with missing or invalid FXActor
+[2019.10.30-19.24.15:483][223]LogFort: Error: ReturnFXActorToPool with missing or invalid FXActor
+[2019.10.30-19.24.15:483][223]LogFort: Error: ReturnFXActorToPool with missing or invalid FXActor
+[2019.10.30-19.24.23:928][ 83]LogGameStats: Updating Self Completion for sigri44
+[2019.10.30-19.24.23:928][ 83]LogFortPrioSwitcher: 
+
+[UFortPrioritizedWidgetSwitcher::OnWidgetRequestedActivation()] Current active widget [PunchCard] does not 
+
+want to show content
+[2019.10.30-19.24.25:936][293]LogFortPrioSwitcher: 
+
+[UFortPrioritizedWidgetSwitcher::OnWidgetRequestedActivation()] Current active widget 
+
+[PlayerVisited_C_2147472381] does not want to show content
+[2019.10.30-19.24.29:139][629]LogFort: QuickBarItemAddedToInventory. Item: FortWorldItem_2147469556 
+
+Bandage with GUID: 589315396 471092448 -1840105642 -1532082581
+[2019.10.30-19.24.38:320][703]LogVoiceChatManager: Warning: Failed join channel: Timed out
+[2019.10.30-19.25.09:276][766]LogCore: Error: Hitch detected on gamethread (frame hasn't finished for   
+
+302.02ms):
+[2019.10.30-19.25.09:276][766]LogCore: Error: Leaving hitch detector (+  302.06ms)
+[2019.10.30-19.25.09:276][766]LogCore: Error: Leaving stat scope on hitch (+  305.04ms) [FMediaTicker] 
+
+STAT_Sleep
+[2019.10.30-19.25.09:276][766]LogCore: Error: Leaving stat scope on hitch (+  353.01ms) 
+
+[MessageBusHeartbeatManager] STAT_Sleep
+[2019.10.30-19.25.09:276][766]LogCore: Error: Leaving stat scope on hitch (+  860.02ms) 
+
+[ScreenSaverInhibitor] STAT_Sleep
+[2019.10.30-19.25.09:276][766]LogVivoxVoiceChat: vivox: Error: VivoxSystem::Apartment::LogLeakedHandlers
+
+(183) - VivoxSystem::Apartment::RunAsync Message Handler still present on apartment exit: 
+
+HttpConnectionImpl
+[2019.10.30-19.25.09:276][766]LogCore: Error: Hang detected on GameThread (thread hasn't sent a heartbeat 
+
+for 30.00 seconds):
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x00000000776b98ca ntdll.dll!UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x000007fefd1c10dc KERNELBASE.dll!UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x000007fed3b41a32 vivoxsdk_x64.dll!UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x000007fed3b26343 vivoxsdk_x64.dll!UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x000007fed393fab2 vivoxsdk_x64.dll!UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x0000000143d3cf42 FortniteClient-Win64-Shipping.exe!
+
+UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x0000000140861461 FortniteClient-Win64-Shipping.exe!
+
+UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x0000000140854e2a FortniteClient-Win64-Shipping.exe!
+
+UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x000000014083fbd8 FortniteClient-Win64-Shipping.exe!
+
+UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x0000000140844d66 FortniteClient-Win64-Shipping.exe!
+
+UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x0000000141bdc73b FortniteClient-Win64-Shipping.exe!
+
+UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x0000000141bcf45a FortniteClient-Win64-Shipping.exe!
+
+UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x0000000141bd0b3f FortniteClient-Win64-Shipping.exe!
+
+UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x0000000141bdc73b FortniteClient-Win64-Shipping.exe!
+
+UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x000000013fd8d244 FortniteClient-Win64-Shipping.exe!
+
+UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x000000013fd932ac FortniteClient-Win64-Shipping.exe!
+
+UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x000000013fd9331a FortniteClient-Win64-Shipping.exe!
+
+UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x000000013fd9dc59 FortniteClient-Win64-Shipping.exe!
+
+UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x000000014400b942 FortniteClient-Win64-Shipping.exe!
+
+UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x000000007754556d kernel32.dll!UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error:   0x00000000776a385d ntdll.dll!UnknownFunction []
+[2019.10.30-19.25.09:276][766]LogCore: Error: Hang detected on GameThread:
+  0x00000000776b98ca ntdll.dll!UnknownFunction []
+  0x000007fefd1c10dc KERNELBASE.dll!UnknownFunction []
+  0x000007fed3b41a32 vivoxsdk_x64.dll!UnknownFunction []
+  0x000007fed3b26343 vivoxsdk_x64.dll!UnknownFunction []
+  0x000007fed393fab2 vivoxsdk_x64.dll!UnknownFunction []
+  0x0000000143d3cf42 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+  0x0000000140861461 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+  0x0000000140854e2a FortniteClient-Win64-Shipping.exe!UnknownFunction []
+  0x000000014083fbd8 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+
+Check log for full callstack.
+[2019.10.30-19.25.15:350][766]LogVivoxVoiceChat: vivox: Error: VivoxSystem::MessageRouter::WaitAll(160) - 
+
+Failed to join thread t.GetId()=4294967295
+[2019.10.30-19.25.25:757][766]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.10.30-19.25.25:757][766]LogCore: Engine exit requested (reason: Win RequestExit)
+[2019.10.30-19.25.25:757][766]LogOnlineCloud: Verbose: MCP: Starting compression for file 
+
+'ClientSettings.Sav'
+[2019.10.30-19.25.25:760][766]Log file closed, 10/30/19 20:25:25

@@ -1,0 +1,1045 @@
+Log file open, 12/22/17 17:48:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogGameplayTags: Display: FGameplayTagNativeAdder::FGameplayTagNativeAdder
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1929400976) SRandInit(1929400976).
+LogTaskGraph: Started task graph with 4 named threads and 16 total threads with 3 sets of task threads.
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin AESHandlerComponent
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin BlueprintContext
+LogPluginManager: Mounting plugin CommonUI
+LogPluginManager: Mounting plugin DiscordRPC
+LogPluginManager: Mounting plugin EpicCMS
+LogPluginManager: Mounting plugin EpicCMSUIFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemMcp
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin Gauntlet
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin MatchmakingService
+LogPluginManager: Mounting plugin NetUI
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystemTencent
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemTwitch
+LogPluginManager: Mounting plugin Oodle
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PurchaseFlow
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Social
+LogPluginManager: Mounting plugin SubtitlesWidgets
+LogPluginManager: Mounting plugin SubtitlesWidgetsEditor
+LogPluginManager: Mounting plugin WinDualShock
+LogPluginManager: Mounting plugin UAC
+LogPluginManager: Mounting plugin PlayerBehaviorAnalytics
+LogPluginManager: Mounting plugin EpicGameplayStats
+LogPluginManager: Mounting plugin SIP
+LogPluginManager: Mounting plugin HTTPChunkInstaller
+LogPluginManager: Mounting plugin OnlineGameplayFramework
+LogPluginManager: Mounting plugin Vivox
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AndroidPermission
+LogStreaming: Display: Took  0.054s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogOnline: MCP: Mcp Startup!
+LogOnline: Verbose: MCP: Created thread (ID:211364).
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogInit: Build: ++Fortnite+Release-Cert-CL-3807424
+LogInit: Engine Version: 4.19.0-3807424+++Fortnite+Release-Cert
+LogInit: Compatible Engine Version: 4.19.0-3807424+++Fortnite+Release-Cert
+LogInit: Net CL: 3804408
+LogInit: Compiled (64-bit): Dec 14 2017 00:53:29
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Fortnite+Release-Cert
+LogInit: Filtered Command Line: -frombe
+LogInit: Base Directory: C:/Program Files (x86)/Fortnite/Fortnite/FortniteGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.009s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false
+LogInit: Object subsystem initialized
+LogFortMemory: AppInit - CPU:252.71MB (Peak: 252.71MB)
+[2017.12.22-16.48.08:194][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsClient]
+[2017.12.22-16.48.08:198][  0]LogInit: Computer: DESKTOP-P7IAOJ8
+[2017.12.22-16.48.08:198][  0]LogInit: User: heise
+[2017.12.22-16.48.08:198][  0]LogInit: CPU Page size=4096, Cores=8
+[2017.12.22-16.48.08:198][  0]LogInit: High frequency timer resolution =3.320313 MHz
+[2017.12.22-16.48.08:198][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.12.22-16.48.08:199][  0]LogMemory: Platform Memory Stats for WindowsClient
+[2017.12.22-16.48.08:199][  0]LogMemory: Process Physical Memory: 253.67 MB used, 253.67 MB peak
+[2017.12.22-16.48.08:199][  0]LogMemory: Process Virtual Memory: 320.47 MB used, 320.47 MB peak
+[2017.12.22-16.48.08:199][  0]LogMemory: Physical Memory: 6053.09 MB used,  10280.47 MB free, 16333.56 MB total
+[2017.12.22-16.48.08:199][  0]LogMemory: Virtual Memory: 447.34 MB used,  10280.47 MB free, 134217728.00 MB total
+[2017.12.22-16.48.09:372][  0]LogInit: Using OS detected language (de-DE).
+[2017.12.22-16.48.09:373][  0]LogInit: Using OS detected locale (de-DE).
+[2017.12.22-16.48.09:384][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so the 'de' localization will be used.
+[2017.12.22-16.48.09:500][  0]LogTextLocalizationResource: LocRes 'C:/Program Files (x86)/Fortnite/Fortnite/FortniteGame/Plugins/Online/HTTPChunkInstaller/Content/Localization/HTTPChunkInstaller/de/HTTPChunkInstaller.locres' failed the magic number check! Assuming this is a legacy resource (please re-generate your localization resources!)
+[2017.12.22-16.48.09:501][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccount, Key:FounderChatShardJoined):
+    Localization Resource: (C:/Program Files (x86)/Fortnite/Fortnite/FortniteGame/Content/Localization/Game/de/Game.locres) Source String Hash: (-1780775368) Localized String: (Gründerraum beigetreten: {RoomId})
+    Localization Resource: (C:/Program Files (x86)/Fortnite/Fortnite/FortniteGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/de/OnlineGameplayFramework.locres) Source String Hash: (-1780775368) Localized String: (Joined Founder room {RoomId})
+[2017.12.22-16.48.09:501][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccount, Key:GlobalChatShardJoined):
+    Localization Resource: (C:/Program Files (x86)/Fortnite/Fortnite/FortniteGame/Content/Localization/Game/de/Game.locres) Source String Hash: (1976527488) Localized String: ({SubGameMode}-Raum beigetreten: {RoomId})
+    Localization Resource: (C:/Program Files (x86)/Fortnite/Fortnite/FortniteGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/de/OnlineGameplayFramework.locres) Source String Hash: (1976527488) Localized String: (Joined {SubGameMode} room {RoomId})
+[2017.12.22-16.48.09:501][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccount, Key:FailedLoginConsole_UnableToStartPrivCheck):
+    Localization Resource: (C:/Program Files (x86)/Fortnite/Fortnite/FortniteGame/Content/Localization/Game/de/Game.locres) Source String Hash: (1647647700) Localized String: (Überprüfung deiner Privilegien ist nicht möglich. Versuche es später erneut.)
+    Localization Resource: (C:/Program Files (x86)/Fortnite/Fortnite/FortniteGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/de/OnlineGameplayFramework.locres) Source String Hash: (1647647700) Localized String: (Unable to check your privileges. Please try again later.)
+[2017.12.22-16.48.09:609][  0]LogStreaming: Display: Took  0.237s to EndInitTextLocalization.
+[2017.12.22-16.48.09:978][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.22-16.48.10:327][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2017.12.22-16.48.10:327][  0]LogD3D11RHI:       11132/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2017.12.22-16.48.10:516][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.22-16.48.10:516][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.22-16.48.10:516][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.22-16.48.10:613][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.22-16.48.10:613][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.22-16.48.10:613][  0]LogWindows: EnumDisplayDevices:
+[2017.12.22-16.48.10:613][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2017.12.22-16.48.10:613][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2017.12.22-16.48.10:613][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2017.12.22-16.48.10:613][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2017.12.22-16.48.10:613][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.22-16.48.10:613][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2017.12.22-16.48.10:613][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.22-16.48.10:613][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.22-16.48.10:613][  0]LogRHI: Texture pool is 7792 MB (70% of 11132 MB)
+[2017.12.22-16.48.10:878][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2017.12.22-16.48.10:878][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.22-16.48.10:905][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.22-16.48.11:021][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.22-16.48.11:021][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.22-16.48.11:022][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.22-16.48.11:022][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.22-16.48.11:390][  0]LogAssetRegistry: FAssetRegistry took 0.3232 seconds to start up
+[2017.12.22-16.48.11:613][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.037885 seconds
+[2017.12.22-16.48.11:613][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak added to pak precacher.
+[2017.12.22-16.48.11:650][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak added to pak precacher.
+[2017.12.22-16.48.11:700][  0]LogNetVersion: FortniteGame , NetCL: 3804408, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4117617202)
+[2017.12.22-16.48.11:706][  0]LogMaterial: Added default parameter collection resource, Default__MaterialParameterCollection, ID:00000000000000000000000000000000
+[2017.12.22-16.48.11:805][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 1
+[2017.12.22-16.48.11:867][  0]LogFortSignificance: Display: Set AI budget to '8,16'
+[2017.12.22-16.48.11:867][  0]LogFortSignificance: Display: Set Athena Player Pawn budget to '5,10,10,75'
+[2017.12.22-16.48.11:868][  0]LogFortSignificance: Display: Set Athena Player Pawn URO rate to '0,1,2,3'
+[2017.12.22-16.48.11:880][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak added to pak precacher.
+[2017.12.22-16.48.11:927][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak added to pak precacher.
+[2017.12.22-16.48.12:057][  0]LogMaterial: Added default parameter collection resource, DistortedScreenCollection, ID:B9864F384A319FAA50CECBB9E87E2DA3
+[2017.12.22-16.48.12:129][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.22-16.48.12:318][  0]LogMoviePlayer: Initializing movie player
+[2017.12.22-16.48.12:526][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.22-16.48.12:597][  0]LogOnline: OSS: Using EpicApp backend 'Fortnite' based on environment 'Prod' and override 'Fortnite'
+[2017.12.22-16.48.12:597][  0]LogOnline: OSS: Using EpicApp backend 'Fortnite' based on environment 'Prod' and override 'Fortnite'
+[2017.12.22-16.48.12:728][  0]LogSlate: Took 0.000915 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/BurbankBigRegular-Bold.ufont' (155K)
+[2017.12.22-16.48.12:728][  0]LogOnline: TENCENT: Tencent Startup!
+[2017.12.22-16.48.12:728][  0]LogOnline: Verbose: TWITCH: Twitch Startup!
+[2017.12.22-16.48.12:759][  0]LogUAC: UACClient initialized
+[2017.12.22-16.48.12:759][  0]LogSIP: Display: SIP Module Initialized
+[2017.12.22-16.48.12:759][  0]LogSIP: Display: Plugin Status: 1
+[2017.12.22-16.48.13:410][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.22-16.48.13:422][  0]LogUObjectArray: 76799 objects as part of root set at end of initial load.
+[2017.12.22-16.48.13:422][  0]LogUObjectArray: 3 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2017.12.22-16.48.13:422][  0]LogUObjectAllocator: 14555984 out of 0 bytes used by permanent object pool.
+[2017.12.22-16.48.13:422][  0]LogUObjectArray: CloseDisregardForGC: 76799/76799 objects in disregard for GC pool
+[2017.12.22-16.48.15:265][  0]LogEngine: Initializing Engine...
+[2017.12.22-16.48.15:277][  0]LogInit: Display: Limiting process virtual memory size to 8388608 KB
+[2017.12.22-16.48.15:351][  0]LogFortMemory: UFortAssetManager will split content preloading by submode
+[2017.12.22-16.48.15:351][  0]LogFortMemory: UFortAssetManager default bundle state is (Client)
+[2017.12.22-16.48.15:351][  0]LogFort: Display: Startup job "Super::StartInitialLoading()" starting
+[2017.12.22-16.48.16:294][  0]LogFort: Display: Startup job "Super::StartInitialLoading()" took 0.94 seconds to complete
+[2017.12.22-16.48.16:294][  0]LogFort: Display: Startup job "RegisterConstructorReferences()" starting
+[2017.12.22-16.48.16:294][  0]LogFort: Display: Startup job "RegisterConstructorReferences()" took 0.00 seconds to complete
+[2017.12.22-16.48.16:294][  0]LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" starting
+[2017.12.22-16.48.16:324][  0]LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" took 0.03 seconds to complete
+[2017.12.22-16.48.16:324][  0]LogFort: Display: Startup job "UAbilitySystemGlobals::Get().InitGlobalData()" starting
+[2017.12.22-16.48.16:495][  0]LogFort: Display: Startup job "UAbilitySystemGlobals::Get().InitGlobalData()" took 0.17 seconds to complete
+[2017.12.22-16.48.16:495][  0]LogFort: Display: Startup job "ScanForNavAgentCostData()" starting
+[2017.12.22-16.48.16:498][  0]LogFort: Display: Startup job "ScanForNavAgentCostData()" took 0.00 seconds to complete
+[2017.12.22-16.48.16:498][  0]LogFort: Display: Startup job "GetGameData()" starting
+[2017.12.22-16.48.16:498][  0]LogFort: Loading GameData: /Game/Balance/DefaultGameData.DefaultGameData ...
+[2017.12.22-16.48.16:521][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk2-WindowsClient.pak added to pak precacher.
+[2017.12.22-16.48.17:966][  0]LogMaterial: Added default parameter collection resource, HomeBaseParameterCollection, ID:5E3F32F14D6E4ED04C9BCFAB36F07A73
+[2017.12.22-16.48.17:966][  0]LogMaterial: Added default parameter collection resource, Stencil_ID_Definitions, ID:281D9C06493105FC0E95569415AC1F7A
+[2017.12.22-16.48.17:966][  0]LogMaterial: Added default parameter collection resource, FortniteMaterialParameters, ID:A94D50064B63826C8C4986A4C8BDA176
+[2017.12.22-16.48.17:966][  0]LogStats:             ... GameData loaded! -  1.467 s
+[2017.12.22-16.48.17:966][  0]LogFort: Display: Startup job "GetGameData()" took 1.47 seconds to complete
+[2017.12.22-16.48.17:966][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" starting
+[2017.12.22-16.48.24:902][  0]LogStreaming: Warning: Took 740.83ms to ProcessLoadedPackages
+[2017.12.22-16.48.24:903][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" took 6.94 seconds to complete
+[2017.12.22-16.48.24:903][  0]LogFort: Display: All startup jobs took 9.55 seconds to complete
+[2017.12.22-16.48.25:187][  0]LogInit: XAudio2 using 'Lautsprecher (Sound Blaster Z)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.22-16.48.25:475][  0]LogInit: FAudioDevice initialized.
+[2017.12.22-16.48.25:486][  0]LogInit: Texture streaming: Enabled
+[2017.12.22-16.48.25:529][  0]LogFortMemory: UFortAssetManager::ChangeLoadState() changing bundle state to (Client, Menu)
+[2017.12.22-16.48.25:531][  0]LogConsoleResponse: Display: Apply Settings:
+[2017.12.22-16.48.25:601][  0]LogScheduledEvents: Queuing calendar request to MCP
+[2017.12.22-16.48.25:601][  0]LogNetVersion: FortniteGame 1.0.0, NetCL: 3804408, EngineNetVer: 2, GameNetVer: 0 (Checksum: 609211338)
+[2017.12.22-16.48.25:601][  0]LogBlueprintContext: Display: Creating blueprint contexts for Local Player ' FortLocalPlayer_0 ' of Game Instance ' FortGameInstance_0 '
+[2017.12.22-16.48.25:635][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak added to pak precacher.
+[2017.12.22-16.48.25:880][  0]LogMaterial: Added default parameter collection resource, MPC_Hexmap, ID:20526AF7447FE747ACE05282990E27FD
+[2017.12.22-16.48.25:880][  0]LogMaterial: Added default parameter collection resource, MPC_HexZoneDifficulty, ID:A93665824698633F7FDC6281E6FF9586
+[2017.12.22-16.48.25:880][  0]LogBlueprintContext: Display: Created Blueprint Context 'HomeBaseContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:880][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortMatchmakingContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:880][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortMcpContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:880][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortOutpostContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:881][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortPartyContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:881][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortPrototypingContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:881][  0]LogBlueprintContext: Display: Created Blueprint Context 'AthenaAccountContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:881][  0]LogBlueprintContext: Display: Created Blueprint Context 'AthenaHUDContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:881][  0]LogBlueprintContext: Display: Created Blueprint Context 'CMSContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:881][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortAbilitySystemContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:881][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortAccountStatsContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:881][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortFrontEndContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:882][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortGlobalUIContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:882][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortHeroManagementContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:882][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortHomebaseUIContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:882][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortHUDContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:882][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortInventoryContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:882][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortLeaderboardContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:882][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortPickerContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:882][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortStoreContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:882][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortTooltipUIContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:882][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortTutorialContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:882][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortUIDataConfigurationContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:882][  0]LogBlueprintContext: Display: Created Blueprint Context 'CommonUIContext' for Local Player 'FortLocalPlayer_0'
+[2017.12.22-16.48.25:882][  0]LogInit: Display: Game Engine Initialized.
+[2017.12.22-16.48.25:899][  0]LogFortMemory: PostEngineInit - CPU:1457.89MB (Peak: 1584.53MB)
+[2017.12.22-16.48.25:899][  0]LogInit: Display: Starting Game.
+[2017.12.22-16.48.25:899][  0]LogHotfixManager: Display: Update State UpdateIdle -> UpdatePending
+[2017.12.22-16.48.25:899][  0]LogNet: Browse: /Game/Maps/Frontend?Name=Player
+[2017.12.22-16.48.25:905][  0]LogFortLoadingScreen: Showing loading screen when 'IsShowingInitialLoadingScreen()' is true.
+[2017.12.22-16.48.25:905][  0]LogFortLoadingScreen: Showing LoadingScreen because bCurrentlyInLoadMap is true!
+[2017.12.22-16.48.25:913][  0]LogLoad: LoadMap: /Game/Maps/Frontend?Name=Player
+[2017.12.22-16.48.25:919][  0]LogGarbage: Display: Collecting garbage   (GCheckForIllegalMarkPendingKill = 0)
+[2017.12.22-16.48.25:933][  0]LogGarbage: Display: 13.684553 ms for GC
+[2017.12.22-16.48.25:934][  0]LogGarbage: Display: 1.365233 ms for unhashing unreachable objects. Clusters removed: 0.   Items 961 Cluster Items 0
+[2017.12.22-16.48.25:938][  0]LogGarbage: Display: GC purged 961 objects (261769 -> 260808)
+[2017.12.22-16.48.25:978][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/FrontEnd/Maps/FrontEndStore
+[2017.12.22-16.48.25:978][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/FrontEnd/Maps/FrontEndStore_Pinata
+[2017.12.22-16.48.25:978][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/UI/Frontend_BG_Main
+[2017.12.22-16.48.25:978][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/UI/Frontend_SkillTree
+[2017.12.22-16.48.26:423][  0]LogMaterial: Added default parameter collection resource, MPC_StoreCardColors, ID:980B581240CECB5A06F120BFACCF6247
+[2017.12.22-16.48.26:423][  0]LogMaterial: Added default parameter collection resource, MPC_Pinata, ID:6172D0F346C152CDC7C8C2BB5264A0F1
+[2017.12.22-16.48.26:423][  0]LogMaterial: Added default parameter collection resource, MPC_AnimatedCard, ID:6DE1D7A647069C164FCDAAB989A20E10
+[2017.12.22-16.48.26:454][  0]LogAIModule: Creating AISystem for world Frontend
+[2017.12.22-16.48.26:455][  0]LogLoad: Game class is 'FortGameModeFrontEnd'
+[2017.12.22-16.48.26:455][  0]LogLevelActorContainer: Created LevelActorCluster (807) for /Game/Maps/FrontEnd/Maps/FrontEndStore.FrontEndStore:PersistentLevel with 38 objects, 8 referenced clusters and 14 mutable objects.
+[2017.12.22-16.48.26:455][  0]LogLevelActorContainer: Created LevelActorCluster (808) for /Game/Maps/UI/Frontend_BG_Main.Frontend_BG_Main:PersistentLevel with 12 objects, 1 referenced clusters and 6 mutable objects.
+[2017.12.22-16.48.26:455][  0]LogLevelActorContainer: Created LevelActorCluster (809) for /Game/Maps/UI/Frontend_SkillTree.Frontend_SkillTree:PersistentLevel with 6 objects, 1 referenced clusters and 5 mutable objects.
+[2017.12.22-16.48.26:460][  0]LogLevelActorContainer: Created LevelActorCluster (810) for /Game/Maps/Frontend.Frontend:PersistentLevel with 2 objects, 0 referenced clusters and 2 mutable objects.
+[2017.12.22-16.48.26:460][  0]LogWorld: Bringing World /Game/Maps/Frontend.Frontend up for play (max tick rate 60) at 2017.12.22-17.48.26
+[2017.12.22-16.48.26:496][  0]LogMaterial: Added default parameter collection resource, MPC_Skybox_World, ID:AD511C5F4BCECA528A142E9BEC5F9456
+[2017.12.22-16.48.26:496][  0]LogFortDayNight: AFortTimeOfDayManager::PostInitializeComponents: World is "Frontend", this is "TODM_Disabled_C_0"
+[2017.12.22-16.48.26:500][  0]LogFortDayNight: Game State in World Frontend is resetting.  TimeOfDayManager is None.
+[2017.12.22-16.48.26:501][  0]LogWorld: Bringing up level for play took: 0.044508
+[2017.12.22-16.48.26:501][  0]LogOnlineGame: Client adding GameAccountId/AuthTicket for local player to login url. FortGameOptions=[ASID={5A20A0A4-4F51-EF43-1C14-A3827DFB597E}?Platform=Windows]
+[2017.12.22-16.48.26:502][  0]LogOnlineGame: Server received GameAccountId and AuthTicket from client for player: UniqueId:[INVALID] GameAccountId=[] Platform=[Windows]
+[2017.12.22-16.48.26:505][  0]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2017.12.22-16.48.26:505][  0]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2017.12.22-16.48.26:505][  0]LogParty: Verbose: Failed to get persistent party leader
+[2017.12.22-16.48.26:506][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.12.22-16.48.26:506][  0]LogFortMusic: Created MusicManager using class Default__MusicManager_C.
+[2017.12.22-16.48.26:506][  0]LogFortDayNight: Day phase actor TODM_Disabled_C_0 is setting itself as the day phase handler for the GameState on World Frontend.
+[2017.12.22-16.48.26:506][  0]LogFortDayNight: SetTimeOfDayManager: World is "Frontend", Old TimeOfDayManager: "None", New TimeOfDayManager: "TODM_Disabled_C_0"
+[2017.12.22-16.48.26:506][  0]LogFortDayNight: OnRep_TimeOfDayManager: World is "Frontend", FortTimeOfDayManager is "TODM_Disabled_C_0"
+[2017.12.22-16.48.26:506][  0]LogFort: NO SKELETAL MESH FOR FeedbackAnnouncer_C_0
+[2017.12.22-16.48.26:506][  0]LogLevel: ActivateLevel /Game/Maps/WorldLightingMenu 1 1 1
+[2017.12.22-16.48.26:507][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.12.22-16.48.26:507][  0]LogFortMemory: ================== Health Snapshot: Waiting to Start (FortGameStateFrontEnd) =================
+[2017.12.22-16.48.26:507][  0]LogFortMemory: Hero: , Theater: , Mission: 
+[2017.12.22-16.48.26:507][  0]LogFortMemory: Games Played: 0, MeasuredPerfTime 0.00 Secs
+[2017.12.22-16.48.26:507][  0]LogFortMemory: CPU Memory: Used 1509.38MB, Peak 1584.53MB
+[2017.12.22-16.48.26:507][  0]LogFortMemory: Physical Memory: Used 7514.92MB, Total: 16333.56MB
+[2017.12.22-16.48.26:507][  0]LogFortMemory: =============================================================
+[2017.12.22-16.48.26:508][  0]LogLoad: Took 0.594247 seconds to LoadMap(/Game/Maps/Frontend)
+[2017.12.22-16.48.26:934][  0]LogFortMemory: InitComplete - CPU:1509.40MB (Peak: 1584.53MB)
+[2017.12.22-16.48.26:934][  0]LogLoad: (Engine Initialization) Total time: 20.31 seconds
+[2017.12.22-16.48.26:934][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.22-16.48.27:067][  0]LogContentStreaming: Texture pool size now 600 MB
+[2017.12.22-16.48.27:071][  0]LogSlate: Took 0.000870 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/NotoSans-Bold.ufont' (485K)
+[2017.12.22-16.48.27:072][  0]LogSlate: Took 0.000646 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/NotoSans-Regular.ufont' (484K)
+[2017.12.22-16.48.27:301][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WorldLightingMenu) is flushing async loading
+[2017.12.22-16.48.27:428][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 9 NumSamples 1 (Frame:1).
+[2017.12.22-16.48.27:428][  0]LogCommonInput: Verbose: PushActivatablePanel : Adding push for new activatable panel SplashScreenWidget_C_0: 
+[2017.12.22-16.48.27:428][  0]LogCommonInput: Verbose: Input suspension: Started
+[2017.12.22-16.48.27:428][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.27:428][  0]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: SplashScreenWidget_C_0
+[2017.12.22-16.48.27:428][  0]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: SplashScreenWidget_C_0
+[2017.12.22-16.48.27:428][  0]LogFortNavigation: Verbose: CenterWidget(UWidget): SplashScreenWidget_C_0 
+[2017.12.22-16.48.27:428][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.27:428][  0]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.12.22-16.48.27:428][  0]LogOnline: Display: CloseSplashScreen UserIndex: 0
+[2017.12.22-16.48.27:428][  0]LogOnline: Display: CloseSplashScreen: No bootable invite detected
+[2017.12.22-16.48.27:428][  0]LogHotfixManager: Display: Update already in progress
+[2017.12.22-16.48.27:428][  0]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: SplashScreenWidget_C_0
+[2017.12.22-16.48.27:428][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.27:428][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.27:428][  0]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.12.22-16.48.27:431][  1]LogOnline: Verbose: MCP: Large tick time detected 19.4160
+[2017.12.22-16.48.27:431][  1]LogOnline: Verbose: OSS: No valid auth for clientId=ec684b8c687f479fadea3cb2ad83f5c6
+[2017.12.22-16.48.27:431][  1]LogOnline: Verbose: OSS: Sending Client Auth request. url=https://account-public-service-prod03.ol.epicgames.com/account, Payload=[REDACTED]
+[2017.12.22-16.48.27:576][  1]LogLevel: ActivateLevel /Game/Maps/FrontEnd/FortniteWorldMap 1 1 1
+[2017.12.22-16.48.27:576][  1]LogHotfixManager: Display: Update State UpdatePending -> CheckingForPatch
+[2017.12.22-16.48.27:577][  1]LogOnline: OSS: Sending User Privilege request. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/versioncheck?version=%2B%2BFortnite%2BRelease-Cert-CL-3807424-Windows
+[2017.12.22-16.48.27:577][  1]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/FortniteWorldMap) is flushing async loading
+[2017.12.22-16.48.27:596][  1]LogLevelActorContainer: Created LevelActorCluster (837) for /Game/Maps/FrontEnd/FortniteWorldMap.FortniteWorldMap:PersistentLevel with 16 objects, 88 referenced clusters and 11 mutable objects.
+[2017.12.22-16.48.27:598][  1]LogSlate: Took 0.000460 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/BurbankBigCondensed-Black.ufont' (157K)
+[2017.12.22-16.48.27:606][  1]LogSlate: Took 0.008053 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.12.22-16.48.27:607][  1]LogSlate: Took 0.000390 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Fonts/BurbankSmall-Medium.ufont' (118K)
+[2017.12.22-16.48.27:609][  2]LogLevel: ActivateLevel /Game/Maps/FortniteTownmap 1 1 1
+[2017.12.22-16.48.27:610][  2]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FortniteTownmap) is flushing async loading
+[2017.12.22-16.48.27:619][  2]LogLevelActorContainer: Created LevelActorCluster (840) for /Game/Maps/FortniteTownmap.FortniteTownmap:PersistentLevel with 134 objects, 129 referenced clusters and 9 mutable objects.
+[2017.12.22-16.48.27:626][  3]LogLevel: ActivateLevel /Game/Maps/UI/Frontend_Lobby 1 1 1
+[2017.12.22-16.48.27:626][  3]LogCommonInput: Verbose: Input suspension: Stopped
+[2017.12.22-16.48.27:626][  3]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby) is flushing async loading
+[2017.12.22-16.48.27:626][  3]LogStreaming: Display: /Game/Maps/UI/Frontend_Lobby is prestreaming /Game/Maps/NavMeshBounds
+[2017.12.22-16.48.27:626][  3]LogStreaming: Display: /Game/Maps/UI/Frontend_Lobby is prestreaming /Game/Maps/WorldLighting
+[2017.12.22-16.48.27:628][  3]LogLevel: ActivateLevel /Game/Maps/UI/Frontend_Lobby_Default 1 1 1
+[2017.12.22-16.48.27:629][  3]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby_Default) is flushing async loading
+[2017.12.22-16.48.27:636][  3]LogLevelActorContainer: Created LevelActorCluster (845) for /Game/Maps/UI/Frontend_Lobby_Default.Frontend_Lobby_Default:PersistentLevel with 10 objects, 1 referenced clusters and 7 mutable objects.
+[2017.12.22-16.48.28:305][ 38]LogOnline: MCP: Service status updated [Normal] -> [Connected]
+[2017.12.22-16.48.28:305][ 38]LogOnlineGame: Verbose: [UOnlineAccountCommon::OnConnectionStatusChanged] Connection status changed from Normal to Connected
+[2017.12.22-16.48.28:305][ 38]LogOnline: Verbose: OSS: Client auth request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token code=200 response=[REDACTED]
+[2017.12.22-16.48.28:305][ 38]LogOnline: Verbose: OSS: Client ClientId: ec684b8c687f479fadea3cb2ad83f5c6  Access[Expires: 2017.12.22-20.48.31 Remaining: 14400.34]  State: NotStarted drift: 0.34
+[2017.12.22-16.48.29:075][ 80]LogScheduledEvents: Calendar request returned HTTP 200
+[2017.12.22-16.48.29:075][ 80]LogScheduledEvents: Received new Calendar data. Events time offset is 0.000860833 hrs
+[2017.12.22-16.48.29:075][ 80]LogScheduledEvents: Updating channel 'client-matchmaking' due to new data.
+[2017.12.22-16.48.29:075][ 80]LogScheduledEvents: Updating channel 'client-events' due to new data.
+[2017.12.22-16.48.29:075][ 80]LogScheduledEvents: Calendar update complete. Current events time is 2017-12-22T16:48:32.174Z. Cache expires 2017-12-22T20:25:51.805Z.
+[2017.12.22-16.48.29:076][ 80]LogOnline: Verbose: OSS: GetUserPrivilege request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/versioncheck?version=%2B%2BFortnite%2BRelease-Cert-CL-3807424-Windows code=200 response={"type":"NO_UPDATE","acceptedVersions":["++Fortnite+Release-Cert-CL-3807424-Windows","++Fortnite+Release-Cert-CL-3807424-Mac"]}
+[2017.12.22-16.48.29:076][ 80]LogHotfixManager: Verbose: [OnCheckForPatchComplete] Privilege=1 PrivilegeResult=0
+[2017.12.22-16.48.29:076][ 80]LogHotfixManager: Display: Update State CheckingForPatch -> CheckingForHotfix
+[2017.12.22-16.48.29:091][ 80]LogFortLoadingScreen: Hiding loading screen when 'IsShowingInitialLoadingScreen()' is true.
+[2017.12.22-16.48.29:091][ 80]LogFortLoadingScreen: Hiding loading screen because this AFortPlayerController is not in Zone and always returns 'hide loading screen'.
+[2017.12.22-16.48.29:352][ 92]LogOnline: Verbose: MCP: EnumerateFiles request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/system code=200 response=[{"uniqueFilename":"3460cbe1c57d4a838ace32951a4d7171","filename":"DefaultEngine.ini","hash":"737e9970591cb5297cb0ceee93707c32ac29f855","hash256":"245535708fc620aa2d34e97f284ff98dee01e6f03502cf42d42e01d5ed1d6050","length":3129,"contentType":"application/octet-stream","uploaded":"2017-12-07T09:05:42.941Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"93d33a2545a04aa8a0d2f44b5b0d3a98","filename":"DedicatedServerEngine.ini","hash":"9e7a6e671415836dcf86605dfb84f97a2afd9b56","hash256":"ec24886e4edaf42fa4d8eb3587604df7674915176537039a4b71e97456c3a749","length":10811,"contentType":"application/octet-stream","uploaded":"2017-12-15T16:19:11.411Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"9350a75c1baa4a84837bd2b5cfc99b88","filename":"DedicatedServerGame.ini","hash":"6d593e57344326266b9d6b83d07096ea275f1403","hash256":"94c563e52f7fd378352451cb878e99804d4e37c56695898bf9226888496c42c7","length":124,"contentType":"application/octet-stream","uploaded":"2017-12-07T18:10:44.217Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"407ab578cc544045946ce4a84cde8b92","filename":"PS4_Engine.ini","hash":"c8c0890ff1913a5dca4482f926cd2121303b907a","hash256":"565088ccca2053af61fd0ec310d72ddf7137b3e53ba5f62b04421318f04e8978","length":30,"contentType":"application/octet-stream","uploaded":"2017-10-06T20:13:15.383Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"93acb56ad2a24e86b7b94d4b15c59974","filename":"XboxOne_Game.ini","hash":"e85b495ddeb4929db75908a1fa2856679c979a92","hash256":"09ea45299191e9847a87f8b5f4ea7af5afcf60045b8b75e51babfa41eeea2e7e","length":270,"contentType":"application/octet-stream","uploaded":"2017-12-20T18:32:54.259Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"51daf06a568d488a91183182f9585d67","filename":"PS4_Game.ini","hash":"12e2585f88eb8501860d866d02a05418060c459c","hash256":"725ff668e95d0e37243d5a88d658209e8484b20da9cebcd432fb3516b6eb0b18","length":262,"contentType":"application/octet-stream","uploaded":"2017-12-20T18:32:54.408Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"1a46692bf9f34c18a87681016940001c","filename":"XboxOne_Engine.ini","hash":"53e735f01cd38e87b67ffbc213c6e27f12ab9169","hash256":"c41fc12f3bb40ce775331a03e97a3a281e09b54a5f82a6b03a420f79b637e726","length":2898,"contentType":"application/octet-stream","uploaded":"2017-10-27T20:18:33.013Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"cfe3ccd549f647ca88d18eaa58e65a11","filename":"DefaultInput.ini","hash":"9e5a095c61cc9e63563ceae6b319c52f09dd0eac","hash256":"fde856e89960e3754e55ae9b0930611c8e18401edf329f542244c70e2a1ca377","length":71,"contentType":"application/octet-stream","uploaded":"2017-12-07T18:34:20.072Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"a22d837b6a2b46349421259c0a5411bf","filename":"DefaultGame.ini","hash":"43cde8f84dd78a62e50174eba39e09893a0770f9","hash256":"096d810eccaf13a5620169867b66e14cd5a88a7c06a13d7631fcd33b6843b0f0","length":89260,"contentType":"application/octet-stream","uploaded":"2017-12-20T18:32:54.739Z","storageType":"S3","doNotCache":false}]
+[2017.12.22-16.48.29:353][ 92]LogOnline: MCP: FOnlineTitleFileMcp::DeleteCachedFiles Clearing cached files: [bSkipEnumerated:1]
+[2017.12.22-16.48.29:353][ 92]LogOnline: MCP:   Cleared 0 cached files.
+[2017.12.22-16.48.29:353][ 92]LogHotfixManager: Verbose: Using default hotfix DefaultEngine.ini
+[2017.12.22-16.48.29:353][ 92]LogHotfixManager: Verbose: Using default hotfix DefaultInput.ini
+[2017.12.22-16.48.29:353][ 92]LogHotfixManager: Verbose: Using default hotfix DefaultGame.ini
+[2017.12.22-16.48.29:369][ 93]LogOnline: Verbose: MCP: ReadFile request. Local file read from cache =../../../FortniteGame/PersistentDownloadDir/EMS/cfe3ccd549f647ca88d18eaa58e65a11
+[2017.12.22-16.48.29:369][ 93]LogOnline: Verbose: MCP: ReadFile request. Local file read from cache =../../../FortniteGame/PersistentDownloadDir/EMS/3460cbe1c57d4a838ace32951a4d7171
+[2017.12.22-16.48.29:369][ 93]LogOnline: Verbose: MCP: ReadFile request. Local file read from cache =../../../FortniteGame/PersistentDownloadDir/EMS/a22d837b6a2b46349421259c0a5411bf
+[2017.12.22-16.48.29:369][ 93]LogOnline: Verbose: MCP: Local file hash matches cloud header. No need to download for filename=3460cbe1c57d4a838ace32951a4d7171
+[2017.12.22-16.48.29:369][ 93]LogHotfixManager: Hotfix file (DefaultEngine.ini) downloaded. Size was (3129)
+[2017.12.22-16.48.29:369][ 93]LogOnline: Verbose: MCP: Local file hash matches cloud header. No need to download for filename=a22d837b6a2b46349421259c0a5411bf
+[2017.12.22-16.48.29:369][ 93]LogHotfixManager: Hotfix file (DefaultGame.ini) downloaded. Size was (89260)
+[2017.12.22-16.48.29:369][ 93]LogOnline: Verbose: MCP: Local file hash matches cloud header. No need to download for filename=cfe3ccd549f647ca88d18eaa58e65a11
+[2017.12.22-16.48.29:369][ 93]LogHotfixManager: Hotfix file (DefaultInput.ini) downloaded. Size was (71)
+[2017.12.22-16.48.29:372][ 93]LogHotfixManager: Verbose: Reloading /Script/Qos.Default__QosRegionManager
+[2017.12.22-16.48.29:382][ 93]LogHotfixManager: Verbose: Reloading /Engine/Transient.QosRegionManager_0
+[2017.12.22-16.48.29:382][ 93]LogQos: SetSelectedRegion: failed to find region id NONE
+[2017.12.22-16.48.29:382][ 93]LogQos: SetSelectedRegion: failed to find region id 
+[2017.12.22-16.48.29:382][ 93]LogQos: Warning: Unable to set a good region!
+[2017.12.22-16.48.29:382][ 93]LogQos: Warning: Wanted to set NONE, failed to fall back to 
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: Region Info:
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: Current:  
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: Overall Result: Invalid
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: Region: Nordamerika [NA] Ping: 9999
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: Region: Europa [EU] Ping: 9999
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: Region: Ozeanien [OCE] Ping: 9999
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: Region: Brasilien [BR] Ping: 9999
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: Region: Asien [ASIA] Ping: 9999
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: Region: Test01 [Test01] Ping: 9999
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: Region: Test02 [Test02] Ping: 9999
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: Region: Ohio [OH] Ping: 9999
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: Region: London [GB] Ping: 9999
+[2017.12.22-16.48.29:382][ 93]LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+[2017.12.22-16.48.29:382][ 93]LogHotfixManager: Updating config from DefaultEngine.ini took 0.012716 seconds and reloaded 2 objects
+[2017.12.22-16.48.29:388][ 93]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortGameInstance
+[2017.12.22-16.48.29:388][ 93]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortGlobals
+[2017.12.22-16.48.29:388][ 93]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortMatchmakingV2
+[2017.12.22-16.48.29:388][ 93]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortOnlineAccount
+[2017.12.22-16.48.29:388][ 93]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortOnlineAccountMobile
+[2017.12.22-16.48.29:388][ 93]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortPlayerControllerAthena
+[2017.12.22-16.48.29:388][ 93]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortWorldManager
+[2017.12.22-16.48.29:389][ 93]LogHotfixManager: Verbose: Reloading /Engine/Transient.FortEngine_0:FortGlobals_0
+[2017.12.22-16.48.29:393][ 93]LogHotfixManager: Verbose: Reloading /Game/Athena/Athena_PlayerController.Default__Athena_PlayerController_C
+[2017.12.22-16.48.29:397][ 93]LogHotfixManager: Verbose: Reloading /Engine/Transient.FortEngine_0:FortGameInstance_0
+[2017.12.22-16.48.29:398][ 93]LogHotfixManager: Verbose: Reloading /Engine/Transient.FortEngine_0:FortGameInstance_0.FortMatchmakingV2_0
+[2017.12.22-16.48.29:398][ 93]LogHotfixManager: Verbose: Reloading /Engine/Transient.FortEngine_0:FortLocalPlayer_0.FortOnlineAccount_0
+[2017.12.22-16.48.29:399][ 93]LogHotfixManager: Updating config from DefaultGame.ini took 0.012987 seconds and reloaded 12 objects
+[2017.12.22-16.48.29:401][ 93]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortPlayerInputAthena
+[2017.12.22-16.48.29:410][ 93]LogHotfixManager: Updating config from DefaultInput.ini took 0.011094 seconds and reloaded 1 objects
+[2017.12.22-16.48.29:410][ 93]LogHotfixManager: Display: Hotfix data has been successfully applied
+[2017.12.22-16.48.29:410][ 93]LogHotfixManager: Display: Checking for assets to be patched using data from 'AssetHotfix' section in the Game .ini file
+[2017.12.22-16.48.29:422][ 93]LogHotfixManager: Display: Successfully patched all 1 assets from the 'AssetHotfix' section in the Game .ini file.  These assets will be forced to remain loaded.
+[2017.12.22-16.48.29:422][ 93]LogHotfixManager: Display: OnHotfixCheckComplete 1
+[2017.12.22-16.48.29:524][ 99]LogHotfixManager: Display: Update State CheckingForHotfix -> WaitingOnInitialLoad
+[2017.12.22-16.48.29:524][100]LogHotfixManager: Finished initial load/hotfix phase in 0.000631s
+[2017.12.22-16.48.29:524][100]LogHotfixManager: Display: Update State WaitingOnInitialLoad -> InitialLoadComplete
+[2017.12.22-16.48.29:524][100]LogHotfixManager: Display: CheckComplete UpdateSuccess
+[2017.12.22-16.48.30:040][130]LogHotfixManager: Display: External CheckComplete UpdateSuccess
+[2017.12.22-16.48.30:040][130]LogHotfixManager: Display: Update State InitialLoadComplete -> UpdatePending
+[2017.12.22-16.48.30:040][130]LogOnlineGame: Verbose: [UOnlineAccountCommon::AutoLogin] Attempting AutoLogin for player with e-mail unused on controller 0
+[2017.12.22-16.48.30:040][130]LogOnlineGame: [UOnlineAccountCommon::StartLogin] Starting Login state machine
+[2017.12.22-16.48.30:057][131]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Überprüfung der Warteschlange für Epic-Dienste ... (LoginWaitingRoom)
+[2017.12.22-16.48.30:073][132]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Anmeldung bei Epic-Diensten ... (LoggingIn)
+[2017.12.22-16.48.30:073][132]LogOnlineGame: Verbose: [UOnlineAccountCommon::LoginStep_LoggingIn] Valid credentials , attempting AutoLogin
+[2017.12.22-16.48.30:073][132]LogOnline: OSS: Sending Login request. url=https://account-public-service-prod03.ol.epicgames.com/account, type=exchangecode, id=[REDACTED]
+[2017.12.22-16.48.30:338][144]LogOnline: Verbose: OSS: Login request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token code=200 response=[REDACTED]
+[2017.12.22-16.48.30:339][144]LogOnline: Verbose: OSS: User ClientId: ec684b8c687f479fadea3cb2ad83f5c6 AccountId: 7340ba732ec54cd59d9b83bbd63901a0 Access[Expires: 2017.12.23-00.48.33 Remaining: 28800.42] Refresh[Expires: 2017.12.23-16.48.33 Remaining: 86400.42] State: Valid drift: 0.42
+[2017.12.22-16.48.30:339][144]LogOnline: Verbose: OSS: Starting QueryLoggedInUserInfo request.
+[2017.12.22-16.48.30:339][144]LogOnline: Verbose: OSS: Starting QueryLoggedInUserMetaData request.
+[2017.12.22-16.48.30:339][144]LogOnline: Verbose: OSS: Starting QueryExternalAuths request.
+[2017.12.22-16.48.30:571][158]LogOnline: OSS: Kill auth sessions request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/sessions/kill?killType=OTHERS_ACCOUNT_CLIENT_SERVICE code=204 response=[REDACTED]
+[2017.12.22-16.48.30:871][176]LogOnline: Verbose: OSS: QueryLoggedInUserInfo request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/public/account/7340ba732ec54cd59d9b83bbd63901a0 code=200 response=[REDACTED]
+[2017.12.22-16.48.30:904][178]LogOnline: Verbose: OSS: QueryLoggedInUserMetaData request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/accounts/7340ba732ec54cd59d9b83bbd63901a0/metadata code=200 response=[REDACTED]
+[2017.12.22-16.48.31:036][180]LogOnline: Verbose: OSS: QueryExternalAuths request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/public/account/7340ba732ec54cd59d9b83bbd63901a0/externalAuths code=200 response=[REDACTED]
+[2017.12.22-16.48.31:036][180]LogOnlineGame: Verbose: [UOnlineAccountCommon::LoginStep_OnLoginComplete] Login completed. UserId=[7340ba732ec54cd59d9b83bbd63901a0] DisplayName=[] EpicAccountId=[]
+[2017.12.22-16.48.31:036][180]LogOnlineGame: Verbose: [UOnlineAccountCommon::LoginStep_OnLoginComplete] Login completed, continuing login process
+[2017.12.22-16.48.31:036][180]LogOnlineGame: Display: [UOnlineAccountCommon::ProcessUserLogin] Successfully logged in user. UserId=[7340ba732ec54cd59d9b83bbd63901a0] DisplayName=[Hotterino] EpicAccountId=[7340ba732ec54cd59d9b83bbd63901a0] AuthTicket=[<Redacted>]
+[2017.12.22-16.48.31:036][180]LogParty: [UParty::ClearPendingPartyJoin] Clearing pending party join: HadPendingInvite=[false]
+[2017.12.22-16.48.31:036][180]LogOnlineGame: Verbose: [UOnlineAccountCommon::OnLoginStatusChanged] Login status changed for User 7340ba732ec54cd59d9b83bbd63901a0 (local user 0) from 0 to 2
+[2017.12.22-16.48.31:037][180]LogOnline: Verbose: OSS: Starting QuerySSODomains request.
+[2017.12.22-16.48.31:038][180]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Verifizierung der EULA ... (EulaDownload)
+[2017.12.22-16.48.31:038][180]LogOnline: Display: OSS: Starting EulaService::GetAgreement request for key fn
+[2017.12.22-16.48.31:222][192]LogOnline: Verbose: OSS: QuerySSODomains request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/epicdomains/ssodomains code=200 response=[REDACTED]
+[2017.12.22-16.48.31:975][232]LogOnline: Display: OSS: EulaService::GetAgreement request complete. url=https://eulatracking-public-service-prod06.ol.epicgames.com/eulatracking/api/shared/agreements/fn?locale=de-DE&withLocaleFallback=true code=200 key=fn responselength=29072
+[2017.12.22-16.48.31:988][232]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login:  (CheckPlatformPlayAllowed)
+[2017.12.22-16.48.32:173][244]LogOnlineGame: UFortOnlineAccount::CheckPlatformPlayAllowed_HttpRequestComplete: play IS allowed on this platform
+[2017.12.22-16.48.32:187][244]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Kontaktierung der Server ... (CheckServiceAvailability)
+[2017.12.22-16.48.32:187][244]LogOnlineGame: Verbose: [UOnlineAccountCommon::LoginStep_CheckServiceAvailability] bShouldSkipAvailabilityCheck is not true, checking service availability
+[2017.12.22-16.48.32:188][245]LogOnline: Verbose: OSS: Started QueryServiceStatus request as user.
+[2017.12.22-16.48.33:014][278]LogOnline: Verbose: OSS: QueryServiceStatus request complete. url=https://lightswitch-public-service-prod06.ol.epicgames.com/lightswitch/api/service/bulk/status?serviceId=Fortnite code=200 response=[{"serviceInstanceId":"fortnite","status":"UP","message":"Fortnite is up.","maintenanceUri":null,"overrideCatalogIds":["a7f138b2e51945ffbfdacc1af0541053"],"allowedActions":["PLAY","DOWNLOAD"],"banned":false,"launcherInfoDTO":{"appName":"Fortnite","catalogItemId":"4fe75bbc5a674f4f9b356b5c90567da5","namespace":"fn"}}]
+[2017.12.22-16.48.33:029][278]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Überprüfung der Berechtigungen … (CheckEntitledToPlay)
+[2017.12.22-16.48.33:029][278]LogOnline: Verbose: OSS: Started QueryGameAccess request as user.
+[2017.12.22-16.48.33:213][290]LogOnline: OSS: QueryAvailableFeatures request complete and valid. Response string length is 9, code is 200
+[2017.12.22-16.48.33:215][290]LogOnline: OSS: QueryAvailableFeatures request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/enabled_features code=200 response=["store"]
+[2017.12.22-16.48.33:225][290]LogOnline: Verbose: OSS: QueryGameAccess received 1 enabled features
+[2017.12.22-16.48.33:229][290]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Benutzereinstellungen werden heruntergeladen... (DownloadingClientSettings)
+[2017.12.22-16.48.33:229][290]LogOnline: Verbose: MCP: Starting EnumerateUserFiles request.
+[2017.12.22-16.48.33:447][304]LogOnline: Verbose: MCP: EnumerateUserFiles request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/user/7340ba732ec54cd59d9b83bbd63901a0 code=200 response=[{"uniqueFilename":"ClientSettings.Sav","filename":"ClientSettings.Sav","hash":"6bb0910989c34bcafe5aa200ed9d21d489dc9add","hash256":"ef977a24d9cb51562d8d231dd16fca42e587c3eba559a94c4097ded3164b78e7","length":24825,"contentType":"text/plain","uploaded":"2017-12-22T16:23:48.066Z","storageType":"S3","accountId":"7340ba732ec54cd59d9b83bbd63901a0"},{"uniqueFilename":"a67a036b-2701-4ce1-8737-98193a015160_r0_a0.sav","filename":"a67a036b-2701-4ce1-8737-98193a015160_r0_a0.sav","hash":"767e4f881d72868aa74eb39eb1610f6f08499624","hash256":"ed550082205ade62f3ea867cfa4e81ec6c03cd413702e64854885799c663bd87","length":570143,"contentType":"text/plain","uploaded":"2017-08-03T20:56:26.283Z","storageType":"S3","accountId":"7340ba732ec54cd59d9b83bbd63901a0"},{"uniqueFilename":"a67a036b-2701-4ce1-8737-98193a015160_r0_a1.sav","filename":"a67a036b-2701-4ce1-8737-98193a015160_r0_a1.sav","hash":"f9326db6c1f0269905cc5b30e6b947cb89f60bb3","hash256":"affbdf75f8a74091ade3960c31ec2998ddbe57a143d2bf49c47296ee4ab0574d","length":570759,"contentType":"text/plain","uploaded":"2017-08-03T20:57:27.471Z","storageType":"S3","accountId":"7340ba732ec54cd59d9b83bbd63901a0"}]
+[2017.12.22-16.48.33:447][304]LogOnline: Verbose: MCP: ReadUserFile request. Local file failed to read from cache =C:/Users/heise/AppData/Local/FortniteGame/Saved/Cloud/7340ba732ec54cd59d9b83bbd63901a0/ClientSettings.Sav
+[2017.12.22-16.48.33:447][304]LogOnline: Verbose: MCP: Starting ReadUserFile request. filename=ClientSettings.Sav
+[2017.12.22-16.48.33:832][322]LogOnline: Verbose: MCP: ReadUserFile request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/user/7340ba732ec54cd59d9b83bbd63901a0/ClientSettings.Sav code=200 length=-1 type=text/plain
+[2017.12.22-16.48.33:835][322]LogOnline: Verbose: MCP: WriteUserFile request complete. Local file cache updated =C:/Users/heise/AppData/Local/FortniteGame/Saved/Cloud/7340ba732ec54cd59d9b83bbd63901a0/ClientSettings.Sav
+[2017.12.22-16.48.34:045][322]LogConsoleResponse: Display: Apply Settings:
+[2017.12.22-16.48.34:047][322]LogConsoleResponse: Display: 
+[2017.12.22-16.48.34:047][322]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2017.12.22-16.48.34:048][322]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed to find hero. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2017.12.22-16.48.34:048][322]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed initialization, using default parts. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2017.12.22-16.48.34:048][322]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2017.12.22-16.48.34:048][322]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed to find hero. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2017.12.22-16.48.34:048][322]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed initialization, using default parts. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2017.12.22-16.48.34:048][322]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2017.12.22-16.48.34:048][322]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed to find hero. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2017.12.22-16.48.34:048][322]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed initialization, using default parts. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2017.12.22-16.48.34:048][322]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2017.12.22-16.48.34:048][322]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed to find hero. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2017.12.22-16.48.34:048][322]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed initialization, using default parts. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2017.12.22-16.48.34:048][322]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2017.12.22-16.48.34:048][322]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed to find hero. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2017.12.22-16.48.34:048][322]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed initialization, using default parts. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2017.12.22-16.48.34:048][322]LogVivoxVoiceChat: FVivox::Connect
+[2017.12.22-16.48.34:050][322]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Profil wird heruntergeladen... (QueryProfile)
+[2017.12.22-16.48.34:050][322]LogFortPlayerRegistration: BindToPlayerState trying to initialize ability system actor
+[2017.12.22-16.48.34:050][322]LogFortPlayerRegistration: UpdateAbilitySystemActor with no profile/world, clearing [Hotterino]
+[2017.12.22-16.48.34:050][322]LogFortQuest: UFortQuestManager::InitQuests: FromMCP=true, FromUpdate=false.
+[2017.12.22-16.48.34:050][322]LogFortQuest: UFortQuestManager::InitQuests: FromMCP=true, FromUpdate=false.
+[2017.12.22-16.48.34:050][322]LogFortQuest: UFortQuestManager::InitQuests: Updating player: 7340ba732ec54cd59d9b83bbd63901a0, bHasInitialUpdate: 0, bTutorialCompleted: 0
+[2017.12.22-16.48.34:050][322]LogFortQuest: UFortQuestManager::InitQuests: HasCompletedOnboardingQuests: 0
+[2017.12.22-16.48.34:050][322]LogOnline: Verbose: TWITCH: FOnlineSubsystemTwitch::Init() Name: DefaultInstance
+[2017.12.22-16.48.34:050][322]LogOnlineGame: Verbose: UFortMcpResource: Dispatching request to https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/twitch/7340ba732ec54cd59d9b83bbd63901a0
+[2017.12.22-16.48.34:050][322]LogFortPlayerRegistration: BindToPlayerController trying to initialize ability system actor
+[2017.12.22-16.48.34:050][322]LogFortPlayerRegistration: UpdateAbilitySystemActor with no profile/world, clearing [Hotterino]
+[2017.12.22-16.48.34:050][322]LogFort: UFortRegisteredPlayerInfo::SynchronizeProfile is adding FFortProfileSynchronizeRequest : RequestId [0].
+[2017.12.22-16.48.34:051][322]LogProfileSys: Requesting full profile update for profile 'profile0' for player 'Hotterino'
+[2017.12.22-16.48.34:051][322]LogProfileSys: Requesting full profile update for profile 'athena' for player 'Hotterino'
+[2017.12.22-16.48.34:051][322]LogProfileSys: MCP-Profile: Dispatching request to https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/7340ba732ec54cd59d9b83bbd63901a0/client/QueryProfile?profileId=profile0&rvn=-1
+[2017.12.22-16.48.34:051][322]LogProfileSys: MCP-Profile: Command QueryProfile queued to send
+[2017.12.22-16.48.34:051][322]LogOnlineGame: Verbose: UFortMcpResource: Dispatching request to https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/world/info
+[2017.12.22-16.48.34:051][322]LogProfileSys: MCP-Profile: Command QueryProfile queued to send
+[2017.12.22-16.48.34:051][322]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] initial WaitingFor flags [34].
+[2017.12.22-16.48.34:051][322]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] final WaitingFor flags [34].
+[2017.12.22-16.48.34:051][322]LogFort: Initialized MCP profile for FortPlayerControllerFrontEnd_0 (force sync: yes)
+[2017.12.22-16.48.34:051][322]LogFortLoadingScreen: Showing loading screen when 'IsShowingInitialLoadingScreen()' is true.
+[2017.12.22-16.48.34:051][322]LogFortLoadingScreen: Loading profile content
+[2017.12.22-16.48.34:812][364]LogOnline: Verbose: TWITCH: FOnlineIdentityTwitch::ValidateAuthToken_HttpRequestComplete: request complete for user 0. url=https://api.twitch.tv/kraken?client_id=bs3mowbbusifs5b0rm43e9adg2k3nq code=200 response={"token":{"valid":true,"authorization":{"scopes":["channel_check_subscription","user_read"],"created_at":"2017-12-20T15:53:28Z","updated_at":"2017-12-20T15:53:28Z"},"user_name":"hotter_","user_id":"44092547","client_id":"bs3mowbbusifs5b0rm43e9adg2k3nq"}}
+[2017.12.22-16.48.34:812][364]LogOnline: TWITCH: FOnlineIdentityTwitch::ValidateAuthToken_HttpRequestComplete: Auth token validated
+[2017.12.22-16.48.34:812][364]LogOnline: TWITCH: Twitch login for user 0 was successful.
+[2017.12.22-16.48.34:812][364]LogOnlineGame: Verbose: Twitch login completed for user 0: success 
+[2017.12.22-16.48.34:812][364]LogOnlineGame: Verbose: UFortTwitchAccount::OnTwitchLoginComplete: Unexpected, not attempting to login
+[2017.12.22-16.48.34:812][364]LogOnlineGame: Verbose: Twitch login status changed for user 0 from NotLoggedIn to LoggedIn
+[2017.12.22-16.48.35:079][380]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/7340ba732ec54cd59d9b83bbd63901a0/client/QueryProfile?profileId=profile0&rvn=-1
+[2017.12.22-16.48.35:079][380]LogProfileSys: Display: MCP-Version = prod-live Release-Live-Live build b1113 cl 3813975
+[2017.12.22-16.48.35:101][380]LogProfileSys: Requesting full profile update for profile 'profile0' for player 'Hotterino'
+[2017.12.22-16.48.35:101][380]LogProfileSys: Requesting full profile update for profile 'athena' for player 'Hotterino'
+[2017.12.22-16.48.35:101][380]LogProfileSys: MCP-Profile: Dispatching request to https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/7340ba732ec54cd59d9b83bbd63901a0/client/QueryProfile?profileId=athena&rvn=-1
+[2017.12.22-16.48.35:140][380]LogStreaming: Warning: FAsyncPackage::LoadImports for /Game/Effects/SplineTrails/Blueprints/BP_SplineVolumeTrail_v1b: Skipping import BoolProperty /Script/Engine.Texture:DeferCompression, depends on missing native class
+[2017.12.22-16.48.35:300][384]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/7340ba732ec54cd59d9b83bbd63901a0/client/QueryProfile?profileId=athena&rvn=-1
+[2017.12.22-16.48.35:314][384]LogProfileSys: MCP-Profile: Full profile update (rev=3161, version=grant_collectionbook_lvl_100_reward_change_dec_2017@w=9) for Hotterino accountId=7340ba732ec54cd59d9b83bbd63901a0 profileId=profile0.
+[2017.12.22-16.48.35:387][384]LogProfileSys: Display: HandleFullProfileUpdate Complete:
+[2017.12.22-16.48.35:387][384]LogProfileSys: Display: 	TotalTime: 0.07
+[2017.12.22-16.48.35:387][384]LogProfileSys: Display: 	StatUpdate: 0.00
+[2017.12.22-16.48.35:387][384]LogProfileSys: Display: 	ItemUpdate: 0.07
+[2017.12.22-16.48.35:387][384]LogProfileSys: Display: 	DestroyOld: 0.00
+[2017.12.22-16.48.35:387][384]LogParty: Display: Homebase updated for Team Member: 
+[2017.12.22-16.48.35:388][384]LogFortQuest: UFortQuestManager::InitQuests: FromMCP=true, FromUpdate=true.
+[2017.12.22-16.48.35:389][384]LogFortQuest: UFortQuestManager::InitQuests: Updating player: 7340ba732ec54cd59d9b83bbd63901a0, bHasInitialUpdate: 0, bTutorialCompleted: 0
+[2017.12.22-16.48.35:389][384]LogFortQuest: UFortQuestManager::InitQuests: HasCompletedOnboardingQuests: 1
+[2017.12.22-16.48.35:389][384]LogFort: GetOrInitializeHero called with valid player info
+[2017.12.22-16.48.35:390][384]LogFortPlayerRegistration: UFortRegisteredPlayerInfo::OnAccountInventoryChanged trying to initialize ability system actor
+[2017.12.22-16.48.35:390][384]LogFortPlayerRegistration: InitializeAbilitySystemActor initialized with proxy for Hotterino
+[2017.12.22-16.48.35:449][384]LogFort: ApplyHeroEffectsAndAbilities succeeded
+[2017.12.22-16.48.35:483][384]LogFort: ApplyHomebaseEffectsOnPlayerSetup Succeeded
+[2017.12.22-16.48.35:483][384]LogParty: Display: Homebase updated for Team Member: 
+[2017.12.22-16.48.35:483][384]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] initial WaitingFor flags [34].
+[2017.12.22-16.48.35:483][384]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] final WaitingFor flags [30].
+[2017.12.22-16.48.35:484][384]LogProfileSys: MCP-Profile: Full profile update (rev=216, version=populate_current_season_nov_2017@w=5) for Hotterino accountId=7340ba732ec54cd59d9b83bbd63901a0 profileId=athena.
+[2017.12.22-16.48.35:485][384]LogProfileSys: Display: HandleFullProfileUpdate Complete:
+[2017.12.22-16.48.35:485][384]LogProfileSys: Display: 	TotalTime: 0.00
+[2017.12.22-16.48.35:485][384]LogProfileSys: Display: 	StatUpdate: 0.00
+[2017.12.22-16.48.35:485][384]LogProfileSys: Display: 	ItemUpdate: 0.00
+[2017.12.22-16.48.35:485][384]LogProfileSys: Display: 	DestroyOld: 0.00
+[2017.12.22-16.48.35:485][384]LogFortQuest: UFortQuestManager::InitQuests: FromMCP=true, FromUpdate=true.
+[2017.12.22-16.48.35:485][384]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] initial WaitingFor flags [30].
+[2017.12.22-16.48.35:485][384]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] final WaitingFor flags [10].
+[2017.12.22-16.48.35:655][395]LogVivoxVoiceChat: onConnectCompleted
+[2017.12.22-16.48.35:769][400]LogOnline: Verbose: OSS: QueryTheaterList request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/world/info code=200
+[2017.12.22-16.48.35:814][400]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] initial WaitingFor flags [10].
+[2017.12.22-16.48.35:814][400]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] final WaitingFor flags [0].
+[2017.12.22-16.48.35:814][400]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) is removing FFortProfileSynchronizeRequest : Request.RequestId [0].
+[2017.12.22-16.48.35:820][400]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Einlösung der Offline-Käufe ... (RedeemOfflinePurchases)
+[2017.12.22-16.48.36:053][410]LogCatalogHelper: Found receipt with 1 offers for appstore=EpicPurchasingService
+[2017.12.22-16.48.36:053][410]LogCatalogHelper:   Offer 0 had 5 line-items
+[2017.12.22-16.48.36:053][410]LogCatalogHelper: Validated no receipts
+[2017.12.22-16.48.36:068][410]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Suche nach Sitzungen zum erneuten Beitreten ... (CheckingRejoin)
+[2017.12.22-16.48.36:070][411]LogOnline: OSS: Sending FindFriendSession request. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/matchmaking/session/findPlayer/7340ba732ec54cd59d9b83bbd63901a0, friendid=7340ba732ec54cd59d9b83bbd63901a0
+[2017.12.22-16.48.36:085][411]LogFort: Setting up first time rich presence
+[2017.12.22-16.48.36:090][412]LogOnline: OSS: FOnlineIdentityMcp::HandleXmppConnectionCreated
+[2017.12.22-16.48.36:090][412]LogOnline: Verbose: MCP: FOnlineSessionMcp::HandleXmppConnectionCreated
+[2017.12.22-16.48.36:090][412]LogOnline: Verbose: OSS: FOnlineFriendsMcp::HandleXmppConnectionCreated
+[2017.12.22-16.48.36:090][412]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::HandleXmppConnectionCreated
+[2017.12.22-16.48.36:090][412]LogOnline: Verbose: OSS: FOnlinePresenceMcp::HandleXmppConnectionCreated
+[2017.12.22-16.48.36:287][424]LogOnline: Verbose: OSS: FindFriendSessionUrl request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/matchmaking/session/findPlayer/7340ba732ec54cd59d9b83bbd63901a0 code=200 response=<Payload>
+[2017.12.22-16.48.36:304][425]LogOnline: Verbose: Async task 'FOnlineAsyncTaskMcpFindFriendSession bWasSuccessful: 1' succeeded in 0.221885 seconds
+[2017.12.22-16.48.36:304][425]LogOnline: Verbose: OSS: Num Valid / Total Search Results 0 / 0
+[2017.12.22-16.48.36:304][425]LogOnline: Verbose: OSS: BestSessionIdx -1
+[2017.12.22-16.48.36:304][425]LogOnlineGame: Verbose: [UFortOnlineAccount::OnRejoinCheckComplete] Rejoin check completed with Result (RejoinNotRequired)
+[2017.12.22-16.48.36:320][425]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Überprüfung der Verbindung zu den Rechenzentren ... (DoQosPingTests)
+[2017.12.22-16.48.36:320][425]LogQos: Verbose: Pinging [NA] 52.203.3.55:22222
+[2017.12.22-16.48.36:331][425]LogQos: Verbose: Pinging [NA] 54.82.195.216:22222
+[2017.12.22-16.48.36:343][425]LogQos: Verbose: Pinging [NA] 34.194.116.183:22222
+[2017.12.22-16.48.36:355][425]LogQos: Verbose: Pinging [NA] 34.193.154.39:22222
+[2017.12.22-16.48.36:366][425]LogQos: Verbose: Pinging [NA] 52.203.3.55:22222
+[2017.12.22-16.48.36:378][425]LogQos: Verbose: Pinging [EU] 18.194.228.16:22222
+[2017.12.22-16.48.36:389][425]LogQos: Verbose: Pinging [EU] 35.156.234.249:22222
+[2017.12.22-16.48.36:401][425]LogQos: Verbose: Pinging [EU] 35.158.209.186:22222
+[2017.12.22-16.48.36:412][425]LogQos: Verbose: Pinging [EU] 18.194.220.44:22222
+[2017.12.22-16.48.36:424][425]LogQos: Verbose: Pinging [EU] 18.194.228.16:22222
+[2017.12.22-16.48.36:435][425]LogQos: Verbose: Pinging [OCE] 13.210.30.168:22222
+[2017.12.22-16.48.36:447][425]LogQos: Verbose: Pinging [OCE] 13.210.108.126:22222
+[2017.12.22-16.48.36:458][425]LogQos: Verbose: Pinging [OCE] 13.210.58.172:22222
+[2017.12.22-16.48.36:469][425]LogQos: Verbose: Pinging [OCE] 13.210.122.252:22222
+[2017.12.22-16.48.36:481][425]LogQos: Verbose: Pinging [OCE] 13.210.30.168:22222
+[2017.12.22-16.48.36:493][425]LogQos: Verbose: Pinging [BR] 18.231.38.143:22222
+[2017.12.22-16.48.36:504][425]LogQos: Verbose: Pinging [BR] 18.231.52.12:22222
+[2017.12.22-16.48.36:516][425]LogQos: Verbose: Pinging [BR] 52.67.68.145:22222
+[2017.12.22-16.48.36:527][425]LogQos: Verbose: Pinging [BR] 54.207.41.123:22222
+[2017.12.22-16.48.36:539][425]LogQos: Verbose: Pinging [BR] 18.231.38.143:22222
+[2017.12.22-16.48.36:551][425]LogQos: Verbose: Pinging [ASIA] 13.115.140.167:22222
+[2017.12.22-16.48.36:562][425]LogQos: Verbose: Pinging [ASIA] 13.115.206.205:22222
+[2017.12.22-16.48.36:574][425]LogQos: Verbose: Pinging [ASIA] 52.196.239.119:22222
+[2017.12.22-16.48.36:585][425]LogQos: Verbose: Pinging [ASIA] 52.69.44.52:22222
+[2017.12.22-16.48.36:597][425]LogQos: Verbose: Pinging [ASIA] 13.115.140.167:22222
+[2017.12.22-16.48.36:608][425]LogQos: Verbose: Pinging [Test01] 13.124.108.227:22222
+[2017.12.22-16.48.36:620][425]LogQos: Verbose: Pinging [Test01] 52.78.81.204:22222
+[2017.12.22-16.48.36:631][425]LogQos: Verbose: Pinging [Test01] 13.125.18.11:22222
+[2017.12.22-16.48.36:643][425]LogQos: Verbose: Pinging [Test01] 13.125.33.160:22222
+[2017.12.22-16.48.36:655][425]LogQos: Verbose: Pinging [Test01] 13.124.108.227:22222
+[2017.12.22-16.48.36:666][425]LogQos: Verbose: Pinging [Test02] 13.228.51.104:22222
+[2017.12.22-16.48.36:678][425]LogQos: Verbose: Pinging [Test02] 52.220.191.249:22222
+[2017.12.22-16.48.36:689][425]LogQos: Verbose: Pinging [Test02] 52.221.166.208:22222
+[2017.12.22-16.48.36:700][425]LogQos: Verbose: Pinging [Test02] 52.74.234.192:22222
+[2017.12.22-16.48.36:711][425]LogQos: Verbose: Pinging [Test02] 13.228.51.104:22222
+[2017.12.22-16.48.36:723][425]LogQos: Verbose: Pinging [OH] 13.59.18.131:22222
+[2017.12.22-16.48.36:734][425]LogQos: Verbose: Pinging [OH] 18.216.47.148:22222
+[2017.12.22-16.48.36:745][425]LogQos: Verbose: Pinging [OH] 18.221.198.242:22222
+[2017.12.22-16.48.36:756][425]LogQos: Verbose: Pinging [OH] 52.15.144.157:22222
+[2017.12.22-16.48.36:768][425]LogQos: Verbose: Pinging [OH] 13.59.18.131:22222
+[2017.12.22-16.48.36:779][425]LogQos: Verbose: Pinging [GB] 35.176.71.245:22222
+[2017.12.22-16.48.36:791][425]LogQos: Verbose: Pinging [GB] 52.56.149.83:22222
+[2017.12.22-16.48.36:803][425]LogQos: Verbose: Pinging [GB] 52.56.183.213:22222
+[2017.12.22-16.48.36:814][425]LogQos: Verbose: Pinging [GB] 35.176.251.200:22222
+[2017.12.22-16.48.36:825][425]LogQos: Verbose: Pinging [GB] 35.176.71.245:22222
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [BR] 18.231.38.143: 261
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [BR] 54.207.41.123: 261
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [BR] 52.67.68.145: 249
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [BR] 18.231.52.12: 259
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [BR] 18.231.38.143: 269
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [OCE] 13.210.30.168: 351
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [OCE] 13.210.122.252: 366
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [OCE] 13.210.30.168: 397
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [EU] 18.194.228.16: 57
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [EU] 18.194.220.44: 60
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [EU] 35.158.209.186: 59
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [EU] 35.156.234.249: 66
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [EU] 18.194.228.16: 66
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [NA] 52.203.3.55: 150
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [NA] 34.193.154.39: 142
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [NA] 34.194.116.183: 140
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [NA] 54.82.195.216: 150
+[2017.12.22-16.48.36:838][426]LogQos: Verbose: Ping Complete [NA] 52.203.3.55: 151
+[2017.12.22-16.48.36:856][428]LogQos: Verbose: Ping Complete [GB] 35.176.71.245: 73
+[2017.12.22-16.48.36:856][428]LogQos: Verbose: Ping Complete [OCE] 13.210.108.126: 394
+[2017.12.22-16.48.36:873][429]LogQos: Verbose: Ping Complete [OCE] 13.210.58.172: 401
+[2017.12.22-16.48.36:873][429]LogQos: Verbose: Ping Complete [GB] 52.56.149.83: 75
+[2017.12.22-16.48.36:890][430]LogQos: Verbose: Ping Complete [GB] 35.176.251.200: 72
+[2017.12.22-16.48.36:890][430]LogQos: Verbose: Ping Complete [GB] 52.56.183.213: 84
+[2017.12.22-16.48.36:890][430]LogQos: Verbose: Ping Complete [OH] 18.216.47.148: 152
+[2017.12.22-16.48.36:890][430]LogQos: Verbose: Ping Complete [OH] 13.59.18.131: 160
+[2017.12.22-16.48.36:890][430]LogQos: Verbose: Ping Complete [ASIA] 13.115.140.167: 336
+[2017.12.22-16.48.36:906][431]LogQos: Verbose: Ping Complete [ASIA] 13.115.206.205: 336
+[2017.12.22-16.48.36:906][431]LogQos: Verbose: Ping Complete [ASIA] 52.196.239.119: 322
+[2017.12.22-16.48.36:906][431]LogQos: Verbose: Ping Complete [OH] 18.221.198.242: 157
+[2017.12.22-16.48.36:906][431]LogQos: Verbose: Ping Complete [GB] 35.176.71.245: 69
+[2017.12.22-16.48.36:923][432]LogQos: Verbose: Ping Complete [OH] 52.15.144.157: 152
+[2017.12.22-16.48.36:923][432]LogQos: Verbose: Ping Complete [ASIA] 52.69.44.52: 325
+[2017.12.22-16.48.36:940][433]LogQos: Verbose: Ping Complete [ASIA] 13.115.140.167: 331
+[2017.12.22-16.48.36:940][433]LogQos: Verbose: Ping Complete [OH] 13.59.18.131: 160
+[2017.12.22-16.48.36:957][434]LogQos: Verbose: Ping Complete [Test01] 13.124.108.227: 344
+[2017.12.22-16.48.36:990][436]LogQos: Verbose: Ping Complete [Test02] 52.221.166.208: 295
+[2017.12.22-16.48.36:990][436]LogQos: Verbose: Ping Complete [Test02] 13.228.51.104: 311
+[2017.12.22-16.48.36:990][436]LogQos: Verbose: Ping Complete [Test01] 52.78.81.204: 358
+[2017.12.22-16.48.37:006][437]LogQos: Verbose: Ping Complete [Test02] 52.220.191.249: 318
+[2017.12.22-16.48.37:023][438]LogQos: Verbose: Ping Complete [Test02] 52.74.234.192: 311
+[2017.12.22-16.48.37:023][438]LogQos: Verbose: Ping Complete [Test01] 13.125.33.160: 363
+[2017.12.22-16.48.37:023][438]LogQos: Verbose: Ping Complete [Test01] 13.125.18.11: 381
+[2017.12.22-16.48.37:040][439]LogQos: Verbose: Ping Complete [Test01] 13.124.108.227: 372
+[2017.12.22-16.48.37:056][440]LogQos: Verbose: Ping Complete [Test02] 13.228.51.104: 334
+[2017.12.22-16.48.37:056][440]LogQos: Verbose: Region[NA] Avg: 146 Num: 5; Adjusted: 146
+[2017.12.22-16.48.37:056][440]LogQos: Verbose: Region[EU] Avg: 61 Num: 5; Adjusted: 61
+[2017.12.22-16.48.37:056][440]LogQos: Verbose: Region[OCE] Avg: 381 Num: 5; Adjusted: 381
+[2017.12.22-16.48.37:056][440]LogQos: Verbose: Region[BR] Avg: 259 Num: 5; Adjusted: 259
+[2017.12.22-16.48.37:056][440]LogQos: Verbose: Region[ASIA] Avg: 330 Num: 5; Adjusted: 330
+[2017.12.22-16.48.37:056][440]LogQos: Verbose: Region[Test01] Avg: 363 Num: 5; Adjusted: 363
+[2017.12.22-16.48.37:056][440]LogQos: Verbose: Region[Test02] Avg: 313 Num: 5; Adjusted: 313
+[2017.12.22-16.48.37:056][440]LogQos: Verbose: Region[OH] Avg: 156 Num: 5; Adjusted: 156
+[2017.12.22-16.48.37:056][440]LogQos: Verbose: Region[GB] Avg: 74 Num: 5; Adjusted: 74
+[2017.12.22-16.48.37:056][440]LogQos: Verbose: No region currently set, returning NONE
+[2017.12.22-16.48.37:057][440]LogQos: SetSelectedRegion: failed to find region id NONE
+[2017.12.22-16.48.37:072][440]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Gruppe erstellen (CreatingParty)
+[2017.12.22-16.48.37:072][440]LogOnlineParty: Warning: OSS::Party: FOnlinePartySystemMcp::PublishPartyInfoToPresence failure to publish presence user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.37:072][440]LogParty: Display: OnCreatePartyInternalComplete() 93BDE5A44AA2FBF2AC5861ADDE337B6C Succeeded
+[2017.12.22-16.48.37:072][440]LogFort: Setting up first time rich presence
+[2017.12.22-16.48.37:072][440]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.37:072][440]LogFort: Setting up first time rich presence
+[2017.12.22-16.48.37:076][440]LogOnlineParty: Verbose: OSS::Party: UpdatePartyMemberData request success. user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.37:076][440]LogOnlineParty: Verbose: OSS::Party: UpdatePartyMemberData request success. user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.37:076][440]LogParty: Display: Local player [Hotterino] (ID [7340ba732ec54cd59d9b83bbd63901a0]) joined a new party [93BDE5A44AA2FBF2AC5861ADDE337B6C].
+[2017.12.22-16.48.37:077][440]LogOnline: OnPartyJoined 93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.37:077][440]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.37:077][440]LogParty: Display: OnCreatePersistentPartyComplete() Succeeded
+[2017.12.22-16.48.37:077][440]LogParty: Verbose: UFortPartyGameState::UpdateAcceptingMembers()
+[2017.12.22-16.48.37:077][440]LogParty: Verbose: DenialReason: Invalid subgame
+[2017.12.22-16.48.37:077][440]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.updatepartyconfiguration user=7340ba732ec54cd59d9b83bbd63901a0 to=all payload={"partyId":"93BDE5A44AA2FBF2AC5861ADDE337B6C","presencePermissions":-1463680700,"invitePermissions":2,"partyFlags":2,"notAcceptingMembersReason":1,"maxMembers":4,"password":"","accessKey":"9D9412C045BCA2435E54CCB3EE9F0DFB","clientData":""}
+[2017.12.22-16.48.37:077][440]LogOnlineParty: Warning: OSS::Party: FOnlinePartySystemMcp::PublishPartyInfoToPresence failure to publish presence user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.37:077][440]LogOnlineParty: Verbose: OSS::Party: UpdateParty request success. user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.37:077][440]LogParty: Verbose: [93BDE5A44AA2FBF2AC5861ADDE337B6C] Party config updated Succeeded
+[2017.12.22-16.48.37:077][440]LogOnlineParty: OSS::Party: CreateParty request success. user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C state=Disconnected
+[2017.12.22-16.48.37:078][441]LogParty: [93BDE5A44AA2FBF2AC5861ADDE337B6C] Party config changed
+[2017.12.22-16.48.37:079][441]LogParty: [93BDE5A44AA2FBF2AC5861ADDE337B6C] Player 7340ba732ec54cd59d9b83bbd63901a0 data received
+[2017.12.22-16.48.37:079][441]LogParty: Verbose: HandlePartyMemberJoined: Party [93BDE5A44AA2FBF2AC5861ADDE337B6C] Registering team member [7340ba732ec54cd59d9b83bbd63901a0]!
+[2017.12.22-16.48.37:079][441]LogParty: Display: New party member state for [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0] added to the local player's party [93BDE5A44AA2FBF2AC5861ADDE337B6C].
+[2017.12.22-16.48.37:079][441]LogParty: Verbose: UFortUITeamInfo::GetParty: Adding for party leader Id [7340ba732ec54cd59d9b83bbd63901a0]
+[2017.12.22-16.48.37:079][441]LogParty: Display: Adding [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0] as a new member to [7340ba732ec54cd59d9b83bbd63901a0]'s party via an existing UITeamMember in [Hotterino]'s game.
+[2017.12.22-16.48.37:079][441]LogParty: Display: New member [7340ba732ec54cd59d9b83bbd63901a0] added to UI Party led by [7340ba732ec54cd59d9b83bbd63901a0].
+[2017.12.22-16.48.37:079][441]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0].
+[2017.12.22-16.48.37:079][441]LogParty: Display: [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0] added to team [MAX] at index [0] in [Hotterino]'s game.
+[2017.12.22-16.48.37:080][441]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0].
+[2017.12.22-16.48.37:080][441]LogParty: Display: [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0] team member data updated, team [MAX] at index [0] in [Hotterino]'s game.
+[2017.12.22-16.48.37:089][441]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Audioverbindung wird hergestellt ... (ConnectToVivox)
+[2017.12.22-16.48.37:089][441]LogVivoxVoiceChat: FVivox::Connect
+[2017.12.22-16.48.37:106][442]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Abschluss der Anmeldung ... (Completed)
+[2017.12.22-16.48.37:106][442]LogOnlineGame: Verbose: [UOnlineAccountCommon::LoginStep_Completed]
+[2017.12.22-16.48.37:107][442]LogProfileSys: MCP-Profile: Dispatching request to https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/storefront/v2/catalog?rvn=3161
+[2017.12.22-16.48.37:114][442]LogOnlineGame: Verbose: [UOnlineAccountCommon::TriggerLoginComplete]
+[2017.12.22-16.48.37:114][442]LogOnlineGame: Verbose: [UFortUIStateWidget_Login::HandleLoginRequestComplete] [Result=2] [ErrorReason=]
+[2017.12.22-16.48.37:114][442]LogFort: Setting up first time rich presence
+[2017.12.22-16.48.37:115][442]LogLevel: ActivateLevel /Game/Maps/UI/Frontend_Lobby_Default 0 0 1
+[2017.12.22-16.48.37:115][442]LogLevel: ActivateLevel /Game/Maps/UI/Frontend_Lobby_Winter 1 1 1
+[2017.12.22-16.48.37:116][442]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby_Winter) is flushing async loading
+[2017.12.22-16.48.37:470][442]LogLevelActorContainer: Created LevelActorCluster (968) for /Game/Maps/UI/Frontend_Lobby_Winter.Frontend_Lobby_Winter:PersistentLevel with 288 objects, 148 referenced clusters and 39 mutable objects.
+[2017.12.22-16.48.37:940][463]LogFortLoadingScreen: Hiding loading screen when 'IsShowingInitialLoadingScreen()' is false.
+[2017.12.22-16.48.37:940][463]LogFortLoadingScreen: Hiding loading screen because this AFortPlayerController is not in Zone and always returns 'hide loading screen'.
+[2017.12.22-16.48.37:999][464]LogCommonInput: Verbose: PushActivatablePanel : Adding push for new activatable panel MOTD_C_0: 
+[2017.12.22-16.48.37:999][464]LogCommonInput: Verbose: Input suspension: Started
+[2017.12.22-16.48.37:999][464]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.37:999][464]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: MOTD_C_0
+[2017.12.22-16.48.37:999][464]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: MOTD_C_0
+[2017.12.22-16.48.37:999][464]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.37:999][464]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.12.22-16.48.38:033][466]LogCommonInput: Verbose: Input suspension: Stopped
+[2017.12.22-16.48.38:218][478]LogOnlineParty: OSS::Party: FOnlinePartySystemMcp::OnXmppLoginChanged - logged in user 7340ba732ec54cd59d9b83bbd63901a0
+[2017.12.22-16.48.38:218][478]LogOnlineParty: OSS::Party: FOnlinePartySystemMcp::OnLoggedIntoXmpp - Updating party data user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C state=Disconnected
+[2017.12.22-16.48.38:218][478]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.updatepartyconfiguration user=7340ba732ec54cd59d9b83bbd63901a0 to=all payload={"partyId":"93BDE5A44AA2FBF2AC5861ADDE337B6C","presencePermissions":154035012,"invitePermissions":2,"partyFlags":2,"notAcceptingMembersReason":1,"maxMembers":4,"password":"","accessKey":"9D9412C045BCA2435E54CCB3EE9F0DFB","clientData":""}
+[2017.12.22-16.48.38:218][478]LogParty: Verbose: PartyStateChanged: [93BDE5A44AA2FBF2AC5861ADDE337B6C] state changed to Active
+[2017.12.22-16.48.38:218][478]LogOnlineParty: Display: OSS::Party: Publishing party to presence DisplayName(Hotterino) PartyId(93BDE5A44AA2FBF2AC5861ADDE337B6C) LeaderId(7340ba732ec54cd59d9b83bbd63901a0) LeaderDisplayName(Hotterino) AccessKey(9D9412C045BCA2435E54CCB3EE9F0DFB) HasPassword(0) IsAcceptingMembers(0) NotAcceptingReason(1)
+[2017.12.22-16.48.38:218][478]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::PublishPartyInfoToPresence success to publish presence user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.38:218][478]LogOnline: OSS: FOnlineIdentityMcp::OnXmppLoginChanged 7340ba732ec54cd59d9b83bbd63901a0@prod.ol.epicgames.com/V2:Fortnite:WIN::A6ED97F14D0CA7EABFEB6E8038605725 loggedin
+[2017.12.22-16.48.38:544][493]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=7340ba732ec54cd59d9b83bbd63901a0@prod.ol.epicgames.com/V2:launcher:WIN::D05E46654B070E435A1D4D9D5F0539B7 [Online] [2017.12.22-16.37.42] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[]}]
+[2017.12.22-16.48.38:561][494]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=7340ba732ec54cd59d9b83bbd63901a0@prod.ol.epicgames.com/V2:Fortnite:WIN::A6ED97F14D0CA7EABFEB6E8038605725 [Online] [2017.12.22-16.48.38] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"7340ba732ec54cd59d9b83bbd63901a0\",\"sourceDisplayName\":\"Hotterino\",\"partyId\":\"93BDE5A44AA2FBF2AC5861ADDE337B6C\",\"partyTypeId\":286331153,\"leaderId\":\"7340ba732ec54cd59d9b83bbd63901a0\",\"leaderDisplayName\":\"Hotterino\",\"key\":\"9D9412C045BCA2435E54CCB3EE9F0DFB\",\"appId\":\"Fortnite\",\"buildId\":\"611750138\",\"partyFlags\":4,\"notAcceptingReason\":1}","Name":"party.joininfodata.286331153"}]}]
+[2017.12.22-16.48.38:561][494]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=7340ba732ec54cd59d9b83bbd63901a0@prod.ol.epicgames.com/V2:Fortnite:WIN::A6ED97F14D0CA7EABFEB6E8038605725 [Online] [2017.12.22-16.48.38] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"7340ba732ec54cd59d9b83bbd63901a0\",\"sourceDisplayName\":\"Hotterino\",\"partyId\":\"93BDE5A44AA2FBF2AC5861ADDE337B6C\",\"partyTypeId\":286331153,\"leaderId\":\"7340ba732ec54cd59d9b83bbd63901a0\",\"leaderDisplayName\":\"Hotterino\",\"key\":\"9D9412C045BCA2435E54CCB3EE9F0DFB\",\"appId\":\"Fortnite\",\"buildId\":\"611750138\",\"partyFlags\":4,\"notAcceptingReason\":1}","Name":"party.joininfodata.286331153"}]}]
+[2017.12.22-16.48.38:561][494]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=d1b7035498c244d2898f7a1e5dd5488f@prod.ol.epicgames.com/V2:Fortnite:WIN::D146A975434015512CFD33838944CB77 [Online] [2017.12.22-16.45.16] [{"Status":"Spielt Fortnite: Battle Royale","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"d1b7035498c244d2898f7a1e5dd5488f\",\"sourceDisplayName\":\"Dhalucard\",\"partyId\":\"2E224B6F4AF0B5A00ADD59A68DA4DB41\",\"partyTypeId\":286331153,\"leaderId\":\"d1b7035498c244d2898f7a1e5dd5488f\",\"leaderDisplayName\":\"Dhalucard\",\"key\":\"382688414C8B32496BD90387662B03E9\",\"appId\":\"Fortnite\",\"buildId\":\"611750138\",\"partyFlags\":6,\"notAcceptingReason\":0}","Name":"party.joininfodata.286331153"},{"Type":"String","Value":"{\r\n\t\"homeBaseRating\": 23\r\n}","Name":"FortBasicInfo"}]}]
+[2017.12.22-16.48.38:561][494]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=c627b529ff104b8898340791a1426d43@prod.ol.epicgames.com/V2:launcher:WIN::153431FF481BE7BF890B5E8BABF324FE [Online] [2017.12.19-11.43.16] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[]}]
+[2017.12.22-16.48.38:561][494]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=d1b7035498c244d2898f7a1e5dd5488f@prod.ol.epicgames.com/V2:Fortnite:WIN::D146A975434015512CFD33838944CB77 [Online] [2017.12.22-16.45.16] [{"Status":"Spielt Fortnite: Battle Royale","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"d1b7035498c244d2898f7a1e5dd5488f\",\"sourceDisplayName\":\"Dhalucard\",\"partyId\":\"2E224B6F4AF0B5A00ADD59A68DA4DB41\",\"partyTypeId\":286331153,\"leaderId\":\"d1b7035498c244d2898f7a1e5dd5488f\",\"leaderDisplayName\":\"Dhalucard\",\"key\":\"382688414C8B32496BD90387662B03E9\",\"appId\":\"Fortnite\",\"buildId\":\"611750138\",\"partyFlags\":6,\"notAcceptingReason\":0}","Name":"party.joininfodata.286331153"},{"Type":"String","Value":"{\r\n\t\"homeBaseRating\": 23\r\n}","Name":"FortBasicInfo"}]}]
+[2017.12.22-16.48.38:561][494]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=c627b529ff104b8898340791a1426d43@prod.ol.epicgames.com/V2:launcher:WIN::153431FF481BE7BF890B5E8BABF324FE [Online] [2017.12.19-11.43.16] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[]}]
+[2017.12.22-16.48.38:677][501]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=d1b7035498c244d2898f7a1e5dd5488f@prod.ol.epicgames.com/V2:launcher:WIN::CBEC681C40CD2FECC95603AD75FDCF91 [Online] [2017.12.22-16.44.07] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[]}]
+[2017.12.22-16.48.38:706][502]LogOnline: Verbose: OSS: Starting QueryOffersById request.
+[2017.12.22-16.48.38:711][503]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=d1b7035498c244d2898f7a1e5dd5488f@prod.ol.epicgames.com/V2:launcher:WIN::CBEC681C40CD2FECC95603AD75FDCF91 [Online] [2017.12.22-16.44.07] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[]}]
+[2017.12.22-16.48.38:994][520]LogOnline: Verbose: OSS: You have 8 friends.
+[2017.12.22-16.48.38:994][520]LogOnlineGame: Verbose: [UFortPartyContext::OnFriendsListUpdated] Friendslist has updated
+[2017.12.22-16.48.39:011][521]LogOnline: Verbose: MCP: Starting QueryUserInfo request.
+[2017.12.22-16.48.39:515][546]LogOnline: Verbose: MCP: QueryUserInfo request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/public/account?accountId=336a41f0e0c24a709e18c8350c40378b&accountId=3c945ca16b3045aea32a1be03058f225&accountId=61ba0bea6afa46e6b65cb6094330df4f&accountId=d1b7035498c244d2898f7a1e5dd5488f&accountId=b40d5378bb944a4c98034cc337b9a06c&accountId=e42aea2a0f3a4242a38fef2a03454ecb&accountId=c627b529ff104b8898340791a1426d43&accountId=9a8272abf70245a28f5a191a5089574c code=200 response=<REDACTED>
+[2017.12.22-16.48.39:516][546]LogOnline: Verbose: Adding user from query user info
+[2017.12.22-16.48.39:516][546]LogOnline: Verbose: ArePlatformsJoinable - PlatformA=[WIN] and PlatformB=[] are not considered joinable
+[2017.12.22-16.48.39:516][546]LogOnline: Verbose: **** Friend Service - Adding friended item seggerix
+[2017.12.22-16.48.39:516][546]LogOnline: Verbose: Adding user from query user info
+[2017.12.22-16.48.39:516][546]LogOnline: Verbose: ArePlatformsJoinable - PlatformA=[WIN] and PlatformB=[win] are considered joinable
+[2017.12.22-16.48.39:516][546]LogOnline: Verbose: **** Friend Service - Adding friended item Dadosch
+[2017.12.22-16.48.39:516][546]LogOnline: Verbose: Adding user from query user info
+[2017.12.22-16.48.39:516][546]LogOnline: Verbose: ArePlatformsJoinable - PlatformA=[WIN] and PlatformB=[] are not considered joinable
+[2017.12.22-16.48.39:516][546]LogOnline: Verbose: **** Friend Service - Adding friended item notChris2k
+[2017.12.22-16.48.39:516][546]LogOnline: Verbose: Adding user from query user info
+[2017.12.22-16.48.39:516][546]LogOnline: Verbose: ArePlatformsJoinable - PlatformA=[WIN] and PlatformB=[] are not considered joinable
+[2017.12.22-16.48.39:516][546]LogOnline: Verbose: **** Friend Service - Adding friended item TheTiiMeR25_
+[2017.12.22-16.48.39:516][546]LogOnline: Verbose: Adding user from query user info
+[2017.12.22-16.48.39:516][546]LogOnline: Verbose: ArePlatformsJoinable - PlatformA=[WIN] and PlatformB=[win] are considered joinable
+[2017.12.22-16.48.39:516][546]LogOnline: Verbose: **** Friend Service - Adding friended item Dhalucard
+[2017.12.22-16.48.39:517][546]LogOnline: Verbose: Adding user from query user info
+[2017.12.22-16.48.39:517][546]LogOnline: Verbose: ArePlatformsJoinable - PlatformA=[WIN] and PlatformB=[] are not considered joinable
+[2017.12.22-16.48.39:517][546]LogOnline: Verbose: **** Friend Service - Adding friended item Rerebelle
+[2017.12.22-16.48.39:517][546]LogOnline: Verbose: Adding user from query user info
+[2017.12.22-16.48.39:517][546]LogOnline: Verbose: ArePlatformsJoinable - PlatformA=[WIN] and PlatformB=[] are not considered joinable
+[2017.12.22-16.48.39:517][546]LogOnline: Verbose: **** Friend Service - Adding friended item ItsVeX
+[2017.12.22-16.48.39:517][546]LogOnline: Verbose: Adding user from query user info
+[2017.12.22-16.48.39:517][546]LogOnline: Verbose: ArePlatformsJoinable - PlatformA=[WIN] and PlatformB=[] are not considered joinable
+[2017.12.22-16.48.39:517][546]LogOnline: Verbose: **** Friend Service - Adding friended item Forseti78
+[2017.12.22-16.48.39:716][558]LogOnline: Verbose: OSS: You have 0 blocked players.
+[2017.12.22-16.48.39:752][560]LogOnline: Verbose: OSS: QueryOffers request complete. url=https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/bulk/offers?id=3b4c5df9efa5415b941cf74262865e4e&id=559f2ba95f874ec987d0ebfd2cc9c70a&id=4daadb392f1c4ee2b5a3af443e614d2a&id=ede05b3c97e9475a8d9be91da65750f0&id=f5c0e8ab6c9a4530999041e89e9b6934&id=9aa9f44cd8c24652953a1b204755b193&id=e2f25dae43604a839dd6f2c21b675d5e&id=d2da86026c71429a9cf5e76dfd89a1d3&id=e852b1940299435884365cec7dc3a608&id=35759d71512b47e5b2825669f1d9166a&id=c8319a037f9840e8b7549de480efb9c7&id=f05c43f7c1d24f5fbb1a6fa5a5a60edb&id=57f0419c4e4a4ea4858b2f37a98d5315&id=41134f4ff35a45a4923604cbb15e487d&id=85125898f3914946a9443bcce4667660&returnItemDetails=false&country=DE&locale=de-DE code=200
+[2017.12.22-16.48.39:755][560]LogOnline: Verbose: OSS: Starting QueryOfferPromotions request.
+[2017.12.22-16.48.39:915][570]LogOnline: Verbose: OSS: You have 8 recent players.
+[2017.12.22-16.48.39:915][570]LogOnline: Verbose: MCP: Starting QueryUserInfo request.
+[2017.12.22-16.48.40:181][580]LogOnline: Verbose: MCP: QueryUserInfo request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/public/account?accountId=b1b4048ee6554949aa698fecf5f7492f&accountId=814471e07a0241c983c3d4ccca301409&accountId=02de5bc9883843929bab2ad6ec7d6138&accountId=4494e93f208248b59af474b473f0d236&accountId=b526e91b3e6d4ff486232e94d26053f3&accountId=a7babeeb997c4519ab08f55a188ffbea&accountId=36c8fd1971f24e7291e550253d531251&accountId=b133fd93d7d947359e31308bef39a178 code=200 response=<REDACTED>
+[2017.12.22-16.48.40:181][580]LogOnline: Verbose: **** Friend Service - Adding non-friend item Pannnendeksel
+[2017.12.22-16.48.40:181][580]LogOnline: Verbose: **** Friend Service - Adding non-friend item Nobody1111
+[2017.12.22-16.48.40:181][580]LogOnline: Verbose: **** Friend Service - Adding non-friend item Tsukasa1989
+[2017.12.22-16.48.40:181][580]LogOnline: Verbose: **** Friend Service - Adding non-friend item wboing
+[2017.12.22-16.48.40:181][580]LogOnline: Verbose: **** Friend Service - Adding non-friend item Subfato
+[2017.12.22-16.48.40:181][580]LogOnline: Verbose: **** Friend Service - Adding non-friend item PanKierownik
+[2017.12.22-16.48.40:181][580]LogOnline: Verbose: **** Friend Service - Adding non-friend item Pacotako
+[2017.12.22-16.48.40:181][580]LogOnline: Verbose: **** Friend Service - Adding non-friend item Kadøk
+[2017.12.22-16.48.40:635][608]LogOnline: Verbose: OSS: QueryOfferPromotions request complete. url=https://priceengine-public-service-ecomprod01.ol.epicgames.com/priceengine/api/shared/offers/price code=200 response={"accountId":"7340ba732ec54cd59d9b83bbd63901a0","identityId":"7340ba732ec54cd59d9b83bbd63901a0","country":"DE","taxCalculationStatus":"NOT_APPLICABLE","totalPrice":{"currencyCode":"EUR","discountPrice":64495,"originalPrice":99485,"discountPercentage":65,"discount":34990,"basePayoutPrice":64495,"basePayoutCurrencyCode":"USD"},"totalPaymentPrice":{"paymentCurrencyExchangeRate":1.0,"paymentCurrencyCode":"EUR","paymentCurrencySymbol":"€","paymentCurrencyAmount":64495},"coupons":[],"lineOffers":[{"lineId":"1","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":5500,"unitPrice":5500,"originalPrice":10999,"originalUnitPrice":10999,"discountPercentage":50,"discount":5499,"basePayoutPrice":5500,"basePayoutCurrencyCode":"USD"},"offerId":"57f0419c4e4a4ea4858b2f37a98d5315","appliedRules":[{"id":"b266ecf575484983a74c6f349105c87a","name":"50% Discount - T2.4","namespace":"fn","startDate":"2017-12-19T12:00:00.000Z","endDate":"2018-01-05T06:00:00.000Z","saleType":"REGULAR","promotionStatus":"ACTIVE","regionIds":["ROW","US","EURO","KR","RU","ZA","GB","UABY","PL"],"conditions":[{"conditionType":"EVERYONE","conditionValue":""}],"discountSetting":{"discountType":"PERCENTAGE","discountType":"PERCENTAGE","discountPercentage":50},"promotionSetting":{"promotionType":"SIMPLE","promotionType":"SIMPLE","discountOffers":[{"offerId":"41134f4ff35a45a4923604cbb15e487d"},{"offerId":"c8319a037f9840e8b7549de480efb9c7"},{"offerId":"85125898f3914946a9443bcce4667660"},{"offerId":"9aa9f44cd8c24652953a1b204755b193"},{"offerId":"f5c0e8ab6c9a4530999041e89e9b6934"},{"offerId":"57f0419c4e4a4ea4858b2f37a98d5315"},{"offerId":"35759d71512b47e5b2825669f1d9166a"},{"offerId":"d2da86026c71429a9cf5e76dfd89a1d3"},{"offerId":"f05c43f7c1d24f5fbb1a6fa5a5a60edb"}]},"initiatedBy":"SELLER"}],"ref":"57f0419c4e4a4ea4858b2f37a98d5315"},{"lineId":"2","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":2000,"unitPrice":2000,"originalPrice":3999,"originalUnitPrice":3999,"discountPercentage":50,"discount":1999,"basePayoutPrice":2000,"basePayoutCurrencyCode":"USD"},"offerId":"e2f25dae43604a839dd6f2c21b675d5e","appliedRules":[{"id":"49ca655f82b049b29664943c86985a88","name":"50% Discount - T1.NA","namespace":"fn","startDate":"2017-12-19T12:00:00.000Z","endDate":"2018-01-05T06:00:00.000Z","saleType":"REGULAR","promotionStatus":"ACTIVE","regionIds":["ROW","US","EURO","KR","RU","ZA","GB","UABY","PL"],"conditions":[{"conditionType":"EVERYONE","conditionValue":""}],"discountSetting":{"discountType":"PERCENTAGE","discountType":"PERCENTAGE","discountPercentage":50},"promotionSetting":{"promotionType":"SIMPLE","promotionType":"SIMPLE","discountOffers":[{"offerId":"e2f25dae43604a839dd6f2c21b675d5e"}]},"initiatedBy":"SELLER"}],"ref":"e2f25dae43604a839dd6f2c21b675d5e"},{"lineId":"3","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":2499,"unitPrice":2499,"originalPrice":2499,"originalUnitPrice":2499,"discountPercentage":100,"discount":0,"basePayoutPrice":2499,"basePayoutCurrencyCode":"USD"},"offerId":"559f2ba95f874ec987d0ebfd2cc9c70a","appliedRules":[],"ref":"559f2ba95f874ec987d0ebfd2cc9c70a"},{"lineId":"4","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":7500,"unitPrice":7500,"originalPrice":14999,"originalUnitPrice":14999,"discountPercentage":50,"discount":7499,"basePayoutPrice":7500,"basePayoutCurrencyCode":"USD"},"offerId":"85125898f3914946a9443bcce4667660","appliedRules":[{"id":"b266ecf575484983a74c6f349105c87a","name":"50% Discount - T2.4","namespace":"fn","startDate":"2017-12-19T12:00:00.000Z","endDate":"2018-01-05T06:00:00.000Z","saleType":"REGULAR","promotionStatus":"ACTIVE","regionIds":["ROW","US","EURO","KR","RU","ZA","GB","UABY","PL"],"conditions":[{"conditionType":"EVERYONE","conditionValue":""}],"discountSetting":{"discountType":"PERCENTAGE","discountType":"PERCENTAGE","discountPercentage":50},"promotionSetting":{"promotionType":"SIMPLE","promotionType":"SIMPLE","discountOffers":[{"offerId":"41134f4ff35a45a4923604cbb15e487d"},{"offerId":"c8319a037f9840e8b7549de480efb9c7"},{"offerId":"85125898f3914946a9443bcce4667660"},{"offerId":"9aa9f44cd8c24652953a1b204755b193"},{"offerId":"f5c0e8ab6c9a4530999041e89e9b6934"},{"offerId":"57f0419c4e4a4ea4858b2f37a98d5315"},{"offerId":"35759d71512b47e5b2825669f1d9166a"},{"offerId":"d2da86026c71429a9cf5e76dfd89a1d3"},{"offerId":"f05c43f7c1d24f5fbb1a6fa5a5a60edb"}]},"initiatedBy":"SELLER"}],"ref":"85125898f3914946a9443bcce4667660"},{"lineId":"5","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":1000,"unitPrice":1000,"originalPrice":1999,"originalUnitPrice":1999,"discountPercentage":50,"discount":999,"basePayoutPrice":1000,"basePayoutCurrencyCode":"USD"},"offerId":"9aa9f44cd8c24652953a1b204755b193","appliedRules":[{"id":"b266ecf575484983a74c6f349105c87a","name":"50% Discount - T2.4","namespace":"fn","startDate":"2017-12-19T12:00:00.000Z","endDate":"2018-01-05T06:00:00.000Z","saleType":"REGULAR","promotionStatus":"ACTIVE","regionIds":["ROW","US","EURO","KR","RU","ZA","GB","UABY","PL"],"conditions":[{"conditionType":"EVERYONE","conditionValue":""}],"discountSetting":{"discountType":"PERCENTAGE","discountType":"PERCENTAGE","discountPercentage":50},"promotionSetting":{"promotionType":"SIMPLE","promotionType":"SIMPLE","discountOffers":[{"offerId":"41134f4ff35a45a4923604cbb15e487d"},{"offerId":"c8319a037f9840e8b7549de480efb9c7"},{"offerId":"85125898f3914946a9443bcce4667660"},{"offerId":"9aa9f44cd8c24652953a1b204755b193"},{"offerId":"f5c0e8ab6c9a4530999041e89e9b6934"},{"offerId":"57f0419c4e4a4ea4858b2f37a98d5315"},{"offerId":"35759d71512b47e5b2825669f1d9166a"},{"offerId":"d2da86026c71429a9cf5e76dfd89a1d3"},{"offerId":"f05c43f7c1d24f5fbb1a6fa5a5a60edb"}]},"initiatedBy":"SELLER"}],"ref":"9aa9f44cd8c24652953a1b204755b193"},{"lineId":"6","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":5999,"unitPrice":5999,"originalPrice":5999,"originalUnitPrice":5999,"discountPercentage":100,"discount":0,"basePayoutPrice":5999,"basePayoutCurrencyCode":"USD"},"offerId":"3b4c5df9efa5415b941cf74262865e4e","appliedRules":[],"ref":"3b4c5df9efa5415b941cf74262865e4e"},{"lineId":"7","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":2500,"unitPrice":2500,"originalPrice":4999,"originalUnitPrice":4999,"discountPercentage":50,"discount":2499,"basePayoutPrice":2500,"basePayoutCurrencyCode":"USD"},"offerId":"f5c0e8ab6c9a4530999041e89e9b6934","appliedRules":[{"id":"b266ecf575484983a74c6f349105c87a","name":"50% Discount - T2.4","namespace":"fn","startDate":"2017-12-19T12:00:00.000Z","endDate":"2018-01-05T06:00:00.000Z","saleType":"REGULAR","promotionStatus":"ACTIVE","regionIds":["ROW","US","EURO","KR","RU","ZA","GB","UABY","PL"],"conditions":[{"conditionType":"EVERYONE","conditionValue":""}],"discountSetting":{"discountType":"PERCENTAGE","discountType":"PERCENTAGE","discountPercentage":50},"promotionSetting":{"promotionType":"SIMPLE","promotionType":"SIMPLE","discountOffers":[{"offerId":"41134f4ff35a45a4923604cbb15e487d"},{"offerId":"c8319a037f9840e8b7549de480efb9c7"},{"offerId":"85125898f3914946a9443bcce4667660"},{"offerId":"9aa9f44cd8c24652953a1b204755b193"},{"offerId":"f5c0e8ab6c9a4530999041e89e9b6934"},{"offerId":"57f0419c4e4a4ea4858b2f37a98d5315"},{"offerId":"35759d71512b47e5b2825669f1d9166a"},{"offerId":"d2da86026c71429a9cf5e76dfd89a1d3"},{"offerId":"f05c43f7c1d24f5fbb1a6fa5a5a60edb"}]},"initiatedBy":"SELLER"}],"ref":"f5c0e8ab6c9a4530999041e89e9b6934"},{"lineId":"8","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":3000,"unitPrice":3000,"originalPrice":5999,"originalUnitPrice":5999,"discountPercentage":50,"discount":2999,"basePayoutPrice":3000,"basePayoutCurrencyCode":"USD"},"offerId":"41134f4ff35a45a4923604cbb15e487d","appliedRules":[{"id":"b266ecf575484983a74c6f349105c87a","name":"50% Discount - T2.4","namespace":"fn","startDate":"2017-12-19T12:00:00.000Z","endDate":"2018-01-05T06:00:00.000Z","saleType":"REGULAR","promotionStatus":"ACTIVE","regionIds":["ROW","US","EURO","KR","RU","ZA","GB","UABY","PL"],"conditions":[{"conditionType":"EVERYONE","conditionValue":""}],"discountSetting":{"discountType":"PERCENTAGE","discountType":"PERCENTAGE","discountPercentage":50},"promotionSetting":{"promotionType":"SIMPLE","promotionType":"SIMPLE","discountOffers":[{"offerId":"41134f4ff35a45a4923604cbb15e487d"},{"offerId":"c8319a037f9840e8b7549de480efb9c7"},{"offerId":"85125898f3914946a9443bcce4667660"},{"offerId":"9aa9f44cd8c24652953a1b204755b193"},{"offerId":"f5c0e8ab6c9a4530999041e89e9b6934"},{"offerId":"57f0419c4e4a4ea4858b2f37a98d5315"},{"offerId":"35759d71512b47e5b2825669f1d9166a"},{"offerId":"d2da86026c71429a9cf5e76dfd89a1d3"},{"offerId":"f05c43f7c1d24f5fbb1a6fa5a5a60edb"}]},"initiatedBy":"SELLER"}],"ref":"41134f4ff35a45a4923604cbb15e487d"},{"lineId":"9","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":9999,"unitPrice":9999,"originalPrice":9999,"originalUnitPrice":9999,"discountPercentage":100,"discount":0,"basePayoutPrice":9999,"basePayoutCurrencyCode":"USD"},"offerId":"4daadb392f1c4ee2b5a3af443e614d2a","appliedRules":[],"ref":"4daadb392f1c4ee2b5a3af443e614d2a"},{"lineId":"10","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":4500,"unitPrice":4500,"originalPrice":8999,"originalUnitPrice":8999,"discountPercentage":50,"discount":4499,"basePayoutPrice":4500,"basePayoutCurrencyCode":"USD"},"offerId":"d2da86026c71429a9cf5e76dfd89a1d3","appliedRules":[{"id":"b266ecf575484983a74c6f349105c87a","name":"50% Discount - T2.4","namespace":"fn","startDate":"2017-12-19T12:00:00.000Z","endDate":"2018-01-05T06:00:00.000Z","saleType":"REGULAR","promotionStatus":"ACTIVE","regionIds":["ROW","US","EURO","KR","RU","ZA","GB","UABY","PL"],"conditions":[{"conditionType":"EVERYONE","conditionValue":""}],"discountSetting":{"discountType":"PERCENTAGE","discountType":"PERCENTAGE","discountPercentage":50},"promotionSetting":{"promotionType":"SIMPLE","promotionType":"SIMPLE","discountOffers":[{"offerId":"41134f4ff35a45a4923604cbb15e487d"},{"offerId":"c8319a037f9840e8b7549de480efb9c7"},{"offerId":"85125898f3914946a9443bcce4667660"},{"offerId":"9aa9f44cd8c24652953a1b204755b193"},{"offerId":"f5c0e8ab6c9a4530999041e89e9b6934"},{"offerId":"57f0419c4e4a4ea4858b2f37a98d5315"},{"offerId":"35759d71512b47e5b2825669f1d9166a"},{"offerId":"d2da86026c71429a9cf5e76dfd89a1d3"},{"offerId":"f05c43f7c1d24f5fbb1a6fa5a5a60edb"}]},"initiatedBy":"SELLER"}],"ref":"d2da86026c71429a9cf5e76dfd89a1d3"},{"lineId":"11","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":4500,"unitPrice":4500,"originalPrice":8999,"originalUnitPrice":8999,"discountPercentage":50,"discount":4499,"basePayoutPrice":4500,"basePayoutCurrencyCode":"USD"},"offerId":"c8319a037f9840e8b7549de480efb9c7","appliedRules":[{"id":"b266ecf575484983a74c6f349105c87a","name":"50% Discount - T2.4","namespace":"fn","startDate":"2017-12-19T12:00:00.000Z","endDate":"2018-01-05T06:00:00.000Z","saleType":"REGULAR","promotionStatus":"ACTIVE","regionIds":["ROW","US","EURO","KR","RU","ZA","GB","UABY","PL"],"conditions":[{"conditionType":"EVERYONE","conditionValue":""}],"discountSetting":{"discountType":"PERCENTAGE","discountType":"PERCENTAGE","discountPercentage":50},"promotionSetting":{"promotionType":"SIMPLE","promotionType":"SIMPLE","discountOffers":[{"offerId":"41134f4ff35a45a4923604cbb15e487d"},{"offerId":"c8319a037f9840e8b7549de480efb9c7"},{"offerId":"85125898f3914946a9443bcce4667660"},{"offerId":"9aa9f44cd8c24652953a1b204755b193"},{"offerId":"f5c0e8ab6c9a4530999041e89e9b6934"},{"offerId":"57f0419c4e4a4ea4858b2f37a98d5315"},{"offerId":"35759d71512b47e5b2825669f1d9166a"},{"offerId":"d2da86026c71429a9cf5e76dfd89a1d3"},{"offerId":"f05c43f7c1d24f5fbb1a6fa5a5a60edb"}]},"initiatedBy":"SELLER"}],"ref":"c8319a037f9840e8b7549de480efb9c7"},{"lineId":"12","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":1500,"unitPrice":1500,"originalPrice":2999,"originalUnitPrice":2999,"discountPercentage":50,"discount":1499,"basePayoutPrice":1500,"basePayoutCurrencyCode":"USD"},"offerId":"35759d71512b47e5b2825669f1d9166a","appliedRules":[{"id":"b266ecf575484983a74c6f349105c87a","name":"50% Discount - T2.4","namespace":"fn","startDate":"2017-12-19T12:00:00.000Z","endDate":"2018-01-05T06:00:00.000Z","saleType":"REGULAR","promotionStatus":"ACTIVE","regionIds":["ROW","US","EURO","KR","RU","ZA","GB","UABY","PL"],"conditions":[{"conditionType":"EVERYONE","conditionValue":""}],"discountSetting":{"discountType":"PERCENTAGE","discountType":"PERCENTAGE","discountPercentage":50},"promotionSetting":{"promotionType":"SIMPLE","promotionType":"SIMPLE","discountOffers":[{"offerId":"41134f4ff35a45a4923604cbb15e487d"},{"offerId":"c8319a037f9840e8b7549de480efb9c7"},{"offerId":"85125898f3914946a9443bcce4667660"},{"offerId":"9aa9f44cd8c24652953a1b204755b193"},{"offerId":"f5c0e8ab6c9a4530999041e89e9b6934"},{"offerId":"57f0419c4e4a4ea4858b2f37a98d5315"},{"offerId":"35759d71512b47e5b2825669f1d9166a"},{"offerId":"d2da86026c71429a9cf5e76dfd89a1d3"},{"offerId":"f05c43f7c1d24f5fbb1a6fa5a5a60edb"}]},"initiatedBy":"SELLER"}],"ref":"35759d71512b47e5b2825669f1d9166a"},{"lineId":"13","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":9999,"unitPrice":9999,"originalPrice":9999,"originalUnitPrice":9999,"discountPercentage":100,"discount":0,"basePayoutPrice":9999,"basePayoutCurrencyCode":"USD"},"offerId":"e852b1940299435884365cec7dc3a608","appliedRules":[],"ref":"e852b1940299435884365cec7dc3a608"},{"lineId":"14","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":3000,"unitPrice":3000,"originalPrice":5999,"originalUnitPrice":5999,"discountPercentage":50,"discount":2999,"basePayoutPrice":3000,"basePayoutCurrencyCode":"USD"},"offerId":"f05c43f7c1d24f5fbb1a6fa5a5a60edb","appliedRules":[{"id":"b266ecf575484983a74c6f349105c87a","name":"50% Discount - T2.4","namespace":"fn","startDate":"2017-12-19T12:00:00.000Z","endDate":"2018-01-05T06:00:00.000Z","saleType":"REGULAR","promotionStatus":"ACTIVE","regionIds":["ROW","US","EURO","KR","RU","ZA","GB","UABY","PL"],"conditions":[{"conditionType":"EVERYONE","conditionValue":""}],"discountSetting":{"discountType":"PERCENTAGE","discountType":"PERCENTAGE","discountPercentage":50},"promotionSetting":{"promotionType":"SIMPLE","promotionType":"SIMPLE","discountOffers":[{"offerId":"41134f4ff35a45a4923604cbb15e487d"},{"offerId":"c8319a037f9840e8b7549de480efb9c7"},{"offerId":"85125898f3914946a9443bcce4667660"},{"offerId":"9aa9f44cd8c24652953a1b204755b193"},{"offerId":"f5c0e8ab6c9a4530999041e89e9b6934"},{"offerId":"57f0419c4e4a4ea4858b2f37a98d5315"},{"offerId":"35759d71512b47e5b2825669f1d9166a"},{"offerId":"d2da86026c71429a9cf5e76dfd89a1d3"},{"offerId":"f05c43f7c1d24f5fbb1a6fa5a5a60edb"}]},"initiatedBy":"SELLER"}],"ref":"f05c43f7c1d24f5fbb1a6fa5a5a60edb"},{"lineId":"15","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":999,"unitPrice":999,"originalPrice":999,"originalUnitPrice":999,"discountPercentage":100,"discount":0,"basePayoutPrice":999,"basePayoutCurrencyCode":"USD"},"offerId":"ede05b3c97e9475a8d9be91da65750f0","appliedRules":[],"ref":"ede05b3c97e9475a8d9be91da65750f0"}]}
+[2017.12.22-16.48.40:798][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2017.12.22-16.48.40:848][620]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: MOTD_C_0
+[2017.12.22-16.48.40:848][620]LogCommonInput: Verbose: Input suspension: Started
+[2017.12.22-16.48.40:848][620]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.40:848][620]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.40:848][620]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.12.22-16.48.40:849][620]LogGameMode: GameMode returned ReadyToStartMatch
+[2017.12.22-16.48.40:849][620]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.12.22-16.48.40:894][620]LogCommonInput: Verbose: PushActivatablePanel : Adding push for new activatable panel SubgameSelectScreen_C_0: 
+[2017.12.22-16.48.40:894][620]LogCommonInput: Verbose: Input suspension: Started
+[2017.12.22-16.48.40:894][620]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.40:894][620]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: SubgameSelectScreen_C_0
+[2017.12.22-16.48.40:894][620]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: SubgameSelectScreen_C_0
+[2017.12.22-16.48.40:894][620]LogFortNavigation: Verbose: CenterWidget(UWidget): CampaignBtn 
+[2017.12.22-16.48.40:894][620]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.40:894][620]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.12.22-16.48.40:895][620]LogHotfixManager: Display: Returning cached update result 1
+[2017.12.22-16.48.40:895][620]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.12.22-16.48.40:895][620]LogFortMemory: ================== Health Snapshot: Start of Match (FortGameStateFrontEnd) =================
+[2017.12.22-16.48.40:895][620]LogFortMemory: Hero: , Theater: , Mission: 
+[2017.12.22-16.48.40:895][620]LogFortMemory: Games Played: 0, MeasuredPerfTime 0.00 Secs
+[2017.12.22-16.48.40:895][620]LogFortMemory: CPU Memory: Used 1566.08MB, Peak 1605.13MB
+[2017.12.22-16.48.40:895][620]LogFortMemory: Physical Memory: Used 7587.48MB, Total: 16333.56MB
+[2017.12.22-16.48.40:895][620]LogFortMemory: =============================================================
+[2017.12.22-16.48.40:895][620]LogFortLoadingScreen: Showing loading screen when 'IsShowingInitialLoadingScreen()' is false.
+[2017.12.22-16.48.40:895][620]LogFortLoadingScreen: Showing LoadingScreen because important patch check in progress
+[2017.12.22-16.48.40:924][620]LogGarbage: Display: Collecting garbage   (GCheckForIllegalMarkPendingKill = 0)
+[2017.12.22-16.48.40:942][620]LogGarbage: Display: 18.972910 ms for GC
+[2017.12.22-16.48.40:943][620]LogGarbage: Display: 0.004518 ms for dissolving GC clusters
+[2017.12.22-16.48.40:944][620]LogGarbage: Display: 1.258918 ms for unhashing unreachable objects. Clusters removed: 4.   Items 793 Cluster Items 10
+[2017.12.22-16.48.40:949][621]LogHotfixManager: Display: CheckComplete UpdateSuccess
+[2017.12.22-16.48.40:967][622]LogGarbage: Display: GC purged 803 objects (298964 -> 298161)
+[2017.12.22-16.48.40:967][622]LogCommonInput: Verbose: Input suspension: Stopped
+[2017.12.22-16.48.41:450][646]LogHotfixManager: Display: External CheckComplete UpdateSuccess
+[2017.12.22-16.48.41:450][646]LogHotfixManager: Display: Update State UpdatePending -> UpdateComplete
+[2017.12.22-16.48.41:450][646]LogFort: Display: AFortGameModeFrontEnd::OnUpdateCheckComplete called. Result=1
+[2017.12.22-16.48.42:961][727]LogFortLoadingScreen: Hiding loading screen when 'IsShowingInitialLoadingScreen()' is false.
+[2017.12.22-16.48.42:961][727]LogFortLoadingScreen: Hiding loading screen because this AFortPlayerController is not in Zone and always returns 'hide loading screen'.
+[2017.12.22-16.48.45:688][876]LogProfileSys: MCP-Profile: Dispatching request to https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/7340ba732ec54cd59d9b83bbd63901a0/client/IncrementNamedCounterStat?profileId=profile0&rvn=3161
+[2017.12.22-16.48.45:688][876]LogProfileSys: MCP-Profile: Command IncrementNamedCounterStat queued to send
+[2017.12.22-16.48.45:688][876]LogFortMemory: ---------------------
+[2017.12.22-16.48.45:688][876]LogFortMemory: UFortAssetManager::ChangeGameSubMode is changing mode from [NoMode] to Athena
+[2017.12.22-16.48.45:688][876]LogFortMemory: UFortAssetManager::ChangeGameSubMode() changing bundle state to (Menu, Client, ClientAthena)
+[2017.12.22-16.48.45:851][876]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: SubgameSelectScreen_C_0
+[2017.12.22-16.48.45:851][876]LogCommonInput: Verbose: Input suspension: Started
+[2017.12.22-16.48.45:851][876]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.45:851][876]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.45:851][876]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.12.22-16.48.46:115][876]LogFort: Frontend Behavior Cohort: MapScreenWithMinimalAutoLaunch
+[2017.12.22-16.48.46:115][876]LogParty: Verbose: UFortPartyContext::HandlePendingInvites
+[2017.12.22-16.48.46:115][876]LogParty: Resetting parties for frontend, bLeavePartyWhenReturningToFrontEnd: 0
+[2017.12.22-16.48.46:115][876]LogParty: Verbose: Resetting parties for frontend
+[2017.12.22-16.48.46:115][876]LogOnlineParty: Verbose: OSS::Party: UpdatePartyMemberData request success. user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.46:115][876]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.46:115][876]LogOnlineParty: Verbose: OSS::Party: UpdateParty request success. user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.46:115][876]LogParty: Verbose: [93BDE5A44AA2FBF2AC5861ADDE337B6C] Party config updated Succeeded
+[2017.12.22-16.48.46:115][876]LogParty: Verbose: UFortPartyGameState::UpdateAcceptingMembers()
+[2017.12.22-16.48.46:115][876]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.updatepartyconfiguration user=7340ba732ec54cd59d9b83bbd63901a0 to=all payload={"partyId":"93BDE5A44AA2FBF2AC5861ADDE337B6C","presencePermissions":-1463680700,"invitePermissions":2,"partyFlags":3,"notAcceptingMembersReason":0,"maxMembers":4,"password":"","accessKey":"9D9412C045BCA2435E54CCB3EE9F0DFB","clientData":""}
+[2017.12.22-16.48.46:115][876]LogOnlineParty: Display: OSS::Party: Publishing party to presence DisplayName(Hotterino) PartyId(93BDE5A44AA2FBF2AC5861ADDE337B6C) LeaderId(7340ba732ec54cd59d9b83bbd63901a0) LeaderDisplayName(Hotterino) AccessKey(9D9412C045BCA2435E54CCB3EE9F0DFB) HasPassword(0) IsAcceptingMembers(1) NotAcceptingReason(0)
+[2017.12.22-16.48.46:116][876]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::PublishPartyInfoToPresence success to publish presence user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.46:116][876]LogOnlineParty: Verbose: OSS::Party: UpdateParty request success. user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.46:116][876]LogParty: Verbose: [93BDE5A44AA2FBF2AC5861ADDE337B6C] Party config updated Succeeded
+[2017.12.22-16.48.46:116][876]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.46:116][876]LogParty: Display: UFortPartyContext::HandlePartyResetForFrontend: PartyState [93BDE5A44AA2FBF2AC5861ADDE337B6C]
+[2017.12.22-16.48.46:116][876]LogParty: Display: UFortPartyContext::HandlePartyLeft: PartyState [null], Reason Unknown
+[2017.12.22-16.48.46:116][876]LogParty: Display: Local player [Hotterino] (ID [7340ba732ec54cd59d9b83bbd63901a0]) left party [null]
+[2017.12.22-16.48.46:116][876]LogParty: Verbose: UFortUITeamInfo::Empty: Removing party leader Id [7340ba732ec54cd59d9b83bbd63901a0]
+[2017.12.22-16.48.46:116][876]LogParty: Verbose: UFortUITeamInfo::GetParty: Adding for party leader Id [7340ba732ec54cd59d9b83bbd63901a0]
+[2017.12.22-16.48.46:116][876]LogParty: Display: Local player [Hotterino] (ID [7340ba732ec54cd59d9b83bbd63901a0]) joined a new party [93BDE5A44AA2FBF2AC5861ADDE337B6C].
+[2017.12.22-16.48.46:116][876]LogParty: Verbose: HandlePartyMemberJoined: Party [93BDE5A44AA2FBF2AC5861ADDE337B6C] Registering team member [7340ba732ec54cd59d9b83bbd63901a0]!
+[2017.12.22-16.48.46:116][876]LogParty: Display: New party member state for [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0] added to the local player's party [93BDE5A44AA2FBF2AC5861ADDE337B6C].
+[2017.12.22-16.48.46:116][876]LogParty: Display: Removing [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0] from [Hotterino]'s team.
+[2017.12.22-16.48.46:116][876]LogParty: Display: Adding [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0] as a new member to [7340ba732ec54cd59d9b83bbd63901a0]'s party via an existing UITeamMember in [Hotterino]'s game.
+[2017.12.22-16.48.46:116][876]LogParty: Display: New member [7340ba732ec54cd59d9b83bbd63901a0] added to UI Party led by [7340ba732ec54cd59d9b83bbd63901a0].
+[2017.12.22-16.48.46:116][876]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0].
+[2017.12.22-16.48.46:116][876]LogParty: Display: [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0] team member data updated, team [MAX] at index [0] in [Hotterino]'s game.
+[2017.12.22-16.48.46:117][876]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0].
+[2017.12.22-16.48.46:117][876]LogParty: Display: [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0] team member data updated, team [MAX] at index [0] in [Hotterino]'s game.
+[2017.12.22-16.48.46:117][876]LogParty: Display: UFortPartyContext::HandlePartyResetForFrontend exit
+[2017.12.22-16.48.46:251][876]LogFortNavigation: Verbose: CenterWidget(UWidget): AthenaSeasonReward_C_4 
+[2017.12.22-16.48.46:402][876]LogCommonInput: Verbose: PushActivatablePanel : Adding push for new activatable panel AthenaTabsScreen_C_0: 
+[2017.12.22-16.48.46:402][876]LogCommonInput: Verbose: Input suspension: Started
+[2017.12.22-16.48.46:402][876]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.46:402][876]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: AthenaTabsScreen_C_0
+[2017.12.22-16.48.46:402][876]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: AthenaTabsScreen_C_0
+[2017.12.22-16.48.46:402][876]LogCommonInput: Verbose: PushActivatablePanel : Adding outro op for top activatable panel
+[2017.12.22-16.48.46:402][876]LogCommonInput: Verbose: PushActivatablePanel : Adding push for new activatable panel AthenaLobby_C_0: 
+[2017.12.22-16.48.46:403][876]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.46:403][876]LogCommonInput: Verbose: StartNextOperation: deactivate for panel: AthenaTabsScreen_C_0
+[2017.12.22-16.48.46:403][876]LogCommonInput: Verbose: OnPostPanelDeactivatedForPush: deactivated panel: AthenaTabsScreen_C_0
+[2017.12.22-16.48.46:403][876]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.46:403][876]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: AthenaLobby_C_0
+[2017.12.22-16.48.46:403][876]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: AthenaLobby_C_0
+[2017.12.22-16.48.46:403][876]LogFortNavigation: Verbose: CenterWidget(UWidget): ButtonGamepadSelect 
+[2017.12.22-16.48.46:403][876]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:403][876]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:403][876]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:403][876]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:403][876]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:404][876]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:404][876]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:404][876]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:404][876]LogFort: Warning: Pawn class is pending load, we should eventually get a callback for it.
+[2017.12.22-16.48.46:404][876]LogProfileSys: MCP-Profile: Command ClientQuestLogin queued to send
+[2017.12.22-16.48.46:404][876]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.46:404][876]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.12.22-16.48.46:416][876]LogSlate: Took 0.000745 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.22-16.48.46:426][877]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=7340ba732ec54cd59d9b83bbd63901a0@prod.ol.epicgames.com/V2:Fortnite:WIN::A6ED97F14D0CA7EABFEB6E8038605725 [Online] [2017.12.22-16.48.46] [{"Status":"Spielt Fortnite: Battle Royale","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"7340ba732ec54cd59d9b83bbd63901a0\",\"sourceDisplayName\":\"Hotterino\",\"partyId\":\"93BDE5A44AA2FBF2AC5861ADDE337B6C\",\"partyTypeId\":286331153,\"leaderId\":\"7340ba732ec54cd59d9b83bbd63901a0\",\"leaderDisplayName\":\"Hotterino\",\"key\":\"9D9412C045BCA2435E54CCB3EE9F0DFB\",\"appId\":\"Fortnite\",\"buildId\":\"611750138\",\"partyFlags\":4,\"notAcceptingReason\":1}","Name":"party.joininfodata.286331153"},{"Type":"String","Value":"{\r\n\t\"homeBaseRating\": 17\r\n}","Name":"FortBasicInfo"}]}]
+[2017.12.22-16.48.46:426][877]LogParty: [93BDE5A44AA2FBF2AC5861ADDE337B6C] Party config changed
+[2017.12.22-16.48.46:427][877]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.data user=7340ba732ec54cd59d9b83bbd63901a0 to all
+[2017.12.22-16.48.46:427][877]LogParty: [93BDE5A44AA2FBF2AC5861ADDE337B6C] Player 7340ba732ec54cd59d9b83bbd63901a0 data received
+[2017.12.22-16.48.46:427][877]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0].
+[2017.12.22-16.48.46:428][877]LogParty: Display: [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0] team member data updated, team [MAX] at index [0] in [Hotterino]'s game.
+[2017.12.22-16.48.46:428][877]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:428][877]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:428][877]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:428][877]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:428][877]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:428][877]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:428][877]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:428][877]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:428][877]LogFort: Warning: Pawn class is pending load, we should eventually get a callback for it.
+[2017.12.22-16.48.46:428][877]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.memberdata user=7340ba732ec54cd59d9b83bbd63901a0 to all
+[2017.12.22-16.48.46:454][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:455][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:455][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:455][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:455][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:455][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:455][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:455][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:458][877]LogOnlineParty: Verbose: OSS::Party: UpdatePartyMemberData request success. user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.46:459][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:459][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:459][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:459][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:459][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:459][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:459][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:459][877]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2017.12.22-16.48.46:463][878]LogParty: [93BDE5A44AA2FBF2AC5861ADDE337B6C] Player 7340ba732ec54cd59d9b83bbd63901a0 data received
+[2017.12.22-16.48.46:463][878]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0].
+[2017.12.22-16.48.46:463][878]LogParty: Display: [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0] team member data updated, team [MAX] at index [0] in [Hotterino]'s game.
+[2017.12.22-16.48.46:464][878]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:464][878]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:464][878]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:464][878]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:464][878]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:464][878]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:464][878]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:464][878]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.46:464][878]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.memberdata user=7340ba732ec54cd59d9b83bbd63901a0 to all
+[2017.12.22-16.48.46:465][878]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=7340ba732ec54cd59d9b83bbd63901a0@prod.ol.epicgames.com/V2:Fortnite:WIN::A6ED97F14D0CA7EABFEB6E8038605725 [Online] [2017.12.22-16.48.46] [{"Status":"Spielt Fortnite: Battle Royale","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"7340ba732ec54cd59d9b83bbd63901a0\",\"sourceDisplayName\":\"Hotterino\",\"partyId\":\"93BDE5A44AA2FBF2AC5861ADDE337B6C\",\"partyTypeId\":286331153,\"leaderId\":\"7340ba732ec54cd59d9b83bbd63901a0\",\"leaderDisplayName\":\"Hotterino\",\"key\":\"9D9412C045BCA2435E54CCB3EE9F0DFB\",\"appId\":\"Fortnite\",\"buildId\":\"611750138\",\"partyFlags\":6,\"notAcceptingReason\":0}","Name":"party.joininfodata.286331153"},{"Type":"String","Value":"{\r\n\t\"homeBaseRating\": 17\r\n}","Name":"FortBasicInfo"}]}]
+[2017.12.22-16.48.46:474][878]LogCommonInput: Verbose: Input suspension: Stopped
+[2017.12.22-16.48.46:656][890]LogOnlineGame: Verbose: Received chatroom recommendations: Global subgame chat rooms:  {}  ----  Founder chat rooms:  {}
+[2017.12.22-16.48.46:656][890]LogOnlineGame: NOT joinining subgame global chat, global chat is currently disabled for this game mode.
+[2017.12.22-16.48.46:656][890]LogOnlineGame: NOT joinining Founder chat, requires founder tier upgrade
+[2017.12.22-16.48.47:008][906]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/7340ba732ec54cd59d9b83bbd63901a0/client/IncrementNamedCounterStat?profileId=profile0&rvn=3161
+[2017.12.22-16.48.47:009][906]LogParty: Display: Homebase updated for Team Member: 
+[2017.12.22-16.48.47:009][906]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0].
+[2017.12.22-16.48.47:009][906]LogParty: Display: [Hotterino] Id [7340ba732ec54cd59d9b83bbd63901a0] team member data updated, team [MAX] at index [0] in [Hotterino]'s game.
+[2017.12.22-16.48.47:010][906]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.47:010][906]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.47:010][906]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.47:010][906]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.47:010][906]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.47:010][906]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.47:010][906]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.47:010][906]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.47:010][906]LogProfileSys: MCP-Profile: Dispatching request to https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/7340ba732ec54cd59d9b83bbd63901a0/client/ClientQuestLogin?profileId=athena&rvn=216
+[2017.12.22-16.48.47:275][922]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/7340ba732ec54cd59d9b83bbd63901a0/client/ClientQuestLogin?profileId=athena&rvn=216
+[2017.12.22-16.48.48:628][993]LogCommonInput: Verbose: PushActivatablePanel : Adding outro op for top activatable panel
+[2017.12.22-16.48.48:628][993]LogCommonInput: Verbose: PushActivatablePanel : Adding push for new activatable panel TopBar: 
+[2017.12.22-16.48.48:628][993]LogCommonInput: Verbose: Input suspension: Started
+[2017.12.22-16.48.48:628][993]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.48:628][993]LogCommonInput: Verbose: StartNextOperation: begin outro for panel: AthenaLobby_C_0
+[2017.12.22-16.48.48:628][993]LogCommonInput: Verbose: OnPostPanelDeactivatedForPush: deactivated panel: AthenaLobby_C_0
+[2017.12.22-16.48.48:628][993]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.48:628][993]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: TopBar
+[2017.12.22-16.48.48:629][993]LogMcpContext: [QueryUnredeemedFriendCodes] Attempting to query friend codes
+[2017.12.22-16.48.48:629][993]LogOnlineGame: Verbose: MCP-Utils: Dispatching request to https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/friendcodes/7340ba732ec54cd59d9b83bbd63901a0/epic
+[2017.12.22-16.48.48:629][993]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: TopBar
+[2017.12.22-16.48.48:629][993]LogFortNavigation: Verbose: CenterWidget(UWidget): Feedback 
+[2017.12.22-16.48.48:629][993]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.48:629][993]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.12.22-16.48.48:663][995]LogCommonInput: Verbose: Input suspension: Stopped
+[2017.12.22-16.48.48:832][  6]LogMcpContext: [QueryUnredeemedFriendCodes] Found 0 Friend Codes
+[2017.12.22-16.48.48:832][  6]LogOnlineGame: Verbose: McpUtils request https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/friendcodes/7340ba732ec54cd59d9b83bbd63901a0/epic complete. code=200
+[2017.12.22-16.48.49:777][ 56]LogCommonInput: Verbose: PushActivatablePanel : Adding outro op for top activatable panel
+[2017.12.22-16.48.49:777][ 56]LogCommonInput: Verbose: PushActivatablePanel : Adding push for new activatable panel ConfirmationWindow_C_0: 
+[2017.12.22-16.48.49:777][ 56]LogCommonInput: Verbose: Input suspension: Started
+[2017.12.22-16.48.49:777][ 56]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.49:777][ 56]LogCommonInput: Verbose: StartNextOperation: begin outro for panel: TopBar
+[2017.12.22-16.48.49:778][ 56]LogCommonInput: Verbose: OnPostPanelDeactivatedForPush: deactivated panel: TopBar
+[2017.12.22-16.48.49:778][ 56]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.49:778][ 56]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: ConfirmationWindow_C_0
+[2017.12.22-16.48.49:778][ 56]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: ConfirmationWindow_C_0
+[2017.12.22-16.48.49:778][ 56]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.49:778][ 56]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.12.22-16.48.49:800][ 58]LogCommonInput: Verbose: Input suspension: Stopped
+[2017.12.22-16.48.50:478][ 94]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: ConfirmationWindow_C_0
+[2017.12.22-16.48.50:478][ 94]LogCommonInput: Verbose: PopActivatablePanel: Adding intro to previous panel: TopBar
+[2017.12.22-16.48.50:478][ 94]LogCommonInput: Verbose: Input suspension: Started
+[2017.12.22-16.48.50:478][ 94]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.50:478][ 94]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.50:478][ 94]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: TopBar
+[2017.12.22-16.48.50:478][ 94]LogFortNavigation: Verbose: CenterWidget(UWidget): Feedback 
+[2017.12.22-16.48.50:478][ 94]LogCommonInput: Verbose: Begin StartNextOperation
+[2017.12.22-16.48.50:478][ 94]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.12.22-16.48.50:479][ 94]LogOnline: Verbose: MCP: Starting WriteUserFile request. filename=ClientSettings.Sav
+[2017.12.22-16.48.50:512][ 96]LogCommonInput: Verbose: Input suspension: Stopped
+[2017.12.22-16.48.50:892][114]LogOnline: Verbose: MCP: WriteUserFile request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/user/7340ba732ec54cd59d9b83bbd63901a0/ClientSettings.Sav code=200 response=
+[2017.12.22-16.48.50:893][114]LogOnline: Verbose: MCP: WriteUserFile request complete. Local file cache updated =C:/Users/heise/AppData/Local/FortniteGame/Saved/Cloud/7340ba732ec54cd59d9b83bbd63901a0/ClientSettings.Sav
+[2017.12.22-16.48.50:896][114]Closing by request
+[2017.12.22-16.48.50:896][114]LogWindows: FPlatformMisc::RequestExit(0)
+[2017.12.22-16.48.50:909][114]LogOnlineGame: Verbose: OnDisconnectFromLobbyComplete GameSession Success: 1
+[2017.12.22-16.48.50:910][114]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=7340ba732ec54cd59d9b83bbd63901a0 party=93BDE5A44AA2FBF2AC5861ADDE337B6C
+[2017.12.22-16.48.50:910][114]LogParty: Verbose: UFortPartyGameState::UpdateAcceptingMembers()
+[2017.12.22-16.48.50:910][114]LogParty: Display: Local player [Hotterino] disconnected from lobby. Destroying all team info except the local party.
+[2017.12.22-16.48.50:910][114]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.50:910][114]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.50:910][114]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.50:910][114]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.50:910][114]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.50:910][114]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.50:910][114]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.50:910][114]LogMcpContext: Warning: Athena profile bad! UniqueNetId: INVALID.
+[2017.12.22-16.48.50:910][114]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2017.12.22-16.48.50:929][114]LogFort: SetIsDisconnecting: Player Disconnecting State Change OldState: 0 NewState: 1
+[2017.12.22-16.48.50:929][114]LogFortPlayerRegistration: UnbindFromPlayerController trying to initialize ability system actor
+[2017.12.22-16.48.50:931][114]LogFort: Warning: No attribute initialization category when HeroType is 
+[2017.12.22-16.48.50:931][114]LogFort: Warning: CharacterDefinition HID_032_Athena_Commando_M_Medieval contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2017.12.22-16.48.50:931][114]LogFort: Warning: CharacterDefinition HID_032_Athena_Commando_M_Medieval contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2017.12.22-16.48.50:931][114]LogFort: Warning: CharacterDefinition HID_032_Athena_Commando_M_Medieval contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2017.12.22-16.48.50:931][114]LogFort: Warning: CharacterDefinition HID_032_Athena_Commando_M_Medieval contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2017.12.22-16.48.50:931][114]LogFort: Warning: CharacterDefinition HID_032_Athena_Commando_M_Medieval contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2017.12.22-16.48.50:931][114]LogFort: Warning: CharacterDefinition HID_032_Athena_Commando_M_Medieval contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2017.12.22-16.48.50:931][114]LogFort: Warning: CharacterDefinition HID_032_Athena_Commando_M_Medieval contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2017.12.22-16.48.50:931][114]LogFort: Warning: CharacterDefinition HID_032_Athena_Commando_M_Medieval contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2017.12.22-16.48.50:931][114]LogFort: ApplyHeroEffectsAndAbilities succeeded
+[2017.12.22-16.48.50:933][114]LogFort: ApplyHomebaseEffectsOnPlayerSetup Succeeded
+[2017.12.22-16.48.50:933][114]LogParty: Display: HandleZonePlayerStateRemoved: [7340ba732ec54cd59d9b83bbd63901a0]
+[2017.12.22-16.48.50:933][114]LogFortPlayerRegistration: UFortGameInstance::UnregisterAllPlayerInfos called with 1 registered players; bServerRestarting: False
+[2017.12.22-16.48.50:933][114]LogFortPlayerRegistration: UFortRegisteredPlayerInfo::StartUnregistration for player Hotterino
+[2017.12.22-16.48.50:933][114]LogOnlineGame: UFortTwitchAccount: Logging user 0 out of Twitch
+[2017.12.22-16.48.50:933][114]LogFortPlayerRegistration: UFortRegisteredPlayerInfo::PerformUnregistrationFinalTeardown for Hotterino
+[2017.12.22-16.48.50:935][114]LogBlueprintContext: Display: Destroying blueprint contexts for Local Player ' FortLocalPlayer_0 ' of Game Instance ' FortGameInstance_0 '
+[2017.12.22-16.48.51:281][114]LogSlate: Request Window 'Fortnite ' being destroyed
+[2017.12.22-16.48.51:311][114]LogSlate: Window 'Fortnite ' being destroyed
+[2017.12.22-16.48.51:311][114]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.22-16.48.52:024][114]LogExit: Preparing to exit.
+[2017.12.22-16.48.52:024][114]LogMoviePlayer: Shutting down movie player
+[2017.12.22-16.48.52:188][114]LogMaterial: Removed default parameter collection resource, Default__MaterialParameterCollection, ID:00000000000000000000000000000000
+[2017.12.22-16.48.52:188][114]LogMaterial: Removed default parameter collection resource, DistortedScreenCollection, ID:B9864F384A319FAA50CECBB9E87E2DA3
+[2017.12.22-16.48.52:188][114]LogMaterial: Removed default parameter collection resource, HomeBaseParameterCollection, ID:5E3F32F14D6E4ED04C9BCFAB36F07A73
+[2017.12.22-16.48.52:188][114]LogMaterial: Removed default parameter collection resource, Stencil_ID_Definitions, ID:281D9C06493105FC0E95569415AC1F7A
+[2017.12.22-16.48.52:188][114]LogMaterial: Removed default parameter collection resource, FortniteMaterialParameters, ID:A94D50064B63826C8C4986A4C8BDA176
+[2017.12.22-16.48.52:188][114]LogMaterial: Removed default parameter collection resource, MPC_Hexmap, ID:20526AF7447FE747ACE05282990E27FD
+[2017.12.22-16.48.52:188][114]LogMaterial: Removed default parameter collection resource, MPC_HexZoneDifficulty, ID:A93665824698633F7FDC6281E6FF9586
+[2017.12.22-16.48.52:188][114]LogMaterial: Removed default parameter collection resource, MPC_StoreCardColors, ID:980B581240CECB5A06F120BFACCF6247
+[2017.12.22-16.48.52:188][114]LogMaterial: Removed default parameter collection resource, MPC_Pinata, ID:6172D0F346C152CDC7C8C2BB5264A0F1
+[2017.12.22-16.48.52:188][114]LogMaterial: Removed default parameter collection resource, MPC_AnimatedCard, ID:6DE1D7A647069C164FCDAAB989A20E10
+[2017.12.22-16.48.52:188][114]LogOnline: Display: OSS: Removing 2 named interfaces
+[2017.12.22-16.48.52:212][114]LogMaterial: Removed default parameter collection resource, MPC_Skybox_World, ID:AD511C5F4BCECA528A142E9BEC5F9456
+[2017.12.22-16.48.52:216][114]LogExit: Game engine shut down
+[2017.12.22-16.48.52:412][114]LogGarbage: Display: GC purged 256285 objects (391604 -> 135319)
+[2017.12.22-16.48.52:510][114]LogGarbage: Display: GC purged 392407 objects (391604 -> -803)
+[2017.12.22-16.48.52:510][114]LogExit: Object subsystem successfully closed.
+[2017.12.22-16.48.52:621][114]LogD3D11RHI: Error: SwapChain->SetFullscreenState(false,NULL) failed 
+ at D:\Build\++Fortnite+Release-Cert+Full\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:156 
+ with error 80070005
+[2017.12.22-16.48.52:621][114]LogWindows: Windows GetLastError: Der Vorgang wurde erfolgreich beendet. (0)

@@ -1,0 +1,413 @@
+Log file open, 10/29/17 11:33:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+AppSettings: Version: 6.7.0-3718866+++Portal+Release-Live
+AppSettings: CommandLine: "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\..\..\..\Portal\Binaries\Win64\EpicGamesLauncher.exe" 
+AppSettings: RunningCommandlet: false
+AppSettings: ForwardMessage: false
+AppSettings: ForcedRestart: false
+AppSettings: bAllowMultipleInstances: false
+AppSettings: bBootstrap: false
+AppSettings: bSilent: false
+AppSettings: bForceDeprecated: false
+AppSettings: bDoesCompiledPlatformMatch: true
+AppSettings: bIsUnattended: false
+AppSettings: bAllowFullAppTesting: false
+AppSettings: bIsExecutingAutomation: false
+AppSettings: Mode: default
+LogInit: WinPlatform: User is admin: true
+LogInit: WinPlatform: Process ran as admin: false
+LogInit: WinPlatform: Process is elevated: false
+LogInit: WinPlatform: Process integrity level: Medium
+LogInit: WinPlatform: Running 64bit App: true
+LogInit: WinPlatform: Running 64bit OS: true
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(102967044) SRandInit(102967044).
+LogTaskGraph: Started task graph with 4 named threads and 7 total threads with 1 sets of task threads.
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MessagingDebugger
+LogPluginManager: Mounting plugin UdpMessaging
+LogInit: Build: 6.7.0-3718866+++Portal+Release-Live
+LogInit: Engine Version: 4.18.0-3718866+++Portal+Release-Live
+LogInit: Compatible Engine Version: 4.18.0-3718866+++Portal+Release-Live
+LogInit: Net CL: 3718866
+LogInit: Compiled (64-bit): Oct 25 2017 13:59:18
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Portal+Release-Live
+LogInit: Command line: "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\..\..\..\Portal\Binaries\Win64\EpicGamesLauncher.exe"  -SaveToUserDir -Messaging -enablehighdpi
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.29-13.33.52:613][  0]LogInit: Computer: DESKTOP-SP2G3A1
+[2017.10.29-13.33.52:613][  0]LogInit: User: LucasWeigel
+[2017.10.29-13.33.52:613][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.29-13.33.52:613][  0]LogInit: High frequency timer resolution =3.020352 MHz
+[2017.10.29-13.33.52:613][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.10.29-13.33.52:613][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.29-13.33.52:613][  0]LogMemory: Process Physical Memory: 25.72 MB used, 25.72 MB peak
+[2017.10.29-13.33.52:613][  0]LogMemory: Process Virtual Memory: 49.98 MB used, 49.98 MB peak
+[2017.10.29-13.33.52:613][  0]LogMemory: Physical Memory: 3260.61 MB used,  4819.26 MB free, 8079.87 MB total
+[2017.10.29-13.33.52:613][  0]LogMemory: Virtual Memory: 207.11 MB used,  4819.26 MB free, 134217728.00 MB total
+[2017.10.29-13.33.52:650][  0]LogAssetRegistry: FAssetRegistry took 0.0115 seconds to start up
+[2017.10.29-13.33.52:650][  0]LogUObjectArray: 211 objects as part of root set at end of initial load.
+[2017.10.29-13.33.52:650][  0]LogUObjectAllocator: 35840 out of 0 bytes used by permanent object pool.
+[2017.10.29-13.33.52:650][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.29-13.33.52:650][  0]LogInit: Using OS detected language (pt-BR).
+[2017.10.29-13.33.52:650][  0]LogInit: Using OS detected locale (pt-BR).
+[2017.10.29-13.33.52:773][  0]LogPackageLocalizationCache: Processed 2 localized package path(s) for 2 prioritized culture(s) in 0.000117 seconds
+[2017.10.29-13.33.52:821][  0]LogTaskGraph: Started task graph with 4 named threads and 7 total threads with 1 sets of task threads.
+[2017.10.29-13.33.52:870][  0]LogInit: Using libcurl 7.47.1
+[2017.10.29-13.33.52:870][  0]LogInit:  - built for x86_64-pc-win32
+[2017.10.29-13.33.52:870][  0]LogInit:  - supports SSL with OpenSSL/1.0.2g
+[2017.10.29-13.33.52:870][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+[2017.10.29-13.33.52:870][  0]LogInit:  - other features:
+[2017.10.29-13.33.52:870][  0]LogInit:      CURL_VERSION_SSL
+[2017.10.29-13.33.52:870][  0]LogInit:      CURL_VERSION_LIBZ
+[2017.10.29-13.33.52:870][  0]LogInit:      CURL_VERSION_IPV6
+[2017.10.29-13.33.52:870][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2017.10.29-13.33.52:870][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2017.10.29-13.33.52:870][  0]LogInit:      CURL_VERSION_IDN
+[2017.10.29-13.33.52:872][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2017.10.29-13.33.52:872][  0]LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+[2017.10.29-13.33.52:872][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2017.10.29-13.33.52:872][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2017.10.29-13.33.52:872][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2017.10.29-13.33.56:406][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.29-13.33.56:433][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.29-13.33.58:038][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.29-13.33.58:044][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.29-13.33.58:228][  0]Portal: Constructing App Data Access Layer
+[2017.10.29-13.33.59:266][  0]LogBuildInfoRepository: Using LauncherLabel Live-Belica
+[2017.10.29-13.33.59:266][  0]LogBuildInfoRepository: Using AppLabel Live
+[2017.10.29-13.33.59:266][  0]LogSelfUpdateService: Initialising for EpicGamesLauncher 6.7.0-3718866+++Portal+Release-Live-Windows.
+[2017.10.29-13.33.59:266][  0]Portal: Constructing App Domain Layer
+[2017.10.29-13.33.59:295][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\UnrealEngineLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2017.10.29-13.33.59:303][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2017.10.29-13.33.59:303][  0]WinPlatform: Found matching shortcut: false
+[2017.10.29-13.33.59:303][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2017.10.29-13.33.59:304][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2017.10.29-13.33.59:304][  0]WinPlatform: Found matching shortcut: false
+[2017.10.29-13.33.59:304][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2017.10.29-13.33.59:305][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2017.10.29-13.33.59:305][  0]WinPlatform: Found matching shortcut: false
+[2017.10.29-13.33.59:305][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2017.10.29-13.33.59:306][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2017.10.29-13.33.59:306][  0]WinPlatform: Found matching shortcut: true
+[2017.10.29-13.33.59:306][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\UnrealEngineLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2017.10.29-13.33.59:320][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2017.10.29-13.33.59:320][  0]WinPlatform: Found matching shortcut: false
+[2017.10.29-13.33.59:320][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2017.10.29-13.33.59:321][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2017.10.29-13.33.59:321][  0]WinPlatform: Found matching shortcut: false
+[2017.10.29-13.33.59:321][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2017.10.29-13.33.59:322][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2017.10.29-13.33.59:322][  0]WinPlatform: Found matching shortcut: false
+[2017.10.29-13.33.59:323][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2017.10.29-13.33.59:323][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2017.10.29-13.33.59:324][  0]WinPlatform: Found matching shortcut: true
+[2017.10.29-13.34.01:490][  0]Portal: Constructing App Presentation Layer
+[2017.10.29-13.34.01:504][  0]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:2
+[2017.10.29-13.34.01:504][  0]Portal: Constructing App UI Layer
+[2017.10.29-13.34.01:609][  4]FCommunityPortalManagerImpl: Change State CPManagerState_Init->CPManagerState_UserLogin
+[2017.10.29-13.34.01:710][  7]Url Processing Complete: /sign-in -> /sign-in/index.html?lang={locale}
+[2017.10.29-13.34.01:710][  7]Navigating to Internal Url: /sign-in/index.html?lang={locale}
+[2017.10.29-13.34.01:719][  7]SCommunityPortalMainImpl::Construct UEPVM:4
+[2017.10.29-13.34.01:787][  7]~SCommunityPortalMainImpl UEPVM:2
+[2017.10.29-13.34.01:787][  7]FCommunityPortalManagerImpl: Change State CPManagerState_UserLogin->CPManagerState_WaitingRoom
+[2017.10.29-13.34.01:827][  7]LogSlate: Took 0.038210 seconds to synchronously load lazily loaded font '../../Content/Font/Lato-Regular.ttf' (118K)
+[2017.10.29-13.34.02:597][ 30]LogSelfUpdateService: Delayed initialization for EpicGamesLauncher 6.7.0-3718866+++Portal+Release-Live-Windows.
+[2017.10.29-13.34.02:597][ 30]LogSelfUpdateService: Requesting launcher build deprecation status.
+[2017.10.29-13.34.02:597][ 30]LogSelfUpdateService: Requesting launcher build info.
+[2017.10.29-13.34.02:597][ 30]LogStreaming: Warning: Failed to read file 'C:/ProgramData/Epic/EpicGamesLauncher/Data/LauncherUpdate.manifest' error.
+[2017.10.29-13.34.02:597][ 30]FCommunityPortalManagerImpl: Change State CPManagerState_WaitingRoom->CPManagerState_SelfUpdateCheck
+[2017.10.29-13.34.03:472][ 56]LogSelfUpdateService: Launcher build response 1 6.7.0-3718866+++Portal+Release-Live-Windows.
+[2017.10.29-13.34.03:472][ 56]LogSelfUpdateService: Launcher is up-to-date with the latest available version.
+[2017.10.29-13.34.03:472][ 56]LogSelfUpdateService: Waiting for next version update.
+[2017.10.29-13.34.03:472][ 56]LogSelfUpdateService: Deprecation status for EpicGamesLauncher version 6.7.0-3718866+++Portal+Release-Live-Windows was NOT_DEPRECATED
+[2017.10.29-13.34.03:472][ 56]LogSelfUpdateService: Waiting for next version update.
+[2017.10.29-13.34.03:545][ 58]FCommunityPortalManagerImpl: Change State CPManagerState_SelfUpdateCheck->CPManagerState_WaitEms
+[2017.10.29-13.34.03:829][ 65]FAccountService::AutoSignIn
+[2017.10.29-13.34.03:829][ 65]FCommunityPortalManagerImpl: Change State CPManagerState_WaitEms->CPManagerState_LoggingIn
+[2017.10.29-13.34.06:546][197]FAccountService::OnLoginComplete - 0 TRUE bee5e65745b849e793e4a930f63a9804 
+[2017.10.29-13.34.06:546][197]Portal: Constructing User Data Access Layer
+[2017.10.29-13.34.06:546][197]Portal: Constructing User Domain Layer
+[2017.10.29-13.34.06:694][197]Portal: Constructing User Presentation Layer
+[2017.10.29-13.34.07:244][197]LogEmsService: ResolveEmsFilepath - Ems file does not exist #1e1e1e
+[2017.10.29-13.34.07:248][197]LogEmsService: ResolveEmsFilepath - Ems file does not exist #212121
+[2017.10.29-13.34.07:262][197]Portal: Constructing User UI Layer
+[2017.10.29-13.34.07:264][197]FUnrealEnginePortalViewModelImple_UpdateLauncherViewModel: LauncherViewModel is valid
+[2017.10.29-13.34.07:270][197]FAccountService::OnLoginChanged - LoggedIn 0
+[2017.10.29-13.34.07:272][198]FCommunityPortalManagerImpl: Change State CPManagerState_LoggingIn->CPManagerState_LaunchWebSession
+[2017.10.29-13.34.07:506][205]FCommunityPortalManagerImpl: Change State CPManagerState_LaunchWebSession->CPManagerState_LaunchInfo
+[2017.10.29-13.34.12:565][354]Url Processing Complete: /fortnite -> /fortnite
+[2017.10.29-13.34.12:565][354]Navigating to Internal Url: /fortnite
+[2017.10.29-13.34.12:565][354]LogEmsService: ResolveEmsFilepath - Ems file does not exist .Layout
+[2017.10.29-13.34.12:570][354]FCommunityPortalManagerImpl: Change State CPManagerState_LaunchInfo->CPManagerState_Launch
+[2017.10.29-13.34.12:617][354]SCommunityPortalMainImpl::Construct UEPVM:4
+[2017.10.29-13.34.12:617][354]Url Processing Complete: /null -> /null
+[2017.10.29-13.34.12:617][354]Navigating to Internal Url: /null
+[2017.10.29-13.34.12:631][354]LogEmsService: ResolveEmsFilepath - Ems file does not exist 0.0, 0.0, 0.0, 0.7
+[2017.10.29-13.34.12:633][354][0000021D087DD300] FWebPurchaseCommand::NotStartedState
+[2017.10.29-13.34.12:633][354]LogEmsService: ResolveEmsFilepath - Ems file does not exist 1.0, 1.0, 1.0, 0.5
+[2017.10.29-13.34.36:513][ 69]DirectoryPreparation: Directory already setup
+[2017.10.29-13.34.36:513][ 69]FCommunityPortalPatcher: Change State Idle->Patching
+[2017.10.29-13.34.37:261][ 86]LogBuildPatchServices: Starting Installation
+[2017.10.29-13.34.37:598][ 97]LogBuildPatchServices: Requiring 131 files
+[2017.10.29-13.34.38:703][130]BuildPatchResumeData file found 1
+[2017.10.29-13.34.38:703][130]BuildPatchResumeData version matched 1 FortniteReleaseBuilds++Fortnite+Release-Live-CL-3724489-Windows == FortniteReleaseBuilds++Fortnite+Release-Live-CL-3724489-Windows
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_43.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_47.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/CEF3/Win64/libcef.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/CEF3/Win64/libEGL.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/CEF3/Win64/libGLESv2.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/APEX_Clothing_x64.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/APEX_Destructible_x64.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/APEX_Legacy_x64.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/ApexFramework_x64.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PhysX3_x64.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PhysX3Common_x64.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PhysX3Cooking_x64.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PxFoundation_x64.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PxPvdSDK_x64.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll
+[2017.10.29-13.34.38:703][130]FBuildPatchFileConstructor::SkipFile Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll
+[2017.10.29-13.34.38:737][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-console-l1-1-0.dll
+[2017.10.29-13.34.38:737][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-datetime-l1-1-0.dll
+[2017.10.29-13.34.38:737][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-debug-l1-1-0.dll
+[2017.10.29-13.34.38:737][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-errorhandling-l1-1-0.dll
+[2017.10.29-13.34.38:737][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-file-l1-1-0.dll
+[2017.10.29-13.34.38:737][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-file-l1-2-0.dll
+[2017.10.29-13.34.38:737][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-file-l2-1-0.dll
+[2017.10.29-13.34.38:737][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-handle-l1-1-0.dll
+[2017.10.29-13.34.38:737][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-heap-l1-1-0.dll
+[2017.10.29-13.34.38:737][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-interlocked-l1-1-0.dll
+[2017.10.29-13.34.38:737][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-libraryloader-l1-1-0.dll
+[2017.10.29-13.34.38:737][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-localization-l1-2-0.dll
+[2017.10.29-13.34.38:737][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-memory-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-namedpipe-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-processenvironment-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-processthreads-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-processthreads-l1-1-1.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-profile-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-rtlsupport-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-string-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-synch-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-synch-l1-2-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-sysinfo-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-timezone-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-core-util-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-crt-conio-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-crt-convert-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-crt-environment-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-crt-filesystem-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-crt-heap-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-crt-locale-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-crt-math-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-crt-multibyte-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-crt-private-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-crt-process-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-crt-runtime-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-crt-stdio-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-crt-string-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-crt-time-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/api-ms-win-crt-utility-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/concrt140.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/CrashReportClient.exe
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/msvcp140.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/ucrtbase.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/UnrealCEFSubProcess.exe
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/vccorlib140.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Binaries/Win64/vcruntime140.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile Engine/Build/Build.version
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/ThirdParty/Oodle/Win64/oo2core_1_win64.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/ThirdParty/Vivox/Win64/ortp_x64.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/ThirdParty/Vivox/Win64/vivoxplatform.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/ThirdParty/Vivox/Win64/vivoxsdk_x64.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-console-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-datetime-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-debug-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-errorhandling-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-file-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-file-l1-2-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-file-l2-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-handle-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-heap-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-interlocked-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-libraryloader-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-localization-l1-2-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-memory-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-namedpipe-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-processenvironment-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-processthreads-l1-1-0.dll
+[2017.10.29-13.34.38:738][131]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-processthreads-l1-1-1.dll
+[2017.10.29-13.34.38:768][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-profile-l1-1-0.dll
+[2017.10.29-13.34.38:768][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-rtlsupport-l1-1-0.dll
+[2017.10.29-13.34.38:768][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-string-l1-1-0.dll
+[2017.10.29-13.34.38:768][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-synch-l1-1-0.dll
+[2017.10.29-13.34.38:768][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-synch-l1-2-0.dll
+[2017.10.29-13.34.38:768][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-sysinfo-l1-1-0.dll
+[2017.10.29-13.34.38:768][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-timezone-l1-1-0.dll
+[2017.10.29-13.34.38:768][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-core-util-l1-1-0.dll
+[2017.10.29-13.34.38:768][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-crt-conio-l1-1-0.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-crt-convert-l1-1-0.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-crt-environment-l1-1-0.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-crt-filesystem-l1-1-0.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-crt-heap-l1-1-0.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-crt-locale-l1-1-0.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-crt-math-l1-1-0.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-crt-multibyte-l1-1-0.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-crt-private-l1-1-0.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-crt-process-l1-1-0.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-crt-runtime-l1-1-0.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-crt-stdio-l1-1-0.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-crt-string-l1-1-0.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-crt-time-l1-1-0.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/api-ms-win-crt-utility-l1-1-0.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/BattlEye/BEClient_x64.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/BattlEye/BEService_x64.exe
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/concrt140.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/FortniteClient-Win64-Shipping.exe
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/FortniteClient-Win64-Shipping_BE.exe
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/msvcp140.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/ucrtbase.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/vccorlib140.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Binaries/Win64/vcruntime140.dll
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Content/Paks/pakchunk0-WindowsClient.sig
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.sig
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak
+[2017.10.29-13.34.38:769][132]FBuildPatchFileConstructor::SkipFile FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.sig
+[2017.10.29-13.43.41:925][686]LogBuildPatchServices: File construction complete
+[2017.10.29-13.43.41:925][686]LogBuildPatchServices: Staged install complete
+[2017.10.29-13.43.41:925][686]LogBuildPatchServices: Running backup and stage relocation
+[2017.10.29-13.43.41:959][687]LogBuildPatchServices: Create MM
+[2017.10.29-13.43.42:732][710]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/CEF3/Win64
+[2017.10.29-13.43.42:732][710]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/CEF3
+[2017.10.29-13.43.42:732][710]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64
+[2017.10.29-13.43.42:732][710]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath
+[2017.10.29-13.43.42:732][710]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/NVIDIA
+[2017.10.29-13.43.42:732][710]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015
+[2017.10.29-13.43.42:732][710]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Ogg/Win64
+[2017.10.29-13.43.42:732][710]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Ogg
+[2017.10.29-13.43.42:732][710]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015
+[2017.10.29-13.43.42:766][711]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/PhysX/Win64
+[2017.10.29-13.43.42:766][711]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/PhysX
+[2017.10.29-13.43.42:766][711]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015
+[2017.10.29-13.43.42:766][711]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Vorbis/Win64
+[2017.10.29-13.43.42:766][711]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Vorbis
+[2017.10.29-13.43.42:766][711]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty
+[2017.10.29-13.43.42:766][711]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries/Win64
+[2017.10.29-13.43.42:766][711]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Binaries
+[2017.10.29-13.43.42:766][711]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine/Build
+[2017.10.29-13.43.42:766][711]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/Engine
+[2017.10.29-13.43.42:766][711]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/FortniteGame/Binaries/ThirdParty/Oodle/Win64
+[2017.10.29-13.43.42:766][711]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/FortniteGame/Binaries/ThirdParty/Oodle
+[2017.10.29-13.43.42:766][711]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/FortniteGame/Binaries/ThirdParty/Vivox/Win64
+[2017.10.29-13.43.42:766][711]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/FortniteGame/Binaries/ThirdParty/Vivox
+[2017.10.29-13.43.42:766][711]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/FortniteGame/Binaries/ThirdParty
+[2017.10.29-13.43.43:031][719]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/FortniteGame/Binaries/Win64/BattlEye
+[2017.10.29-13.43.43:031][719]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/FortniteGame/Binaries/Win64
+[2017.10.29-13.43.43:031][719]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/FortniteGame/Binaries
+[2017.10.29-13.43.43:031][719]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/FortniteGame/Content/Paks
+[2017.10.29-13.43.43:031][719]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/FortniteGame/Content
+[2017.10.29-13.43.43:031][719]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/Install/FortniteGame
+[2017.10.29-13.43.43:031][719]LogBuildPatchServices: Deleted Empty Folder (1,2) C:\Program Files\Epic Games\Fortnite/.lysEB/PatchData
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Relocation complete 1
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Verifying install
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Verify stage complete 1
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Deleting staging area.
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Reset MM.
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: AppName: FortniteReleaseBuilds
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: AppInstalledVersion: ++Fortnite+Release-Live-CL-3723103-Windows
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: AppPatchVersion: ++Fortnite+Release-Live-CL-3724489-Windows
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: CloudDirectory: https://download.epicgames.com/Builds/Fortnite/CloudDir/
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumFilesInBuild: 3185
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumFilesOutdated: 131
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumFilesToRemove: 0
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumChunksRequired: 17581
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: ChunksQueuedForDownload: 14231
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: ChunksLocallyAvailable: 3350
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: ChunksInChunkDbs: 0
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumChunksDownloaded: 728
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumChunksRecycled: 719
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumChunksReadFromChunkDbs: 0
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumFailedDownloads: 0
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumBadDownloads: 0
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumAbortedDownloads: 0
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumRecycleFailures: 1487
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumChunksStoreBooted: 0
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumDriveStoreChunkLoads: 0
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumDriveStoreLoadFailures: 0
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumChunkDbChunksFailed: 0
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: TotalDownloadedData: 329895645
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: AverageDownloadSpeed: 0.634 MB/sec
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: PeakDownloadSpeed: 0.620 MB/sec
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: TotalReadData: 756023296
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: AverageDiskReadSpeed: 123.660 MB/sec
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: PeakDiskReadSpeed: 245.389 MB/sec
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: TotalWrittenData: 18522806763
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: AverageDiskWriteSpeed: 231.587 MB/sec
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: PeakDiskWriteSpeed: 228.610 MB/sec
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: NumFilesConstructed: 6
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: InitializeTime: 1.44 sec
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: TheoreticalDownloadTime: 8:15 min
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: ConstructTime: 8:30 min
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: MoveFromStageTime: 1.21 sec
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: FileAttributesTime: 17 ms
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: VerifyTime: 3 ms
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: CleanUpTime: 1 ms
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: PrereqTime: 0 ms
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: ProcessPausedTime: 32.6 sec
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: ProcessActiveTime: 8:33 min
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: ProcessExecuteTime: 9:05 min
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: ProcessSuccess: TRUE
+[2017.10.29-13.43.43:166][723]LogBuildPatchServices: Build Stat: ErrorCode: OK
+[2017.10.29-13.43.43:167][723]LogBuildPatchServices: Build Stat: FailureReasonText: The operation was successful.
+[2017.10.29-13.43.43:167][723]LogBuildPatchServices: Build Stat: FailureType: SUCCESS
+[2017.10.29-13.43.43:167][723]LogBuildPatchServices: Build Stat: NumInstallRetries: 0
+[2017.10.29-13.43.43:167][723]LogBuildPatchServices: Build Stat: FinalProgressValue: 1.000000
+[2017.10.29-13.43.43:167][723]LogBuildPatchServices: Build Stat: OverallRequestSuccessRate: 1.000000
+[2017.10.29-13.43.43:167][723]LogBuildPatchServices: Build Stat: ExcellentDownloadHealthTime: 9:03 min
+[2017.10.29-13.43.43:167][723]LogBuildPatchServices: Build Stat: GoodDownloadHealthTime: 0 ms
+[2017.10.29-13.43.43:167][723]LogBuildPatchServices: Build Stat: OkDownloadHealthTime: 0 ms
+[2017.10.29-13.43.43:167][723]LogBuildPatchServices: Build Stat: PoorDownloadHealthTime: 0 ms
+[2017.10.29-13.43.43:167][723]LogBuildPatchServices: Build Stat: DisconnectedDownloadHealthTime: 0 ms
+[2017.10.29-13.43.43:167][723]LogBuildPatchServices: Build Stat: AverageMemoryStoreUse: 62.2
+[2017.10.29-13.43.43:167][723]LogBuildPatchServices: Build Stat: PeakMemoryStoreUse: 229
+[2017.10.29-13.43.43:167][723]LogBuildPatchServices: Build Stat: AverageMemoryStoreRetained: 16.9
+[2017.10.29-13.43.43:167][723]LogBuildPatchServices: Build Stat: PeakMemoryStoreRetained: 69
+[2017.10.29-13.43.43:167][723]LogBuildPatchServices: Build Stat: MemoryStoreSize: 336
+[2017.10.29-13.43.43:632][723]FCommunityPortalPatcher: Change State Patching->Success
+[2017.10.29-13.43.43:635][724]FCommunityPortalPatcher: Change State Success->Idle
+[2017.10.29-14.09.18:942][476]DEBUGSZ  old=0 new=1
+[2017.10.29-14.09.18:948][477]DEBUGSZ  old=1 new=2
+[2017.10.29-14.09.19:928][536]DEBUGSZ  old=2 new=3
+[2017.10.29-14.09.19:944][537]DEBUGSZ  old=3 new=6
+[2017.10.29-14.09.20:795][588]DEBUGSZ  old=6 new=7
+[2017.10.29-14.09.20:811][589]DEBUGSZ  old=7 new=8
+[2017.10.29-14.09.21:687][642]DEBUGSZ  old=8 new=9
+[2017.10.29-14.09.21:704][643]FCommunityPortalLaunchAppTask: Launching app 'C:/Program Files/Epic Games/Fortnite/FortniteGame/Binaries/Win64/FortniteClient-Win64-Shipping_BE.exe' with commandline ' -AUTH_LOGIN=unused -AUTH_PASSWORD=5d5574ad60a844389b765b0579333e4e -AUTH_TYPE=exchangecode -epicapp=Fortnite -epicenv=Prod -EpicPortal '
+[2017.10.29-15.04.47:167][172]LogOnlineParty: Warning: OSS::Party: FOnlinePartySystemMcp::XmppMessage OnReceived failure sameclient=false error=unknown message of type com.epicgames.party.queryjoinability from 583417401a464054b4cbf1901a11eec6 type=com.epicgames.party.queryjoinability user=bee5e65745b849e793e4a930f63a9804@prod.ol.epicgames.com/V2:launcher:WIN::EEBD331948771B4D21BDE6B52E123159 from=583417401a464054b4cbf1901a11eec6@prod.ol.epicgames.com/V2:Fortnite:WIN::210B6DB4408CD1C223F21A91A050FEEC payload={"partyId":"560892904B22F8F99069F39261F74E49","accessKey":"4C937F824CC9FE4D025B178F00B319AE","appid":"Fortnite","buildid":"1944448041"}
+[2017.10.29-15.04.47:849][193]LogOnlineParty: Warning: OSS::Party: FOnlinePartySystemMcp::XmppMessage OnReceived failure sameclient=false error=unknown message of type com.epicgames.party.joinrequest from 583417401a464054b4cbf1901a11eec6 type=com.epicgames.party.joinrequest user=bee5e65745b849e793e4a930f63a9804@prod.ol.epicgames.com/V2:launcher:WIN::EEBD331948771B4D21BDE6B52E123159 from=583417401a464054b4cbf1901a11eec6@prod.ol.epicgames.com/V2:Fortnite:WIN::210B6DB4408CD1C223F21A91A050FEEC payload={"partyId":"560892904B22F8F99069F39261F74E49","displayName":"bernal011","platform":"","accessKey":"4C937F824CC9FE4D025B178F00B319AE","appid":"Fortnite","buildid":"1944448041"}
+[2017.10.29-15.47.54:427][475]LogOnlineParty: Warning: OSS::Party: FOnlinePartySystemMcp::XmppMessage OnReceived failure sameclient=false error=unknown message of type com.epicgames.party.queryjoinability from 583417401a464054b4cbf1901a11eec6 type=com.epicgames.party.queryjoinability user=bee5e65745b849e793e4a930f63a9804@prod.ol.epicgames.com/V2:launcher:WIN::EEBD331948771B4D21BDE6B52E123159 from=583417401a464054b4cbf1901a11eec6@prod.ol.epicgames.com/V2:Fortnite:WIN::210B6DB4408CD1C223F21A91A050FEEC payload={"partyId":"67EFF6BF49DD07EC1D244996F17E3FF4","accessKey":"84EEFC6346E7F8419D6073959D52B2B2","appid":"Fortnite","buildid":"1944448041"}
+[2017.10.29-15.47.55:293][501]LogOnlineParty: Warning: OSS::Party: FOnlinePartySystemMcp::XmppMessage OnReceived failure sameclient=false error=unknown message of type com.epicgames.party.joinrequest from 583417401a464054b4cbf1901a11eec6 type=com.epicgames.party.joinrequest user=bee5e65745b849e793e4a930f63a9804@prod.ol.epicgames.com/V2:launcher:WIN::EEBD331948771B4D21BDE6B52E123159 from=583417401a464054b4cbf1901a11eec6@prod.ol.epicgames.com/V2:Fortnite:WIN::210B6DB4408CD1C223F21A91A050FEEC payload={"partyId":"67EFF6BF49DD07EC1D244996F17E3FF4","displayName":"bernal011","platform":"","accessKey":"84EEFC6346E7F8419D6073959D52B2B2","appid":"Fortnite","buildid":"1944448041"}
+[2017.10.29-15.48.56:890][402]DEBUGSZ  old=0 new=1
+[2017.10.29-15.48.56:906][403]DEBUGSZ  old=1 new=2
+[2017.10.29-15.48.57:769][434]DEBUGSZ  old=2 new=3
+[2017.10.29-15.48.57:800][435]DEBUGSZ  old=3 new=6
+[2017.10.29-15.48.58:633][460]DEBUGSZ  old=6 new=7
+[2017.10.29-15.48.58:666][461]DEBUGSZ  old=7 new=8
+[2017.10.29-15.48.59:497][486]DEBUGSZ  old=8 new=9
+[2017.10.29-15.48.59:530][487]FCommunityPortalLaunchAppTask: Launching app 'C:/Program Files/Epic Games/Fortnite/FortniteGame/Binaries/Win64/FortniteClient-Win64-Shipping_BE.exe' with commandline ' -AUTH_LOGIN=unused -AUTH_PASSWORD=4b7f05bcc265431bbb89810c41c91c4e -AUTH_TYPE=exchangecode -epicapp=Fortnite -epicenv=Prod -EpicPortal '

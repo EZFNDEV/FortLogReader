@@ -1,0 +1,777 @@
+Log file open, 02/15/18 13:53:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(112472278) SRandInit(112472278).
+LogTaskGraph: Started task graph with 4 named threads and 22 total threads with 3 sets of task threads.
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin AESHandlerComponent
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin BlueprintContext
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CommonUI
+LogPluginManager: Mounting plugin Crashlytics
+LogPluginManager: Mounting plugin DiscordRPC
+LogPluginManager: Mounting plugin EpicCMS
+LogPluginManager: Mounting plugin EpicCMSUIFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemMcp
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin Gauntlet
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin LogitechLED
+LogPluginManager: Mounting plugin MatchmakingService
+LogPluginManager: Mounting plugin NetUI
+LogPluginManager: Mounting plugin NVIDIAGfeSDK
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystemTencent
+LogPluginManager: Mounting plugin OnlineSubsystemFacebook
+LogPluginManager: Mounting plugin OnlineSubsystemGoogle
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemTwitch
+LogPluginManager: Mounting plugin Oodle
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PlayerBehaviorAnalytics
+LogPluginManager: Mounting plugin UAC
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PurchaseFlow
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SIP
+LogPluginManager: Mounting plugin SlateRemote
+LogPluginManager: Mounting plugin Social
+LogPluginManager: Mounting plugin SubtitlesWidgets
+LogPluginManager: Mounting plugin SubtitlesWidgetsEditor
+LogPluginManager: Mounting plugin WinDualShock
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin RemoteSession
+LogPluginManager: Mounting plugin EpicGameplayStats
+LogPluginManager: Mounting plugin OnlineGameplayFramework
+LogPluginManager: Mounting plugin HTTPChunkInstaller
+LogPluginManager: Mounting plugin Vivox
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AppleARKit
+LogStreaming: Display: Took  0.096s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - BufferSize = 65536
+LogOnline: MCP: Mcp Startup!
+LogOnline: Verbose: MCP: Created thread (ID:5372).
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogInit: Build: ++Fortnite+Release-2.5-CL-3889387
+LogInit: Engine Version: 4.20.0-3889387+++Fortnite+Release-2.5
+LogInit: Compatible Engine Version: 4.20.0-3889387+++Fortnite+Release-2.5
+LogInit: Net CL: 3886413
+LogInit: OS: Windows 10 (), CPU:       Intel(R) Core(TM) i7-3632QM CPU @ 2.20GHz, GPU: Intel(R) HD Graphics 4000
+LogInit: Compiled (64-bit): Feb 14 2018 13:21:37
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Fortnite+Release-2.5
+LogInit: Filtered Command Line: -frombe
+LogInit: Base Directory: C:/Program Files/Epic Games/Fortnite/FortniteGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.015s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true
+LogInit: Object subsystem initialized
+LogFortMemory: AppInit - CPU:228.34MB (Peak: 228.34MB)
+[2018.02.15-15.53.53:004][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsClient]
+[2018.02.15-15.53.53:011][  0]LogInit: Computer: DESKTOP-5QTGD4R
+[2018.02.15-15.53.53:011][  0]LogInit: User: LucasTomita
+[2018.02.15-15.53.53:011][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.15-15.53.53:011][  0]LogInit: High frequency timer resolution =2.143576 MHz
+[2018.02.15-15.53.53:011][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.02.15-15.53.53:011][  0]LogMemory: Platform Memory Stats for WindowsClient
+[2018.02.15-15.53.53:011][  0]LogMemory: Process Physical Memory: 229.55 MB used, 229.55 MB peak
+[2018.02.15-15.53.53:011][  0]LogMemory: Process Virtual Memory: 278.70 MB used, 278.70 MB peak
+[2018.02.15-15.53.53:011][  0]LogMemory: Physical Memory: 3789.66 MB used,  4271.61 MB free, 8061.27 MB total
+[2018.02.15-15.53.53:011][  0]LogMemory: Virtual Memory: 431.57 MB used,  4271.61 MB free, 134217728.00 MB total
+[2018.02.15-15.53.54:260][  0]LogInit: Using OS detected language (pt-BR).
+[2018.02.15-15.53.54:260][  0]LogInit: Using OS detected locale (pt-BR).
+[2018.02.15-15.53.54:405][  0]LogTextLocalizationResource: LocRes 'C:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/Runtime/HTTPChunkInstaller/Content/Localization/HTTPChunkInstaller/pt-BR/HTTPChunkInstaller.locres' failed the magic number check! Assuming this is a legacy resource (please re-generate your localization resources!)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccount, Key:FailedLoginTencent_WeGameSystemOffline):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/Game/pt-BR/Game.locres) Source String Hash: (-1927123618) Localized String: (Perda de conexão com o inicializador do jogo. {GameName} sairá agora.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/pt-BR/OnlineGameplayFramework.locres) Source String Hash: (-1927123618) Localized String: (Connection to the game launcher lost.  {GameName} will now exit.)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccount, Key:FailedLoginTencent_FailedToInitializeWeGame):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/Game/pt-BR/Game.locres) Source String Hash: (445626354) Localized String: (Falha ao se conectar ao inicializador do jogo. {GameName} sairá agora.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/pt-BR/OnlineGameplayFramework.locres) Source String Hash: (445626354) Localized String: (Failed to connect to the game launcher.  {GameName} will now exit.)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccount, Key:FounderChatShardJoined):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/Game/pt-BR/Game.locres) Source String Hash: (-1780775368) Localized String: (Entrou na sala de Fundador {RoomId})
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/pt-BR/OnlineGameplayFramework.locres) Source String Hash: (-1780775368) Localized String: (Joined Founder room {RoomId})
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccount, Key:GlobalChatShardJoined):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/Game/pt-BR/Game.locres) Source String Hash: (1976527488) Localized String: (Entrou na sala de {SubGameMode} {RoomId})
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/pt-BR/OnlineGameplayFramework.locres) Source String Hash: (1976527488) Localized String: (Joined {SubGameMode} room {RoomId})
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccount, Key:FailedLoginConsole_UnableToStartPrivCheck):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/Game/pt-BR/Game.locres) Source String Hash: (1647647700) Localized String: (Não foi possível verificar seus privilégios. Tente novamente mais tarde.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/pt-BR/OnlineGameplayFramework.locres) Source String Hash: (1647647700) Localized String: (Unable to check your privileges. Please try again later.)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccount, Key:FailedLoginTencent_UnableToSignIn):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/Game/pt-BR/Game.locres) Source String Hash: (1294375770) Localized String: (Não foi possível iniciar sessão com seu inicializador do jogo. Tente novamente mais tarde.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/pt-BR/OnlineGameplayFramework.locres) Source String Hash: (1294375770) Localized String: (Unable to sign in to your game launcher account. Please try again later.)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccount, Key:FailedLoginTencent_NotSignedInToWeGame):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/Game/pt-BR/Game.locres) Source String Hash: (223802906) Localized String: (Você precisa estar conectado ao inicializador do jogo. Conecte-se ao inicializador do jogo e tente novamente.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/pt-BR/OnlineGameplayFramework.locres) Source String Hash: (223802906) Localized String: (You must be signed in to the game launcher. Please sign in to the game launcher and try again.)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:AppleDynamicRHI, Key:OpenGLNotSupportedTitle):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-456109652) Localized String: (OpenGL não é suportado.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-456109652) Localized String: (OpenGL Not Supported)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:AppleDynamicRHI, Key:OpenGLNotSupported.):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-2002399796) Localized String: (Você precisa ter um dispositivo iOS ou tvOS compatível com Metal™, executando o iOS 8 ou posterior, para inicializar este app.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-2002399796) Localized String: (You must have a Metal compatible iOS or tvOS device with iOS 8 or later to launch this app.)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:DynamicRHI, Key:NullDrvFailure):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-106284929) Localized String: (Falha no NullDrv?)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-106284929) Localized String: (Falha de NullDrv?)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Android_Back):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-417809363) Localized String: (Android - Voltar)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-417809363) Localized String: (Android Back)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Android_Menu):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1094178069) Localized String: (Android - Menu)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1094178069) Localized String: (Android Menu)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Android_Volume_Down):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-2114067896) Localized String: (Android - Abaixar o volume)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-2114067896) Localized String: (Android Volume Down)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Android_Volume_Up):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-279090796) Localized String: (Android - Aumentar o volume)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-279090796) Localized String: (Android Volume Up)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:AnyKey):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1190381549) Localized String: (Qualquer tecla)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1190381549) Localized String: (Any Key)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Apostrophe):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-370613228) Localized String: (Apóstrofo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-370613228) Localized String: (Apostrophe)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Asterix):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (920140425) Localized String: (Asterisco)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (920140425) Localized String: (Asterisk)
+[2018.02.15-15.53.54:406][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Colon):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-582643902) Localized String: (Dois pontos)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-582643902) Localized String: (Colon)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Comma):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1554437126) Localized String: (Vírgula)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1554437126) Localized String: (Comma)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Delete):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-488287292) Localized String: (Delete)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-488287292) Localized String: (Excluir)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:End):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1573858222) Localized String: (End)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1573858222) Localized String: (Fim)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gesture_Flick):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (668301762) Localized String: (Deslizar)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (668301762) Localized String: (Flick)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:GamepadSubCategory):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-433371722) Localized String: (Controle)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-433371722) Localized String: (Gamepad)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:XBoxOne_Gamepad_FaceButton_Bottom):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1940504595) Localized String: (Controle A)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1940504595) Localized String: (A do controle do jogo)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:XBoxOne_Gamepad_FaceButton_Right):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1629253629) Localized String: (Controle B)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1629253629) Localized String: (B do controle do jogo)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:XBoxOne_Gamepad_Special_Left):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (367347927) Localized String: (Controle - Back)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (367347927) Localized String: (Voltar do controle do jogo)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_FaceButton_Right):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (697749776) Localized String: (Controle - Círculo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (697749776) Localized String: (Círculo do contorle do jogo)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_DPad_Down):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-2127583336) Localized String: (Controle - Direcional para baixo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-2127583336) Localized String: (Gamepad D-pad Down)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_DPad_Left):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1749133576) Localized String: (Controle - Direcional para esquerda)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1749133576) Localized String: (Gamepad D-pad Left)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_DPad_Right):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (343562957) Localized String: (Controle - Direcional para direita)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (343562957) Localized String: (Gamepad D-pad Right)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_DPad_Up):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (2116110123) Localized String: (Controle - Direcional para cima)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (2116110123) Localized String: (Gamepad D-pad Up)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_FaceButton_Bottom):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (798883148) Localized String: (Controle - Botão frontal de baixo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (798883148) Localized String: (Botão inferior do controle do jogo)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_FaceButton_Left):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (2006335665) Localized String: (Controle - Botão frontal esquerdo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (2006335665) Localized String: (Botão esquerdo do controle do jogo)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_FaceButton_Right):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (396025450) Localized String: (Controle - Botão frontal direito)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (396025450) Localized String: (Botão direito do controle do jogo)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_FaceButton_Top):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1763977212) Localized String: (Controle - Botão frontal de cima)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1763977212) Localized String: (Botão superior do controle do jogo)
+[2018.02.15-15.53.54:407][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_LeftShoulder):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1759765474) Localized String: (Controle - L1)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1759765474) Localized String: (L1 do controle do jogo)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_LeftTrigger):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-2052475920) Localized String: (Controle - L2)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-2052475920) Localized String: (L2 do controle do jogo)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_LeftTriggerAxis):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-320239922) Localized String: (Controle - Eixo L2)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-320239922) Localized String: (Eixos do L2 do controle do jogo)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_LeftThumbstick):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1024840853) Localized String: (Controle - L3)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1024840853) Localized String: (Gamepad L3)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_LeftShoulder):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1897582091) Localized String: (Controle - Botão superior esquerdo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1897582091) Localized String: (Dianteiro esquerdo do controle do jogo)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_LeftThumbstick):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1016707351) Localized String: (Controle - Botão do direcional analógico esquerdo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1016707351) Localized String: (Gamepad Left Thumbstick Button)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_LeftStick_Down):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (460404815) Localized String: (Controle - Direcional analógico esquerdo para baixo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (460404815) Localized String: (Gamepad Left Thumbstick Down)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_LeftStick_Left):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (232835375) Localized String: (Controle - Direcional analógico esquerdo para a esquerda)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (232835375) Localized String: (Gamepad Left Thumbstick Left)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_LeftStick_Right):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1834233504) Localized String: (Controle - Direcional analógico esquerdo para a direita)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1834233504) Localized String: (Gamepad Left Thumbstick Right)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_LeftStick_Up):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (327731582) Localized String: (Controle - Direcional analógico esquerdo para cima)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (327731582) Localized String: (Gamepad Left Thumbstick Up)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_LeftX):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (361318229) Localized String: (Controle - Direcional analógico esquerdo no eixo X)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (361318229) Localized String: (Gamepad Left Thumbstick X-Axis)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_LeftY):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1800658318) Localized String: (Controle - Direcional analógico esquerdo no eixo Y)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1800658318) Localized String: (Gamepad Left Thumbstick Y-Axis)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_LeftTrigger):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1863403917) Localized String: (Controle - Gatilho esquerdo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1863403917) Localized String: (Gatilho esquerdo do controle do jogo)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_LeftTriggerAxis):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (992630355) Localized String: (Controle - Eixo do gatilho esquerdo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (992630355) Localized String: (Eixo do gatilho esquerdo do controle do jogo)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_Special_Right):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1670726047) Localized String: (Controle - Opções)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1670726047) Localized String: (Opções do controle do jogo)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_RightShoulder):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-30589177) Localized String: (Controle - R1)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-30589177) Localized String: (R1 do controle do jogo)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_RightTrigger):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-325545751) Localized String: (Controle - R2)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-325545751) Localized String: (R2 do controle do jogo)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_RightTriggerAxis):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-5918280) Localized String: (Controle - Eixo R2)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-5918280) Localized String: (Eixo do R2 do controle do jogo)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_RightThumbstick):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1411708812) Localized String: (Controle - R3)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1411708812) Localized String: (Gamepad R3)
+[2018.02.15-15.53.54:408][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_RightShoulder):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1077827701) Localized String: (Controle - Botão superior direito)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1077827701) Localized String: (Dianteiro direito do controle do jogo)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_RightThumbstick):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (2122634805) Localized String: (Controle - Botão do direcional analógico direito)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (2122634805) Localized String: (Gamepad Right Thumbstick Button)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_RightStick_Down):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-954887437) Localized String: (Controle - Direcional analógico direito para baixo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-954887437) Localized String: (Gamepad Right Thumbstick Down)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_RightStick_Left):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-779852909) Localized String: (Controle - Direcional analógico direito para a esquerda)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-779852909) Localized String: (Gamepad Right Thumbstick Left)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_RightStick_Right):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1626027880) Localized String: (Controle - Direcional analógico direito para a direita)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1626027880) Localized String: (Gamepad Right Thumbstick Right)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_RightStick_Up):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (965164698) Localized String: (Controle - Direcional analógico direito para cima)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (965164698) Localized String: (Gamepad Right Thumbstick Up)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_RightX):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1469327479) Localized String: (Controle - Direcional analógico direito no eixo X)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1469327479) Localized String: (Gamepad Right Thumbstick X-Axis)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_RightY):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (693023406) Localized String: (Controle - Direcional analógico direito no eixo Y)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (693023406) Localized String: (Gamepad Right Thumbstick Y-Axis)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_RightTrigger):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1271537669) Localized String: (Controle - Gatilho direito)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1271537669) Localized String: (Gatilho direito do controle do jogo)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_RightTriggerAxis):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-487167090) Localized String: (Controle - Eixo do gatilho direito)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-487167090) Localized String: (Eixo do gatilho direito do controle do jogo)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_Special_Left):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-908135972) Localized String: (Controle - Botão especial esquerdo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-908135972) Localized String: (Esquerda especial do controle do jogo)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gamepad_Special_Right):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (238239253) Localized String: (Controle - Botão especial direito)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (238239253) Localized String: (Direita especial do controle do jogo)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_FaceButton_Left):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1393792585) Localized String: (Controle - Quadrado)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1393792585) Localized String: (Quadrado do controle do jogo)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:XBoxOne_Gamepad_Special_Right):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-656961095) Localized String: (Controle - Start)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-656961095) Localized String: (Início do controle do jogo)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_Special_Left):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1067566171) Localized String: (Controle - Botão do Touch Pad)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1067566171) Localized String: (Botão do painel tátil do controle do jogo)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_FaceButton_Top):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (2108721637) Localized String: (Controle - Triângulo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (2108721637) Localized String: (Triângulo do controle do jogo)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_FaceButton_Bottom):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1589172230) Localized String: (Controle X)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1589172230) Localized String: (X do controle do jogo)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:XBoxOne_Gamepad_FaceButton_Left):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1589172230) Localized String: (Controle X)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1589172230) Localized String: (X do controle do jogo)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:XBoxOne_Gamepad_FaceButton_Top):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-435896477) Localized String: (Controle Y)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-435896477) Localized String: (Y do controle do jogo)
+[2018.02.15-15.53.54:409][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:GestureSubCateogry):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-327699943) Localized String: (Gesto)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-327699943) Localized String: (Gesture)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Global_Back):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-660912760) Localized String: (Global - Voltar)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-660912760) Localized String: (Voltar Global)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Global_Menu):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (2125737136) Localized String: (Global - Menu)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (2125737136) Localized String: (Menu Global)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Global_Pause):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (265207758) Localized String: (Global - Pausa)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (265207758) Localized String: (Pause Global)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Global_Play):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1618556942) Localized String: (Global - Executar)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1618556942) Localized String: (Jogar Global)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Global_View):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (807510223) Localized String: (Global - Visualizar)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (807510223) Localized String: (Visualização Global)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Home):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1408867390) Localized String: (Home)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1408867390) Localized String: (Início)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Hyphen):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-760988185) Localized String: (Hífen)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-760988185) Localized String: (Hyphen)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Insert):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1396805725) Localized String: (Insert)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1396805725) Localized String: (Inserir)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:KeyboardSubCategory):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1428727794) Localized String: (Teclado)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1428727794) Localized String: (Keyboard)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:LeftAlt):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1800680995) Localized String: (Alt esquerdo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1800680995) Localized String: (Alt Esquerdo)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:LeftCommand):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-467468221) Localized String: (Cmd esquerdo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-467468221) Localized String: (Cmd Esquerdo)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:LeftControl):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-339812683) Localized String: (Ctrl esquerdo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-339812683) Localized String: (Ctrl Esquerdo)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:LeftMouseButton):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (116878327) Localized String: (Botão esquerdo do mouse)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (116878327) Localized String: (Botão Esquerdo do Mouse)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:LeftShift):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1756751306) Localized String: (Shift esquerdo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1756751306) Localized String: (Shift Esquerdo)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MiddleMouseButton):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1892834469) Localized String: (Botão do meio do mouse)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1892834469) Localized String: (Botão do Meio do Mouse)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionSubCateogry):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-2143884209) Localized String: (Movimento)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-2143884209) Localized String: (Motion)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionControllerSubCategory):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1255510882) Localized String: (Controle de Movimento)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1255510882) Localized String: (Motion Controller)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_FaceButton1):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1298655008) Localized String: (ControleDeMovimento (E) BotãoFrontal1)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1298655008) Localized String: (MotionController (L) FaceButton1)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_FaceButton2):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1607616754) Localized String: (ControleDeMovimento (E) BotãoFrontal2)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1607616754) Localized String: (MotionController (L) FaceButton2)
+[2018.02.15-15.53.54:410][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_FaceButton3):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (412209259) Localized String: (ControleDeMovimento (E) BotãoFrontal3)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (412209259) Localized String: (MotionController (L) FaceButton3)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_FaceButton4):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-2058950446) Localized String: (ControleDeMovimento (E) BotãoFrontal4)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-2058950446) Localized String: (MotionController (L) FaceButton4)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_FaceButton5):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1039830967) Localized String: (ControleDeMovimento (E) BotãoFrontal5)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1039830967) Localized String: (MotionController (L) FaceButton5)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_FaceButton6):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (793714777) Localized String: (ControleDeMovimento (E) BotãoFrontal6)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (793714777) Localized String: (MotionController (L) FaceButton6)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_FaceButton7):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1745664196) Localized String: (ControleDeMovimento (E) BotãoFrontal7)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1745664196) Localized String: (MotionController (L) FaceButton7)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_FaceButton8):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-812624022) Localized String: (ControleDeMovimento (E) BotãoFrontal8)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-812624022) Localized String: (MotionController (L) FaceButton8)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_Grip1):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1813802784) Localized String: (ControleDeMovimento (E) Cabo1)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1813802784) Localized String: (MotionController (L) Grip1)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_Grip1Axis):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1852815668) Localized String: (ControleDeMovimento (E) Eixo do Cabo1)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1852815668) Localized String: (MotionController (L) Grip1 Axis)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_Grip2):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-2125054194) Localized String: (ControleDeMovimento (E) Cabo2)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-2125054194) Localized String: (MotionController (L) Grip2)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_Grip2Axis):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-913379356) Localized String: (ControleDeMovimento (E) Eixo do Cabo2)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-913379356) Localized String: (MotionController (L) Grip2 Axis)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_Shoulder):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1809853866) Localized String: (ControleDeMovimento (E) Superior)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1809853866) Localized String: (MotionController (L) Shoulder)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_Thumbstick):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-767505950) Localized String: (ControleDeMovimento (E) Analógico)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-767505950) Localized String: (MotionController (L) Thumbstick)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_Thumbstick_Down):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-779672859) Localized String: (ControleDeMovimento (E) Analógico para baixo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-779672859) Localized String: (MotionController (L) Thumbstick Down)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_Thumbstick_Left):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-954805371) Localized String: (ControleDeMovimento (E) Analógico para a esquerda)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-954805371) Localized String: (MotionController (L) Thumbstick Left)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_Thumbstick_Right):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1734647026) Localized String: (ControleDeMovimento (E) Analógico para a direita)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1734647026) Localized String: (MotionController (L) Thumbstick Right)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_Thumbstick_Up):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-820207308) Localized String: (ControleDeMovimento (E) Analógico para cima)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-820207308) Localized String: (MotionController (L) Thumbstick Up)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_Thumbstick_X):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-152026013) Localized String: (ControleDeMovimento (E) Analógico X)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-152026013) Localized String: (MotionController (L) Thumbstick X)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_Thumbstick_Y):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1313612550) Localized String: (ControleDeMovimento (E) Analógico Y)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1313612550) Localized String: (MotionController (L) Thumbstick Y)
+[2018.02.15-15.53.54:411][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_Trigger):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-2023190048) Localized String: (ControleDeMovimento (E) Gatilho)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-2023190048) Localized String: (MotionController (L) Trigger)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Left_TriggerAxis):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1291454953) Localized String: (ControleDeMovimento (E) EixoDoGatilho)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1291454953) Localized String: (MotionController (L) TriggerAxis)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_FaceButton1):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (292476315) Localized String: (ControleDeMovimento (D) BotãoFrontal1)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (292476315) Localized String: (MotionController (R) FaceButton1)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_FaceButton2):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (64715381) Localized String: (ControleDeMovimento (D) BotãoFrontal2)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (64715381) Localized String: (MotionController (R) FaceButton2)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_FaceButton3):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1150870256) Localized String: (ControleDeMovimento (D) BotãoFrontal3)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1150870256) Localized String: (MotionController (R) FaceButton3)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_FaceButton4):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (649078185) Localized String: (ControleDeMovimento (D) BotãoFrontal4)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (649078185) Localized String: (MotionController (R) FaceButton4)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_FaceButton5):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1643363636) Localized String: (ControleDeMovimento (D) BotãoFrontal5)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1643363636) Localized String: (MotionController (R) FaceButton5)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_FaceButton6):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1933972190) Localized String: (ControleDeMovimento (D) BotãoFrontal6)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1933972190) Localized String: (MotionController (R) FaceButton6)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_FaceButton7):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (872778311) Localized String: (ControleDeMovimento (D) BotãoFrontal7)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (872778311) Localized String: (MotionController (R) FaceButton7)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_FaceButton8):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1818663441) Localized String: (ControleDeMovimento (D) BotãoFrontal8)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1818663441) Localized String: (MotionController (R) FaceButton8)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_Grip1):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (618782050) Localized String: (ControleDeMovimento (D) Cabo1)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (618782050) Localized String: (MotionController (R) Grip1)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_Grip1Axis):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-323716132) Localized String: (ControleDeMovimento (D) Eixo do cabo1)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-323716132) Localized String: (MotionController (R) Grip1 Axis)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_Grip2):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (911504012) Localized String: (ControleDeMovimento (D) Cabo2)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (911504012) Localized String: (MotionController (R) Grip2)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_Grip2Axis):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1263873292) Localized String: (ControleDeMovimento (D) Eixo do cabo2)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1263873292) Localized String: (MotionController (R) Grip2 Axis)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_Shoulder):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (768543400) Localized String: (ControleDeMovimento (D) Superior)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (768543400) Localized String: (MotionController (R) Shoulder)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_Thumbstick):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1352338190) Localized String: (ControleDeMovimento (D) Analógico)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1352338190) Localized String: (MotionController (R) Thumbstick)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_Thumbstick_Down):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (323507894) Localized String: (ControleDeMovimento (D) Analógico para baixo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (323507894) Localized String: (MotionController (R) Thumbstick Down)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_Thumbstick_Left):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (98150358) Localized String: (ControleDeMovimento (D) Analógico para a esquerda)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (98150358) Localized String: (MotionController (R) Thumbstick Left)
+[2018.02.15-15.53.54:412][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_Thumbstick_Right):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-735275985) Localized String: (ControleDeMovimento (D) Analógico para a direita)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-735275985) Localized String: (MotionController (R) Thumbstick Right)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_Thumbstick_Up):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1738591739) Localized String: (ControleDeMovimento (D) Analógico para cima)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1738591739) Localized String: (MotionController (R) Thumbstick Up)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_Thumbstick_X):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-561982844) Localized String: (ControleDeMovimento (D) Analógico X)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-561982844) Localized String: (MotionController (R) Thumbstick X)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_Thumbstick_Y):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1715254753) Localized String: (ControleDeMovimento (D) Analógico Y)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1715254753) Localized String: (MotionController (R) Thumbstick Y)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_Trigger):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1552249585) Localized String: (ControleDeMovimento (D) Gatilho)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1552249585) Localized String: (MotionController (R) Trigger)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MotionController_Right_TriggerAxis):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-284375918) Localized String: (ControleDeMovimento (D) EixoDoGatilho)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-284375918) Localized String: (MotionController (R) TriggerAxis)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MouseWheelAxis):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1089412173) Localized String: (Eixo do scroll do mouse)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1089412173) Localized String: (Mouse Wheel Axis)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MouseScrollDown):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1988859533) Localized String: (Scroll do mouse para baixo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1988859533) Localized String: (Roda do Mouse para Baixo)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:MouseScrollUp):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-2080804115) Localized String: (Scroll do mouse para cima)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-2080804115) Localized String: (Roda do Mouse para Cima)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Multiply):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (116284953) Localized String: (Num *)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (116284953) Localized String: (Núm. *)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Add):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1101907588) Localized String: (Num +)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1101907588) Localized String: (Núm. +)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Subtract):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1690736992) Localized String: (Num -)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1690736992) Localized String: (Núm. -)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Decimal):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1987262130) Localized String: (Num .)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1987262130) Localized String: (Núm. .)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Divide):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (825273899) Localized String: (Num /)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (825273899) Localized String: (Núm. /)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:NumPadZero):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (961210850) Localized String: (Num 0)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (961210850) Localized String: (Núm. 0)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:NumPadOne):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-2114548089) Localized String: (Num 1)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-2114548089) Localized String: (Núm. 1)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:NumPadTwo):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1824317079) Localized String: (Num 2)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1824317079) Localized String: (Núm. 2)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:NumPadThree):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (738149900) Localized String: (Num 3)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (738149900) Localized String: (Núm. 3)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:NumPadFour):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1238860107) Localized String: (Num 4)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1238860107) Localized String: (Núm. 4)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:NumPadFive):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (244586960) Localized String: (Num 5)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (244586960) Localized String: (Núm. 5)
+[2018.02.15-15.53.54:413][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:NumPadSix):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (471971390) Localized String: (Num 6)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (471971390) Localized String: (Núm. 6)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:NumPadSeven):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1533161125) Localized String: (Num 7)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1533161125) Localized String: (Núm. 7)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:NumPadEight):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-50413299) Localized String: (Num 8)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-50413299) Localized String: (Núm. 8)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:NumPadNine):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1145218664) Localized String: (Num 9)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1145218664) Localized String: (Núm. 9)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4SubCategory):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-481425488) Localized String: (PS4™)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-481425488) Localized String: (PS4)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_Special_Left_X):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1558876568) Localized String: (Botão do Touch Pad do PS4™ - Eixo X)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1558876568) Localized String: (PS4 Touchpad Button X Axis)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:PS4_Gamepad_Special_Left_Y):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-573573953) Localized String: (Botão do Touch Pad do PS4™ - Eixo Y)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-573573953) Localized String: (PS4 Touchpad Button Y Axis)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Pause):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-552801522) Localized String: (Pause)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-552801522) Localized String: (Pausar)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Period):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1370850038) Localized String: (Ponto)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1370850038) Localized String: (Period)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gesture_Pinch):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1598346309) Localized String: (Juntar os dedos)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1598346309) Localized String: (Pinça)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:RightAlt):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (530067686) Localized String: (Alt direito)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (530067686) Localized String: (Alt Direito)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:RightCommand):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1863383416) Localized String: (Cmd direito)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1863383416) Localized String: (Cmd Direito)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:RightControl):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-125774126) Localized String: (Ctrl direito)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-125774126) Localized String: (Ctrl Direito)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:RightMouseButton):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-2058702910) Localized String: (Botão direito do mouse)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-2058702910) Localized String: (Botão Direito do Mouse)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:RightShift):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (86778219) Localized String: (Shift direito)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (86778219) Localized String: (Shift Direito)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Gesture_Rotate):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-325827527) Localized String: (Girar)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-325827527) Localized String: (Rotate)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:RotationRate):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (2032555635) Localized String: (Taxa de rotação)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (2032555635) Localized String: (Taxa de Rotação)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Semicolon):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (20204416) Localized String: (Ponto e vírgula)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (20204416) Localized String: (Semicolon)
+[2018.02.15-15.53.54:414][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:SpaceBar):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1182869538) Localized String: (Espaço)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1182869538) Localized String: (Barra de Espaço)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Steam_Back_Left):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1101581743) Localized String: (Steam - Botão Traseiro Esquerdo)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1101581743) Localized String: (Steam Back Left)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Steam_Back_Right):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1496727689) Localized String: (Steam - Botão Traseiro Direito)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1496727689) Localized String: (Steam Back Right)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Steam_Touch_0):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (962512958) Localized String: (Steam - Toque 0)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (962512958) Localized String: (Steam Touch 0)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Steam_Touch_1):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-2115850405) Localized String: (Steam - Toque 1)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-2115850405) Localized String: (Steam Touch 1)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Steam_Touch_2):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1823014731) Localized String: (Steam - Toque 2)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1823014731) Localized String: (Steam Touch 2)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Steam_Touch_3):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (736847824) Localized String: (Steam - Toque 3)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (736847824) Localized String: (Steam Touch 3)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:ThumbMouseButton):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-235171682) Localized String: (Botão lateral do mouse)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-235171682) Localized String: (Botão do mouse acionado pelo polegar)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:ThumbMouseButton2):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (431345117) Localized String: (Botão lateral do mouse 2)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (431345117) Localized String: (Botão do mouse acionado pelo polegar 2)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Tilt):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (640752400) Localized String: (Inclinação)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (640752400) Localized String: (Balançar)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:TouchSubCateogry):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1068637962) Localized String: (Toque)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1068637962) Localized String: (Touch)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:TouchFormat):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1084256271) Localized String: (Tocar {0})
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1084256271) Localized String: (Touch {0})
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Underscore):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1086883454) Localized String: (Underline)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1086883454) Localized String: (Underscore)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:Up):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (333152855) Localized String: (Para cima)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (333152855) Localized String: (Para Cima)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:InputKeys, Key:XBoxOneSubCateogry):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (157379846) Localized String: (Xbox One)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (157379846) Localized String: (XBox One)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:LinuxDynamicRHI, Key:RequiredOpenGL):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1244658401) Localized String: (Requer OpenGL 3.2 para executar a tecnologia.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1244658401) Localized String: (OpenGL 3.2 é necessário para executar o mecanismo.)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:LinuxDynamicRHI, Key:RequiredVulkan):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-874356697) Localized String: (Requer driver Vulkan para executar a tecnologia.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-874356697) Localized String: (Vulkan Driver is required to run the engine.)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:MacPlatformCreateDynamicRHI, Key:OpenGLNotSupported.):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1518826938) Localized String: (Você precisa de uma placa de vídeo compatível com Metal™ e estar executando o Mac OS X 10.11.6 ou uma versão mais recente para iniciar este processo.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1518826938) Localized String: (You must have a Metal compatible graphics card and be running Mac OS X 10.11.6 or later to launch this process.)
+[2018.02.15-15.53.54:415][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:MessageDialog, Key:VideoCardDriverIssueReport):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-394903113) Localized String: (A versão do driver de vídeo {Vendor} instalada tem problemas conhecidos.
+Instale a versão mais recente do driver.
+
+{AdapterName}
+Versão instalada: {InstalledVer}
+Recomendada: {RecommendedVer})
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-394903113) Localized String: (The installed version of the {Vendor} graphics driver has known issues.
+Please update to the latest driver version.
+
+{AdapterName}
+Installed: {InstalledVer}
+Recommended: {RecommendedVer})
+[2018.02.15-15.53.54:416][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:MessageDialog, Key:LatestVideoCardDriverIssueReport):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-918593388) Localized String: (A última versão do driver de vídeo {Vendor} tem problemas conhecidos.
+Instale a versão recomendada do driver.
+
+{AdapterName}
+Versão instalada: {InstalledVer}
+Recomendada: {RecommendedVer})
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-918593388) Localized String: (The latest version of the {Vendor} graphics driver has known issues.
+Please install the recommended driver version.
+
+{AdapterName}
+Installed: {InstalledVer}
+Recommended: {RecommendedVer})
+[2018.02.15-15.53.54:416][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:MessageDialog, Key:TitleVideoCardDriverIssue):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-2092547257) Localized String: (ALERTA: Problemas conhecidos com o driver de vídeo  )
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-2092547257) Localized String: (WARNING: Known issues with graphics driver)
+[2018.02.15-15.53.54:416][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:PS4, Key:DynamicRHIFailure):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-122974186) Localized String: (Falha no PS4RHI?)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-122974186) Localized String: (PS4RHI failure?)
+[2018.02.15-15.53.54:416][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:SwitchDynamicRHI, Key:UnsupportedRHI):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1427151174) Localized String: (O RHI escolhido não é suportado)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1427151174) Localized String: (The chosen RHI is not supported)
+[2018.02.15-15.53.54:416][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:WindowsDynamicRHI, Key:RequiredDX11Feature):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-234599921) Localized String: (Requer funcionalidades nível 10.0 de DX11 para executar a tecnologia.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-234599921) Localized String: (O nível 10.0 do recurso DX11 é necessário para executar este mecanismo.)
+[2018.02.15-15.53.54:416][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:WindowsDynamicRHI, Key:RequiredDX12):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-2146469272) Localized String: (Seu sistema não suporta o DX12. Tente executar sem o argumento -dx12 ou -d3d12 na linha de comando.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-2146469272) Localized String: (DX12 is not supported on your system. Try running without the -dx12 or -d3d12 command line argument.)
+[2018.02.15-15.53.54:416][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:WindowsDynamicRHI, Key:UseExpressionEncoderDX11):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-1781092878) Localized String: (Há relatos de travamentos com Fraps em D3D11. Em vez dele, use o Microsoft Expression Encoder para capturas.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-1781092878) Localized String: (Fraps é conhecido por corromper D3D11. Use o Codificador de Expressão da Microsoft em vez da captura.)
+[2018.02.15-15.53.54:416][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:WindowsDynamicRHI, Key:UseExpressionEncoder):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (277843931) Localized String: (Há relatos de travamentos com Fraps em D3D12. Em vez dele, use o Microsoft Expression Encoder para capturas.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (277843931) Localized String: (Fraps has been known to crash D3D12. Please use Microsoft Expression Encoder instead for capturing.)
+[2018.02.15-15.53.54:416][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:WindowsDynamicRHI, Key:RequiredOpenGL):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (1244658401) Localized String: (Requer OpenGL 3.2 para executar a tecnologia.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (1244658401) Localized String: (OpenGL 3.2 é necessário para executar o mecanismo.)
+[2018.02.15-15.53.54:416][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:WindowsDynamicRHI, Key:RequiredVulkan):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-874356697) Localized String: (Requer driver Vulkan para executar a tecnologia.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-874356697) Localized String: (Vulkan Driver is required to run the engine.)
+[2018.02.15-15.53.54:416][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:XboxOne, Key:DynamicRHIFailure):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/EngineOverrides/pt-BR/EngineOverrides.locres) Source String Hash: (-731696450) Localized String: (Falha no XboxOneRHI?)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/Engine/Content/Localization/Engine/pt-BR/Engine.locres) Source String Hash: (-731696450) Localized String: (XboxOneRHI failure?)
+[2018.02.15-15.53.54:571][  0]LogStreaming: Display: Took  0.311s to EndInitTextLocalization.
+[2018.02.15-15.53.54:728][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.02.15-15.53.54:728][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.02.15-15.53.54:800][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.15-15.53.55:173][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2018.02.15-15.53.55:173][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.02.15-15.53.56:098][  0]LogD3D11RHI:    1. 'AMD Radeon HD 7700M Series' (Feature Level 11_0)
+[2018.02.15-15.53.56:098][  0]LogD3D11RHI:       2028/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2018.02.15-15.53.56:196][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.15-15.53.56:197][  0]LogD3D11RHI:       0/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.15-15.53.56:197][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2018.02.15-15.53.56:201][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.15-15.53.56:201][  0]LogD3D11RHI:     GPU DeviceId: 0x682f (for the marketing name, search the web for "GPU Device Id")
+[2018.02.15-15.53.56:201][  0]LogWindows: EnumDisplayDevices:
+[2018.02.15-15.53.56:201][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2018.02.15-15.53.56:201][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.02.15-15.53.56:201][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.02.15-15.53.56:202][  0]LogWindows:    3. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:202][  0]LogWindows:    4. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:202][  0]LogWindows:    5. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:202][  0]LogWindows:    6. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:202][  0]LogWindows:    7. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:202][  0]LogWindows:    8. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:203][  0]LogWindows:    9. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:203][  0]LogWindows:    10. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:203][  0]LogWindows:    11. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:203][  0]LogWindows:    12. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:203][  0]LogWindows:    13. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:204][  0]LogWindows:    14. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:204][  0]LogWindows:    15. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:204][  0]LogWindows:    16. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:204][  0]LogWindows:    17. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:205][  0]LogWindows:    18. 'AMD Radeon HD 7700M Series' (P:0 D:0)
+[2018.02.15-15.53.56:205][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.15-15.53.56:205][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7700M Series
+[2018.02.15-15.53.56:205][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.15-15.53.56:205][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.15-15.53.56:205][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2018.02.15-15.53.56:422][  0]LogD3D11RHI: Error: agsDriverExtensionsDX11_CreateDevice( AmdAgsContext, &DeviceCreationParams, &AmdExtensionParams, &DeviceCreationReturnedParams) == AGS_SUCCESS ? S_OK : E_FAIL failed 
+ at D:\Build\++FN25\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\Windows\WindowsD3D11Device.cpp:1095 
+ with error E_FAIL
+[2018.02.15-15.53.56:422][  0]LogWindows: Windows GetLastError: A operação foi concluída com êxito. (0)

@@ -1,0 +1,256 @@
+Log file open, 04/10/18 19:41:27
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak.
+LogPlatformFile: Not using cached read wrapper
+LogInit: RandInit(-2098032815) SRandInit(-2098032815).
+LogTaskGraph: Started task graph with 4 named threads and 13 total threads with 3 sets of task threads.
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin AESHandlerComponent
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin BlueprintContext
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CommonUI
+LogPluginManager: Mounting plugin Crashlytics
+LogPluginManager: Mounting plugin DiscordRPC
+LogPluginManager: Mounting plugin EarlyStartupPatcher
+LogPluginManager: Found config from plugin[EarlyStartupPatcher] C:/Users/medch/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini
+LogPluginManager: Found config from plugin[EarlyStartupPatcher] C:/Users/medch/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Game.ini
+LogPluginManager: Mounting plugin EpicCMS
+LogPluginManager: Mounting plugin EpicCMSUIFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemMcp
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin Gauntlet
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LogitechLED
+LogPluginManager: Mounting plugin MatchmakingService
+LogPluginManager: Mounting plugin NetUI
+LogPluginManager: Mounting plugin NVIDIAGfeSDK
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystemLiveServer
+LogPluginManager: Mounting plugin OnlineSubsystemTencent
+LogPluginManager: Mounting plugin OnlineSubsystemFacebook
+LogPluginManager: Mounting plugin OnlineSubsystemGoogle
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemPS4Server
+LogPluginManager: Mounting plugin OnlineSubsystemTwitch
+LogPluginManager: Mounting plugin Oodle
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PurchaseFlow
+LogPluginManager: Mounting plugin ReplicationGraph
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SIP
+LogPluginManager: Mounting plugin Social
+LogPluginManager: Mounting plugin SubtitlesWidgets
+LogPluginManager: Mounting plugin SubtitlesWidgetsEditor
+LogPluginManager: Mounting plugin UAC
+LogPluginManager: Mounting plugin UACBase
+LogPluginManager: Mounting plugin AppboyClient
+LogPluginManager: Mounting plugin WinDualShock
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin RemoteSession
+LogPluginManager: Mounting plugin EpicGameplayStats
+LogPluginManager: Mounting plugin OnlineGameplayFramework
+LogPluginManager: Mounting plugin HTTPChunkInstaller
+LogPluginManager: Mounting plugin Vivox
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AndroidPermission
+LogStreaming: Display: Took  0.076s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - BufferSize = 65536
+LogOnline: MCP: Mcp Startup!
+LogOnline: Verbose: MCP: Created thread (ID:3680).
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogInit: Build: ++Fortnite+Release-3.4-CL-3973340
+LogInit: Engine Version: 4.20.0-3973340+++Fortnite+Release-3.4
+LogInit: Compatible Engine Version: 4.20.0-3973340+++Fortnite+Release-3.4
+LogInit: Net CL: 3966836
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Mar 29 2018 18:20:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Fortnite+Release-3.4
+LogInit: Filtered Command Line: -noeac -frombe
+LogInit: Base Directory: C:/Program Files/Epic Games/Fortnite/FortniteGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogInit: Object subsystem initialized
+LogFortMemory: AppInit - CPU:254.97MB (Peak: 254.97MB)
+[2018.04.10-17.41.28:424][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsClient]
+[2018.04.10-17.41.28:430][  0]LogInit: Computer: PABLO
+[2018.04.10-17.41.28:430][  0]LogInit: User: medch
+[2018.04.10-17.41.28:430][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.10-17.41.28:430][  0]LogInit: High frequency timer resolution =3.417979 MHz
+[2018.04.10-17.41.28:430][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.04.10-17.41.28:430][  0]LogMemory: Platform Memory Stats for WindowsClient
+[2018.04.10-17.41.28:430][  0]LogMemory: Process Physical Memory: 256.38 MB used, 256.38 MB peak
+[2018.04.10-17.41.28:430][  0]LogMemory: Process Virtual Memory: 303.84 MB used, 303.84 MB peak
+[2018.04.10-17.41.28:430][  0]LogMemory: Physical Memory: 3046.39 MB used,  5094.46 MB free, 8140.85 MB total
+[2018.04.10-17.41.28:430][  0]LogMemory: Virtual Memory: 457.50 MB used,  5094.46 MB free, 134217728.00 MB total
+[2018.04.10-17.41.29:672][  0]LogInit: Using OS detected language (fr-FR).
+[2018.04.10-17.41.29:672][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.04.10-17.41.29:686][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.04.10-17.41.29:703][  0]LogTextLocalizationResource: LocRes 'C:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/Runtime/HTTPChunkInstaller/Content/Localization/HTTPChunkInstaller/fr/HTTPChunkInstaller.locres' failed the magic number check! Assuming this is a legacy resource (please re-generate your localization resources!)
+[2018.04.10-17.41.29:703][  0]LogStreaming: Display: Took  0.031s to InitEngineTextLocalization.
+[2018.04.10-17.41.29:926][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.10-17.41.29:926][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.10-17.41.29:944][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.10-17.41.30:577][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.04.10-17.41.30:577][  0]LogD3D11RHI:       6052/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.10-17.41.30:706][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.10-17.41.30:706][  0]LogD3D11RHI:       0/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.10-17.41.30:706][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.10-17.41.30:711][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.10-17.41.30:711][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.10-17.41.30:711][  0]LogWindows: EnumDisplayDevices:
+[2018.04.10-17.41.30:711][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.04.10-17.41.30:712][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.10-17.41.30:712][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.10-17.41.30:712][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.10-17.41.30:712][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.04.10-17.41.30:712][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.04.10-17.41.30:712][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2018.04.10-17.41.30:712][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2018.04.10-17.41.30:712][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.04.10-17.41.31:261][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.10-17.41.31:341][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.10-17.41.31:342][  0]LogShaderLibrary: Display: Using ../../../FortniteGame/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 1137 unique shaders.
+[2018.04.10-17.41.31:342][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2018.04.10-17.41.31:342][  0]LogRHI: Warning: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+[2018.04.10-17.41.31:342][  0]LogRHI: Warning: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+[2018.04.10-17.41.31:345][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak added to pak precacher.
+[2018.04.10-17.41.31:368][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.10-17.41.31:389][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.10-17.41.31:390][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.10-17.41.31:390][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.10-17.41.31:445][  0]LogShaderLibrary: Display: Using ../../../FortniteGame/Content/ShaderArchive-FortniteGame-PCD3D_SM5.ushaderbytecode for material shader code. Total 68326 unique shaders.
+[2018.04.10-17.41.31:445][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library FortniteGame
+[2018.04.10-17.41.31:445][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteGame_SC and no native library supported.
+[2018.04.10-17.41.31:445][  0]LogRHI: Warning: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+[2018.04.10-17.41.31:445][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteGame and no native library supported.
+[2018.04.10-17.41.31:445][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteGame_SC and no native library supported.
+[2018.04.10-17.41.31:445][  0]LogRHI: Warning: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+[2018.04.10-17.41.31:445][  0]LogInit: Using OS detected language (fr-FR).
+[2018.04.10-17.41.31:445][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.04.10-17.41.31:449][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.04.10-17.41.31:661][  0]LogStreaming: Display: Took  0.216s to InitGameTextLocalization.
+[2018.04.10-17.41.32:339][  0]LogAssetRegistry: FAssetRegistry took 0.6779 seconds to start up
+[2018.04.10-17.41.32:535][  0]LogStreaming: Display: Flushing async loaders.
+[2018.04.10-17.41.32:604][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.068761 seconds
+[2018.04.10-17.41.32:610][  0]LogHAL: Display: Platform has ~ 8 GB [8536301568 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.04.10-17.41.32:616][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak added to pak precacher.
+[2018.04.10-17.41.32:672][  0]LogNetVersion: FortniteGame 1.0.0, NetCL: 3966836, EngineNetVer: 4, GameNetVer: 0 (Checksum: 3838845730)
+[2018.04.10-17.41.32:833][  0]LogFortSignificance: Display: Set AI budget to '8,16'
+[2018.04.10-17.41.32:833][  0]LogFortSignificance: Display: Set Athena Player Pawn budget to '5,10,10,75'
+[2018.04.10-17.41.32:833][  0]LogFortSignificance: Display: Set Athena Player Pawn URO rate to '0,1,2,3'
+[2018.04.10-17.41.32:833][  0]LogFortSignificance: Display: Set Athena Player Pawn URO interpolation to '1,1,1,1'
+[2018.04.10-17.41.32:833][  0]LogFortSignificance: Display: Set Athena Player SkelMeshMinLOD to '0,1,1,2'
+[2018.04.10-17.41.32:833][  0]LogFortSignificance: Display: Set bucket distances to '50,100,250,500'
+[2018.04.10-17.41.32:861][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak added to pak precacher.
+[2018.04.10-17.41.32:868][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak added to pak precacher.
+[2018.04.10-17.41.33:039][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.10-17.41.33:181][  0]LogMoviePlayer: Initializing movie player
+[2018.04.10-17.41.33:395][  0]LogOnline: OSS: Using EpicApp backend 'Fortnite' with host 'fortnite-public-service-prod11.ol.epicgames.com' based on environment 'Prod' and override 'Fortnite'
+[2018.04.10-17.41.33:399][  0]LogInit: Display: Build flavor: '"Western"'
+[2018.04.10-17.41.33:502][  0]LogSlate: Took 0.002232 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/BurbankBigRegular-Bold.ufont' (155K)
+[2018.04.10-17.41.33:502][  0]LogOnline: TENCENT: Tencent Startup!
+[2018.04.10-17.41.33:502][  0]LogOnline: Facebook Startup!
+[2018.04.10-17.41.33:502][  0]LogOnline: Google Startup!
+[2018.04.10-17.41.33:502][  0]LogOnline: Verbose: TWITCH: Twitch Startup!
+[2018.04.10-17.41.33:586][  0]LogSIP: Display: SIP Module Initialized
+[2018.04.10-17.41.33:586][  0]LogSIP: Display: Plugin Status: 1
+[2018.04.10-17.41.33:586][  0]LogUAC: UACClient initialized
+[2018.04.10-17.41.34:352][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.10-17.41.34:366][  0]LogUObjectArray: 84897 objects as part of root set at end of initial load.
+[2018.04.10-17.41.34:366][  0]LogUObjectArray: 3 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2018.04.10-17.41.34:366][  0]LogUObjectAllocator: 15316416 out of 0 bytes used by permanent object pool.
+[2018.04.10-17.41.34:366][  0]LogUObjectArray: CloseDisregardForGC: 84897/84897 objects in disregard for GC pool
+[2018.04.10-17.41.34:396][  0]LogEngine: Initializing Engine...
+[2018.04.10-17.41.34:408][  0]LogInit: Display: Limiting process virtual memory size to 8388608 KB
+[2018.04.10-17.41.34:546][  0]LogFortMemory: UFortAssetManager will split content preloading by submode
+[2018.04.10-17.41.34:546][  0]LogFortMemory: UFortAssetManager default bundle state is (Client)
+[2018.04.10-17.41.34:546][  0]LogFort: Display: Startup job "Super::StartInitialLoading()" starting
+[2018.04.10-17.41.35:499][  0]LogFort: Display: Startup job "Super::StartInitialLoading()" took 0.95 seconds to complete
+[2018.04.10-17.41.35:499][  0]LogFort: Display: Startup job "RegisterConstructorReferences()" starting
+[2018.04.10-17.41.35:499][  0]LogFort: Display: Startup job "RegisterConstructorReferences()" took 0.00 seconds to complete
+[2018.04.10-17.41.35:499][  0]LogFort: Display: Startup job "InitializeAbilitySystem()" starting
+[2018.04.10-17.41.35:691][  0]LogFort: Display: Startup job "InitializeAbilitySystem()" took 0.19 seconds to complete
+[2018.04.10-17.41.35:691][  0]LogFort: Display: Startup job "ScanForNavAgentCostData()" starting
+[2018.04.10-17.41.35:695][  0]LogFort: Display: Startup job "ScanForNavAgentCostData()" took 0.00 seconds to complete
+[2018.04.10-17.41.35:695][  0]LogFort: Display: Startup job "GetGameData()" starting
+[2018.04.10-17.41.35:695][  0]LogFort: Loading GameData: /Game/Balance/DefaultGameData.DefaultGameData ...
+[2018.04.10-17.41.37:807][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.pak added to pak precacher.
+[2018.04.10-17.41.37:807][  0]LogStreaming: Warning: FAsyncPackage::LoadImports for /Game/Effects/SplineTrails/Blueprints/BP_SplineVolumeTrail_v1b: Skipping import BoolProperty /Script/Engine.Texture:DeferCompression, depends on missing native class
+[2018.04.10-17.41.37:808][  0]LogStreaming: Warning: Took 247.15ms to ProcessLoadedPackages
+[2018.04.10-17.41.38:013][  0]LogStreaming: Warning: Took 205.90ms to ProcessLoadedPackages
+[2018.04.10-17.41.38:013][  0]LogStats:             ... GameData loaded! -  2.318 s
+[2018.04.10-17.41.38:013][  0]LogFort: Display: Startup job "GetGameData()" took 2.32 seconds to complete
+[2018.04.10-17.41.38:013][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" starting
+[2018.04.10-17.41.43:962][  0]LogStreaming: Warning: Took 496.77ms to ProcessLoadedPackages
+[2018.04.10-17.41.45:873][  0]LogStreaming: Warning: Took 1911.42ms to ProcessLoadedPackages
+[2018.04.10-17.41.45:873][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" took 7.86 seconds to complete
+[2018.04.10-17.41.45:873][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupSubAssets()" starting
+[2018.04.10-17.41.45:966][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupSubAssets()" took 0.09 seconds to complete
+[2018.04.10-17.41.45:966][  0]LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" starting
+[2018.04.10-17.41.45:973][  0]LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" took 0.01 seconds to complete
+[2018.04.10-17.41.45:973][  0]LogFort: Display: All startup jobs took 11.43 seconds to complete
+[2018.04.10-17.41.45:973][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.04.10-17.41.46:344][  0]LogInit: XAudio2 using 'Casque pour téléphone (Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.10-17.41.46:646][  0]LogInit: FAudioDevice initialized.
+[2018.04.10-17.41.46:657][  0]LogNetVersion: Set ProjectVersion to 1.0.0. Version Checksum will be recalculated on next use.
+[2018.04.10-17.41.46:657][  0]LogInit: Texture streaming: Enabled
+[2018.04.10-17.41.46:691][  0]LogFortMemory: UFortAssetManager::ChangeLoadState() changing bundle state to (Client, Menu)
+[2018.04.10-17.41.46:699][  0]LogConsoleResponse: Display: Apply Settings:
+[2018.04.10-17.41.46:745][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak added to pak precacher.
+[2018.04.10-17.41.46:797][  0]LogScheduledEvents: Queuing calendar request to MCP
+[2018.04.10-17.41.46:808][  0]LogGfeSDK: Creating GfeSDK Version 1.0.5.68c9a9f7
+[2018.04.10-17.41.46:833][  0]LogGfeSDK: Start TaskRunner thread
+[2018.04.10-17.41.46:833][  0]LogGfeSDK: Creating default MessageBus wrapper
+[2018.04.10-17.41.47:156][  0]LogGfeSDK: Joined Bus
+[2018.04.10-17.41.47:156][  0]LogGfeSDK: Message JoinMessageBus[join] return value: NVGSDK_SUCCESS Joined bus
+[2018.04.10-17.41.47:156][  0]LogGfeSDK: Warning: Got SDK response, but can't find JOIN callback to use
+[2018.04.10-17.41.47:156][  0]LogGfeSDK: Warning: Failed to post message to messagebus bus message to string

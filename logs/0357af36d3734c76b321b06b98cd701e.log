@@ -1,0 +1,782 @@
+Log file open, 06/17/17 11:33:41
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1586132572) SRandInit(1586132572).
+LogTaskGraph: Started task graph with 4 named threads and 5 total threads with 1 sets of task threads.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++Fortnite+Release-Live-CL-3484806
+LogInit: Engine Version: 4.16.0-3484806+++Fortnite+Release-Live
+LogInit: Compatible Engine Version: 4.16.0-3484806+++Fortnite+Release-Live
+LogInit: Net CL: 3484806
+LogInit: Compiled (64-bit): Jun 12 2017 12:08:33
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Fortnite+Release-Live
+LogInit: Command line: -AUTH_LOGIN=unused -AUTH_PASSWORD=ffe66221ffa24c4d83f8779a8ec6c254 -AUTH_TYPE=exchangecode -epicapp=Fortnite -epicenv=Prod -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/Fortnite/FortniteGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming:Display: Async Loading initialized: New Async IO: true, Event Driven Loader: true, Async Loading Thread: false
+LogInit: Object subsystem initialized
+[2017.06.17-15.33.42:505][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsClient]
+[2017.06.17-15.33.42:518][  0]LogInit: Computer: DESKTOP-RS7LUS5
+[2017.06.17-15.33.42:518][  0]LogInit: User: hella
+[2017.06.17-15.33.42:518][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.06.17-15.33.42:518][  0]LogInit: High frequency timer resolution =4.092721 MHz
+[2017.06.17-15.33.42:518][  0]LogMemory: Memory total: Physical=24.0GB (24GB approx)
+[2017.06.17-15.33.42:518][  0]LogMemory: Platform Memory Stats for WindowsClient
+[2017.06.17-15.33.42:518][  0]LogMemory: Process Physical Memory: 146.48 MB used, 146.48 MB peak
+[2017.06.17-15.33.42:518][  0]LogMemory: Process Virtual Memory: 159.81 MB used, 159.81 MB peak
+[2017.06.17-15.33.42:518][  0]LogMemory: Physical Memory: 6263.56 MB used,  18270.16 MB free, 24533.72 MB total
+[2017.06.17-15.33.42:518][  0]LogMemory: Virtual Memory: 359.66 MB used,  18270.16 MB free, 134217728.00 MB total
+[2017.06.17-15.33.42:605][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.06.17-15.33.43:040][  0]LogD3D11RHI: D3D11 adapters:
+[2017.06.17-15.33.43:073][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R9 380 Series' (Feature Level 11_0)
+[2017.06.17-15.33.43:073][  0]LogD3D11RHI:       4072/0/12266 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.06.17-15.33.43:075][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.06.17-15.33.43:075][  0]LogD3D11RHI:       0/0/12266 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.06.17-15.33.43:075][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.06.17-15.33.43:087][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.06.17-15.33.43:087][  0]LogD3D11RHI:     GPU DeviceId: 0x6938 (for the marketing name, search the web for "GPU Device Id")
+[2017.06.17-15.33.43:087][  0]LogWindows: EnumDisplayDevices:
+[2017.06.17-15.33.43:087][  0]LogWindows:    0. 'AMD Radeon (TM) R9 380 Series' (P:1 D:1)
+[2017.06.17-15.33.43:088][  0]LogWindows:    1. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2017.06.17-15.33.43:089][  0]LogWindows:    2. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2017.06.17-15.33.43:089][  0]LogWindows:    3. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2017.06.17-15.33.43:090][  0]LogWindows:    4. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2017.06.17-15.33.43:090][  0]LogWindows:    5. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2017.06.17-15.33.43:091][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2017.06.17-15.33.43:091][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R9 380 Series
+[2017.06.17-15.33.43:091][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.5.2 (internal:22.19.165.512, unified:22.19.165.512)
+[2017.06.17-15.33.43:091][  0]LogD3D11RHI:      Driver Date: 5-17-2017
+[2017.06.17-15.33.43:091][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.06.17-15.33.43:248][  0]LogD3D11RHI: Async texture creation enabled
+[2017.06.17-15.33.43:259][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.06.17-15.33.43:271][  0]LogSlate: Using Freetype 2.6.0
+[2017.06.17-15.33.43:272][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.06.17-15.33.43:272][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.06.17-15.33.43:660][  0]LogAssetRegistry: FAssetRegistry took 0.3230 seconds to start up
+[2017.06.17-15.33.43:905][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 2 prioritized culture(s) in 0.012660 seconds
+[2017.06.17-15.33.43:905][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/FortniteGame-WindowsClient.pak added to pak precacher.
+[2017.06.17-15.33.43:915][  0]LogContentStreaming: Texture pool size is 1000.00 MB
+[2017.06.17-15.33.44:014][  0]LogFortSignificance:Display: Set AI budget to '8,16'
+[2017.06.17-15.33.44:076][  0]LogNetVersion: FortniteGame , NetCL: 3484806, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2681270053)
+[2017.06.17-15.33.44:200][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.06.17-15.33.44:224][  0]LogMoviePlayer: Initializing movie player
+[2017.06.17-15.33.44:288][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.06.17-15.33.44:333][  0]LogSlate: Took 0.003278 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/Slate/Fonts/BurbankBigRegular-Black.otf' (117K)
+[2017.06.17-15.33.44:343][  0]LogOnline: OSS: Using EpicApp backend 'Fortnite' based on environment 'Prod' and override 'Fortnite'
+[2017.06.17-15.33.44:344][  0]LogOnline: OSS: Using EpicApp backend 'Fortnite' based on environment 'Prod' and override 'Fortnite'
+[2017.06.17-15.33.44:374][  0]LogUObjectArray: 60061 objects as part of root set at end of initial load.
+[2017.06.17-15.33.44:374][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2017.06.17-15.33.44:374][  0]LogUObjectAllocator: 11412112 out of 0 bytes used by permanent object pool.
+[2017.06.17-15.33.44:374][  0]LogUObjectArray: CloseDisregardForGC: 60061/60061 objects in disregard for GC pool
+[2017.06.17-15.33.44:374][  0]LogEngine: Initializing Engine...
+[2017.06.17-15.33.44:386][  0]LogStreaming:Error: Couldn't find file for package /Script/Engine requested by async loading code. NameToLoad: /Script/Engine
+[2017.06.17-15.33.44:387][  0]LogInit:Display: Limiting process virtual memory size to 8388608 KB
+[2017.06.17-15.33.44:392][  0]LogFort:Display: Startup job "Super::StartInitialLoading()" starting
+[2017.06.17-15.33.44:651][  0]LogFort:Display: Startup job "Super::StartInitialLoading()" took 0.26 seconds to complete
+[2017.06.17-15.33.44:651][  0]LogFort:Display: Startup job "RegisterConstructorReferences()" starting
+[2017.06.17-15.33.44:652][  0]LogFort:Display: Startup job "RegisterConstructorReferences()" took 0.00 seconds to complete
+[2017.06.17-15.33.44:652][  0]LogFort:Display: Startup job "UFortGlobals::Get().LoadUIStyle()" starting
+[2017.06.17-15.33.44:700][  0]LogFort:Display: Startup job "UFortGlobals::Get().LoadUIStyle()" took 0.05 seconds to complete
+[2017.06.17-15.33.44:700][  0]LogFort:Display: Startup job "UAbilitySystemGlobals::Get().InitGlobalData()" starting
+[2017.06.17-15.33.44:806][  0]LogFort:Display: Startup job "UAbilitySystemGlobals::Get().InitGlobalData()" took 0.11 seconds to complete
+[2017.06.17-15.33.44:806][  0]LogFort:Display: Startup job "ScanForNavAgentCostData()" starting
+[2017.06.17-15.33.44:823][  0]LogFort:Display: Startup job "ScanForNavAgentCostData()" took 0.02 seconds to complete
+[2017.06.17-15.33.44:823][  0]LogFort:Display: Startup job "GetGameData()" starting
+[2017.06.17-15.33.44:823][  0]LogFort: Loading FortGameData: /Game/Balance/DefaultGameData.DefaultGameData ...
+[2017.06.17-15.33.47:178][  0]LogStreaming:Warning: Took 118.40ms to ProcessLoadedPackages
+[2017.06.17-15.33.47:178][  0]LogStats:         ... FortGameData loaded! -  2.355 s
+[2017.06.17-15.33.47:178][  0]LogFort:Display: Startup job "GetGameData()" took 2.36 seconds to complete
+[2017.06.17-15.33.47:178][  0]LogFort:Display: Startup job "LoadHandle = PreloadStartupAssets()" starting
+[2017.06.17-15.33.52:109][  0]LogStreaming:Warning: Took 541.40ms to ProcessLoadedPackages
+[2017.06.17-15.33.52:109][  0]LogFort:Display: Startup job "LoadHandle = PreloadStartupAssets()" took 4.93 seconds to complete
+[2017.06.17-15.33.52:109][  0]LogFort:Display: All startup jobs took 7.72 seconds to complete
+[2017.06.17-15.33.52:152][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.17-15.33.52:164][  0]LogInit: FAudioDevice initialized.
+[2017.06.17-15.33.52:176][  0]LogInit: Texture streaming: Enabled
+[2017.06.17-15.33.52:187][  0]LogConsoleResponse:Display: Apply Settings:
+[2017.06.17-15.33.52:191][  0]LogFortSignificance:Display: Set AI budget to '8,16'
+[2017.06.17-15.33.52:193][  0]LogBlueprintContext:Display: Creating blueprint contexts for Local Player ' FortLocalPlayer_0 ' of Game Instance ' FortGameInstance_0 '
+[2017.06.17-15.33.52:193][  0]LogBlueprintContext:Display: Created Blueprint Context 'HomeBaseContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:193][  0]LogBlueprintContext:Display: Created Blueprint Context 'FortMcpContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogBlueprintContext:Display: Created Blueprint Context 'FortPartyContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogBlueprintContext:Display: Created Blueprint Context 'FortMatchmakingContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogBlueprintContext:Display: Created Blueprint Context 'FortOutpostContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogBlueprintContext:Display: Created Blueprint Context 'FortPrototypingContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogBlueprintContext:Display: Created Blueprint Context 'FortFrontEndContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogBlueprintContext:Display: Created Blueprint Context 'FortGlobalUIContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogBlueprintContext:Display: Created Blueprint Context 'FortHeroManagementContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogBlueprintContext:Display: Created Blueprint Context 'FortHomebaseUIContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogBlueprintContext:Display: Created Blueprint Context 'FortHUDContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogBlueprintContext:Display: Created Blueprint Context 'FortInventoryContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogBlueprintContext:Display: Created Blueprint Context 'FortPickerContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogBlueprintContext:Display: Created Blueprint Context 'FortStoreContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogBlueprintContext:Display: Created Blueprint Context 'FortTooltipUIContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogBlueprintContext:Display: Created Blueprint Context 'FortTutorialContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogBlueprintContext:Display: Created Blueprint Context 'CommonUIContext' for Local Player 'FortLocalPlayer_0'
+[2017.06.17-15.33.52:195][  0]LogInit:Display: Game Engine Initialized.
+[2017.06.17-15.33.52:195][  0]LogInit:Display: Starting Game.
+[2017.06.17-15.33.52:195][  0]LogHotfixManager:Display: Update State UpdateIdle -> UpdatePending
+[2017.06.17-15.33.52:196][  0]LogNet: Browse: /Game/Maps/Frontend?Name=Player
+[2017.06.17-15.33.52:196][  0]LogFortLoadingScreen: Showing loading screen when 'IsShowingInitialLoadingScreen()' is true.
+[2017.06.17-15.33.52:196][  0]LogFortLoadingScreen: Showing LoadingScreen because bCurrentlyInLoadMap is true!
+[2017.06.17-15.33.52:298][  0]LogLoad: LoadMap: /Game/Maps/Frontend?Name=Player
+[2017.06.17-15.33.52:931][  0]LogFortSignificance:Display: Set AI budget to '8,16'
+[2017.06.17-15.33.52:933][  0]LogAIModule: Creating AISystem for world Frontend
+[2017.06.17-15.33.52:933][  0]LogLoad: Game class is 'FortGameModeFrontEnd'
+[2017.06.17-15.33.52:933][  0]LogStreaming:Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_BG_Main) is flushing async loading
+[2017.06.17-15.33.52:940][  0]LogStreaming:Display: ULevelStreaming::RequestLevel(/Game/Maps/FortniteTownmap) is flushing async loading
+[2017.06.17-15.33.52:954][  0]LogStreaming:Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/FortniteWorldMap) is flushing async loading
+[2017.06.17-15.33.52:989][  0]LogStreaming:Display: ULevelStreaming::RequestLevel(/Game/Maps/WorldLightingMenu) is flushing async loading
+[2017.06.17-15.33.53:005][  0]LogStreaming:Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/Maps/FrontEndStore) is flushing async loading
+[2017.06.17-15.33.53:038][  0]LogStreaming:Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby) is flushing async loading
+[2017.06.17-15.33.53:052][  0]LogWorld: Bringing World /Game/Maps/Frontend.Frontend up for play (max tick rate 0) at 2017.06.17-11.33.53
+[2017.06.17-15.33.53:089][  0]LogFortDayNight: AFortTimeOfDayManager::PostInitializeComponents: World is "Frontend", this is "TODM_Disabled_C_0"
+[2017.06.17-15.33.53:089][  0]LogFortDayNight: Game State in World Frontend is resetting.  TimeOfDayManager is None.
+[2017.06.17-15.33.53:090][  0]LogWorld: Bringing up level for play took: 0.043067
+[2017.06.17-15.33.53:090][  0]LogOnlineGame: Client adding GameAccountId/AuthTicket for local player to login url. FortGameOptions=[]
+[2017.06.17-15.33.53:091][  0]LogOnlineGame: Server received GameAccountId and AuthTicket from client for player: UniqueId:[-invalid-] GameAccountId=[] PlatformAccountID=[]
+[2017.06.17-15.33.53:092][  0]LogFort:Warning: GetOrInitializeHero called with invalid player info!
+[2017.06.17-15.33.53:092][  0]LogFort:Warning: GetOrInitializeHero called with invalid player info!
+[2017.06.17-15.33.53:093][  0]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.17-15.33.53:093][  0]LogFort: NO SKELETAL MESH FOR FeedbackAnnouncer_C_0
+[2017.06.17-15.33.53:094][  0]LogFortDayNight: Day phase actor TODM_Disabled_C_0 is setting itself as the day phase handler for the GameState on World Frontend.
+[2017.06.17-15.33.53:094][  0]LogFortDayNight: SetTimeOfDayManager: World is "Frontend", Old TimeOfDayManager: "None", New TimeOfDayManager: "TODM_Disabled_C_0"
+[2017.06.17-15.33.53:094][  0]LogFortDayNight: OnRep_TimeOfDayManager: World is "Frontend", FortTimeOfDayManager is "TODM_Disabled_C_0"
+[2017.06.17-15.33.53:094][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.06.17-15.33.53:095][  0]LogLoad: Took 0.796711 seconds to LoadMap(/Game/Maps/Frontend)
+[2017.06.17-15.33.53:502][  0]LogLoad: (Engine Initialization) Total time: 12.87 seconds
+[2017.06.17-15.33.53:502][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.06.17-15.33.53:519][  0]LogSlate: Took 0.002882 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Fonts/Burbank_0_SmallBold.ufont' (82K)
+[2017.06.17-15.33.53:521][  0]LogSlate: Took 0.001535 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Fonts/Burbank_0_SmallMedium.ufont' (79K)
+[2017.06.17-15.33.53:620][  1]LogSlate: Took 0.002750 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.06.17-15.33.53:624][  1]LogSlate: Took 0.003133 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/NotoSans-Bold.ufont' (406K)
+[2017.06.17-15.33.53:626][  1]LogSlate: Took 0.001618 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/BurbankBigRegular-Bold.ufont' (150K)
+[2017.06.17-15.33.53:667][  2]LogRenderer: Reallocating scene render targets to support 1920x1080 NumSamples 1 (Frame:2).
+[2017.06.17-15.33.53:719][  2]LogHotfixManager:Display: Update State UpdatePending -> CheckingForPatch
+[2017.06.17-15.33.53:719][  2]LogOnline: OSS: Sending User Privilege request. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/versioncheck?version=%2B%2BFortnite%2BRelease-Live-CL-3484806-Windows
+[2017.06.17-15.33.53:730][  2]LogCommonInput:Verbose: PushActivatablePanel : Adding push for new activatable panel SplashScreenWidget_C_0: 
+[2017.06.17-15.33.53:730][  2]LogCommonInput:Verbose: Input suspension: Started
+[2017.06.17-15.33.53:730][  2]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.33.53:730][  2]LogCommonInput:Verbose: StartNextOperation: activatable panel pushed on stack for panel: SplashScreenWidget_C_0
+[2017.06.17-15.33.53:731][  2]LogCommonInput:Verbose: OnPrePanelActivated: panel activated complete: SplashScreenWidget_C_0
+[2017.06.17-15.33.53:731][  2]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.33.53:731][  2]LogCommonInput:Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.06.17-15.33.53:739][  4]LogCommonInput:Verbose: Input suspension: Stopped
+[2017.06.17-15.33.53:814][ 16]LogOnline: OSS: Service status updated [Normal] -> [Connected]
+[2017.06.17-15.33.54:066][ 56]LogHotfixManager:Verbose: [OnCheckForPatchComplete] Privilege=1 PrivilegeResult=0
+[2017.06.17-15.33.54:066][ 56]LogHotfixManager:Display: Update State CheckingForPatch -> CheckingForHotfix
+[2017.06.17-15.33.54:131][ 66]LogHotfixManager:Display: Returned hotfix data is the same as last application, skipping the apply phase
+[2017.06.17-15.33.54:131][ 66]LogHotfixManager:Display: OnHotfixCheckComplete 2
+[2017.06.17-15.33.54:236][ 79]LogHotfixManager:Display: Update State CheckingForHotfix -> WaitingOnInitialLoad
+[2017.06.17-15.33.54:241][ 80]LogHotfixManager: Finished initial load/hotfix phase in 0.005059s
+[2017.06.17-15.33.54:241][ 80]LogHotfixManager:Display: Update State WaitingOnInitialLoad -> InitialLoadComplete
+[2017.06.17-15.33.54:241][ 80]LogHotfixManager:Display: CheckComplete UpdateSuccess_NoChange
+[2017.06.17-15.33.54:745][161]LogHotfixManager:Display: External CheckComplete UpdateSuccess_NoChange
+[2017.06.17-15.33.54:745][161]LogHotfixManager:Display: Update State InitialLoadComplete -> UpdatePending
+[2017.06.17-15.33.55:506][285]LogFortLoadingScreen: Hiding loading screen when 'IsShowingInitialLoadingScreen()' is true.
+[2017.06.17-15.33.55:506][285]LogFortLoadingScreen: Hiding loading screen because this AFortPlayerController is not in Zone and always returns 'hide loading screen'.
+[2017.06.17-15.33.57:099][551]LogCommonInput:Verbose: PopActivatablePanel: Adding pop for panel: SplashScreenWidget_C_0
+[2017.06.17-15.33.57:099][551]LogCommonInput:Verbose: Input suspension: Started
+[2017.06.17-15.33.57:099][551]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.33.57:099][551]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.33.57:099][551]LogCommonInput:Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.06.17-15.33.57:105][551]LogSlate: Took 0.003639 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/BurbankBigCondensed-Black.ufont' (150K)
+[2017.06.17-15.33.57:109][553]LogCommonInput:Verbose: Input suspension: Stopped
+[2017.06.17-15.33.57:207][570]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Checking Epic services queue...
+[2017.06.17-15.33.57:212][571]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Signing in to Epic services...
+[2017.06.17-15.33.57:213][571]LogOnline: OSS: Sending Login request. url=https://account-public-service-prod03.ol.epicgames.com/account, type=exchangecode, id=[REDACTED]
+[2017.06.17-15.33.57:296][582]LogOnline: OSS: FOnlineIdentityMcp::HandleXmppConnectionCreated
+[2017.06.17-15.33.57:392][592]LogOnline: OSS: Kill auth sessions request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/sessions/kill?killType=OTHERS_ACCOUNT_CLIENT_SERVICE code=204 response=[REDACTED]
+[2017.06.17-15.34.02:719][391]LogOnlineGame:Display: [UOnlineAccountCommon::ProcessUserLogin] Successfully logged in user. UserId=[6a18cb2acc4c46d9803c84c749b5e03a] DisplayName=[Blueshirt38] EpicAccountId=[6a18cb2acc4c46d9803c84c749b5e03a] AuthTicket=[eg1~eyJraWQiOiJ0RkMyVUloRnBUTV9FYTNxY09kX01xUVQxY0JCbTlrRkxTRGZlSmhzUkc4IiwiYWxnIjoiUFMyNTYifQ.eyJhcHAiOiJmb3J0bml0ZSIsInN1YiI6IjZhMThjYjJhY2M0YzQ2ZDk4MDNjODRjNzQ5YjVlMDNhIiwicnNpZCI6IjMzZDA5NmU2YTI3MTQyZjNiNTBmZjVkYjNlOTRjNzhkIiwiY2xpZCI6ImVjNjg0YjhjNjg3ZjQ3OWZhZGVhM2NiMmFkODNmNWM2IiwiYW0iOiJleGNoYW5nZV9jb2RlIiwic3NpZCI6IjJlYTkxMjk5ZDE2YzQ2MWM4ZmQyNDJjYTQzZmYwNWNkIiwicCI6ImVOcXRWazJQMmtBTVwvVDhJVmN2SFVoaUp3d3FwbDVaRHRiMGpNM0hDbE1rNG5YR3lTMzk5blN3aGhQMUlXSHBMWW9cLzl4bjdQVGt5ZW5XRlVNUUxuSGxWV1pNdlJcL1RBUDZIK1l3Q3F1SFdZd211dnRHTFNlNnVrc1dzenZKbm8rMVYrbmkrMDkzazFnT1I2ZWZETlBzYkhkWjlTZ3pDVm15aDJyTE45YW8xWDlPcENJbUZ0Z0QzcHZYRkxiSXhNeUN3ZElQR0tLNHRnRFdZWStrQU1Wa0ZsQ2hWT1N6ck9DNzNRdGJTbVBBcE9IQkZVNEJNWlVZcjhESDU4WnZRUDdrUE11bEdFRXFtRmJRVDQ3eGJSSHA0aDM2Qjh4QkVNdWZDUFwvOEdKZFdWTjZ6eHNJcWZoQVVsYWpGM0l2NTZOd3d5MUxIdlJzSTNrQmIwMGg3WmYyZkk1RWF2QVJKYVJzVFpLSW5wd2xpRHF3RDlUNjhCMHhXK1h5T1RWXC9nU1hBbHdDRkJIdE9zMHdvVVZWZEhMdXIxQ1NxSHphZWJKbTI2dE01a2hSWTcxS29pTnVrK0UzR1haWEhZMVhNcVwvanlpTDR3R2x1MGVST05jWVVZbDR2TGRBcUw4anF6WVhpSlpGeGdjQkx4WE9KVlowcHBlZkZBSjV3VVRlekFZNlFvanFYeWxlRWREWHNNbVNEdk1WVW1KKzBlSzNBbG0xczA2U21ITmdkNzV4VnhNa1RBNWNENURQVnZWZUg2c0FaSHZpSjNpNHE5WjhZRkJ1TFJlY3ZyRmZFbng4QXlndzBubHJaZzlRNVlcL1N3XC9Lc281bzhDVng0WkhHenR1Qlh3aWI2TXVtZHhZaG00Vm5vYVZOQ2QzRWZyYkMxOU9tTmQxZnlONVo2eWpKc2VYdEZlV2FKOW5ZZ2lrRFZqRkNHbFFMcWpZaVZJYlhSNW5iMzJNUVBhUExDTnBra3Z3VnprOVZoUmhDMmpmZGQxajFEWU1IUCtIa3I0ZTJoM3J1UHBwNkxFTmpnaTNsdlMra21uMzFhZlwvQUJHTUtFaz0iLCJpYWkiOiI2YTE4Y2IyYWNjNGM0NmQ5ODAzYzg0Yzc0OWI1ZTAzYSIsImNsc3ZjIjoiZm9ydG5pdGUiLCJpYyI6ZmFsc2UsImV4cCI6MTQ5Nzc0MjQzOCwiaWF0IjoxNDk3NzEzNjM4LCJqdGkiOiJmNWNmMGM4NTczNWE0ODk2OWYwNjQ2OWYzYjIwYTJiMyJ9.AKUwaAiatuJSy1y0u3DWNnz3i902IrFhKllo_m-iVb7X24_Nhr3SFc8U-bbU7XHMilTLWKxLCKTvOzzN0W6ggGi_]
+[2017.06.17-15.34.02:720][391]LogOnline: OSS: FOnlineIdentityMcp::OnXmppLoginChanged 6a18cb2acc4c46d9803c84c749b5e03a@prod.ol.epicgames.com/V2:Fortnite::9B73F76E4053C4296DBA9088C3573B26 loggedin
+[2017.06.17-15.34.02:720][391]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Verifying EULA...
+[2017.06.17-15.34.02:987][432]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Contacting services...
+[2017.06.17-15.34.03:117][452]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Checking entitlements...
+[2017.06.17-15.34.03:259][474]LogOnline: OSS: QueryAvailableFeatures request complete and valid. Response string length is 9, code is 200
+[2017.06.17-15.34.03:270][474]LogOnline: OSS: QueryAvailableFeatures request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/enabled_features code=200 response=["store"]
+[2017.06.17-15.34.03:281][474]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Downloading user settings...
+[2017.06.17-15.34.03:499][502]LogConsoleResponse:Display: Apply Settings:
+[2017.06.17-15.34.03:503][502]LogConsoleResponse:Display: 
+[2017.06.17-15.34.03:504][502]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Downloading profile...
+[2017.06.17-15.34.03:504][502]LogOnline: OSS: StompClientMcp: connecting user 6a18cb2acc4c46d9803c84c749b5e03a to wss://notifications-service-prod06.ol.epicgames.com:443/stomp
+[2017.06.17-15.34.03:526][502]LogProfileSys: Subscribing to notifications topic '/topic/fn/profile/6a18cb2acc4c46d9803c84c749b5e03a/fortnite' (sub id: 'mcp-0-nil')
+[2017.06.17-15.34.03:578][502]LogFort: BindToPlayerController trying to initialize ability system actor
+[2017.06.17-15.34.03:578][502]LogFort: UpdateAbilitySystemActor with no profile/world, clearing
+[2017.06.17-15.34.03:583][502]LogSlate: Took 0.003989 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont' (155K)
+[2017.06.17-15.34.03:822][540]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/RefreshExpeditions?profileId=profile0&rvn=-1
+[2017.06.17-15.34.03:822][540]LogProfileSys:Display: MCP-Version = prod-live Release-Live build b1056 cl 3483767
+[2017.06.17-15.34.03:829][540]LogProfileSys: MCP-Profile: Full profile update (rev=7444, version=quota_update_fort45862@w=7) for Blueshirt38 accountId=6a18cb2acc4c46d9803c84c749b5e03a profileId=profile0.
+[2017.06.17-15.34.03:870][540]LogProfileSys:Display: HandleFullProfileUpdate Complete:
+[2017.06.17-15.34.03:871][540]LogProfileSys:Display: 	TotalTime: 0.04
+[2017.06.17-15.34.03:871][540]LogProfileSys:Display: 	StatUpdate: 0.00
+[2017.06.17-15.34.03:871][540]LogProfileSys:Display: 	ItemUpdate: 0.04
+[2017.06.17-15.34.03:871][540]LogProfileSys:Display: 	DestroyOld: 0.00
+[2017.06.17-15.34.03:871][540]LogParty:Display: Homebase updated for Team Member: 
+[2017.06.17-15.34.03:871][540]LogParty:Warning: Failed to locate the team member whose state changed in any of the UI Teams.
+[2017.06.17-15.34.03:872][540]LogFort: GetOrInitializeHero called with valid player info
+[2017.06.17-15.34.03:962][540]LogFort: UFortRegisteredPlayerInfo::OnAccountInventoryChanged trying to initialize ability system actor
+[2017.06.17-15.34.03:962][540]LogFort: InitializeAbilitySystemActor initialized with proxy
+[2017.06.17-15.34.03:979][540]LogFort: ApplyHeroEffectsAndAbilities succeeded
+[2017.06.17-15.34.04:045][540]LogFort: ApplyHomebaseEffectsOnPlayerSetup Succeeded
+[2017.06.17-15.34.04:045][540]LogParty:Display: Homebase updated for Team Member: 
+[2017.06.17-15.34.04:045][540]LogParty:Warning: Failed to locate the team member whose state changed in any of the UI Teams.
+[2017.06.17-15.34.04:046][540]LogOnline: OSS: StompClientMcp: successfully connected user '6a18cb2acc4c46d9803c84c749b5e03a' to wss://notifications-service-prod06.ol.epicgames.com:443/stomp
+[2017.06.17-15.34.04:046][540]LogProfileSys: Connected to Stomp server - refreshing all profiles
+[2017.06.17-15.34.04:085][547]LogProfileSys: MCP-Profile: subscribed to notifications topic '/topic/fn/profile/6a18cb2acc4c46d9803c84c749b5e03a/fortnite'
+[2017.06.17-15.34.04:091][548]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/QueryProfile?profileId=collection_book_people0&rvn=-1
+[2017.06.17-15.34.04:092][548]LogProfileSys: MCP-Profile: Full profile update (rev=25, version=fortnite_start@w=7) for Blueshirt38 accountId=6a18cb2acc4c46d9803c84c749b5e03a profileId=collection_book_people0.
+[2017.06.17-15.34.04:095][548]LogProfileSys:Display: HandleFullProfileUpdate Complete:
+[2017.06.17-15.34.04:095][548]LogProfileSys:Display: 	TotalTime: 0.00
+[2017.06.17-15.34.04:095][548]LogProfileSys:Display: 	StatUpdate: 0.00
+[2017.06.17-15.34.04:095][548]LogProfileSys:Display: 	ItemUpdate: 0.00
+[2017.06.17-15.34.04:095][548]LogProfileSys:Display: 	DestroyOld: 0.00
+[2017.06.17-15.34.04:095][548]LogFortCollectionBook: Slots updated (15 changes)!
+[2017.06.17-15.34.04:095][548]LogFortCollectionBook: Collection book profile collection_Book_people0 loaded!
+[2017.06.17-15.34.04:226][558]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/QueryProfile?profileId=collection_book_schematics0&rvn=-1&leanResponse=true
+[2017.06.17-15.34.04:227][558]LogProfileSys: MCP-Profile: Full profile update (rev=23, version=fortnite_start@w=7) for Blueshirt38 accountId=6a18cb2acc4c46d9803c84c749b5e03a profileId=collection_book_schematics0.
+[2017.06.17-15.34.04:230][558]LogProfileSys:Display: HandleFullProfileUpdate Complete:
+[2017.06.17-15.34.04:230][558]LogProfileSys:Display: 	TotalTime: 0.00
+[2017.06.17-15.34.04:230][558]LogProfileSys:Display: 	StatUpdate: 0.00
+[2017.06.17-15.34.04:230][558]LogProfileSys:Display: 	ItemUpdate: 0.00
+[2017.06.17-15.34.04:230][558]LogProfileSys:Display: 	DestroyOld: 0.00
+[2017.06.17-15.34.04:230][558]LogFortCollectionBook: Slots updated (29 changes)!
+[2017.06.17-15.34.04:230][558]LogFortCollectionBook: Collection book profile collection_Book_schematics0 loaded!
+[2017.06.17-15.34.04:289][568]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/QueryProfile?profileId=profile0&rvn=7444&leanResponse=true
+[2017.06.17-15.34.04:290][568]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Redeeming offline purchases...
+[2017.06.17-15.34.04:367][576]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/RefreshExpeditions?profileId=profile0&rvn=7444&leanResponse=true
+[2017.06.17-15.34.04:367][576]LogCatalogHelper: Found receipt with 1 offers
+[2017.06.17-15.34.04:367][576]LogCatalogHelper:   Offer 0 had 0 line-items
+[2017.06.17-15.34.04:367][576]LogCatalogHelper: Validated no receipts
+[2017.06.17-15.34.04:367][576]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Searching for session to rejoin...
+[2017.06.17-15.34.04:373][577]LogOnline: OSS: Sending FindFriendSession request. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/matchmaking/session/findPlayer/6a18cb2acc4c46d9803c84c749b5e03a, friendid=6a18cb2acc4c46d9803c84c749b5e03a
+[2017.06.17-15.34.04:444][588]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/RefreshExpeditions?profileId=profile0&rvn=7444&leanResponse=true
+[2017.06.17-15.34.04:456][590]LogNetVersion: FortniteGame 1.0.0, NetCL: 3484806, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1324541661)
+[2017.06.17-15.34.04:457][590]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Creating party...
+[2017.06.17-15.34.04:457][590]LogOnlineParty:Display: OSS::Party: Publishing party to presence DisplayName(Blueshirt38) PartyId(A5CBC4494E5FBAE6270A49A2817A9C33) LeaderId(6a18cb2acc4c46d9803c84c749b5e03a) LeaderDisplayName(Blueshirt38) AccessKey(9B411E5F48ADC020BDE623B073631E54) HasPassword(0) IsAcceptingMembers(1) NotAcceptingReason(0)
+[2017.06.17-15.34.04:457][590]LogParty:Display: OnCreatePartyInternalComplete() A5CBC4494E5FBAE6270A49A2817A9C33 Succeeded
+[2017.06.17-15.34.04:459][590]LogParty:Display: Local player [Blueshirt38] (ID [6a18cb2acc4c46d9803c84c749b5e03a]) joined a new party [A5CBC4494E5FBAE6270A49A2817A9C33].
+[2017.06.17-15.34.04:459][590]LogOnline: OnPartyJoined A5CBC4494E5FBAE6270A49A2817A9C33
+[2017.06.17-15.34.04:459][590]LogParty:Display: OnCreatePersistentPartyComplete() Succeeded
+[2017.06.17-15.34.04:463][591]LogParty:Display: New party member state for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] added to the local player's party [A5CBC4494E5FBAE6270A49A2817A9C33].
+[2017.06.17-15.34.04:463][591]LogParty:Display: Adding [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] as a new member to [6a18cb2acc4c46d9803c84c749b5e03a]'s party via an existing UITeamMember in [Blueshirt38]'s game.
+[2017.06.17-15.34.04:463][591]LogParty:Display: New member [6a18cb2acc4c46d9803c84c749b5e03a] added to UI Party led by [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.04:463][591]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.04:463][591]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] added to team [EFortTeam::MAX] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.04:465][591]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.04:465][591]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::MAX] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.04:466][591]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Completing Sign-in...
+[2017.06.17-15.34.04:479][591]LogCommonInput:Verbose: PushActivatablePanel : Adding push for new activatable panel ConfirmationWindow_C_0: 
+[2017.06.17-15.34.04:479][591]LogCommonInput:Verbose: Input suspension: Started
+[2017.06.17-15.34.04:479][591]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.04:479][591]LogCommonInput:Verbose: StartNextOperation: activatable panel pushed on stack for panel: ConfirmationWindow_C_0
+[2017.06.17-15.34.04:479][591]LogCommonInput:Verbose: OnPrePanelActivated: panel activated complete: ConfirmationWindow_C_0
+[2017.06.17-15.34.04:479][591]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.04:479][591]LogCommonInput:Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.06.17-15.34.04:485][591]LogSlate: Took 0.003524 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/NotoSans-Regular.ufont' (406K)
+[2017.06.17-15.34.04:495][593]LogCommonInput:Verbose: Input suspension: Stopped
+[2017.06.17-15.34.04:514][596]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/QueryProfile?profileId=profile0&rvn=7444&leanResponse=true
+[2017.06.17-15.34.04:557][602]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/QueryProfile?profileId=collection_book_people0&rvn=25&leanResponse=true
+[2017.06.17-15.34.04:599][608]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/QueryProfile?profileId=collection_book_schematics0&rvn=23&leanResponse=true
+[2017.06.17-15.34.04:682][620]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/storefront/v2/catalog?rvn=7444&leanResponse=true
+[2017.06.17-15.34.04:698][622]LogOnlineGame: Joined general chat room fortnite-pc-general-new-50-888bde2f60ed4ef4847a1158a3b53fe8.
+[2017.06.17-15.34.04:742][628]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/RefreshExpeditions?profileId=profile0&rvn=7444&leanResponse=true
+[2017.06.17-15.34.04:882][648]LogJson:Warning: Field blockedUsers was not found.
+[2017.06.17-15.34.04:882][648]LogJson:Error: Json Value of type 'Null' used as a 'Array'.
+[2017.06.17-15.34.05:621][747]LogCommonInput:Verbose: PopActivatablePanel: Adding pop for panel: ConfirmationWindow_C_0
+[2017.06.17-15.34.05:621][747]LogCommonInput:Verbose: Input suspension: Started
+[2017.06.17-15.34.05:621][747]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.05:621][747]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.05:621][747]LogCommonInput:Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.06.17-15.34.05:622][747]LogGameMode: GameMode returned ReadyToStartMatch
+[2017.06.17-15.34.05:622][747]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.06.17-15.34.05:659][747]LogHotfixManager:Display: Returning cached update result 2
+[2017.06.17-15.34.05:659][747]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.06.17-15.34.05:774][749]LogCommonInput:Verbose: Input suspension: Stopped
+[2017.06.17-15.34.05:792][750]LogHotfixManager:Display: CheckComplete UpdateSuccess_NoChange
+[2017.06.17-15.34.05:858][751]LogParty:Display: UFortPartyContext::HandlePartyResetForFrontend: PartyState [A5CBC4494E5FBAE6270A49A2817A9C33]
+[2017.06.17-15.34.05:858][751]LogParty:Display: UFortPartyContext::HandlePartyLeft: PartyState [null], Reason Unknown
+[2017.06.17-15.34.05:858][751]LogParty:Display: Local player [Blueshirt38] (ID [6a18cb2acc4c46d9803c84c749b5e03a]) left party [null]
+[2017.06.17-15.34.05:858][751]LogParty:Display: Local player [Blueshirt38] (ID [6a18cb2acc4c46d9803c84c749b5e03a]) joined a new party [A5CBC4494E5FBAE6270A49A2817A9C33].
+[2017.06.17-15.34.05:858][751]LogParty:Display: New party member state for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] added to the local player's party [A5CBC4494E5FBAE6270A49A2817A9C33].
+[2017.06.17-15.34.05:858][751]LogParty:Display: Adding [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] as a new member to [6a18cb2acc4c46d9803c84c749b5e03a]'s party via an existing UITeamMember in [Blueshirt38]'s game.
+[2017.06.17-15.34.05:858][751]LogParty:Display: New member [6a18cb2acc4c46d9803c84c749b5e03a] added to UI Party led by [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.05:858][751]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.05:859][751]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] added to team [EFortTeam::MAX] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.05:859][751]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.05:859][751]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::MAX] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.05:859][751]LogParty:Display: UFortPartyContext::HandlePartyResetForFrontend exit
+[2017.06.17-15.34.05:859][751]LogCommonInput:Verbose: PushActivatablePanel : Adding push for new activatable panel RejoinWindow_C_0: 
+[2017.06.17-15.34.05:860][751]LogCommonInput:Verbose: Input suspension: Started
+[2017.06.17-15.34.05:860][751]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.05:860][751]LogCommonInput:Verbose: StartNextOperation: activatable panel pushed on stack for panel: RejoinWindow_C_0
+[2017.06.17-15.34.05:860][751]LogCommonInput:Verbose: OnPrePanelActivated: panel activated complete: RejoinWindow_C_0
+[2017.06.17-15.34.05:860][751]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.05:860][751]LogCommonInput:Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.06.17-15.34.05:866][752]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.05:866][752]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::MAX] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.05:873][753]LogCommonInput:Verbose: Input suspension: Stopped
+[2017.06.17-15.34.06:279][815]LogHotfixManager:Display: External CheckComplete UpdateSuccess_NoChange
+[2017.06.17-15.34.06:279][815]LogHotfixManager:Display: Update State UpdatePending -> UpdateComplete
+[2017.06.17-15.34.06:279][815]LogFort:Display: AFortGameModeFrontEnd::OnUpdateCheckComplete called. Result=2
+[2017.06.17-15.34.06:794][891]LogCommonInput:Verbose: PopActivatablePanel: Adding pop for panel: RejoinWindow_C_0
+[2017.06.17-15.34.06:794][891]LogCommonInput:Verbose: Input suspension: Started
+[2017.06.17-15.34.06:794][891]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.06:794][891]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.06:794][891]LogCommonInput:Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.06.17-15.34.06:799][892]LogOnline: OSS: Sending FindFriendSession request. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/matchmaking/session/findPlayer/6a18cb2acc4c46d9803c84c749b5e03a, friendid=6a18cb2acc4c46d9803c84c749b5e03a
+[2017.06.17-15.34.06:806][893]LogCommonInput:Verbose: Input suspension: Stopped
+[2017.06.17-15.34.06:880][904]LogOnlineParty:Display: OSS::Party: Publishing party to presence DisplayName(Blueshirt38) PartyId(A5CBC4494E5FBAE6270A49A2817A9C33) LeaderId(6a18cb2acc4c46d9803c84c749b5e03a) LeaderDisplayName(Blueshirt38) AccessKey(9B411E5F48ADC020BDE623B073631E54) HasPassword(0) IsAcceptingMembers(0) NotAcceptingReason(1)
+[2017.06.17-15.34.06:880][904]LogOnlineGame:Display: Matchmaking state change Not Matchmaking -> Finding Existing Session
+[2017.06.17-15.34.06:880][904]LogOnline: OSS: Sending Find Single Session request. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/matchmaking/session/c012496c6fdc43bbbbd9c53e10cfa421, sessionid=c012496c6fdc43bbbbd9c53e10cfa421
+[2017.06.17-15.34.06:882][904]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.06:883][904]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::MAX] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.06:883][904]LogFortLoadingScreen: Showing loading screen when 'IsShowingInitialLoadingScreen()' is false.
+[2017.06.17-15.34.06:883][904]LogFortLoadingScreen: Showing LoadingScreen because Matchmaking is pending (PartyProgression == Matchmaking)!
+[2017.06.17-15.34.06:948][914]LogOnlineGame:Display: Matchmaking state change Finding Existing Session -> Testing Existing Sessions
+[2017.06.17-15.34.06:948][914]LogOnlineGame:Display: Join state change Not Joining -> Waiting On Game
+[2017.06.17-15.34.06:948][914]LogOnlineGame:Display: Matchmaking state change Testing Existing Sessions -> Cleaning up existing session
+[2017.06.17-15.34.06:948][914]LogOnlineGame:Display: Matchmaking state change Cleaning up existing session -> Joining Existing Session
+[2017.06.17-15.34.06:948][914]LogOnlineGame:Display: Join state change Waiting On Game -> Attempting Join
+[2017.06.17-15.34.06:948][914]LogOnline: OSS: Sending JoinInternetSession request. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/matchmaking/session/c012496c6fdc43bbbbd9c53e10cfa421/join?accountId=6a18cb2acc4c46d9803c84c749b5e03a
+[2017.06.17-15.34.07:002][922]LogOnline: OSS: JoinSessionUrl request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/matchmaking/session/c012496c6fdc43bbbbd9c53e10cfa421/join?accountId=6a18cb2acc4c46d9803c84c749b5e03a code=204 response=<Payload>
+[2017.06.17-15.34.07:015][924]LogOnlineGame:Display: Join state change Attempting Join -> Joining Session
+[2017.06.17-15.34.07:015][924]LogOnlineGame:Display: Matchmaking state change Joining Existing Session -> Join Success
+[2017.06.17-15.34.07:015][924]LogOnlineGame:Warning: OnRejoinLastSessionComplete Success
+[2017.06.17-15.34.07:017][924]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.07:017][924]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::MAX] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.07:017][924]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2017.06.17-15.34.07:017][924]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.06.17-15.34.07:017][924]LogNet: Browse: 54.158.197.233:9004//Game/Maps/Frontend
+[2017.06.17-15.34.07:017][924]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.06.17-15.34.07:018][924]LogInit: WinSock: I am DESKTOP-RS7LUS5 (10.0.0.10:0)
+[2017.06.17-15.34.07:018][924]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.06.17-15.34.07:018][924]LogNet: Game client on port 9004, rate 30000
+[2017.06.17-15.34.07:018][924]LogNet: UPendingNetGame::InitNetDriver: Sending hello. [UNetConnection] RemoteAddr: 54.158.197.233:9004, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL
+[2017.06.17-15.34.07:108][938]LogOnlineGame: Client adding GameAccountId/AuthTicket for local player to login url. FortGameOptions=[GameAccountId=6a18cb2acc4c46d9803c84c749b5e03a?AuthTicket=eg1~eyJraWQiOiJ0RkMyVUloRnBUTV9FYTNxY09kX01xUVQxY0JCbTlrRkxTRGZlSmhzUkc4IiwiYWxnIjoiUFMyNTYifQ.eyJhcHAiOiJmb3J0bml0ZSIsInN1YiI6IjZhMThjYjJhY2M0YzQ2ZDk4MDNjODRjNzQ5YjVlMDNhIiwicnNpZCI6IjMzZDA5NmU2YTI3MTQyZjNiNTBmZjVkYjNlOTRjNzhkIiwiY2xpZCI6ImVjNjg0YjhjNjg3ZjQ3OWZhZGVhM2NiMmFkODNmNWM2IiwiYW0iOiJleGNoYW5nZV9jb2RlIiwic3NpZCI6IjJlYTkxMjk5ZDE2YzQ2MWM4ZmQyNDJjYTQzZmYwNWNkIiwicCI6ImVOcXRWazJQMmtBTVwvVDhJVmN2SFVoaUp3d3FwbDVaRHRiMGpNM0hDbE1rNG5YR3lTMzk5blN3aGhQMUlXSHBMWW9cLzl4bjdQVGt5ZW5XRlVNUUxuSGxWV1pNdlJcL1RBUDZIK1l3Q3F1SFdZd211dnRHTFNlNnVrc1dzenZKbm8rMVYrbmkrMDkzazFnT1I2ZWZETlBzYkhkWjlTZ3pDVm15aDJyTE45YW8xWDlPcENJbUZ0Z0QzcHZYRkxiSXhNeUN3ZElQR0tLNHRnRFdZWStrQU1Wa0ZsQ2hWT1N6ck9DNzNRdGJTbVBBcE9IQkZVNEJNWlVZcjhESDU4WnZRUDdrUE11bEdFRXFtRmJRVDQ3eGJSSHA0aDM2Qjh4QkVNdWZDUFwvOEdKZFdWTjZ6eHNJcWZoQVVsYWpGM0l2NTZOd3d5MUxIdlJzSTNrQmIwMGg3WmYyZkk1RWF2QVJKYVJzVFpLSW5wd2xpRHF3RDlUNjhCMHhXK1h5T1RWXC9nU1hBbHdDRkJIdE9zMHdvVVZWZEhMdXIxQ1NxSHphZWJKbTI2dE01a2hSWTcxS29pTnVrK0UzR1haWEhZMVhNcVwvanlpTDR3R2x1MGVST05jWVVZbDR2TGRBcUw4anF6WVhpSlpGeGdjQkx4WE9KVlowcHBlZkZBSjV3VVRlekFZNlFvanFYeWxlRWREWHNNbVNEdk1WVW1KKzBlSzNBbG0xczA2U21ITmdkNzV4VnhNa1RBNWNENURQVnZWZUg2c0FaSHZpSjNpNHE5WjhZRkJ1TFJlY3ZyRmZFbng4QXlndzBubHJaZzlRNVlcL1N3XC9Lc281bzhDVng0WkhHenR1Qlh3aWI2TXVtZHhZaG00Vm5vYVZOQ2QzRWZyYkMxOU9tTmQxZnlONVo2eWpKc2VYdEZlV2FKOW5ZZ2lrRFZqRkNHbFFMcWpZaVZJYlhSNW5iMzJNUVBhUExDTnBra3Z3VnprOVZoUmhDMmpmZGQxajFEWU1IUCtIa3I0ZTJoM3J1UHBwNkxFTmpnaTNsdlMra21uMzFhZlwvQUJHTUtFaz0iLCJpYWkiOiI2YTE4Y2IyYWNjNGM0NmQ5ODAzYzg0Yzc0OWI1ZTAzYSIsImNsc3ZjIjoiZm9ydG5pdGUiLCJpYyI6ZmFsc2UsImV4cCI6MTQ5Nzc0MjQzOCwiaWF0IjoxNDk3NzEzNjM4LCJqdGkiOiJmNWNmMGM4NTczNWE0ODk2OWYwNjQ2OWYzYjIwYTJiMyJ9.AKUwaAiatuJSy1y0u3DWNnz3i902IrFhKllo_m-iVb7X24_Nhr3SFc8U-bbU7XHMilTLWKxLCKTvOzzN0W6ggGi_]
+[2017.06.17-15.34.07:155][945]LogNet: Welcomed by server (Level: /Game/Maps/Zones/Zone_Temperate_Suburban, Game: /Game/Blueprints/GameModeZone.GameModeZone_C)
+[2017.06.17-15.34.07:161][945]LogLoad: LoadMap: 54.158.197.233:9004//Game/Maps/Zones/Zone_Temperate_Suburban?game=/Game/Blueprints/GameModeZone.GameModeZone_C
+[2017.06.17-15.34.07:161][945]LogOnline:Error: OSS: Attempted to remove binding that could not be found for player 6a18cb2acc4c46d9803c84c749b5e03a type earnScore
+[2017.06.17-15.34.07:162][945]LogParty:Display: HandleZonePlayerStateRemoved: [6a18cb2acc4c46d9803c84c749b5e03a]
+[2017.06.17-15.34.07:162][945]LogFort: UnbindFromPlayerController trying to initialize ability system actor
+[2017.06.17-15.34.07:163][945]LogSlate: HittestGrid destroyed
+[2017.06.17-15.34.07:164][945]LogSlate: HittestGrid destroyed
+[2017.06.17-15.34.07:274][945]LogFortWorld: World Generation random stream initialized using seed 18297
+[2017.06.17-15.34.07:275][945]LogFortSignificance:Display: Set AI budget to '8,16'
+[2017.06.17-15.34.07:276][945]LogStreaming:Display: ULevelStreaming::RequestLevel(/Game/Maps/WorldLighting) is flushing async loading
+[2017.06.17-15.34.07:288][945]LogStreaming:Display: ULevelStreaming::RequestLevel(/Game/Maps/NavMeshBounds) is flushing async loading
+[2017.06.17-15.34.07:288][945]LogStreaming:Display: ULevelStreaming::RequestLevel(/Game/Maps/Skybox/Skybox_LF_Temperate_01) is flushing async loading
+[2017.06.17-15.34.07:301][945]LogWorld: Bringing World /Game/Maps/Zones/Zone_Temperate_Suburban.Zone_Temperate_Suburban up for play (max tick rate 0) at 2017.06.17-11.34.07
+[2017.06.17-15.34.07:302][945]LogWorld: Bringing up level for play took: 0.000754
+[2017.06.17-15.34.07:302][945]LogLoad: Took 0.141105 seconds to LoadMap(/Game/Maps/Zones/Zone_Temperate_Suburban)
+[2017.06.17-15.34.07:376][952]LogFort: BindToPlayerController trying to initialize ability system actor
+[2017.06.17-15.34.07:376][952]LogFort: InitializeAbilitySystemActor initialized with invalid zone state!
+[2017.06.17-15.34.07:389][952]LogConsoleResponse:Display: Apply Settings:
+[2017.06.17-15.34.07:392][952]LogConsoleResponse:Display: 
+[2017.06.17-15.34.07:399][952]LogOnlineChat: Create chat room Fort-c012496c6fdc43bbbbd9c53e10cfa421-3C6029862B060F110016028FE9DEECC2
+[2017.06.17-15.34.07:399][952]LogOnlineChat: [UFortChat::RejoinChatRoom] Room Fort-c012496c6fdc43bbbbd9c53e10cfa421-3C6029862B060F110016028FE9DEECC2
+[2017.06.17-15.34.07:400][952]LogOnline: OSS: UpdateInternetSession complete, skipping online refresh.
+[2017.06.17-15.34.07:400][952]LogOnlineParty:Display: OSS::Party: Publishing party to presence DisplayName(Blueshirt38) PartyId(A5CBC4494E5FBAE6270A49A2817A9C33) LeaderId(6a18cb2acc4c46d9803c84c749b5e03a) LeaderDisplayName(Blueshirt38) AccessKey(9B411E5F48ADC020BDE623B073631E54) HasPassword(0) IsAcceptingMembers(1) NotAcceptingReason(0)
+[2017.06.17-15.34.07:405][953]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.07:406][953]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::MAX] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.07:529][956]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/RefreshExpeditions?profileId=profile0&rvn=7444&leanResponse=true
+[2017.06.17-15.34.07:646][957]LogOnlineChat: [UFortChat::OnTeamRejoinStatusChanged] Room fort-c012496c6fdc43bbbbd9c53e10cfa421-3c6029862b060f110016028fe9deecc2 bAvailable: 1
+[2017.06.17-15.34.07:647][958]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/QueryProfile?profileId=profile0&rvn=7444&leanResponse=true
+[2017.06.17-15.34.09:304][985]LogFortDayNight: AFortTimeOfDayManager::PostInitializeComponents: World is "Zone_Temperate_Suburban", this is "TODM_A_Child_FTS01_C_0"
+[2017.06.17-15.34.09:360][986]LogStaticMesh: Allocated 512x512x280 distance field atlas = 70.0Mb, with 851 objects containing 20.8Mb backing data
+[2017.06.17-15.34.10:133][995]LogFort: NO SKELETAL MESH FOR FeedbackAnnouncer_C_0
+[2017.06.17-15.34.10:841][ 11]LogStaticMesh: Allocated 511x512x243 distance field atlas = 60.6Mb, with 986 objects containing 23.0Mb backing data
+[2017.06.17-15.34.11:424][ 13]LogFortDayNight: OnRep_TimeOfDayManager: World is "Zone_Temperate_Suburban", FortTimeOfDayManager is "TODM_A_Child_FTS01_C_0"
+[2017.06.17-15.34.11:547][ 16]LogRenderer: Reallocating scene render targets to support 128x128 NumSamples 1 (Frame:2019).
+[2017.06.17-15.34.11:585][ 16]LogRenderer: Reallocating scene render targets to support 256x256 NumSamples 1 (Frame:2019).
+[2017.06.17-15.34.11:611][ 16]LogRenderer: Reallocating scene render targets to support 1920x1080 NumSamples 1 (Frame:2019).
+[2017.06.17-15.34.12:033][ 25]LogStaticMesh: Allocated 512x512x243 distance field atlas = 60.8Mb, with 1175 objects containing 25.3Mb backing data
+[2017.06.17-15.34.12:510][ 26]LogParty:Display: HandleZonePlayerStateInitialized: [6a18cb2acc4c46d9803c84c749b5e03a]
+[2017.06.17-15.34.12:510][ 26]LogParty:Display: New zone player state for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] added to team [EFortTeam::HumanCampaign]
+[2017.06.17-15.34.12:510][ 26]LogFort: BindToPlayerState trying to initialize ability system actor
+[2017.06.17-15.34.12:510][ 26]LogFort: InitializeAbilitySystemActor initialized with valid zone state
+[2017.06.17-15.34.12:511][ 26]LogParty:Display: Removing [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] from [Blueshirt38]'s team.
+[2017.06.17-15.34.12:511][ 26]LogParty:Display: Adding [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] as a new member to [6a18cb2acc4c46d9803c84c749b5e03a]'s party via an existing UITeamMember in [Blueshirt38]'s game.
+[2017.06.17-15.34.12:511][ 26]LogParty:Display: New member [6a18cb2acc4c46d9803c84c749b5e03a] added to UI Party led by [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.12:511][ 26]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.12:511][ 26]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::HumanCampaign] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.12:511][ 26]LogParty:Display: Homebase updated for Team Member: Blueshirt38
+[2017.06.17-15.34.12:511][ 26]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.12:511][ 26]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::HumanCampaign] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.12:511][ 26]LogOnline: OSS: Player 6a18cb2acc4c46d9803c84c749b5e03a already registered in session Game
+[2017.06.17-15.34.12:511][ 26]LogParty:Display: Homebase updated for Team Member: Blueshirt38
+[2017.06.17-15.34.12:511][ 26]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.12:511][ 26]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::HumanCampaign] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.12:511][ 26]LogParty:Display: Removing [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] from [Blueshirt38]'s team.
+[2017.06.17-15.34.12:511][ 26]LogParty:Display: Adding [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] as a new member to [6a18cb2acc4c46d9803c84c749b5e03a]'s party via an existing UITeamMember in [Blueshirt38]'s game.
+[2017.06.17-15.34.12:511][ 26]LogParty:Display: New member [6a18cb2acc4c46d9803c84c749b5e03a] added to UI Party led by [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.12:511][ 26]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.12:512][ 26]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::HumanCampaign] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.12:512][ 26]LogFort: GetOrInitializeHero called with valid player info
+[2017.06.17-15.34.12:512][ 26]LogParty:Display: Homebase updated for Team Member: Blueshirt38
+[2017.06.17-15.34.12:512][ 26]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.12:512][ 26]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::HumanCampaign] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.12:545][ 27]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.12:545][ 27]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::HumanCampaign] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.15:392][ 60]LogNet: UActorChannel::ReceivedBunch: Queuing bunch because another channel (that closed) is processing bunches for this guid still. ActorNetGUID: 118
+[2017.06.17-15.34.16:194][ 60]LogStaticMesh: Allocated 512x512x243 distance field atlas = 60.8Mb, with 1186 objects containing 25.4Mb backing data
+[2017.06.17-15.34.16:194][ 60]LogCommonInput:Verbose: PushActivatablePanel : Adding push for new activatable panel MgmtTabsScreen_C_0: 
+[2017.06.17-15.34.16:194][ 60]LogCommonInput:Verbose: Input suspension: Started
+[2017.06.17-15.34.16:194][ 60]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.16:194][ 60]LogCommonInput:Verbose: StartNextOperation: activatable panel pushed on stack for panel: MgmtTabsScreen_C_0
+[2017.06.17-15.34.16:194][ 60]LogCommonInput:Verbose: OnPrePanelActivated: panel activated complete: MgmtTabsScreen_C_0
+[2017.06.17-15.34.16:194][ 60]LogCommonInput:Verbose: PushActivatablePanel : Adding outro op for top activatable panel
+[2017.06.17-15.34.16:194][ 60]LogCommonInput:Verbose: PushActivatablePanel : Adding push for new activatable panel ItemManagementScreen_C_0: 
+[2017.06.17-15.34.16:194][ 60]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.16:194][ 60]LogCommonInput:Verbose: StartNextOperation: deactivate for panel: MgmtTabsScreen_C_0
+[2017.06.17-15.34.16:194][ 60]LogCommonInput:Verbose: OnPostPanelDeactivatedForPush: deactivated panel: MgmtTabsScreen_C_0
+[2017.06.17-15.34.16:194][ 60]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.16:194][ 60]LogCommonInput:Verbose: StartNextOperation: activatable panel pushed on stack for panel: ItemManagementScreen_C_0
+[2017.06.17-15.34.16:194][ 60]LogCommonInput:Verbose: OnPrePanelActivated: panel activated complete: ItemManagementScreen_C_0
+[2017.06.17-15.34.16:194][ 60]LogCommonInput:Verbose: PushActivatablePanel : Adding outro op for top activatable panel
+[2017.06.17-15.34.16:194][ 60]LogCommonInput:Verbose: PushActivatablePanel : Adding push for new activatable panel DetailsModeItemDetailsPanel: 
+[2017.06.17-15.34.16:195][ 60]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.16:195][ 60]LogCommonInput:Verbose: StartNextOperation: begin outro for panel: ItemManagementScreen_C_0
+[2017.06.17-15.34.16:195][ 60]LogCommonInput:Verbose: OnPostPanelDeactivatedForPush: deactivated panel: ItemManagementScreen_C_0
+[2017.06.17-15.34.16:195][ 60]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.16:195][ 60]LogCommonInput:Verbose: StartNextOperation: activatable panel pushed on stack for panel: DetailsModeItemDetailsPanel
+[2017.06.17-15.34.16:195][ 60]LogCommonInput:Verbose: OnPrePanelActivated: panel activated complete: DetailsModeItemDetailsPanel
+[2017.06.17-15.34.16:209][ 60]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.16:209][ 60]LogCommonInput:Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.06.17-15.34.16:209][ 60]LogCommonInput:Verbose: PopActivatablePanel: Adding pop for panel: DetailsModeItemDetailsPanel
+[2017.06.17-15.34.16:209][ 60]LogCommonInput:Verbose: PopActivatablePanel: Adding pop for panel: ItemManagementScreen_C_0
+[2017.06.17-15.34.16:209][ 60]LogCommonInput:Verbose: PopActivatablePanel: Adding pop for panel: MgmtTabsScreen_C_0
+[2017.06.17-15.34.16:209][ 60]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.16:209][ 60]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.34.16:209][ 60]LogCommonInput:Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.06.17-15.34.16:547][ 61]LogMaterial:Warning: Material /Game/Packages/Fortress_SharedMaterials/Base_Material/Fortress_BaseMaterial.Fortress_BaseMaterial missing bUsedWithMeshParticles=True! Default Material will be used in game.
+[2017.06.17-15.34.16:573][ 62]LogCommonInput:Verbose: Input suspension: Stopped
+[2017.06.17-15.34.16:588][ 63]LogStaticMesh: Allocated 511x512x418 distance field atlas = 104.3Mb, with 1271 objects containing 26.0Mb backing data
+[2017.06.17-15.34.17:217][ 66]LogStaticMesh: Allocated 512x512x299 distance field atlas = 74.8Mb, with 1291 objects containing 26.9Mb backing data
+[2017.06.17-15.34.17:716][ 66]LogStreaming:Display: UWorld::AddToWorld: routing Initialize on actors for /Temp/Game/Maps/Tiles/Tile_Suburban_005_17 took (less than) 21.45 ms
+[2017.06.17-15.34.18:480][ 80]LogStaticMesh: Allocated 512x512x302 distance field atlas = 75.5Mb, with 1415 objects containing 28.4Mb backing data
+[2017.06.17-15.34.20:246][107]LogStreaming:Display: UWorld::AddToWorld: routing Initialize on actors for /Temp/Game/Maps/Tiles/Tile_Suburban_006_19 took (less than) 21.37 ms
+[2017.06.17-15.34.20:449][111]LogStaticMesh: Allocated 512x512x312 distance field atlas = 78.0Mb, with 1582 objects containing 30.9Mb backing data
+[2017.06.17-15.34.21:397][117]LogStaticMesh: Allocated 512x512x312 distance field atlas = 78.0Mb, with 1654 objects containing 32.0Mb backing data
+[2017.06.17-15.34.21:979][117]LogStreaming:Display: UWorld::AddToWorld: routing Initialize on actors for /Temp/Game/Maps/5x5/SUB_5x5_Special_PrimrosePalace_a_39 took (less than) 23.25 ms
+[2017.06.17-15.34.22:286][122]LogStaticMesh: Allocated 512x512x350 distance field atlas = 87.5Mb, with 1711 objects containing 32.9Mb backing data
+[2017.06.17-15.34.22:905][123]LogStreaming:Display: UWorld::AddToWorld: routing Initialize on actors for /Temp/Game/Maps/5x5/SUB_5x5_House_s_40 took (less than) 23.83 ms
+[2017.06.17-15.34.23:058][126]LogStaticMesh: Allocated 512x512x429 distance field atlas = 107.3Mb, with 1735 objects containing 33.1Mb backing data
+[2017.06.17-15.34.24:234][137]LogStaticMesh: Allocated 512x512x377 distance field atlas = 94.3Mb, with 1786 objects containing 33.7Mb backing data
+[2017.06.17-15.34.24:836][137]LogStreaming:Display: UWorld::AddToWorld: routing Initialize on actors for /Temp/Game/Maps/5x5/SUB_5x5_Restaurant_a_32 took (less than) 21.75 ms
+[2017.06.17-15.34.25:155][142]LogStreaming:Display: UWorld::AddToWorld: routing Initialize on actors for /Temp/Game/Maps/5x5/SUB_5x5_House_o_34 took (less than) 31.29 ms
+[2017.06.17-15.34.25:611][150]LogStreaming:Display: UWorld::AddToWorld: routing Initialize on actors for /Temp/Game/Maps/5x5/SUB_5x5_Commerce_Bank_a_38 took (less than) 20.33 ms
+[2017.06.17-15.34.25:906][155]LogStreaming:Display: UWorld::AddToWorld: routing Initialize on actors for /Temp/Game/Maps/5x5/SUB_5x5_RuinedBuilding_f_35 took (less than) 24.17 ms
+[2017.06.17-15.34.26:588][166]LogStreaming:Display: UWorld::AddToWorld: routing Initialize on actors for /Temp/Game/Maps/5x5/SUB_5x5_House_z_46 took (less than) 21.21 ms
+[2017.06.17-15.34.27:801][186]LogStreaming:Display: UWorld::AddToWorld: routing Initialize on actors for /Temp/Game/Maps/5x5/SUB_5x5_House_u_51 took (less than) 20.71 ms
+[2017.06.17-15.34.28:073][191]LogStaticMesh: Allocated 512x512x375 distance field atlas = 93.8Mb, with 2011 objects containing 39.1Mb backing data
+[2017.06.17-15.34.28:877][194]LogStreaming:Display: UWorld::AddToWorld: routing Initialize on actors for /Temp/Game/Maps/5x5/SUB_5x5_RuinedBuilding_e_48 took (less than) 21.27 ms
+[2017.06.17-15.34.28:969][195]LogAudio:Warning: Waited 69.850349ms for audio thread.
+[2017.06.17-15.34.28:979][195]LogAudio:Warning: Waited 79.981506ms for audio thread.
+[2017.06.17-15.34.29:169][199]LogAudio:Warning: Waited 40.607700ms for audio thread.
+[2017.06.17-15.34.29:817][210]LogMaterial:Warning: MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban15.MaterialInstanceDynamic_156 is not a valid parent for MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban15.MaterialInstanceDynamic_158. Only Materials and MaterialInstanceConstants are valid parents for a material instance.
+[2017.06.17-15.34.29:817][210]LogMaterial:Warning: MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban19.MaterialInstanceDynamic_160 is not a valid parent for MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban19.MaterialInstanceDynamic_162. Only Materials and MaterialInstanceConstants are valid parents for a material instance.
+[2017.06.17-15.34.29:817][210]LogMaterial:Warning: MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban21.MaterialInstanceDynamic_164 is not a valid parent for MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban21.MaterialInstanceDynamic_166. Only Materials and MaterialInstanceConstants are valid parents for a material instance.
+[2017.06.17-15.34.29:818][210]LogMaterial:Warning: MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban111.MaterialInstanceDynamic_168 is not a valid parent for MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban111.MaterialInstanceDynamic_170. Only Materials and MaterialInstanceConstants are valid parents for a material instance.
+[2017.06.17-15.34.29:818][210]LogMaterial:Warning: MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban112.MaterialInstanceDynamic_172 is not a valid parent for MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban112.MaterialInstanceDynamic_174. Only Materials and MaterialInstanceConstants are valid parents for a material instance.
+[2017.06.17-15.34.29:818][210]LogMaterial:Warning: MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban113.MaterialInstanceDynamic_176 is not a valid parent for MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban113.MaterialInstanceDynamic_178. Only Materials and MaterialInstanceConstants are valid parents for a material instance.
+[2017.06.17-15.34.29:819][210]LogMaterial:Warning: MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban116.MaterialInstanceDynamic_180 is not a valid parent for MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban116.MaterialInstanceDynamic_182. Only Materials and MaterialInstanceConstants are valid parents for a material instance.
+[2017.06.17-15.34.29:819][210]LogMaterial:Warning: MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban117.MaterialInstanceDynamic_184 is not a valid parent for MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban117.MaterialInstanceDynamic_186. Only Materials and MaterialInstanceConstants are valid parents for a material instance.
+[2017.06.17-15.34.29:851][210]LogMaterial:Warning: MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban120.MaterialInstanceDynamic_331 is not a valid parent for MaterialInstanceDynamic /Temp/Game/Maps/Tiles/Tile_Suburban_011_16.Tile_Suburban_011:PersistentLevel.Streetlight_Suburban120.MaterialInstanceDynamic_333. Only Materials and MaterialInstanceConstants are valid parents for a material instance.
+[2017.06.17-15.34.31:662][211]LogParty:Display: Homebase updated for Team Member: Blueshirt38
+[2017.06.17-15.34.31:662][211]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.31:662][211]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::HumanCampaign] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.31:671][211]LogFort: UFortRegisteredPlayerInfo::OnAccountInventoryChanged trying to initialize ability system actor
+[2017.06.17-15.34.31:671][211]LogFort: InitializeAbilitySystemActor initialized with valid zone state
+[2017.06.17-15.34.31:672][211]LogParty:Display: Homebase updated for Team Member: Blueshirt38
+[2017.06.17-15.34.31:672][211]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.31:672][211]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::HumanCampaign] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.31:675][211]LogProfileSys: MCP-Profile: Delta profile update (revision 3457 [7445]) for Blueshirt38 accountId=6a18cb2acc4c46d9803c84c749b5e03a profileId=profile0 from notifications
+[2017.06.17-15.34.31:677][211]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.31:677][211]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::HumanCampaign] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.31:979][214]LogParty:Display: Homebase updated for Team Member: Blueshirt38
+[2017.06.17-15.34.31:979][214]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.31:979][214]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::HumanCampaign] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.32:282][216]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/RefreshExpeditions?profileId=profile0&rvn=7445&leanResponse=true
+[2017.06.17-15.34.32:424][218]LogAudio:Warning: Waited 70.303108ms for audio thread.
+[2017.06.17-15.34.32:459][218]LogAudio:Warning: Waited 105.321617ms for audio thread.
+[2017.06.17-15.34.32:494][218]LogAudio:Warning: Waited 140.819275ms for audio thread.
+[2017.06.17-15.34.32:524][218]LogAudio:Warning: Waited 170.327515ms for audio thread.
+[2017.06.17-15.34.32:538][220]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/RefreshExpeditions?profileId=profile0&rvn=7445&leanResponse=true
+[2017.06.17-15.34.32:633][224]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/QueryProfile?profileId=profile0&rvn=7445&leanResponse=true
+[2017.06.17-15.34.33:416][252]LogAudio:Warning: Waited 70.452881ms for audio thread.
+[2017.06.17-15.34.33:452][252]LogAudio:Warning: Waited 106.445564ms for audio thread.
+[2017.06.17-15.34.33:487][252]LogAudio:Warning: Waited 141.456757ms for audio thread.
+[2017.06.17-15.34.33:522][252]LogAudio:Warning: Waited 176.459869ms for audio thread.
+[2017.06.17-15.34.33:558][252]LogAudio:Warning: Waited 211.983673ms for audio thread.
+[2017.06.17-15.34.33:593][252]LogAudio:Warning: Waited 247.484253ms for audio thread.
+[2017.06.17-15.34.33:628][252]LogAudio:Warning: Waited 282.482483ms for audio thread.
+[2017.06.17-15.34.33:664][252]LogAudio:Warning: Waited 318.481781ms for audio thread.
+[2017.06.17-15.34.33:680][252]LogAudio:Warning: Waited 334.194794ms for audio thread.
+[2017.06.17-15.34.34:252][277]LogFortLoadingScreen: Hiding loading screen when 'IsShowingInitialLoadingScreen()' is false.
+[2017.06.17-15.34.34:252][277]LogFortLoadingScreen: Hiding the loading screen since the player pawn spawned at some point!
+[2017.06.17-15.34.34:906][304]LogParty:Display: Homebase updated for Team Member: Blueshirt38
+[2017.06.17-15.34.34:906][304]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.34:906][304]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::HumanCampaign] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.34:914][304]LogFort: UFortRegisteredPlayerInfo::OnAccountInventoryChanged trying to initialize ability system actor
+[2017.06.17-15.34.34:914][304]LogFort: InitializeAbilitySystemActor initialized with valid zone state
+[2017.06.17-15.34.34:914][304]LogParty:Display: Homebase updated for Team Member: Blueshirt38
+[2017.06.17-15.34.34:914][304]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.34:915][304]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::HumanCampaign] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.34:918][304]LogProfileSys: MCP-Profile: Delta profile update (revision 3458 [7446]) for Blueshirt38 accountId=6a18cb2acc4c46d9803c84c749b5e03a profileId=profile0 from notifications
+[2017.06.17-15.34.34:935][305]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.34.34:936][305]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::HumanCampaign] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.34.35:004][308]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/RefreshExpeditions?profileId=profile0&rvn=7446&leanResponse=true
+[2017.06.17-15.34.35:098][312]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/RefreshExpeditions?profileId=profile0&rvn=7446&leanResponse=true
+[2017.06.17-15.34.35:191][316]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/QueryProfile?profileId=profile0&rvn=7446&leanResponse=true
+[2017.06.17-15.34.37:359][403]LogRenderer: Reallocating scene render targets to support 256x256 NumSamples 1 (Frame:2406).
+[2017.06.17-15.34.37:650][403]LogRenderer: Reallocating scene render targets to support 512x512 NumSamples 1 (Frame:2406).
+[2017.06.17-15.34.37:723][403]LogRenderer: Reallocating scene render targets to support 1920x1080 NumSamples 1 (Frame:2406).
+[2017.06.17-15.34.38:416][426]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 404/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.34.39:666][473]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.34.39:977][485]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.34.40:226][494]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 406/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.34.44:105][627]LogChartCreation: Started creating FPS charts at 16926683.435769 seconds
+[2017.06.17-15.34.48:579][736]LogRootMotion:Warning: 	Server disagrees with Client's track position!! ServerTrackPosition: 0.473396, ClientTrackPosition: 0.473397, DeltaTrackPosition: -0.000001. TimeStamp: 16.540071
+[2017.06.17-15.35.00:020][ 11]LogProfileSys: MCP-Profile: Delta profile update (revision 3459 [7448]) for Blueshirt38 accountId=6a18cb2acc4c46d9803c84c749b5e03a profileId=profile0 from notifications
+[2017.06.17-15.35.08:717][250]LogRootMotion:Warning: 	Server disagrees with Client's track position!! ServerTrackPosition: 0.047311, ClientTrackPosition: 0.099158, DeltaTrackPosition: -0.051848. TimeStamp: 36.683842
+[2017.06.17-15.35.15:961][427]LogRootMotion:Warning: 	Server disagrees with Client's track position!! ServerTrackPosition: 0.552132, ClientTrackPosition: 0.552129, DeltaTrackPosition: 0.000002. TimeStamp: 43.932922
+[2017.06.17-15.35.43:753][290]LogRootMotion:Warning: 	Server disagrees with Client's track position!! ServerTrackPosition: 0.030226, ClientTrackPosition: 0.063713, DeltaTrackPosition: -0.033487. TimeStamp: 71.694298
+[2017.06.17-15.35.46:154][369]LogProfileSys: MCP-Profile: Delta profile update (revision 3460 [7449]) for Blueshirt38 accountId=6a18cb2acc4c46d9803c84c749b5e03a profileId=profile0 from notifications
+[2017.06.17-15.35.55:759][707]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 405/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.35.59:871][862]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.35.59:953][865]LogProfileSys: MCP-Profile: Delta profile update (revision 3461 [7451]) for Blueshirt38 accountId=6a18cb2acc4c46d9803c84c749b5e03a profileId=profile0 from notifications
+[2017.06.17-15.36.00:537][891]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.04:974][ 97]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 415/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.05:886][139]LogProfileSys: MCP-Profile: Delta profile update (revision 3462 [7452]) for Blueshirt38 accountId=6a18cb2acc4c46d9803c84c749b5e03a profileId=profile0 from notifications
+[2017.06.17-15.36.07:953][224]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 402/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.08:299][238]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 402/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.12:293][405]LogRootMotion:Warning: 	Server disagrees with Client's track position!! ServerTrackPosition: 0.388108, ClientTrackPosition: 0.388106, DeltaTrackPosition: 0.000002. TimeStamp: 100.296486
+[2017.06.17-15.36.12:590][418]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 405/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.13:603][463]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 405/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: PushActivatablePanel : Adding push for new activatable panel MgmtTabsScreen_C_0: 
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: Input suspension: Started
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: StartNextOperation: activatable panel pushed on stack for panel: MgmtTabsScreen_C_0
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: OnPrePanelActivated: panel activated complete: MgmtTabsScreen_C_0
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: PushActivatablePanel : Adding outro op for top activatable panel
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: PushActivatablePanel : Adding push for new activatable panel ItemManagementScreen_C_0: 
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: StartNextOperation: deactivate for panel: MgmtTabsScreen_C_0
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: OnPostPanelDeactivatedForPush: deactivated panel: MgmtTabsScreen_C_0
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: StartNextOperation: activatable panel pushed on stack for panel: ItemManagementScreen_C_0
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: OnPrePanelActivated: panel activated complete: ItemManagementScreen_C_0
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: PushActivatablePanel : Adding outro op for top activatable panel
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: PushActivatablePanel : Adding push for new activatable panel DetailsModeItemDetailsPanel: 
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: StartNextOperation: begin outro for panel: ItemManagementScreen_C_0
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: OnPostPanelDeactivatedForPush: deactivated panel: ItemManagementScreen_C_0
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.36.13:789][471]LogCommonInput:Verbose: StartNextOperation: activatable panel pushed on stack for panel: DetailsModeItemDetailsPanel
+[2017.06.17-15.36.13:790][471]LogCommonInput:Verbose: OnPrePanelActivated: panel activated complete: DetailsModeItemDetailsPanel
+[2017.06.17-15.36.13:790][471]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.36.13:790][471]LogCommonInput:Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.06.17-15.36.13:819][471]LogSlate: Took 0.002713 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2017.06.17-15.36.13:880][473]LogCommonInput:Verbose: Input suspension: Stopped
+[2017.06.17-15.36.17:200][625]LogCommonInput:Verbose: PopActivatablePanel: Adding pop for panel: DetailsModeItemDetailsPanel
+[2017.06.17-15.36.17:200][625]LogCommonInput:Verbose: PopActivatablePanel: Adding pop for panel: ItemManagementScreen_C_0
+[2017.06.17-15.36.17:200][625]LogCommonInput:Verbose: PopActivatablePanel: Adding pop for panel: MgmtTabsScreen_C_0
+[2017.06.17-15.36.17:200][625]LogCommonInput:Verbose: Input suspension: Started
+[2017.06.17-15.36.17:200][625]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.36.17:200][625]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.36.17:200][625]LogCommonInput:Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.06.17-15.36.17:200][625]LogFortUI:Error: UFortUIManagerWidget_NUI::DecrementShouldBlockSubtitlePortrait called while BlockSubtitlePortraitRefcount <= 0.
+[2017.06.17-15.36.17:243][627]LogCommonInput:Verbose: Input suspension: Stopped
+[2017.06.17-15.36.18:074][666]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 403/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.18:361][677]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 403/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.18:617][687]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 403/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.19:376][716]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.19:480][720]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 408/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.19:983][740]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 405/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.21:278][793]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.34:045][353]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 408/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.34:132][357]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 403/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.37:474][502]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 402/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.37:606][508]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 403/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.37:979][525]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 406/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.38:163][533]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 408/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.38:611][551]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 408/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.38:810][559]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 408/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.38:887][562]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 402/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.39:066][569]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 406/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.42:049][681]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 404/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.36.50:008][ 14]LogProfileSys: MCP-Profile: Delta profile update (revision 3463 [7453]) for Blueshirt38 accountId=6a18cb2acc4c46d9803c84c749b5e03a profileId=profile0 from notifications
+[2017.06.17-15.37.00:272][495]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 403/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.37.02:276][596]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 402/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.37.02:362][600]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 403/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.37.04:826][728]LogProfileSys: MCP-Profile: Delta profile update (revision 3464 [7456]) for Blueshirt38 accountId=6a18cb2acc4c46d9803c84c749b5e03a profileId=profile0 from notifications
+[2017.06.17-15.37.05:030][739]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 404/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.37.05:191][747]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 405/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.37.05:276][751]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 403/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.37.05:739][774]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 408/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.37.05:941][784]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 408/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.37.06:119][793]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 408/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.37.06:463][809]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 424/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.37.07:532][859]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.37.17:217][321]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 407/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.37.22:718][596]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 409/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.37.42:863][599]LogRenderer: Reallocating scene render targets to support 512x512 NumSamples 1 (Frame:9602).
+[2017.06.17-15.37.42:933][599]LogRenderer: Reallocating scene render targets to support 1920x1080 NumSamples 1 (Frame:9602).
+[2017.06.17-15.38.00:006][373]LogProfileSys: MCP-Profile: Delta profile update (revision 3465 [7458]) for Blueshirt38 accountId=6a18cb2acc4c46d9803c84c749b5e03a profileId=profile0 from notifications
+[2017.06.17-15.38.08:185][724]LogAbilitySystem:Warning: Passed PredictionKey 484 in Delegate map while OnRep'ing [4004/0]
+[2017.06.17-15.38.25:644][499]LogCommonInput:Verbose: PushActivatablePanel : Adding push for new activatable panel MgmtTabsScreen_C_0: 
+[2017.06.17-15.38.25:644][499]LogCommonInput:Verbose: Input suspension: Started
+[2017.06.17-15.38.25:644][499]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.38.25:644][499]LogCommonInput:Verbose: StartNextOperation: activatable panel pushed on stack for panel: MgmtTabsScreen_C_0
+[2017.06.17-15.38.25:644][499]LogCommonInput:Verbose: OnPrePanelActivated: panel activated complete: MgmtTabsScreen_C_0
+[2017.06.17-15.38.25:644][499]LogCommonInput:Verbose: PushActivatablePanel : Adding outro op for top activatable panel
+[2017.06.17-15.38.25:644][499]LogCommonInput:Verbose: PushActivatablePanel : Adding push for new activatable panel ItemManagementScreen_C_0: 
+[2017.06.17-15.38.25:644][499]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.38.25:644][499]LogCommonInput:Verbose: StartNextOperation: deactivate for panel: MgmtTabsScreen_C_0
+[2017.06.17-15.38.25:644][499]LogCommonInput:Verbose: OnPostPanelDeactivatedForPush: deactivated panel: MgmtTabsScreen_C_0
+[2017.06.17-15.38.25:644][499]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.38.25:645][499]LogCommonInput:Verbose: StartNextOperation: activatable panel pushed on stack for panel: ItemManagementScreen_C_0
+[2017.06.17-15.38.25:645][499]LogCommonInput:Verbose: OnPrePanelActivated: panel activated complete: ItemManagementScreen_C_0
+[2017.06.17-15.38.25:645][499]LogCommonInput:Verbose: PushActivatablePanel : Adding outro op for top activatable panel
+[2017.06.17-15.38.25:645][499]LogCommonInput:Verbose: PushActivatablePanel : Adding push for new activatable panel DetailsModeItemDetailsPanel: 
+[2017.06.17-15.38.25:645][499]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.38.25:645][499]LogCommonInput:Verbose: StartNextOperation: begin outro for panel: ItemManagementScreen_C_0
+[2017.06.17-15.38.25:645][499]LogCommonInput:Verbose: OnPostPanelDeactivatedForPush: deactivated panel: ItemManagementScreen_C_0
+[2017.06.17-15.38.25:645][499]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.38.25:645][499]LogCommonInput:Verbose: StartNextOperation: activatable panel pushed on stack for panel: DetailsModeItemDetailsPanel
+[2017.06.17-15.38.25:645][499]LogCommonInput:Verbose: OnPrePanelActivated: panel activated complete: DetailsModeItemDetailsPanel
+[2017.06.17-15.38.25:646][499]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.38.25:646][499]LogCommonInput:Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.06.17-15.38.25:692][501]LogCommonInput:Verbose: Input suspension: Stopped
+[2017.06.17-15.38.25:753][504]LogCommonInput:Verbose: PopActivatablePanel: Adding pop for panel: DetailsModeItemDetailsPanel
+[2017.06.17-15.38.25:753][504]LogCommonInput:Verbose: PopActivatablePanel: Adding pop for panel: ItemManagementScreen_C_0
+[2017.06.17-15.38.25:753][504]LogCommonInput:Verbose: PopActivatablePanel: Adding pop for panel: MgmtTabsScreen_C_0
+[2017.06.17-15.38.25:753][504]LogCommonInput:Verbose: Input suspension: Started
+[2017.06.17-15.38.25:754][504]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.38.25:754][504]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.38.25:754][504]LogCommonInput:Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.06.17-15.38.25:754][504]LogFortUI:Error: UFortUIManagerWidget_NUI::DecrementShouldBlockSubtitlePortrait called while BlockSubtitlePortraitRefcount <= 0.
+[2017.06.17-15.38.25:800][506]LogCommonInput:Verbose: PushActivatablePanel : Adding push for new activatable panel MgmtTabsScreen_C_0: 
+[2017.06.17-15.38.25:800][506]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.38.25:800][506]LogCommonInput:Verbose: StartNextOperation: activatable panel pushed on stack for panel: MgmtTabsScreen_C_0
+[2017.06.17-15.38.25:800][506]LogCommonInput:Verbose: OnPrePanelActivated: panel activated complete: MgmtTabsScreen_C_0
+[2017.06.17-15.38.25:800][506]LogCommonInput:Verbose: PushActivatablePanel : Adding outro op for top activatable panel
+[2017.06.17-15.38.25:800][506]LogCommonInput:Verbose: PushActivatablePanel : Adding push for new activatable panel ItemManagementScreen_C_0: 
+[2017.06.17-15.38.25:800][506]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.38.25:800][506]LogCommonInput:Verbose: StartNextOperation: deactivate for panel: MgmtTabsScreen_C_0
+[2017.06.17-15.38.25:800][506]LogCommonInput:Verbose: OnPostPanelDeactivatedForPush: deactivated panel: MgmtTabsScreen_C_0
+[2017.06.17-15.38.25:800][506]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.38.25:800][506]LogCommonInput:Verbose: StartNextOperation: activatable panel pushed on stack for panel: ItemManagementScreen_C_0
+[2017.06.17-15.38.25:800][506]LogCommonInput:Verbose: OnPrePanelActivated: panel activated complete: ItemManagementScreen_C_0
+[2017.06.17-15.38.25:800][506]LogCommonInput:Verbose: PushActivatablePanel : Adding outro op for top activatable panel
+[2017.06.17-15.38.25:800][506]LogCommonInput:Verbose: PushActivatablePanel : Adding push for new activatable panel DetailsModeItemDetailsPanel: 
+[2017.06.17-15.38.25:801][506]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.38.25:801][506]LogCommonInput:Verbose: StartNextOperation: begin outro for panel: ItemManagementScreen_C_0
+[2017.06.17-15.38.25:801][506]LogCommonInput:Verbose: OnPostPanelDeactivatedForPush: deactivated panel: ItemManagementScreen_C_0
+[2017.06.17-15.38.25:801][506]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.38.25:801][506]LogCommonInput:Verbose: StartNextOperation: activatable panel pushed on stack for panel: DetailsModeItemDetailsPanel
+[2017.06.17-15.38.25:801][506]LogCommonInput:Verbose: OnPrePanelActivated: panel activated complete: DetailsModeItemDetailsPanel
+[2017.06.17-15.38.25:801][506]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.38.25:801][506]LogCommonInput:Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.06.17-15.38.25:845][508]LogCommonInput:Verbose: Input suspension: Stopped
+[2017.06.17-15.38.59:967][138]LogProfileSys: MCP-Profile: Delta profile update (revision 3466 [7460]) for Blueshirt38 accountId=6a18cb2acc4c46d9803c84c749b5e03a profileId=profile0 from notifications
+[2017.06.17-15.39.10:491][641]LogAudio:Warning: Waited 69.537849ms for audio thread.
+[2017.06.17-15.39.10:497][641]LogAudio:Warning: Waited 76.366310ms for audio thread.
+[2017.06.17-15.39.12:133][717]LogAudio:Warning: Waited 69.567894ms for audio thread.
+[2017.06.17-15.39.12:169][717]LogAudio:Warning: Waited 105.070686ms for audio thread.
+[2017.06.17-15.39.12:204][717]LogAudio:Warning: Waited 140.575684ms for audio thread.
+[2017.06.17-15.39.12:206][717]LogAudio:Warning: Waited 142.718262ms for audio thread.
+[2017.06.17-15.39.12:696][740]LogAudio:Warning: Waited 61.510178ms for audio thread.
+[2017.06.17-15.39.13:531][782]LogOnline: OSS: QueryAvailableFeatures request complete and valid. Response string length is 9, code is 200
+[2017.06.17-15.39.13:542][782]LogOnline: OSS: QueryAvailableFeatures request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/enabled_features code=200 response=["store"]
+[2017.06.17-15.39.14:589][830]LogAudio:Warning: Waited 50.347191ms for audio thread.
+[2017.06.17-15.39.16:495][918]LogAudio:Warning: Waited 69.677116ms for audio thread.
+[2017.06.17-15.39.16:502][918]LogAudio:Warning: Waited 76.414932ms for audio thread.
+[2017.06.17-15.39.17:076][944]LogAudio:Warning: Waited 69.648529ms for audio thread.
+[2017.06.17-15.39.17:111][944]LogAudio:Warning: Waited 104.649445ms for audio thread.
+[2017.06.17-15.39.17:146][944]LogAudio:Warning: Waited 140.168839ms for audio thread.
+[2017.06.17-15.39.17:156][944]LogAudio:Warning: Waited 150.366211ms for audio thread.
+[2017.06.17-15.39.17:964][982]LogAudio:Warning: Waited 70.425514ms for audio thread.
+[2017.06.17-15.39.17:976][982]LogAudio:Warning: Waited 83.035713ms for audio thread.
+[2017.06.17-15.39.18:236][992]LogAudio:Warning: Waited 70.017967ms for audio thread.
+[2017.06.17-15.39.18:272][992]LogAudio:Warning: Waited 105.031830ms for audio thread.
+[2017.06.17-15.39.18:307][992]LogAudio:Warning: Waited 140.531693ms for audio thread.
+[2017.06.17-15.39.18:316][992]LogAudio:Warning: Waited 149.743164ms for audio thread.
+[2017.06.17-15.40.04:692][213]LogParty:Display: Homebase updated for Team Member: Blueshirt38
+[2017.06.17-15.40.04:692][213]LogParty:Display: UpdateChangeCallbacks: Getting Team Member Info for [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a].
+[2017.06.17-15.40.04:693][213]LogParty:Display: [Blueshirt38] Id [6a18cb2acc4c46d9803c84c749b5e03a] team member data updated, team [EFortTeam::HumanCampaign] at index [0] in [Blueshirt38]'s game.
+[2017.06.17-15.40.04:698][213]LogProfileSys: MCP-Profile: Delta profile update (revision 3467 [7463]) for Blueshirt38 accountId=6a18cb2acc4c46d9803c84c749b5e03a profileId=profile0 from notifications
+[2017.06.17-15.40.04:795][218]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/6a18cb2acc4c46d9803c84c749b5e03a/client/RefreshExpeditions?profileId=profile0&rvn=7463&leanResponse=true
+[2017.06.17-15.40.11:867][547]LogCommonInput:Verbose: PopActivatablePanel: Adding pop for panel: DetailsModeItemDetailsPanel
+[2017.06.17-15.40.11:867][547]LogCommonInput:Verbose: PopActivatablePanel: Adding pop for panel: ItemManagementScreen_C_0
+[2017.06.17-15.40.11:867][547]LogCommonInput:Verbose: PopActivatablePanel: Adding pop for panel: MgmtTabsScreen_C_0
+[2017.06.17-15.40.11:867][547]LogCommonInput:Verbose: Input suspension: Started
+[2017.06.17-15.40.11:867][547]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.40.11:867][547]LogCommonInput:Verbose: Begin StartNextOperation
+[2017.06.17-15.40.11:867][547]LogCommonInput:Verbose: StartNextOperation: Finished, Clearing pending ops
+[2017.06.17-15.40.11:867][547]LogFortUI:Error: UFortUIManagerWidget_NUI::DecrementShouldBlockSubtitlePortrait called while BlockSubtitlePortraitRefcount <= 0.
+[2017.06.17-15.40.11:911][549]LogCommonInput:Verbose: Input suspension: Stopped
+[2017.06.17-15.40.18:498][848]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 402/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.40.20:318][924]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 402/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.40.23:066][ 38]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 404/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.40.23:323][ 50]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 405/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.40.26:472][198]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.40.27:393][248]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 404/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.40.27:808][270]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 404/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.40.41:504][ 60]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 404/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.40.42:961][140]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 407/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.40.43:256][153]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.40.43:321][156]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.40.47:952][403]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.40.48:014][406]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.41.10:397][689]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 403/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.41.10:846][713]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 405/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.41.15:906][997]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.41.16:567][ 25]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 403/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.41.59:949][996]LogProfileSys: MCP-Profile: Delta profile update (revision 3468 [7467]) for Blueshirt38 accountId=6a18cb2acc4c46d9803c84c749b5e03a profileId=profile0 from notifications
+[2017.06.17-15.42.06:454][291]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 404/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.07:015][318]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.08:986][412]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 402/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.15:803][714]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.16:351][737]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 408/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.28:170][299]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 403/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.28:474][311]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 403/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.28:704][320]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.28:756][322]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.29:144][338]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 405/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.29:492][352]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 402/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.32:426][480]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.32:675][490]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.33:195][512]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.36:796][681]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 401/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.37:173][696]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 404/400 MB (ok in editor, bad on fixed memory platform)
+[2017.06.17-15.42.58:086][800]LogD3D11RHI:Error: Direct3DDevice->CreateBuffer(&Desc, NULL, UniformBufferResource.GetInitReference()) failed 
+ at D:\Build\++Fortnite+Release-Live+Full\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11UniformBuffer.cpp:159 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2017.06.17-15.42.58:095][800]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2017.06.17-15.42.58:316][800]LogThreadingWindows:Error: Runnable thread RenderThread 1 crashed.
+[2017.06.17-15.42.58:316][800]LogWindows:Error: === Critical error: ===
+[2017.06.17-15.42.58:316][800]LogWindows:Error: 
+[2017.06.17-15.42.58:316][800]LogWindows:Error: 
+[2017.06.17-15.42.58:316][800]LogWindows:Error: Crash in runnable thread RenderThread 1
+[2017.06.17-15.42.58:337][800]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2017.06.17-15.42.58:337][800]LogWindows:Error: HandleError re-entered.
+[2017.06.17-15.42.58:337][800]LogWindows: FPlatformMisc::RequestExit(1)
+[2017.06.17-15.42.58:337][800]Log file closed, 06/17/17 11:42:58

@@ -1,0 +1,355 @@
+Log file open, 02/15/18 19:10:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1492325297) SRandInit(1492325297).
+LogTaskGraph: Started task graph with 4 named threads and 10 total threads with 3 sets of task threads.
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin AESHandlerComponent
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin BlueprintContext
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CommonUI
+LogPluginManager: Mounting plugin Crashlytics
+LogPluginManager: Mounting plugin DiscordRPC
+LogPluginManager: Mounting plugin EpicCMS
+LogPluginManager: Mounting plugin EpicCMSUIFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemMcp
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin Gauntlet
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin LogitechLED
+LogPluginManager: Mounting plugin MatchmakingService
+LogPluginManager: Mounting plugin NetUI
+LogPluginManager: Mounting plugin NVIDIAGfeSDK
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystemTencent
+LogPluginManager: Mounting plugin OnlineSubsystemFacebook
+LogPluginManager: Mounting plugin OnlineSubsystemGoogle
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemTwitch
+LogPluginManager: Mounting plugin Oodle
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PlayerBehaviorAnalytics
+LogPluginManager: Mounting plugin UAC
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PurchaseFlow
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SIP
+LogPluginManager: Mounting plugin SlateRemote
+LogPluginManager: Mounting plugin Social
+LogPluginManager: Mounting plugin SubtitlesWidgets
+LogPluginManager: Mounting plugin SubtitlesWidgetsEditor
+LogPluginManager: Mounting plugin WinDualShock
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin RemoteSession
+LogPluginManager: Mounting plugin EpicGameplayStats
+LogPluginManager: Mounting plugin OnlineGameplayFramework
+LogPluginManager: Mounting plugin HTTPChunkInstaller
+LogPluginManager: Mounting plugin Vivox
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AppleARKit
+LogStreaming: Display: Took  0.136s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - BufferSize = 65536
+LogOnline: MCP: Mcp Startup!
+LogOnline: Verbose: MCP: Created thread (ID:8252).
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogInit: Build: ++Fortnite+Release-2.5-CL-3889387
+LogInit: Engine Version: 4.20.0-3889387+++Fortnite+Release-2.5
+LogInit: Compatible Engine Version: 4.20.0-3889387+++Fortnite+Release-2.5
+LogInit: Net CL: 3886413
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Feb 14 2018 13:21:37
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Fortnite+Release-2.5
+LogInit: Filtered Command Line: -frombe
+LogInit: Base Directory: C:/Program Files/Epic Games/Fortnite/FortniteGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true
+LogInit: Object subsystem initialized
+LogFortMemory: AppInit - CPU:226.93MB (Peak: 226.93MB)
+[2018.02.16-00.10.47:982][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsClient]
+[2018.02.16-00.10.47:989][  0]LogInit: Computer: MYNETRIX-LAPTOP
+[2018.02.16-00.10.47:989][  0]LogInit: User: User
+[2018.02.16-00.10.47:989][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.02.16-00.10.47:989][  0]LogInit: High frequency timer resolution =2.148439 MHz
+[2018.02.16-00.10.47:989][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.02.16-00.10.47:989][  0]LogMemory: Platform Memory Stats for WindowsClient
+[2018.02.16-00.10.47:989][  0]LogMemory: Process Physical Memory: 228.16 MB used, 228.16 MB peak
+[2018.02.16-00.10.47:989][  0]LogMemory: Process Virtual Memory: 272.90 MB used, 272.90 MB peak
+[2018.02.16-00.10.47:989][  0]LogMemory: Physical Memory: 2470.52 MB used,  5635.93 MB free, 8106.45 MB total
+[2018.02.16-00.10.47:989][  0]LogMemory: Virtual Memory: 418.88 MB used,  5635.93 MB free, 134217728.00 MB total
+[2018.02.16-00.10.49:230][  0]LogInit: Using OS detected language (en-US).
+[2018.02.16-00.10.49:230][  0]LogInit: Using OS detected locale (en-CA).
+[2018.02.16-00.10.49:242][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.16-00.10.49:418][  0]LogTextLocalizationResource: LocRes 'C:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/Runtime/HTTPChunkInstaller/Content/Localization/HTTPChunkInstaller/en/HTTPChunkInstaller.locres' failed the magic number check! Assuming this is a legacy resource (please re-generate your localization resources!)
+[2018.02.16-00.10.49:588][  0]LogStreaming: Display: Took  0.359s to EndInitTextLocalization.
+[2018.02.16-00.10.49:780][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.02.16-00.10.49:780][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.02.16-00.10.49:838][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.16-00.10.50:378][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2018.02.16-00.10.50:378][  0]LogD3D11RHI:       2004/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.16-00.10.50:877][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2018.02.16-00.10.50:877][  0]LogD3D11RHI:       128/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.16-00.10.51:026][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.16-00.10.51:026][  0]LogD3D11RHI:       0/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.16-00.10.51:026][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.16-00.10.51:034][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.16-00.10.51:034][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.16-00.10.51:034][  0]LogWindows: EnumDisplayDevices:
+[2018.02.16-00.10.51:034][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2018.02.16-00.10.51:034][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.02.16-00.10.51:034][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.02.16-00.10.51:035][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.16-00.10.51:035][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2018.02.16-00.10.51:035][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.16-00.10.51:035][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.16-00.10.51:035][  0]LogRHI: Texture pool is 1402 MB (70% of 2004 MB)
+[2018.02.16-00.10.51:474][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.16-00.10.51:496][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.16-00.10.51:513][  0]LogShaderLibrary: Display: Using ../../../FortniteGame/Content/ShaderArchive-PCD3D_SM5.ushaderbytecode for material shader code. Total 65858 unique shaders.
+[2018.02.16-00.10.51:513][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library
+[2018.02.16-00.10.51:516][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak added to pak precacher.
+[2018.02.16-00.10.51:547][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.16-00.10.51:547][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.16-00.10.51:547][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.16-00.10.51:547][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.16-00.10.52:165][  0]LogAssetRegistry: FAssetRegistry took 0.5571 seconds to start up
+[2018.02.16-00.10.52:505][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.061199 seconds
+[2018.02.16-00.10.52:514][  0]LogHAL: Display: Platform has ~ 8 GB [8500228096 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.02.16-00.10.52:522][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak added to pak precacher.
+[2018.02.16-00.10.52:586][  0]LogNetVersion: FortniteGame , NetCL: 3886413, EngineNetVer: 4, GameNetVer: 0 (Checksum: 3909710254)
+[2018.02.16-00.10.52:823][  0]LogFortSignificance: Display: Set AI budget to '0,12'
+[2018.02.16-00.10.52:823][  0]LogFortSignificance: Display: Set Athena Player Pawn budget to '5,10,10,75'
+[2018.02.16-00.10.52:823][  0]LogFortSignificance: Display: Set Athena Player Pawn URO rate to '0,1,2,3'
+[2018.02.16-00.10.52:824][  0]LogFortSignificance: Display: Set Athena Player Pawn URO interpolation to '1,1,1,1'
+[2018.02.16-00.10.52:824][  0]LogFortSignificance: Display: Set bucket distances to '50,100,250,500'
+[2018.02.16-00.10.52:836][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak added to pak precacher.
+[2018.02.16-00.10.52:867][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak added to pak precacher.
+[2018.02.16-00.10.53:156][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.16-00.10.53:768][  0]LogMoviePlayer: Initializing movie player
+[2018.02.16-00.10.54:320][  0]LogOnline: OSS: Using EpicApp backend 'Fortnite' based on environment 'Prod' and override 'Fortnite'
+[2018.02.16-00.10.54:328][  0]LogInit: Display: Build flavor: '"Western"'
+[2018.02.16-00.10.54:373][  0]LogSlate: Took 0.003072 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/BurbankBigRegular-Bold.ufont' (155K)
+[2018.02.16-00.10.54:373][  0]LogOnline: TENCENT: Tencent Startup!
+[2018.02.16-00.10.54:373][  0]LogOnline: Facebook Startup!
+[2018.02.16-00.10.54:373][  0]LogOnline: Google Startup!
+[2018.02.16-00.10.54:373][  0]LogOnline: Verbose: TWITCH: Twitch Startup!
+[2018.02.16-00.10.54:421][  0]LogUAC: UACClient initialized
+[2018.02.16-00.10.54:421][  0]LogSIP: Display: SIP Module Initialized
+[2018.02.16-00.10.54:421][  0]LogSIP: Display: Plugin Status: 1
+[2018.02.16-00.10.55:618][  0]LogUObjectArray: 80195 objects as part of root set at end of initial load.
+[2018.02.16-00.10.55:618][  0]LogUObjectArray: 3 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2018.02.16-00.10.55:618][  0]LogUObjectAllocator: 14204064 out of 0 bytes used by permanent object pool.
+[2018.02.16-00.10.55:618][  0]LogUObjectArray: CloseDisregardForGC: 80195/80195 objects in disregard for GC pool
+[2018.02.16-00.10.56:033][  0]LogEngine: Initializing Engine...
+[2018.02.16-00.10.56:046][  0]LogInit: Display: Limiting process virtual memory size to 8388608 KB
+[2018.02.16-00.10.56:180][  0]LogFortMemory: UFortAssetManager will split content preloading by submode
+[2018.02.16-00.10.56:180][  0]LogFortMemory: UFortAssetManager default bundle state is (Client)
+[2018.02.16-00.10.56:181][  0]LogFort: Display: Startup job "Super::StartInitialLoading()" starting
+[2018.02.16-00.10.57:623][  0]LogFort: Display: Startup job "Super::StartInitialLoading()" took 1.44 seconds to complete
+[2018.02.16-00.10.57:623][  0]LogFort: Display: Startup job "RegisterConstructorReferences()" starting
+[2018.02.16-00.10.57:623][  0]LogFort: Display: Startup job "RegisterConstructorReferences()" took 0.00 seconds to complete
+[2018.02.16-00.10.57:623][  0]LogFort: Display: Startup job "InitializeAbilitySystem()" starting
+[2018.02.16-00.10.57:912][  0]LogFort: Display: Startup job "InitializeAbilitySystem()" took 0.29 seconds to complete
+[2018.02.16-00.10.57:912][  0]LogFort: Display: Startup job "ScanForNavAgentCostData()" starting
+[2018.02.16-00.10.57:917][  0]LogFort: Display: Startup job "ScanForNavAgentCostData()" took 0.01 seconds to complete
+[2018.02.16-00.10.57:917][  0]LogFort: Display: Startup job "GetGameData()" starting
+[2018.02.16-00.10.57:917][  0]LogFort: Loading GameData: /Game/Balance/DefaultGameData.DefaultGameData ...
+[2018.02.16-00.11.00:235][  0]LogStreaming: Warning: Took 219.45ms to ProcessLoadedPackages
+[2018.02.16-00.11.00:330][  0]LogStats:             ... GameData loaded! -  2.413 s
+[2018.02.16-00.11.00:330][  0]LogFort: Display: Startup job "GetGameData()" took 2.41 seconds to complete
+[2018.02.16-00.11.00:330][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" starting
+[2018.02.16-00.11.09:511][  0]LogStreaming: Warning: Took 690.42ms to ProcessLoadedPackages
+[2018.02.16-00.11.11:358][  0]LogStreaming: Warning: Took 1847.05ms to ProcessLoadedPackages
+[2018.02.16-00.11.11:358][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" took 11.03 seconds to complete
+[2018.02.16-00.11.11:358][  0]LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" starting
+[2018.02.16-00.11.11:369][  0]LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" took 0.01 seconds to complete
+[2018.02.16-00.11.11:369][  0]LogFort: Display: All startup jobs took 15.19 seconds to complete
+[2018.02.16-00.11.11:369][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.02.16-00.11.11:631][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.16-00.11.11:841][  0]LogInit: FAudioDevice initialized.
+[2018.02.16-00.11.11:853][  0]LogInit: Texture streaming: Enabled
+[2018.02.16-00.11.11:885][  0]LogFortMemory: UFortAssetManager::ChangeLoadState() changing bundle state to (Client, Menu)
+[2018.02.16-00.11.11:887][  0]LogConsoleResponse: Display: Apply Settings:
+[2018.02.16-00.11.11:993][  0]LogScheduledEvents: Queuing calendar request to MCP
+[2018.02.16-00.11.11:997][  0]LogGfeSDK: Creating GfeSDK Version 1.0.132.d2f5f552
+[2018.02.16-00.11.12:004][  0]LogGfeSDK: Start TaskRunner thread
+[2018.02.16-00.11.12:004][  0]LogGfeSDK: Creating default MessageBus wrapper
+[2018.02.16-00.11.12:621][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak added to pak precacher.
+[2018.02.16-00.11.12:621][  0]LogGfeSDK: Joined Bus
+[2018.02.16-00.11.12:621][  0]LogGfeSDK: Message JoinMessageBus[join] return value: NVGSDK_SUCCESS Joined bus
+[2018.02.16-00.11.12:621][  0]LogGfeSDK: Warning: Got SDK response, but can't find JOIN callback to use
+[2018.02.16-00.11.12:621][  0]LogGfeSDK: Posted Request Create[e5a44496]
+[2018.02.16-00.11.13:966][  0]LogGfeSDK: Message Create[e5a44496] return value: NVGSDK_ERR_LIB_CALL_FAILED Failed to get capture info 3064 with error -2147024865
+[2018.02.16-00.11.13:966][  0]LogGfeSDK: CreateSDKInstanceResponse response
+[2018.02.16-00.11.13:966][  0]LogGfeSDK: Warning: FAILED TO CONNECT GfeSDK.dll: 1.0.132.d2f5f552 GFE: 3.12.0.84 SDKNode: 1.0
+[2018.02.16-00.11.13:966][  0]LogGfeSDK: Warning: Failure during NVGSDK_Create: NVGSDK_ERR_LIB_CALL_FAILED Error: Failed initializing SDK
+[2018.02.16-00.11.13:967][  0]LogGfeSDK: Leave Bus
+[2018.02.16-00.11.14:147][  0]LogGfeSDK: Shutting down TaskRunner thread
+[2018.02.16-00.11.14:147][  0]LogGfeSDK: Stopping TaskRunner thread. Flushing notifications
+[2018.02.16-00.11.14:147][  0]LogGfeSDK: Stopped TaskRunner thread
+[2018.02.16-00.11.14:147][  0]LogGfeSDK: Warning: Error: failed initializing SDK -1023
+[2018.02.16-00.11.14:148][  0]LogGfeSDK: Destroyed GfeSDK
+[2018.02.16-00.11.14:148][  0]LogGfeSDK: Error: Failed to create GfeSDK: -1023
+[2018.02.16-00.11.14:148][  0]LogGfeSDK: Failed to connect to GfeSDK backend
+[2018.02.16-00.11.14:149][  0]LogBlueprintContext: Display: Creating blueprint contexts for Local Player ' FortLocalPlayer_0 ' of Game Instance ' FortGameInstance_0 '
+[2018.02.16-00.11.14:149][  0]LogBlueprintContext: Display: Created Blueprint Context 'CommonUIContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:322][  0]LogBlueprintContext: Display: Created Blueprint Context 'HomeBaseContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:322][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortMatchmakingContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:322][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortMcpContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:322][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortOutpostContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:323][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortPartyContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:323][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortPrototypingContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:323][  0]LogBlueprintContext: Display: Created Blueprint Context 'AthenaAccountContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:323][  0]LogBlueprintContext: Display: Created Blueprint Context 'AthenaHUDContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:323][  0]LogBlueprintContext: Display: Created Blueprint Context 'CMSContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:323][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortAbilitySystemContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:323][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortAccountStatsContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:323][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortFrontEndContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:324][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortGlobalUIContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:324][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortHeroManagementContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:324][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortHomebaseUIContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:324][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortHUDContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:324][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortInventoryContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:324][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortLeaderboardContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:324][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortPickerContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:324][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortStoreContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:324][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortTooltipUIContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:324][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortTutorialContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:324][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortUIDataConfigurationContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.16-00.11.14:326][  0]LogInit: Display: Game Engine Initialized.
+[2018.02.16-00.11.14:326][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 1
+[2018.02.16-00.11.14:505][  0]LogFortMemory: PostEngineInit - CPU:1537.74MB (Peak: 1556.14MB)
+[2018.02.16-00.11.14:505][  0]LogInit: Display: Starting Game.
+[2018.02.16-00.11.14:505][  0]LogHotfixManager: Display: Update State UpdateIdle -> UpdatePending
+[2018.02.16-00.11.14:505][  0]LogNet: Browse: /Game/Maps/Frontend?Name=Player
+[2018.02.16-00.11.14:516][  0]LogFortLoadingScreen: Showing loading screen when 'IsShowingInitialLoadingScreen()' is true.
+[2018.02.16-00.11.14:516][  0]LogFortLoadingScreen: Showing LoadingScreen because bCurrentlyInLoadMap is true!
+[2018.02.16-00.11.14:523][  0]LogLoad: LoadMap: /Game/Maps/Frontend?Name=Player
+[2018.02.16-00.11.14:530][  0]LogGarbage: Collecting garbage   (GCheckForIllegalMarkPendingKill = 0)
+[2018.02.16-00.11.14:557][  0]LogGarbage: 26.966556 ms for GC
+[2018.02.16-00.11.14:560][  0]LogGarbage: 2.710805 ms for unhashing unreachable objects. Clusters removed: 0.   Items 881 Cluster Items 0
+[2018.02.16-00.11.14:564][  0]LogGarbage: GC purged 881 objects (248824 -> 247943)
+[2018.02.16-00.11.15:202][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/FrontEnd/Maps/FrontEndStore
+[2018.02.16-00.11.15:202][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/FrontEnd/Maps/FrontEndStore_Pinata
+[2018.02.16-00.11.15:202][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/UI/Frontend_BG_Main
+[2018.02.16-00.11.15:202][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/UI/Frontend_SkillTree
+[2018.02.16-00.11.15:244][  0]LogAIModule: Creating AISystem for world Frontend
+[2018.02.16-00.11.15:244][  0]LogLoad: Game class is 'FortGameModeFrontEnd'
+[2018.02.16-00.11.15:245][  0]LogLevelActorContainer: Created LevelActorCluster (574) for /Game/Maps/FrontEnd/Maps/FrontEndStore.FrontEndStore:PersistentLevel with 38 objects, 9 referenced clusters and 15 mutable objects.
+[2018.02.16-00.11.15:246][  0]LogLevelActorContainer: Created LevelActorCluster (575) for /Game/Maps/UI/Frontend_BG_Main.Frontend_BG_Main:PersistentLevel with 12 objects, 1 referenced clusters and 6 mutable objects.
+[2018.02.16-00.11.15:246][  0]LogLevelActorContainer: Created LevelActorCluster (576) for /Game/Maps/UI/Frontend_SkillTree.Frontend_SkillTree:PersistentLevel with 8 objects, 1 referenced clusters and 6 mutable objects.
+[2018.02.16-00.11.15:299][  0]LogLevelActorContainer: Created LevelActorCluster (577) for /Game/Maps/Frontend.Frontend:PersistentLevel with 4 objects, 4 referenced clusters and 2 mutable objects.
+[2018.02.16-00.11.15:300][  0]LogWorld: Bringing World /Game/Maps/Frontend.Frontend up for play (max tick rate 60) at 2018.02.15-19.11.15
+[2018.02.16-00.11.15:348][  0]LogFortDayNight: AFortTimeOfDayManager::PostInitializeComponents: World is "Frontend", this is "TODM_Disabled_C_0"
+[2018.02.16-00.11.15:356][  0]LogFortDayNight: Game State in World Frontend is resetting.  TimeOfDayManager is None.
+[2018.02.16-00.11.15:359][  0]LogWorld: Bringing up level for play took: 0.072107
+[2018.02.16-00.11.15:359][  0]LogOnlineGame: Client adding GameAccountId/AuthTicket for local player to login url. FortGameOptions=[ASID={13D893BE-415D-3C87-3227-6B9828B4FA06}?Platform=Windows?bIsFirstServerJoin=1]
+[2018.02.16-00.11.15:360][  0]LogOnlineGame: Server received GameAccountId and AuthTicket from client for player: UniqueId:[INVALID] GameAccountId=[] Platform=[Windows]
+[2018.02.16-00.11.15:366][  0]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2018.02.16-00.11.15:366][  0]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2018.02.16-00.11.15:367][  0]LogParty: Verbose: Failed to get persistent party leader
+[2018.02.16-00.11.15:367][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.16-00.11.15:368][  0]LogFortDayNight: Day phase actor TODM_Disabled_C_0 is setting itself as the day phase handler for the GameState on World Frontend.
+[2018.02.16-00.11.15:368][  0]LogFortDayNight: SetTimeOfDayManager: World is "Frontend", Old TimeOfDayManager: "None", New TimeOfDayManager: "TODM_Disabled_C_0"
+[2018.02.16-00.11.15:368][  0]LogFortDayNight: OnRep_TimeOfDayManager: World is "Frontend", FortTimeOfDayManager is "TODM_Disabled_C_0"
+[2018.02.16-00.11.15:368][  0]LogFortMusic: Created MusicManager using class Default__MusicManager_C.
+[2018.02.16-00.11.15:369][  0]LogFort: NO SKELETAL MESH FOR FeedbackAnnouncer_C_0
+[2018.02.16-00.11.15:369][  0]LogLevel: ActivateLevel /Game/Maps/WorldLightingMenu 1 1 1
+[2018.02.16-00.11.15:369][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.16-00.11.15:369][  0]LogFortMemory: ================== Health Snapshot: Waiting to Start (FortGameStateFrontEnd) =================
+[2018.02.16-00.11.15:369][  0]LogFortMemory: Hero: , Theater: , Mission: , Location: 
+[2018.02.16-00.11.15:369][  0]LogFortMemory: Games Played: 0, MeasuredPerfTime 0.00 Secs
+[2018.02.16-00.11.15:369][  0]LogFortMemory: CPU Memory: Used 0.00MB, Peak 0.00MB
+[2018.02.16-00.11.15:369][  0]LogFortMemory: Physical Memory: Used 3859.71MB, Total: 8106.45MB
+[2018.02.16-00.11.15:369][  0]LogFortMemory: =============================================================
+[2018.02.16-00.11.15:372][  0]LogLoad: Took 0.849022 seconds to LoadMap(/Game/Maps/Frontend)
+[2018.02.16-00.11.15:785][  0]LogFortMemory: InitComplete - CPU:1508.79MB (Peak: 1571.77MB)
+[2018.02.16-00.11.15:785][  0]LogLoad: (Engine Initialization) Total time: 29.56 seconds
+[2018.02.16-00.11.15:802][  0]LogDiscordRPC: FDiscordRPC::OnReady
+[2018.02.16-00.11.15:855][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.02.16-00.11.15:861][  0]LogSlate: Took 0.003423 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/NotoSans-Bold.ufont' (485K)
+[2018.02.16-00.11.15:864][  0]LogSlate: Took 0.001792 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/NotoSans-Regular.ufont' (484K)
+[2018.02.16-00.11.15:866][  0]LogStreaming: Display: Suspending async loading (1)
+[2018.02.16-00.11.15:895][  0]LogStreaming: Display: Resuming async loading (0)
+[2018.02.16-00.11.15:897][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WorldLightingMenu) is flushing async loading
+[2018.02.16-00.11.21:100][  0]LogRenderer: Reallocating scene render targets to support 1600x900 Format 9 NumSamples 1 (Frame:1).
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel SplashScreenWidget_C_0: 
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: Input suspension: Started
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: SplashScreenWidget_C_0
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: SplashScreenWidget_C_0
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: SplashScreenWidget_C_0
+[2018.02.16-00.11.21:100][  0]LogFortNavigation: Verbose: CenterWidget(UWidget): SplashScreenWidget_C_0 
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.02.16-00.11.21:100][  0]LogOnline: Display: CloseSplashScreen UserIndex: 0
+[2018.02.16-00.11.21:100][  0]LogOnline: Display: CloseSplashScreen: No bootable invite detected
+[2018.02.16-00.11.21:100][  0]LogHotfixManager: Display: Update already in progress
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: SplashScreenWidget_C_0
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel SplashScreenWidget_C_0: 
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: SplashScreenWidget_C_0
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: SplashScreenWidget_C_0
+[2018.02.16-00.11.21:100][  0]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: SplashScreenWidget_C_0
+[2018.02.16-00.11.21:100][  0]LogFortNavigation: Verbose: CenterWidget(UWidget): SplashScreenWidget_C_0 
+[2018.02.16-00.11.21:101][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.16-00.11.21:101][  0]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.02.16-00.11.21:108][  1]LogOnline: Verbose: MCP: Large tick time detected 33.3050
+[2018.02.16-00.11.21:109][  1]LogOnline: Verbose: OSS: No valid auth for clientId=ec684b8c687f479fadea3cb2ad83f5c6
+[2018.02.16-00.11.21:109][  1]LogOnline: Verbose: OSS: Sending Client Auth request. url=https://account-public-service-prod03.ol.epicgames.com/account, Payload=[REDACTED]
+[2018.02.16-00.11.21:110][  1]LogD3D11RHI: Error: Direct3DDevice->CreateBuffer(&Desc, NULL, UniformBufferResource.GetInitReference()) failed 
+ at D:\Build\++FN25\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11UniformBuffer.cpp:159 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2018.02.16-00.11.21:110][  1]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2018.02.16-00.11.21:113][  1]LogLevel: ActivateLevel /Game/Maps/FrontEnd/FortniteWorldMap 1 1 1
+[2018.02.16-00.11.21:119][  1]LogHotfixManager: Display: Update State UpdatePending -> CheckingForPatch
+[2018.02.16-00.11.21:119][  1]LogOnline: OSS: Sending User Privilege request. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/versioncheck?version=%2B%2BFortnite%2BRelease-2.5-CL-3889387-Windows
+[2018.02.16-00.11.21:119][  1]LogLogitechLED: Warning: Logitech LED failed to init
+[2018.02.16-00.11.21:120][  1]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/FortniteWorldMap) is flushing async loading
+[2018.02.16-00.11.21:315][  1]LogLevelActorContainer: Created LevelActorCluster (600) for /Game/Maps/FrontEnd/FortniteWorldMap.FortniteWorldMap:PersistentLevel with 16 objects, 28 referenced clusters and 10 mutable objects.
+[2018.02.16-00.11.21:319][  1]LogSlate: Took 0.001640 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/BurbankBigCondensed-Black.ufont' (157K)

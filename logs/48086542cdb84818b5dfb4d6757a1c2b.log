@@ -1,0 +1,869 @@
+Log file open, 04/19/19 16:10:34
+AppSettings: Version: 9.12.0-5958502+++Portal+Release-Live
+AppSettings: CommandLine: "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe" -silent
+AppSettings: RunningCommandlet: false
+AppSettings: ForwardMessage: false
+AppSettings: ForcedRestart: false
+AppSettings: bAllowMultipleInstances: false
+AppSettings: bBootstrap: false
+AppSettings: bSilent: true
+AppSettings: bForceDeprecated: false
+AppSettings: bDoesCompiledPlatformMatch: true
+AppSettings: bIsUnattended: false
+AppSettings: bAllowFullAppTesting: false
+AppSettings: bIsExecutingAutomation: false
+AppSettings: Mode: default
+LogInit: WinPlatform: User is admin: true
+LogInit: WinPlatform: Process ran as admin: false
+LogInit: WinPlatform: Process is elevated: false
+LogInit: WinPlatform: Process integrity level: Medium
+LogInit: WinPlatform: Running 64bit App: true
+LogInit: WinPlatform: Running 64bit OS: true
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 10 total threads with 1 sets of task threads.
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MessagingDebugger
+LogPluginManager: Mounting plugin UdpMessaging
+LogInit: Build: 9.12.0-5958502+++Portal+Release-Live
+LogInit: Engine Version: 4.21.0-5958502+++Portal+Release-Live
+LogInit: Compatible Engine Version: 4.21.0-5958502+++Portal+Release-Live
+LogInit: Net CL: 5958502
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU           W3530  @ 2.80GHz, GPU: NVIDIA Quadro 2000
+LogInit: Compiled (64-bit): Apr 17 2019 17:41:21
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Portal+Release-Live
+LogInit: Command Line: "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe" -silent -SaveToUserDir -Messaging -enablehighdpi
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.19-06.10.34:961][  0]LogInit: Computer: DESKTOP-IS857IE
+[2019.04.19-06.10.34:961][  0]LogInit: User: lochl
+[2019.04.19-06.10.34:961][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.19-06.10.34:961][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.04.19-06.10.34:961][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.04.19-06.10.34:961][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.19-06.10.34:961][  0]LogMemory: Process Physical Memory: 26.00 MB used, 26.00 MB peak
+[2019.04.19-06.10.34:961][  0]LogMemory: Process Virtual Memory: 50.25 MB used, 50.25 MB peak
+[2019.04.19-06.10.34:961][  0]LogMemory: Physical Memory: 2723.14 MB used,  13658.45 MB free, 16381.59 MB total
+[2019.04.19-06.10.34:961][  0]LogMemory: Virtual Memory: 4331.81 MB used,  13658.45 MB free, 134217728.00 MB total
+[2019.04.19-06.10.35:759][  0]LogAssetRegistry: FAssetRegistry took 0.0938 seconds to start up
+[2019.04.19-06.10.35:819][  0]LogUObjectArray: 2053 objects as part of root set at end of initial load.
+[2019.04.19-06.10.35:820][  0]LogUObjectAllocator: 296096 out of 0 bytes used by permanent object pool.
+[2019.04.19-06.10.35:820][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.19-06.10.35:820][  0]LogInit: Using OS detected language (en-US).
+[2019.04.19-06.10.35:820][  0]LogInit: Using OS detected locale (en-AU).
+[2019.04.19-06.10.35:878][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.19-06.10.35:879][  0]LogInit: Using OS detected language (en-US).
+[2019.04.19-06.10.35:879][  0]LogInit: Using OS detected locale (en-AU).
+[2019.04.19-06.10.35:880][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.19-06.10.35:892][  0]LogPackageLocalizationCache: Processed 2 localized package path(s) for 2 prioritized culture(s) in 0.000352 seconds
+[2019.04.19-06.10.36:941][  0]LogTaskGraph: Started task graph with 4 named threads and 10 total threads with 1 sets of task threads.
+[2019.04.19-06.10.37:435][  0]LogInit: Using libcurl 7.55.1-DEV
+[2019.04.19-06.10.37:435][  0]LogInit:  - built for x86_64-pc-win32
+[2019.04.19-06.10.37:435][  0]LogInit:  - supports SSL with OpenSSL/1.0.2h
+[2019.04.19-06.10.37:435][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+[2019.04.19-06.10.37:435][  0]LogInit:  - other features:
+[2019.04.19-06.10.37:435][  0]LogInit:      CURL_VERSION_SSL
+[2019.04.19-06.10.37:435][  0]LogInit:      CURL_VERSION_LIBZ
+[2019.04.19-06.10.37:435][  0]LogInit:      CURL_VERSION_IPV6
+[2019.04.19-06.10.37:435][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2019.04.19-06.10.37:435][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2019.04.19-06.10.37:435][  0]LogInit:      CURL_VERSION_IDN
+[2019.04.19-06.10.37:461][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2019.04.19-06.10.37:461][  0]LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+[2019.04.19-06.10.37:462][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2019.04.19-06.10.37:462][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2019.04.19-06.10.37:462][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2019.04.19-06.10.37:462][  0]LogInit:  - MaxHostConnections = 0  - Libcurl will NOT limit the number of connections to a host
+[2019.04.19-06.10.37:462][  0]LogInit:  - LocalHostAddr = Default
+[2019.04.19-06.10.37:462][  0]LogInit:  - BufferSize = 65536
+[2019.04.19-06.12.02:403][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.19-06.12.02:494][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.19-06.12.02:495][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.19-06.12.02:937][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.19-06.12.02:937][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.19-06.12.03:879][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.04.19-06.12.03:879][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.19-06.12.04:261][  0]Portal: Constructing App Data Access Layer
+[2019.04.19-06.12.04:303][  0]LogBuildInfoRepository: Using LauncherLabel Live-Carbide
+[2019.04.19-06.12.09:636][  0]LogSelfUpdateService: Initialising for EpicGamesLauncher 9.12.0-5958502+++Portal+Release-Live-Windows.
+[2019.04.19-06.12.09:963][  0]LogStreaming: Warning: Failed to read file 'C:/ProgramData/Epic/EpicGamesLauncher/Data/LauncherUpdate.manifest' error.
+[2019.04.19-06.12.09:963][  0]Portal: Constructing App Domain Layer
+[2019.04.19-06.12.12:402][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\UnrealEngineLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2019.04.19-06.12.12:420][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2019.04.19-06.12.12:420][  0]WinPlatform: Found matching shortcut: false
+[2019.04.19-06.12.12:420][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2019.04.19-06.12.12:422][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2019.04.19-06.12.12:422][  0]WinPlatform: Found matching shortcut: false
+[2019.04.19-06.12.12:422][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2019.04.19-06.12.12:424][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2019.04.19-06.12.12:424][  0]WinPlatform: Found matching shortcut: false
+[2019.04.19-06.12.12:424][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2019.04.19-06.12.12:425][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2019.04.19-06.12.12:425][  0]WinPlatform: Found matching shortcut: true
+[2019.04.19-06.12.12:426][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\UnrealEngineLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2019.04.19-06.12.12:471][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2019.04.19-06.12.12:471][  0]WinPlatform: Found matching shortcut: false
+[2019.04.19-06.12.12:471][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2019.04.19-06.12.12:473][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2019.04.19-06.12.12:473][  0]WinPlatform: Found matching shortcut: false
+[2019.04.19-06.12.12:473][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2019.04.19-06.12.12:475][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2019.04.19-06.12.12:475][  0]WinPlatform: Found matching shortcut: false
+[2019.04.19-06.12.12:475][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: C:\Program Files (x86)\Epic Games.
+[2019.04.19-06.12.12:477][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: C:\Program Files (x86)\Epic Games
+[2019.04.19-06.12.12:477][  0]WinPlatform: Found matching shortcut: true
+[2019.04.19-06.12.31:409][  0]Manifest Check:   0x0000021AF2D16600   Version:   61951-25754325-Windows   AppName:   Jaguar  CPAM Line: 2363 Desc: HandleInstalledManifestReceived 
+[2019.04.19-06.12.31:409][  0]FCommunityPortalAppManagerImpl: Keeping discovered manifest
+[2019.04.19-06.12.31:409][  0]Manifest Check:   0x0000021AF2D168C0   Version:   1.2.5.3   AppName:   Buffalo  CPAM Line: 2363 Desc: HandleInstalledManifestReceived 
+[2019.04.19-06.12.31:409][  0]FCommunityPortalAppManagerImpl: Keeping discovered manifest
+[2019.04.19-06.12.31:409][  0]Manifest Check:   0x0000021AF2D16B80   Version:   1.47   AppName:   Puffin  CPAM Line: 2363 Desc: HandleInstalledManifestReceived 
+[2019.04.19-06.12.31:409][  0]FCommunityPortalAppManagerImpl: Keeping discovered manifest
+[2019.04.19-06.12.31:409][  0]Manifest Check:   0x0000021AF2D17100   Version:   1.0.3   AppName:   Feverfew  CPAM Line: 2363 Desc: HandleInstalledManifestReceived 
+[2019.04.19-06.12.31:409][  0]FCommunityPortalAppManagerImpl: Keeping discovered manifest
+[2019.04.19-06.12.31:409][  0]Manifest Check:   0x0000021AF2D173C0   Version:   1.50473-x64   AppName:   Dill  CPAM Line: 2363 Desc: HandleInstalledManifestReceived 
+[2019.04.19-06.12.31:409][  0]FCommunityPortalAppManagerImpl: Keeping discovered manifest
+[2019.04.19-06.12.31:409][  0]Manifest Check:   0x0000021AF2D17680   Version:   2019_1_23   AppName:   Magnolia  CPAM Line: 2363 Desc: HandleInstalledManifestReceived 
+[2019.04.19-06.12.31:409][  0]FCommunityPortalAppManagerImpl: Keeping discovered manifest
+[2019.04.19-06.12.31:409][  0]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPAM Line: 2363 Desc: HandleInstalledManifestReceived 
+[2019.04.19-06.12.31:409][  0]FCommunityPortalAppManagerImpl: Keeping discovered manifest
+[2019.04.19-06.12.31:409][  0]Manifest Check:   0x0000021AF2D17C00   Version:   2.7.1-20190208_002   AppName:   Hibiscus  CPAM Line: 2363 Desc: HandleInstalledManifestReceived 
+[2019.04.19-06.12.31:409][  0]FCommunityPortalAppManagerImpl: Keeping discovered manifest
+[2019.04.19-06.12.31:409][  0]Manifest Check:   0x0000021AF2D18700   Version:   1.3.2c_Win64   AppName:   Corydalis  CPAM Line: 2363 Desc: HandleInstalledManifestReceived 
+[2019.04.19-06.12.31:409][  0]FCommunityPortalAppManagerImpl: Keeping discovered manifest
+[2019.04.19-06.12.31:409][  0]Manifest Check:   0x0000021AF2D18F40   Version:   955.1-win   AppName:   Tulip  CPAM Line: 2363 Desc: HandleInstalledManifestReceived 
+[2019.04.19-06.12.31:409][  0]FCommunityPortalAppManagerImpl: Keeping discovered manifest
+[2019.04.19-06.12.31:409][  0]Manifest Check:   0x0000021AF2D19200   Version:   1.1.1   AppName:   Badger  CPAM Line: 2363 Desc: HandleInstalledManifestReceived 
+[2019.04.19-06.12.31:410][  0]FCommunityPortalAppManagerImpl: Keeping discovered manifest
+[2019.04.19-06.12.31:410][  0]Portal: Constructing App Presentation Layer
+[2019.04.19-06.12.32:748][  0]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:2
+[2019.04.19-06.12.32:989][  0]Portal: Constructing App UI Layer
+[2019.04.19-06.12.35:642][  2]FCommunityPortalManagerImpl: Change State CPManagerState_Init->CPManagerState_WaitingRoom
+[2019.04.19-06.12.35:776][  2][SignInRouter] GoToUrl('/waiting-room')
+[2019.04.19-06.12.35:853][  2][SignInRouter]    Resolved To: '/waiting-room'
+[2019.04.19-06.12.35:853][  2][SignInRouter]    Best Match: waiting-room
+[2019.04.19-06.12.36:002][  2][SignInRouter]    Navigation Complete.
+[2019.04.19-06.12.38:478][ 58]FCommunityPortalManagerImpl: Change State CPManagerState_WaitingRoom->CPManagerState_UserLogin
+[2019.04.19-06.12.38:478][ 58][SignInRouter] GoToUrl('/epic-login')
+[2019.04.19-06.12.38:478][ 58][SignInRouter]    Resolved To: '/epic-login'
+[2019.04.19-06.12.38:478][ 58][SignInRouter]    Best Match: epic-login
+[2019.04.19-06.12.38:525][ 59]FCommunityPortalManagerImpl: Change State CPManagerState_UserLogin->CPManagerState_SelfUpdateCheck
+[2019.04.19-06.12.46:551][ 64]LogSelfUpdateService: Launcher build response 9.12.0-5958502+++Portal+Release-Live-Windows.
+[2019.04.19-06.12.46:601][ 64]LogSelfUpdateService: Launcher is up-to-date with the latest available version.
+[2019.04.19-06.12.46:601][ 64]LogSelfUpdateService: Waiting for next version update.
+[2019.04.19-06.12.46:601][ 64]LogEmsContentProvider: Content build response ++Portal+Main+prod-CL-5988594-Windows.
+[2019.04.19-06.12.46:724][ 64]LogBuildPatchServices: FBuildPatchInstaller CTOR Configuration.InstallManifest Check:   0x0000021AF2D16080
+[2019.04.19-06.12.46:724][ 64]LogBuildPatchServices: FBuildPatchInstaller CTOR Configuration.CurrentManifest Check:   0x0000021AF2D16080
+[2019.04.19-06.12.46:724][ 64]LogBuildPatchServices: FBuildPatchInstaller CTOR CurrentBuildManifest Check:   0x0000021AF2D16080
+[2019.04.19-06.12.46:724][ 64]LogBuildPatchServices: FBuildPatchInstaller CTOR NewBuildManifest Check:   0x0000021AF2D16080
+[2019.04.19-06.12.46:781][ 64]LogEmsContentProvider: Installer started.
+[2019.04.19-06.12.46:926][ 64]LogBuildPatchServices: Build Config: InstallManifest: 0x0000021AF2D16080
+[2019.04.19-06.12.46:926][ 64]LogBuildPatchServices: Build Config: InstallManifest Version: ++Portal+Main+prod-CL-5988594-Windows
+[2019.04.19-06.12.46:926][ 64]LogBuildPatchServices: Build Config: CurrentManifest: 0x0000021AF2D16080
+[2019.04.19-06.12.46:926][ 64]LogBuildPatchServices: Build Config: CurrentManifest Version: ++Portal+Main+prod-CL-5988594-Windows
+[2019.04.19-06.12.46:926][ 64]LogBuildPatchServices: Build Config: InstallDirectory: C:/ProgramData/Epic/EpicGamesLauncher/Data/EMS/EpicGamesLauncher
+[2019.04.19-06.12.46:926][ 64]LogBuildPatchServices: Build Config: StagingDirectory: C:/ProgramData/Epic/EpicGamesLauncher/Data/EMS/stage/
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: BackupDirectory: 
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: CloudDirectories: https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/CloudDir
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: CloudDirectories: https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/CloudDir
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: CloudDirectories: https://download.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: CloudDirectories: https://download2.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: CloudDirectories: https://download3.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: CloudDirectories: https://download4.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: InstallTags: 
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: ValidTags: 
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: InstallMode: EInstallMode::NonDestructiveInstall
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: VerifyMode: EVerifyMode::ShaVerifyAllFiles
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: DeltaPolicy: EDeltaPolicy::Skip
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: bIsRepair: true
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: bRunRequiredPrereqs: true
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: bAllowConcurrentExecution: false
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Build Config: bDisableDownloadConnectionScaling: true
+[2019.04.19-06.12.46:927][ 64]LogBuildPatchServices: Starting Installation
+[2019.04.19-06.12.46:927][ 64]FCommunityPortalManagerImpl: Change State CPManagerState_SelfUpdateCheck->CPManagerState_WaitEms
+[2019.04.19-06.12.48:608][102]LogBuildPatchServices: Requiring 0 files
+[2019.04.19-06.12.50:339][153]BuildPatchResumeData file found 0
+[2019.04.19-06.12.50:339][153]LogBuildPatchServices: Performing a repair operation
+[2019.04.19-06.12.50:372][154]LogBuildPatchServices: File construction complete
+[2019.04.19-06.12.50:440][156]LogBuildPatchServices: Staged install complete
+[2019.04.19-06.12.50:440][156]LogBuildPatchServices: Running backup and stage relocation
+[2019.04.19-06.12.50:474][157]LogBuildPatchServices: Relocation complete 1
+[2019.04.19-06.12.50:812][167]LogBuildPatchServices: Verifying install
+[2019.04.19-06.12.58:274][384][SignInRouter]    Navigation Complete.
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Verify stage complete 1
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Deleting staging area.
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Reset MM.
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: AppName: EpicGamesLauncherContent
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: AppInstalledVersion: ++Portal+Main+prod-CL-5988594-Windows
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: AppPatchVersion: ++Portal+Main+prod-CL-5988594-Windows
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: CloudDirectory: https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/CloudDir
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: NumFilesInBuild: 301
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: NumFilesOutdated: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: NumFilesToRemove: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: NumChunksRequired: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: ChunksQueuedForDownload: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: ChunksLocallyAvailable: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: ChunksInChunkDbs: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: NumChunksDownloaded: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: NumChunksRecycled: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: NumChunksReadFromChunkDbs: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: NumFailedDownloads: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: NumBadDownloads: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: NumAbortedDownloads: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: NumRecycleFailures: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: NumChunksStoreBooted: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: NumDriveStoreChunkLoads: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: NumDriveStoreLoadFailures: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: NumChunkDbChunksFailed: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: TotalDownloadedData: 0
+[2019.04.19-06.13.28:615][270]LogBuildPatchServices: Build Stat: ActiveRequestCountPeak : 0
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: AverageDownloadSpeed: 0 bytes (0 B, 0 B) /sec
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: PeakDownloadSpeed: 0 bytes (0 B, 0 B) /sec
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: TotalReadData: 8829528
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: AverageDiskReadSpeed: 221,091,393.501 bytes (221.091 MB, 210.849 MiB) /sec
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: PeakDiskReadSpeed: 221,091,393.501 bytes (221.091 MB, 210.849 MiB) /sec
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: TotalWrittenData: 0
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: AverageDiskWriteSpeed: 0 bytes (0 B, 0 B) /sec
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: PeakDiskWriteSpeed: 0 bytes (0 B, 0 B) /sec
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: NumFilesConstructed: 0
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: InitializeTime: 3.55 sec
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: TheoreticalDownloadTime: 0 ms
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: ConstructTime: 39 ms
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: MoveFromStageTime: 45 ms
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: FileAttributesTime: 254 ms
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: VerifyTime: 37.6 sec
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: CleanUpTime: 2 ms
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: PrereqTime: 0 ms
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: ProcessPausedTime: 0 ms
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: ProcessActiveTime: 41.6 sec
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: ProcessExecuteTime: 41.6 sec
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: ProcessSuccess: TRUE
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: ErrorCode: OK
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: FailureReasonText: The operation was successful.
+[2019.04.19-06.13.28:728][270]LogBuildPatchServices: Build Stat: FailureType: SUCCESS
+[2019.04.19-06.13.28:729][270]LogBuildPatchServices: Build Stat: NumInstallRetries: 0
+[2019.04.19-06.13.28:729][270]LogBuildPatchServices: Build Stat: FinalProgressValue: 1.000000
+[2019.04.19-06.13.28:729][270]LogBuildPatchServices: Build Stat: OverallRequestSuccessRate: 0.000000
+[2019.04.19-06.13.28:729][270]LogBuildPatchServices: Build Stat: ExcellentDownloadHealthTime: 0 ms
+[2019.04.19-06.13.28:729][270]LogBuildPatchServices: Build Stat: GoodDownloadHealthTime: 0 ms
+[2019.04.19-06.13.28:729][270]LogBuildPatchServices: Build Stat: OkDownloadHealthTime: 0 ms
+[2019.04.19-06.13.28:729][270]LogBuildPatchServices: Build Stat: PoorDownloadHealthTime: 87 ms
+[2019.04.19-06.13.28:729][270]LogBuildPatchServices: Build Stat: DisconnectedDownloadHealthTime: 0 ms
+[2019.04.19-06.13.28:729][270]LogBuildPatchServices: Build Stat: AverageMemoryStoreUse: 0.0
+[2019.04.19-06.13.28:729][270]LogBuildPatchServices: Build Stat: PeakMemoryStoreUse: 0
+[2019.04.19-06.13.28:729][270]LogBuildPatchServices: Build Stat: AverageMemoryStoreRetained: 0.0
+[2019.04.19-06.13.28:729][270]LogBuildPatchServices: Build Stat: PeakMemoryStoreRetained: 0
+[2019.04.19-06.13.28:729][270]LogBuildPatchServices: Build Stat: MemoryStoreSize: 336
+[2019.04.19-06.13.28:729][270]LogEmsContentProvider: Installer complete. Success:1.
+[2019.04.19-06.13.29:613][270]LogEmsContentProvider: Waiting for next version update.
+[2019.04.19-06.13.29:614][271]FAccountService::AutoSignIn
+[2019.04.19-06.13.29:725][271]LogOnlineIdentity: OSS: Sending Login request. url=https://account-public-service-prod03.ol.epicgames.com/account, type=refresh, id=[REDACTED]
+[2019.04.19-06.13.29:725][271]FCommunityPortalManagerImpl: Change State CPManagerState_WaitEms->CPManagerState_LoggingIn
+[2019.04.19-06.13.31:837][300]LogOnlineIdentity: OSS: FOnlineIdentityMcp::HandleXmppConnectionCreated
+[2019.04.19-06.13.36:573][420]FAccountService::OnLoginComplete - 0 TRUE 1d96a102022e48468bfd7014ecce4da1 
+[2019.04.19-06.13.36:573][420]Portal: Constructing User Data Access Layer
+[2019.04.19-06.13.36:574][420]Portal: Constructing User Domain Layer
+[2019.04.19-06.13.40:924][420]Portal: Constructing User Presentation Layer
+[2019.04.19-06.13.49:287][420]Portal: Constructing User UI Layer
+[2019.04.19-06.13.49:339][420]FUnrealEnginePortalViewModelImple_UpdateLauncherViewModel: LauncherViewModel is valid
+[2019.04.19-06.13.49:385][420]FAccountService::OnLoginChanged - LoggedIn 0
+[2019.04.19-06.13.49:419][420]LogOnlineParty: OSS: FOnlinePartySystemMcp::OnXmppLoginChanged - logged in user 1d96a102022e48468bfd7014ecce4da1
+[2019.04.19-06.13.49:419][420]LogOnlineIdentity: OSS: FOnlineIdentityMcp::OnXmppLoginChanged 1d96a102022e48468bfd7014ecce4da1:prod.ol.epicgames.com:V2:launcher:WIN::B0705F2A4261B41C71EB67ABAC6E016D loggedin
+[2019.04.19-06.13.49:668][421]FCommunityPortalManagerImpl: Change State CPManagerState_LoggingIn->CPManagerState_LaunchWebSession
+[2019.04.19-06.13.49:670][421][SignInRouter] GoToUrl('/waiting-room')
+[2019.04.19-06.13.49:670][421][SignInRouter]    Resolved To: '/waiting-room'
+[2019.04.19-06.13.49:670][421][SignInRouter]    Best Match: waiting-room
+[2019.04.19-06.13.49:670][421][SignInRouter]    Navigation Complete.
+[2019.04.19-06.13.51:658][467]FCommunityPortalManagerImpl: Change State CPManagerState_LaunchWebSession->CPManagerState_LaunchInfo
+[2019.04.19-06.13.54:517][469]FCommunityPortalManagerImpl: Change State CPManagerState_LaunchInfo->CPManagerState_Launch
+[2019.04.19-06.13.54:528][469][SignInRouter] GoToUrl('/null')
+[2019.04.19-06.13.54:528][469][SignInRouter]    Resolved To: '/null'
+[2019.04.19-06.13.54:528][469][SignInRouter]    Best Match: null
+[2019.04.19-06.13.55:179][469]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.19-06.13.55:662][469][SignInRouter]    Navigation Complete.
+[2019.04.19-06.20.38:915][333]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.04.19-06.20.39:049][333]~SCommunityPortalMainImpl UEPVM:2
+[2019.04.19-06.20.39:055][333]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.04.19-06.20.39:055][333][MainRouter] GoToUrl('[epic_home]')
+[2019.04.19-06.20.39:055][333][MainRouter]    Resolved To: '/store/en-US/home'
+[2019.04.19-06.20.39:055][333][MainRouter]    Best Match: app
+[2019.04.19-06.20.49:834][627][MainRouter]    Navigation Complete.
+[2019.04.19-06.20.53:627][733]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.19-10.10.47:032][ 21]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPAM Line: 2567 Desc: HandleEntitledManifestReceived 
+[2019.04.19-10.10.47:032][ 21]HandleEntitledManifestReceived: Same Build? 1
+[2019.04.19-10.10.47:064][ 22]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 363 Desc: QueueAppInstall::InstallManifest 
+[2019.04.19-10.10.47:064][ 22]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 364 Desc: QueueAppInstall::SavedInstallManifest 
+[2019.04.19-10.10.47:064][ 22]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 365 Desc: QueueAppInstall::CompletedManifest 
+[2019.04.19-10.10.47:064][ 22]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 346 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:064][ 22]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 346 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:073][ 22]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 998 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:073][ 22]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 998 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:078][ 22]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1013 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:079][ 22]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1013 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:079][ 22]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1029 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:079][ 22]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1029 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:095][ 22]DirectoryPreparation: Directory already setup
+[2019.04.19-10.10.47:095][ 22]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1041 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:095][ 22]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1041 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:095][ 22]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1065 Desc: UpdateDetails.ManifestA 
+[2019.04.19-10.10.47:095][ 22]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1066 Desc: UpdateDetails.ManifestB 
+[2019.04.19-10.10.47:095][ 22]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1050 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:095][ 22]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1050 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:095][ 22]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1057 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:095][ 22]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1094 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:095][ 22]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1057 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:095][ 22]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1094 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:095][ 22]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1078 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:095][ 22]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1078 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:096][ 22]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1086 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:096][ 22]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1086 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:096][ 22]FCommunityPortalPatcher: Change State Idle->Patching
+[2019.04.19-10.10.47:108][ 22]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1109 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:108][ 22]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1109 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:108][ 22]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1133 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:109][ 22]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1133 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:109][ 22]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1154 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:109][ 22]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1154 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:781][ 43]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1171 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:781][ 43]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1171 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:814][ 44]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1181 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:814][ 44]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1181 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:814][ 44]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1185 Desc: QueuedInstallManifestRef 
+[2019.04.19-10.10.47:814][ 44]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1200 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:814][ 44]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1200 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:815][ 44]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1201 Desc: QueuedInstallManifestRef 
+[2019.04.19-10.10.47:815][ 44]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPAM Line: 1004 Desc: AddIncompleteInstallManifest 
+[2019.04.19-10.10.47:815][ 44]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1225 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.47:816][ 44]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1225 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.47:816][ 44]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1226 Desc: QueuedInstallManifestRef 
+[2019.04.19-10.10.47:816][ 44]1261 QueuedInstallManifestRef Check:   0x0000021AB0770040
+[2019.04.19-10.10.47:816][ 44]1262 Configuration.InstallManifest Check:   0x0000021AB0770040
+[2019.04.19-10.10.47:816][ 44]1263 Configuration.CurrentManifest Check:   0x0000021AF2D17940
+[2019.04.19-10.10.47:816][ 44]LogOptimisedDelta: Requesting optimised delta file Deltas/5Xef_23oLqBzt9bqoUJ8KzvQ0Yo/1b3Ah1zA-_-bgaKV5kCRA43a1gs.delta
+[2019.04.19-10.10.47:816][ 44]LogBuildPatchServices: FBuildPatchInstaller CTOR Configuration.InstallManifest Check:   0x0000021AB0770040
+[2019.04.19-10.10.47:816][ 44]LogBuildPatchServices: FBuildPatchInstaller CTOR Configuration.CurrentManifest Check:   0x0000021AF2D17940
+[2019.04.19-10.10.47:816][ 44]LogBuildPatchServices: FBuildPatchInstaller CTOR CurrentBuildManifest Check:   0x0000021AF2D17940
+[2019.04.19-10.10.47:816][ 44]LogBuildPatchServices: FBuildPatchInstaller CTOR NewBuildManifest Check:   0x0000021AB0770040
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: InstallManifest: 0x0000021AB0770040
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: InstallManifest Version: ++Fortnite+Release-8.40-CL-6005771-Windows
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: CurrentManifest: 0x0000021AF2D17940
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: CurrentManifest Version: ++Fortnite+Release-8.40-CL-5914491-Windows
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: InstallDirectory: C:/Fortnite
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: StagingDirectory: C:\Fortnite/.lysEB
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: BackupDirectory: 
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: CloudDirectories: https://epicgames-download1.akamaized.net/Builds/Fortnite/CloudDir
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: CloudDirectories: https://epicgames-download1.akamaized.net/Builds/Fortnite/CloudDir
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: CloudDirectories: https://download.epicgames.com/Builds/Fortnite/CloudDir
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: CloudDirectories: https://download2.epicgames.com/Builds/Fortnite/CloudDir
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: CloudDirectories: https://download3.epicgames.com/Builds/Fortnite/CloudDir
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: CloudDirectories: https://download4.epicgames.com/Builds/Fortnite/CloudDir
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: InstallTags: 
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: InstallTags: chunk0
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: InstallTags: chunk1
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: InstallTags: chunk10
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: ValidTags: 
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: ValidTags: chunk0
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: ValidTags: chunk1
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: ValidTags: chunk10
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: ValidTags: chunk11
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: ValidTags: chunk2
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: ValidTags: chunk5
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: ValidTags: chunk7
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: ValidTags: chunk8
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: ValidTags: chunk9
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: InstallMode: EInstallMode::DestructiveInstall
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: VerifyMode: EVerifyMode::FileSizeCheckTouchedFiles
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: DeltaPolicy: EDeltaPolicy::TryFetchContinueWithout
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: bIsRepair: false
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: bRunRequiredPrereqs: false
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: bAllowConcurrentExecution: false
+[2019.04.19-10.10.48:186][ 44]LogBuildPatchServices: Build Config: bDisableDownloadConnectionScaling: false
+[2019.04.19-10.10.48:186][ 44]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1272 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.48:186][ 44]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1272 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.48:186][ 44]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1273 Desc: QueuedInstallManifestRef 
+[2019.04.19-10.10.48:186][ 44]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1290 Desc: QueuedInstall.InstallManifest 
+[2019.04.19-10.10.48:186][ 44]Manifest Check:   0x0000021AF2D17940   Version:   ++Fortnite+Release-8.40-CL-5914491-Windows   AppName:   Fortnite  CPP Line: 1290 Desc: QueuedInstall.CurrentManifest 
+[2019.04.19-10.10.48:187][ 44]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1291 Desc: QueuedInstallManifestRef 
+[2019.04.19-10.10.49:758][ 88]LogOptimisedDelta: Received optimised delta file successfully Deltas/5Xef_23oLqBzt9bqoUJ8KzvQ0Yo/1b3Ah1zA-_-bgaKV5kCRA43a1gs.delta
+[2019.04.19-10.10.49:898][ 91]LogBuildPatchServices: Starting Installation
+[2019.04.19-10.10.50:802][119]LogBuildPatchServices: Requiring 174 files
+[2019.04.19-10.11.01:566][442]BuildPatchResumeData file found 0
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: request failed, libcurl error: 0 (No error)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 0 (Found bundle for host epicgames-download1.akamaized.net: 0x21a80d49c40 [can pipeline])
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 1 (Hostname epicgames-download1.akamaized.net was found in DNS cache)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 2 (  Trying 149.135.80.186...)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 3 (TCP_NODELAY set)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 4 (Connected to epicgames-download1.akamaized.net (149.135.80.186) port 443 (#358))
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 7 (SSL re-using session ID)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 10 (TLSv1.2 (IN), TLS change cipher, Client hello (1):)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 11 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 12 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 13 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 14 (SSL connection using TLSv1.2 / ECDHE-ECDSA-AES256-GCM-SHA384)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 15 (ALPN, server accepted to use http/1.1)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 16 (Server certificate:)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 17 ( subject: C=US; ST=Massachusetts; L=Cambridge; O=Akamai Technologies, Inc.; CN=a248.e.akamai.net)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 18 ( start date: Oct 18 00:00:00 2018 GMT)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 19 ( expire date: Oct 18 12:00:00 2019 GMT)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 20 ( subjectAltName: host "epicgames-download1.akamaized.net" matched cert's "*.akamaized.net")
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 21 ( issuer: C=US; O=DigiCert Inc; CN=DigiCert ECC Secure Server CA)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 22 ( SSL certificate verify ok.)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 23 (Closing connection 358)
+[2019.04.19-10.11.21:637][ 44]LogHttp: Warning: 0000021AFBAB8BC0: libcurl info message cache 24 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.04.19-10.27.26:010][997]LogBuildPatchServices: File construction complete
+[2019.04.19-10.27.26:048][998]LogBuildPatchServices: Staged install complete
+[2019.04.19-10.27.26:048][998]LogBuildPatchServices: Running backup and stage relocation
+[2019.04.19-10.27.26:075][999]LogBuildPatchServices: Removed (1,0) FortniteGame/Content/Paks/pakchunk1010-WindowsClient.pak
+[2019.04.19-10.27.26:141][  1]LogBuildPatchServices: Removed (1,0) FortniteGame/Content/Paks/pakchunk1010-WindowsClient.sig
+[2019.04.19-10.27.26:141][  1]LogBuildPatchServices: Removed (1,0) FortniteGame/Content/Paks/pakchunk1011-WindowsClient.pak
+[2019.04.19-10.27.26:141][  1]LogBuildPatchServices: Removed (1,0) FortniteGame/Content/Paks/pakchunk1011-WindowsClient.sig
+[2019.04.19-10.27.26:178][  2]LogBuildPatchServices: Create MM
+[2019.04.19-10.27.27:111][ 30]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/CEF3/Win64
+[2019.04.19-10.27.27:111][ 30]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/CEF3
+[2019.04.19-10.27.27:111][ 30]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64
+[2019.04.19-10.27.27:111][ 30]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath
+[2019.04.19-10.27.27:111][ 30]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/NVIDIA
+[2019.04.19-10.27.27:111][ 30]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015
+[2019.04.19-10.27.27:111][ 30]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Ogg/Win64
+[2019.04.19-10.27.27:111][ 30]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Ogg
+[2019.04.19-10.27.27:111][ 30]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015
+[2019.04.19-10.27.27:111][ 30]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/PhysX3/Win64
+[2019.04.19-10.27.27:111][ 30]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/PhysX3
+[2019.04.19-10.27.27:111][ 30]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Vivox/Win64
+[2019.04.19-10.27.27:146][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Vivox
+[2019.04.19-10.27.27:146][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015
+[2019.04.19-10.27.27:146][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Vorbis/Win64
+[2019.04.19-10.27.27:146][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Vorbis
+[2019.04.19-10.27.27:146][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Windows/DirectX/x64
+[2019.04.19-10.27.27:146][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Windows/DirectX
+[2019.04.19-10.27.27:146][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty/Windows
+[2019.04.19-10.27.27:146][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/ThirdParty
+[2019.04.19-10.27.27:146][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries/Win64
+[2019.04.19-10.27.27:146][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine/Binaries
+[2019.04.19-10.27.27:146][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/Engine
+[2019.04.19-10.27.27:146][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/FortniteGame/Binaries/ThirdParty/Discord/Win64
+[2019.04.19-10.27.27:147][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/FortniteGame/Binaries/ThirdParty/Discord
+[2019.04.19-10.27.27:147][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/FortniteGame/Binaries/ThirdParty/Nvidia/Win64
+[2019.04.19-10.27.27:147][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/FortniteGame/Binaries/ThirdParty/Nvidia
+[2019.04.19-10.27.27:147][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/FortniteGame/Binaries/ThirdParty/SpeechGraphics/Win64
+[2019.04.19-10.27.27:147][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/FortniteGame/Binaries/ThirdParty/SpeechGraphics
+[2019.04.19-10.27.27:147][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/FortniteGame/Binaries/ThirdParty
+[2019.04.19-10.27.27:147][ 31]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/FortniteGame/Binaries/Win64/EasyAntiCheat/Certificates
+[2019.04.19-10.27.27:177][ 32]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/FortniteGame/Binaries/Win64/EasyAntiCheat
+[2019.04.19-10.27.27:177][ 32]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/FortniteGame/Binaries/Win64
+[2019.04.19-10.27.27:177][ 32]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/FortniteGame/Binaries
+[2019.04.19-10.27.27:209][ 33]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/FortniteGame/Content/Paks
+[2019.04.19-10.27.27:209][ 33]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/FortniteGame/Content
+[2019.04.19-10.27.27:209][ 33]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/Install/FortniteGame
+[2019.04.19-10.27.27:209][ 33]LogBuildPatchServices: Deleted Empty Folder (1,2) C:/Fortnite/.lysEB/PatchData
+[2019.04.19-10.27.27:880][ 53]LogBuildPatchServices: Relocation complete 1
+[2019.04.19-10.27.27:914][ 54]LogBuildPatchServices: Verifying install
+[2019.04.19-10.27.27:948][ 55]LogBuildPatchServices: Verify stage complete 1
+[2019.04.19-10.27.27:948][ 55]LogBuildPatchServices: Deleting staging area.
+[2019.04.19-10.27.27:948][ 55]LogBuildPatchServices: Reset MM.
+[2019.04.19-10.27.27:948][ 55]FCommunityPortalPatcher: Change State Patching->Success
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: AppName: FortniteReleaseBuilds
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: AppInstalledVersion: ++Fortnite+Release-8.40-CL-5914491-Windows
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: AppPatchVersion: ++Fortnite+Release-8.40-CL-6005771-Windows
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: CloudDirectory: https://epicgames-download1.akamaized.net/Builds/Fortnite/CloudDir
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: NumFilesInBuild: 388
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: NumFilesOutdated: 174
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: NumFilesToRemove: 18
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: NumChunksRequired: 29560
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: ChunksQueuedForDownload: 438
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: ChunksLocallyAvailable: 29122
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: ChunksInChunkDbs: 0
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: NumChunksDownloaded: 439
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: NumChunksRecycled: 29122
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: NumChunksReadFromChunkDbs: 0
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: NumFailedDownloads: 1
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: NumBadDownloads: 0
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: NumAbortedDownloads: 1
+[2019.04.19-10.27.27:952][ 55]LogBuildPatchServices: Build Stat: NumRecycleFailures: 0
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: NumChunksStoreBooted: 0
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: NumDriveStoreChunkLoads: 0
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: NumDriveStoreLoadFailures: 0
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: NumChunkDbChunksFailed: 0
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: TotalDownloadedData: 265638963
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: ActiveRequestCountPeak : 16
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: AverageDownloadSpeed: 1,419,075.277 bytes (1.419 MB, 1.353 MiB) /sec
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: PeakDownloadSpeed: 4,075,673.641 bytes (4.075 MB, 3.887 MiB) /sec
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: TotalReadData: 30536630272
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: AverageDiskReadSpeed: 41,064,506.738 bytes (41.064 MB, 39.162 MiB) /sec
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: PeakDiskReadSpeed: 60,369,373.384 bytes (60.369 MB, 57.572 MiB) /sec
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: TotalWrittenData: 31025974299
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: AverageDiskWriteSpeed: 230,244,013.009 bytes (230.244 MB, 219.577 MiB) /sec
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: PeakDiskWriteSpeed: 262,662,391.917 bytes (262.662 MB, 250.494 MiB) /sec
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: NumFilesConstructed: 174
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: InitializeTime: 13.3 sec
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: TheoreticalDownloadTime: 3:07 min
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: ConstructTime: 16:24 min
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: MoveFromStageTime: 1.82 sec
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: FileAttributesTime: 36 ms
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: VerifyTime: 32 ms
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: CleanUpTime: 2 ms
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: PrereqTime: 0 ms
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: ProcessPausedTime: 0 ms
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: ProcessActiveTime: 16:39 min
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: ProcessExecuteTime: 16:39 min
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: ProcessSuccess: TRUE
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: ErrorCode: OK
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: FailureReasonText: The operation was successful.
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: FailureType: SUCCESS
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: NumInstallRetries: 0
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: FinalProgressValue: 1.000000
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: OverallRequestSuccessRate: 0.997700
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: ExcellentDownloadHealthTime: 19.7 sec
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: GoodDownloadHealthTime: 15:41 min
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: OkDownloadHealthTime: 22.9 sec
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: PoorDownloadHealthTime: 324 ms
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: DisconnectedDownloadHealthTime: 0 ms
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: AverageMemoryStoreUse: 41.9
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: PeakMemoryStoreUse: 127
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: AverageMemoryStoreRetained: 25.0
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: PeakMemoryStoreRetained: 126
+[2019.04.19-10.27.27:953][ 55]LogBuildPatchServices: Build Stat: MemoryStoreSize: 336
+[2019.04.19-10.27.28:362][ 55]Manifest Check:   0x0000021AB0770040   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPAM Line: 1869 Desc: OnNewAppInstallation 
+[2019.04.19-10.27.28:392][ 55]LogPortal: Error: FBuildNotificationToastHandler: App name match failure: Unrecognized token 'magnolia' at character 0
+[2019.04.19-10.27.28:392][ 55]LogPortal: Error: FBuildNotificationToastHandler: Build version match failure: Could not evaluate expression
+[2019.04.19-10.27.28:392][ 55]LogPortal: Error: FBuildNotificationToastHandler: App name match failure: Unrecognized token 'magnolia' at character 0
+[2019.04.19-10.27.28:392][ 55]LogPortal: Error: FBuildNotificationToastHandler: Build version match failure: Could not evaluate expression
+[2019.04.19-10.27.29:039][ 56]FCommunityPortalPatcher: Change State Success->Idle
+[2019.04.19-11.02.59:669][228]LogOnlineEula: Display: OSS: Starting EulaService::GetAgreement request for key fn user 1d96a102022e48468bfd7014ecce4da1
+[2019.04.19-11.03.01:204][320]LogOnlineEula: Display: OSS: EulaService::GetAgreement request complete. url=https://eulatracking-public-service-prod06.ol.epicgames.com/eulatracking/api/public/agreements/fn/account/1d96a102022e48468bfd7014ecce4da1?locale=en-US code=204 key=fn responselength=0
+[2019.04.19-11.03.01:204][320]LogOnlineEula: Display: OSS: EulaService::GetAgreement user has already accepted the agreement fn (no content)
+[2019.04.19-11.03.01:317][321]DEBUGSZ  old=0 new=1
+[2019.04.19-11.03.01:319][322]DEBUGSZ  old=1 new=2
+[2019.04.19-11.03.02:802][406]DEBUGSZ  old=2 new=3
+[2019.04.19-11.03.02:835][407]DEBUGSZ  old=3 new=6
+[2019.04.19-11.03.02:869][408]DEBUGSZ  old=6 new=7
+[2019.04.19-11.03.05:333][482]DEBUGSZ  old=7 new=8
+[2019.04.19-11.03.05:374][483]DEBUGSZ  old=8 new=9
+[2019.04.19-11.03.06:791][526]DEBUGSZ  old=9 new=10
+[2019.04.19-11.03.06:824][527]FCommunityPortalLaunchAppTask: Launching app 'C:/Fortnite/FortniteGame/Binaries/Win64/FortniteLauncher.exe' with commandline ' -AUTH_LOGIN=unused -AUTH_PASSWORD=fd307d948b1045018d70f19e257cca67 -AUTH_TYPE=exchangecode -epicapp=Fortnite -epicenv=Prod -EpicPortal  -epicusername="L0ckyz" -epicuserid=1d96a102022e48468bfd7014ecce4da1 -epiclocale=en-US'
+[2019.04.19-11.03.11:941][672]LogSlate: Request Window 'Epic Games Launcher' being destroyed
+[2019.04.19-11.03.11:974][672]LogSlate: Window 'Epic Games Launcher' being destroyed
+[2019.04.19-11.03.12:262][672][MainRouter] RedirectToUrl('/null')
+[2019.04.19-11.03.12:262][672][MainRouter]    Resolved To: '/null'
+[2019.04.19-11.03.12:262][672][MainRouter]    Best Match: null
+[2019.04.19-11.03.12:286][672][MainRouter]    Navigation Complete.
+[2019.04.19-11.03.12:390][672]~SCommunityPortalMainImpl UEPVM:2
+[2019.04.19-11.03.12:401][672]Portal: Destroying User UI Layer
+[2019.04.19-11.03.12:414][672][MainRouter] RedirectToUrl('/null')
+[2019.04.19-11.03.12:414][672][MainRouter]    Resolved To: '/null'
+[2019.04.19-11.03.12:414][672][MainRouter]    Best Match: null
+[2019.04.19-11.03.12:414][672][MainRouter]    Navigation Stopped. Already at location.
+[2019.04.19-11.03.12:464][672][MainRouter]    Navigation Canceled.
+[2019.04.19-11.03.12:464][672][MainRouter] Refresh('/store/en-US/library')
+[2019.04.19-11.03.12:464][672][MainRouter]    Best Match: invalid - [0] states compared
+[2019.04.19-11.03.12:464][672][MainRouter]    Navigation Canceled.
+[2019.04.19-11.03.12:494][672]Portal: Destroying User Presentation Layer
+[2019.04.19-11.03.12:494][672]FUnrealEnginePortalViewModelImple_ResetLauncherViewModel: LauncherViewModel is null
+[2019.04.19-11.03.12:517][672]FLauncherViewModelImple: Destroying LauncherViewModel
+[2019.04.19-11.03.12:520][672]Portal: Destroying App UI Layer
+[2019.04.19-11.03.12:520][672][SignInRouter] RedirectToUrl('/null')
+[2019.04.19-11.03.12:520][672][SignInRouter]    Resolved To: '/null'
+[2019.04.19-11.03.12:520][672][SignInRouter]    Best Match: null
+[2019.04.19-11.03.12:520][672][SignInRouter]    Navigation Stopped. Already at location.
+[2019.04.19-11.03.12:520][672][SignInRouter]    Navigation Canceled.
+[2019.04.19-11.03.12:520][672][SignInRouter] Refresh('/null')
+[2019.04.19-11.03.12:520][672][SignInRouter]    Best Match: invalid - [0] states compared
+[2019.04.19-11.03.12:520][672][SignInRouter]    Navigation Canceled.
+[2019.04.19-11.03.12:520][672]Portal: Destroying App Presentation Layer
+[2019.04.19-11.03.12:520][672]FCommunityPortalManagerImpl_SetUnrealEnginePortalViewModel: UnrealEnginePortalViewModel is null
+[2019.04.19-11.03.12:520][672]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:1
+[2019.04.19-11.03.12:520][672]~FPresentationImpl UEPVM:0
+[2019.04.19-11.03.12:532][672]LogSlate: Slate font cache was flushed
+[2019.04.19-11.05.06:507][236]Portal: Constructing App Presentation Layer
+[2019.04.19-11.05.06:507][236][MainRouter] Refresh('/store/en-US/library')
+[2019.04.19-11.05.06:507][236][MainRouter]    Best Match: invalid - [0] states compared
+[2019.04.19-11.05.06:507][236][MainRouter]    Navigation Canceled.
+[2019.04.19-11.05.06:507][236][SignInRouter] Refresh('/null')
+[2019.04.19-11.05.06:507][236][SignInRouter]    Best Match: invalid - [0] states compared
+[2019.04.19-11.05.06:507][236][SignInRouter]    Navigation Canceled.
+[2019.04.19-11.05.06:520][236]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:2
+[2019.04.19-11.05.06:520][236]Portal: Constructing App UI Layer
+[2019.04.19-11.05.06:520][236]Portal: Constructing User Presentation Layer
+[2019.04.19-11.05.06:663][236]FUnrealEnginePortalViewModelImple_UpdateLauncherViewModel: LauncherViewModel is valid
+[2019.04.19-11.05.06:663][236]Portal: Constructing User UI Layer
+[2019.04.19-11.05.06:671][236]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.04.19-11.05.06:750][236]~SCommunityPortalMainImpl UEPVM:2
+[2019.04.19-11.05.06:755][236]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.04.19-11.05.06:755][236][MainRouter] GoToUrl('/store/en-US/library')
+[2019.04.19-11.05.06:755][236][MainRouter]    Resolved To: '/store/en-US/library'
+[2019.04.19-11.05.06:755][236][MainRouter]    Best Match: app
+[2019.04.19-11.05.08:157][278]LogEmsContentProvider: Content build response ++Portal+Main+prod-CL-5988594-Windows.
+[2019.04.19-11.05.08:157][278]LogEmsContentProvider: Waiting for next version update.
+[2019.04.19-11.05.08:157][278]LogSelfUpdateService: Launcher build response 9.12.0-5958502+++Portal+Release-Live-Windows.
+[2019.04.19-11.05.08:157][278]LogSelfUpdateService: Launcher is up-to-date with the latest available version.
+[2019.04.19-11.05.08:157][278]LogSelfUpdateService: Waiting for next version update.
+[2019.04.19-11.05.11:322][401][MainRouter]    Navigation Complete.
+[2019.04.19-11.05.18:610][835]LogOnlineEula: Display: OSS: Starting EulaService::GetAgreement request for key fn user 1d96a102022e48468bfd7014ecce4da1
+[2019.04.19-11.05.19:661][898]LogOnlineEula: Display: OSS: EulaService::GetAgreement request complete. url=https://eulatracking-public-service-prod06.ol.epicgames.com/eulatracking/api/public/agreements/fn/account/1d96a102022e48468bfd7014ecce4da1?locale=en-US code=204 key=fn responselength=0
+[2019.04.19-11.05.19:661][898]LogOnlineEula: Display: OSS: EulaService::GetAgreement user has already accepted the agreement fn (no content)
+[2019.04.19-11.05.19:665][898]DEBUGSZ  old=0 new=1
+[2019.04.19-11.05.19:678][899]DEBUGSZ  old=1 new=2
+[2019.04.19-11.05.20:031][920]DEBUGSZ  old=2 new=3
+[2019.04.19-11.05.20:047][921]DEBUGSZ  old=3 new=6
+[2019.04.19-11.05.20:064][922]DEBUGSZ  old=6 new=7
+[2019.04.19-11.05.20:097][924]DEBUGSZ  old=7 new=8
+[2019.04.19-11.05.20:114][925]DEBUGSZ  old=8 new=9
+[2019.04.19-11.05.21:407][  2]DEBUGSZ  old=9 new=10
+[2019.04.19-11.05.21:424][  3]FCommunityPortalLaunchAppTask: Launching app 'C:/Fortnite/FortniteGame/Binaries/Win64/FortniteLauncher.exe' with commandline ' -AUTH_LOGIN=unused -AUTH_PASSWORD=e0c1995c899c4dfda9af471c9ef8fa2c -AUTH_TYPE=exchangecode -epicapp=Fortnite -epicenv=Prod -EpicPortal  -epicusername="L0ckyz" -epicuserid=1d96a102022e48468bfd7014ecce4da1 -epiclocale=en-US'
+[2019.04.19-11.05.22:448][ 42]LogSlate: Request Window 'Epic Games Launcher' being destroyed
+[2019.04.19-11.05.22:448][ 42]LogSlate: Window 'Epic Games Launcher' being destroyed
+[2019.04.19-11.05.22:471][ 42][MainRouter] RedirectToUrl('/null')
+[2019.04.19-11.05.22:472][ 42][MainRouter]    Resolved To: '/null'
+[2019.04.19-11.05.22:472][ 42][MainRouter]    Best Match: null
+[2019.04.19-11.05.22:472][ 42][MainRouter]    Navigation Complete.
+[2019.04.19-11.05.22:472][ 42]~SCommunityPortalMainImpl UEPVM:2
+[2019.04.19-11.05.22:473][ 42]Portal: Destroying User UI Layer
+[2019.04.19-11.05.22:473][ 42][MainRouter] RedirectToUrl('/null')
+[2019.04.19-11.05.22:473][ 42][MainRouter]    Resolved To: '/null'
+[2019.04.19-11.05.22:473][ 42][MainRouter]    Best Match: null
+[2019.04.19-11.05.22:473][ 42][MainRouter]    Navigation Stopped. Already at location.
+[2019.04.19-11.05.22:473][ 42][MainRouter]    Navigation Canceled.
+[2019.04.19-11.05.22:473][ 42][MainRouter] Refresh('/store/en-US/library')
+[2019.04.19-11.05.22:473][ 42][MainRouter]    Best Match: invalid - [0] states compared
+[2019.04.19-11.05.22:473][ 42][MainRouter]    Navigation Canceled.
+[2019.04.19-11.05.22:473][ 42]Portal: Destroying User Presentation Layer
+[2019.04.19-11.05.22:473][ 42]FUnrealEnginePortalViewModelImple_ResetLauncherViewModel: LauncherViewModel is null
+[2019.04.19-11.05.22:476][ 42]FLauncherViewModelImple: Destroying LauncherViewModel
+[2019.04.19-11.05.22:478][ 42]Portal: Destroying App UI Layer
+[2019.04.19-11.05.22:478][ 42][SignInRouter] RedirectToUrl('/null')
+[2019.04.19-11.05.22:478][ 42][SignInRouter]    Resolved To: '/null'
+[2019.04.19-11.05.22:478][ 42][SignInRouter]    Best Match: null
+[2019.04.19-11.05.22:478][ 42][SignInRouter]    Navigation Complete.
+[2019.04.19-11.05.22:478][ 42][SignInRouter] Refresh('/null')
+[2019.04.19-11.05.22:478][ 42][SignInRouter]    Best Match: invalid - [0] states compared
+[2019.04.19-11.05.22:478][ 42][SignInRouter]    Navigation Canceled.
+[2019.04.19-11.05.22:478][ 42]Portal: Destroying App Presentation Layer
+[2019.04.19-11.05.22:478][ 42]FCommunityPortalManagerImpl_SetUnrealEnginePortalViewModel: UnrealEnginePortalViewModel is null
+[2019.04.19-11.05.22:478][ 42]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:1
+[2019.04.19-11.05.22:478][ 42]~FPresentationImpl UEPVM:0
+[2019.04.19-11.05.22:481][ 42]LogSlate: Slate font cache was flushed
+[2019.04.19-11.27.33:992][471]Portal: Constructing App Presentation Layer
+[2019.04.19-11.27.33:992][471][MainRouter] Refresh('/store/en-US/library')
+[2019.04.19-11.27.33:992][471][MainRouter]    Best Match: invalid - [0] states compared
+[2019.04.19-11.27.33:992][471][MainRouter]    Navigation Canceled.
+[2019.04.19-11.27.33:992][471][SignInRouter] Refresh('/null')
+[2019.04.19-11.27.33:992][471][SignInRouter]    Best Match: invalid - [0] states compared
+[2019.04.19-11.27.33:992][471][SignInRouter]    Navigation Canceled.
+[2019.04.19-11.27.34:003][471]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:2
+[2019.04.19-11.27.34:003][471]Portal: Constructing App UI Layer
+[2019.04.19-11.27.34:004][471]Portal: Constructing User Presentation Layer
+[2019.04.19-11.27.34:071][471]FUnrealEnginePortalViewModelImple_UpdateLauncherViewModel: LauncherViewModel is valid
+[2019.04.19-11.27.34:071][471]Portal: Constructing User UI Layer
+[2019.04.19-11.27.34:078][471]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.04.19-11.27.34:161][471]~SCommunityPortalMainImpl UEPVM:2
+[2019.04.19-11.27.34:166][471]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.04.19-11.27.34:166][471][MainRouter] GoToUrl('/store/en-US/library')
+[2019.04.19-11.27.34:166][471][MainRouter]    Resolved To: '/store/en-US/library'
+[2019.04.19-11.27.34:166][471][MainRouter]    Best Match: app
+[2019.04.19-11.27.41:251][714][MainRouter]    Navigation Complete.
+[2019.04.19-15.56.34:423][726]LogSelfUpdateService: Launcher build response 9.12.0-5958502+++Portal+Release-Live-Windows.
+[2019.04.19-15.56.34:424][726]LogSelfUpdateService: Launcher is up-to-date with the latest available version.
+[2019.04.19-15.56.34:424][726]LogSelfUpdateService: Waiting for next version update.
+[2019.04.19-15.56.34:424][726]LogEmsContentProvider: Content build response ++Portal+Main+prod-CL-5988594-Windows.
+[2019.04.19-15.56.34:424][726]LogEmsContentProvider: Waiting for next version update.
+[2019.04.19-20.48.02:631][764]LogSelfUpdateService: Launcher build response 9.12.0-5958502+++Portal+Release-Live-Windows.
+[2019.04.19-20.48.02:632][764]LogSelfUpdateService: Launcher is up-to-date with the latest available version.
+[2019.04.19-20.48.02:632][764]LogSelfUpdateService: Waiting for next version update.
+[2019.04.19-20.48.02:632][764]LogEmsContentProvider: Content build response ++Portal+Main+prod-CL-5988594-Windows.
+[2019.04.19-20.48.02:632][764]LogEmsContentProvider: Waiting for next version update.
+[2019.04.20-01.39.34:808][168]LogEmsContentProvider: Content build response ++Portal+Main+prod-CL-5988594-Windows.
+[2019.04.20-01.39.34:808][168]LogEmsContentProvider: Waiting for next version update.
+[2019.04.20-01.39.34:808][168]LogSelfUpdateService: Launcher build response 9.12.0-5958502+++Portal+Release-Live-Windows.
+[2019.04.20-01.39.34:809][168]LogSelfUpdateService: Launcher is up-to-date with the latest available version.
+[2019.04.20-01.39.34:809][168]LogSelfUpdateService: Waiting for next version update.
+[2019.04.20-02.42.04:489][943]LogOnlineEula: Display: OSS: Starting EulaService::GetAgreement request for key fn user 1d96a102022e48468bfd7014ecce4da1
+[2019.04.20-02.42.05:853][ 22]LogOnlineEula: Display: OSS: EulaService::GetAgreement request complete. url=https://eulatracking-public-service-prod06.ol.epicgames.com/eulatracking/api/public/agreements/fn/account/1d96a102022e48468bfd7014ecce4da1?locale=en-US code=204 key=fn responselength=0
+[2019.04.20-02.42.05:853][ 22]LogOnlineEula: Display: OSS: EulaService::GetAgreement user has already accepted the agreement fn (no content)
+[2019.04.20-02.42.05:870][ 22]DEBUGSZ  old=0 new=1
+[2019.04.20-02.42.05:886][ 23]DEBUGSZ  old=1 new=2
+[2019.04.20-02.42.07:249][ 64]DEBUGSZ  old=2 new=3
+[2019.04.20-02.42.07:283][ 65]DEBUGSZ  old=3 new=6
+[2019.04.20-02.42.07:317][ 66]DEBUGSZ  old=6 new=7
+[2019.04.20-02.42.10:049][148]DEBUGSZ  old=7 new=8
+[2019.04.20-02.42.10:083][149]DEBUGSZ  old=8 new=9
+[2019.04.20-02.42.11:383][188]DEBUGSZ  old=9 new=10
+[2019.04.20-02.42.11:417][189]FCommunityPortalLaunchAppTask: Launching app 'C:/Fortnite/FortniteGame/Binaries/Win64/FortniteLauncher.exe' with commandline ' -AUTH_LOGIN=unused -AUTH_PASSWORD=488644c589904c79b264110e3a4805e4 -AUTH_TYPE=exchangecode -epicapp=Fortnite -epicenv=Prod -EpicPortal  -epicusername="L0ckyz" -epicuserid=1d96a102022e48468bfd7014ecce4da1 -epiclocale=en-US'
+[2019.04.20-02.42.22:707][530]LogSlate: Request Window 'Epic Games Launcher' being destroyed
+[2019.04.20-02.42.22:707][530]LogSlate: Window 'Epic Games Launcher' being destroyed
+[2019.04.20-02.42.22:814][530][MainRouter] RedirectToUrl('/null')
+[2019.04.20-02.42.22:814][530][MainRouter]    Resolved To: '/null'
+[2019.04.20-02.42.22:814][530][MainRouter]    Best Match: null
+[2019.04.20-02.42.22:815][530][MainRouter]    Navigation Complete.
+[2019.04.20-02.42.22:815][530]~SCommunityPortalMainImpl UEPVM:2
+[2019.04.20-02.42.22:816][530]Portal: Destroying User UI Layer
+[2019.04.20-02.42.22:816][530][MainRouter] RedirectToUrl('/null')
+[2019.04.20-02.42.22:817][530][MainRouter]    Resolved To: '/null'
+[2019.04.20-02.42.22:817][530][MainRouter]    Best Match: null
+[2019.04.20-02.42.22:817][530][MainRouter]    Navigation Stopped. Already at location.
+[2019.04.20-02.42.22:817][530][MainRouter]    Navigation Canceled.
+[2019.04.20-02.42.22:817][530][MainRouter] Refresh('/store/en-US/library')
+[2019.04.20-02.42.22:817][530][MainRouter]    Best Match: invalid - [0] states compared
+[2019.04.20-02.42.22:817][530][MainRouter]    Navigation Canceled.
+[2019.04.20-02.42.22:817][530]Portal: Destroying User Presentation Layer
+[2019.04.20-02.42.22:817][530]FUnrealEnginePortalViewModelImple_ResetLauncherViewModel: LauncherViewModel is null
+[2019.04.20-02.42.22:820][530]FLauncherViewModelImple: Destroying LauncherViewModel
+[2019.04.20-02.42.22:822][530]Portal: Destroying App UI Layer
+[2019.04.20-02.42.22:822][530][SignInRouter] RedirectToUrl('/null')
+[2019.04.20-02.42.22:822][530][SignInRouter]    Resolved To: '/null'
+[2019.04.20-02.42.22:822][530][SignInRouter]    Best Match: null
+[2019.04.20-02.42.22:822][530][SignInRouter]    Navigation Complete.
+[2019.04.20-02.42.22:822][530][SignInRouter] Refresh('/null')
+[2019.04.20-02.42.22:822][530][SignInRouter]    Best Match: invalid - [0] states compared
+[2019.04.20-02.42.22:822][530][SignInRouter]    Navigation Canceled.
+[2019.04.20-02.42.22:822][530]Portal: Destroying App Presentation Layer
+[2019.04.20-02.42.22:822][530]FCommunityPortalManagerImpl_SetUnrealEnginePortalViewModel: UnrealEnginePortalViewModel is null
+[2019.04.20-02.42.22:822][530]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:1
+[2019.04.20-02.42.22:822][530]~FPresentationImpl UEPVM:0
+[2019.04.20-02.42.22:824][530]LogSlate: Slate font cache was flushed
+[2019.04.20-02.42.42:153][113]Portal: Constructing App Presentation Layer
+[2019.04.20-02.42.42:153][113][MainRouter] Refresh('/store/en-US/library')
+[2019.04.20-02.42.42:153][113][MainRouter]    Best Match: invalid - [0] states compared
+[2019.04.20-02.42.42:153][113][MainRouter]    Navigation Canceled.
+[2019.04.20-02.42.42:153][113][SignInRouter] Refresh('/null')
+[2019.04.20-02.42.42:153][113][SignInRouter]    Best Match: invalid - [0] states compared
+[2019.04.20-02.42.42:153][113][SignInRouter]    Navigation Canceled.
+[2019.04.20-02.42.42:176][113]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:2
+[2019.04.20-02.42.42:176][113]Portal: Constructing App UI Layer
+[2019.04.20-02.42.42:177][113]Portal: Constructing User Presentation Layer
+[2019.04.20-02.42.42:361][113]FUnrealEnginePortalViewModelImple_UpdateLauncherViewModel: LauncherViewModel is valid
+[2019.04.20-02.42.42:361][113]Portal: Constructing User UI Layer
+[2019.04.20-02.42.42:370][113]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.04.20-02.42.42:446][113]~SCommunityPortalMainImpl UEPVM:2
+[2019.04.20-02.42.42:451][113]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.04.20-02.42.42:451][113][MainRouter] GoToUrl('/store/en-US/library')
+[2019.04.20-02.42.42:451][113][MainRouter]    Resolved To: '/store/en-US/library'
+[2019.04.20-02.42.42:451][113][MainRouter]    Best Match: app
+[2019.04.20-02.42.46:324][268][MainRouter]    Navigation Complete.
+[2019.04.20-03.25.01:099][176]LogOnlineEula: Display: OSS: Starting EulaService::GetAgreement request for key fn user 1d96a102022e48468bfd7014ecce4da1
+[2019.04.20-03.25.03:278][306]LogOnlineEula: Display: OSS: EulaService::GetAgreement request complete. url=https://eulatracking-public-service-prod06.ol.epicgames.com/eulatracking/api/public/agreements/fn/account/1d96a102022e48468bfd7014ecce4da1?locale=en-US code=204 key=fn responselength=0
+[2019.04.20-03.25.03:278][306]LogOnlineEula: Display: OSS: EulaService::GetAgreement user has already accepted the agreement fn (no content)
+[2019.04.20-03.25.13:666][922]WinPlatform: Destroying shortcut. LinkPath: C:\Users\lochl\Desktop\Fortnite.url ExpectedTargetPath: com.epicgames.launcher://apps/Fortnite?action=launch&silent=true
+[2019.04.20-03.25.13:684][922]WinPlatform: Shortcut successfully destroyed: true
+[2019.04.20-03.25.18:477][189]LogOnlineEula: Display: OSS: Starting EulaService::GetAgreement request for key fn user 1d96a102022e48468bfd7014ecce4da1
+[2019.04.20-03.25.18:825][210]LogOnlineEula: Display: OSS: EulaService::GetAgreement request complete. url=https://eulatracking-public-service-prod06.ol.epicgames.com/eulatracking/api/public/agreements/fn/account/1d96a102022e48468bfd7014ecce4da1?locale=en-US code=204 key=fn responselength=0
+[2019.04.20-03.25.18:825][210]LogOnlineEula: Display: OSS: EulaService::GetAgreement user has already accepted the agreement fn (no content)
+[2019.04.20-03.25.43:222][782]DirectoryPreparation: Directory already setup
+[2019.04.20-03.25.44:715][870]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 363 Desc: QueueAppInstall::InstallManifest 
+[2019.04.20-03.25.44:716][870]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 364 Desc: QueueAppInstall::SavedInstallManifest 
+[2019.04.20-03.25.44:716][870]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 365 Desc: QueueAppInstall::CompletedManifest 
+[2019.04.20-03.25.44:716][870]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 346 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.44:716][870]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 346 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.44:783][874]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 998 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.44:783][874]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 998 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.44:783][874]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1013 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.44:783][874]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1013 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.44:784][874]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1029 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.44:784][874]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1029 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.44:788][874]DirectoryPreparation: Directory already setup
+[2019.04.20-03.25.44:788][874]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1041 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.44:788][874]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1041 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.44:788][874]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1065 Desc: UpdateDetails.ManifestA 
+[2019.04.20-03.25.44:788][874]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1066 Desc: UpdateDetails.ManifestB 
+[2019.04.20-03.25.44:788][874]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1050 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.44:788][874]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1050 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.44:788][874]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1057 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.44:788][874]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1094 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.44:788][874]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1057 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.44:788][874]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1094 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.44:788][874]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1078 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.44:788][874]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1078 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.44:789][874]Manifest Check:   0x0000021A823BF240   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1086 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.44:789][874]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1086 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.44:789][874]FCommunityPortalPatcher: Change State Idle->Patching
+[2019.04.20-03.25.44:803][874]Manifest Check:   0x0000021A823BD140   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1109 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.44:803][874]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1109 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.44:804][874]Manifest Check:   0x0000021A823BD140   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1133 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.44:804][874]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1133 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.44:804][874]Manifest Check:   0x0000021A823BD140   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1154 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.44:804][874]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1154 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.45:472][915]Manifest Check:   0x0000021A823BD140   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1171 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.45:472][915]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1171 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.45:553][920]Manifest Check:   0x0000021A823BD140   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1181 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.45:553][920]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1181 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.45:553][920]Manifest Check:   0x0000021A823BD140   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1185 Desc: QueuedInstallManifestRef 
+[2019.04.20-03.25.45:553][920]Manifest Check:   0x0000021A823BD140   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1200 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.45:553][920]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1200 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.45:553][920]Manifest Check:   0x0000021A823BD140   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1201 Desc: QueuedInstallManifestRef 
+[2019.04.20-03.25.45:554][920]Manifest Check:   0x0000021A823BD140   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPAM Line: 1004 Desc: AddIncompleteInstallManifest 
+[2019.04.20-03.25.45:554][920]Manifest Check:   0x0000021A823BD140   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1225 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.45:554][920]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1225 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.45:554][920]Manifest Check:   0x0000021A823BD140   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1226 Desc: QueuedInstallManifestRef 
+[2019.04.20-03.25.45:555][920]1261 QueuedInstallManifestRef Check:   0x0000021A823BD140
+[2019.04.20-03.25.45:555][920]1262 Configuration.InstallManifest Check:   0x0000021A823BD140
+[2019.04.20-03.25.45:555][920]1263 Configuration.CurrentManifest Check:   0x0000000000000000
+[2019.04.20-03.25.45:555][920]LogBuildPatchServices: FBuildPatchInstaller CTOR Configuration.InstallManifest Check:   0x0000021A823BD140
+[2019.04.20-03.25.45:555][920]LogBuildPatchServices: FBuildPatchInstaller CTOR Configuration.CurrentManifest Check:   0x0000000000000000
+[2019.04.20-03.25.45:555][920]LogBuildPatchServices: FBuildPatchInstaller CTOR CurrentBuildManifest Check:   0x0000000000000000
+[2019.04.20-03.25.45:555][920]LogBuildPatchServices: FBuildPatchInstaller CTOR NewBuildManifest Check:   0x0000021A823BD140
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: InstallManifest: 0x0000021A823BD140
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: InstallManifest Version: ++Fortnite+Release-8.40-CL-6005771-Windows
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: CurrentManifest: 0x0000000000000000
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: CurrentManifest Version: NULL
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: InstallDirectory: C:/Fortnite
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: StagingDirectory: C:\Fortnite/.lysEB
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: BackupDirectory: 
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: CloudDirectories: https://epicgames-download1.akamaized.net/Builds/Fortnite/CloudDir
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: CloudDirectories: https://epicgames-download1.akamaized.net/Builds/Fortnite/CloudDir
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: CloudDirectories: https://download.epicgames.com/Builds/Fortnite/CloudDir
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: CloudDirectories: https://download2.epicgames.com/Builds/Fortnite/CloudDir
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: CloudDirectories: https://download3.epicgames.com/Builds/Fortnite/CloudDir
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: CloudDirectories: https://download4.epicgames.com/Builds/Fortnite/CloudDir
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: InstallTags: 
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: InstallTags: chunk0
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: InstallTags: chunk1
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: InstallTags: chunk10
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: ValidTags: 
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: ValidTags: chunk0
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: ValidTags: chunk1
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: ValidTags: chunk10
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: ValidTags: chunk11
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: ValidTags: chunk2
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: ValidTags: chunk5
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: ValidTags: chunk7
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: ValidTags: chunk8
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: ValidTags: chunk9
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: InstallMode: EInstallMode::DestructiveInstall
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: VerifyMode: EVerifyMode::ShaVerifyAllFiles
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: DeltaPolicy: EDeltaPolicy::TryFetchContinueWithout
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: bIsRepair: false
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: bRunRequiredPrereqs: false
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: bAllowConcurrentExecution: false
+[2019.04.20-03.25.45:778][920]LogBuildPatchServices: Build Config: bDisableDownloadConnectionScaling: false
+[2019.04.20-03.25.45:778][920]Manifest Check:   0x0000021A823BD140   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1272 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.45:778][920]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1272 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.45:778][920]Manifest Check:   0x0000021A823BD140   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1273 Desc: QueuedInstallManifestRef 
+[2019.04.20-03.25.45:779][920]Manifest Check:   0x0000021A823BD140   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1290 Desc: QueuedInstall.InstallManifest 
+[2019.04.20-03.25.45:779][920]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1290 Desc: QueuedInstall.CurrentManifest 
+[2019.04.20-03.25.45:779][920]Manifest Check:   0x0000021A823BD140   Version:   ++Fortnite+Release-8.40-CL-6005771-Windows   AppName:   Fortnite  CPP Line: 1291 Desc: QueuedInstallManifestRef 
+[2019.04.20-03.25.45:924][922]LogBuildPatchServices: Starting Installation
+[2019.04.20-03.25.45:924][922]LogBuildPatchServices: Requiring 374 files
+[2019.04.20-03.25.47:409][986]LogSlate: Took 0.060300 seconds to synchronously load lazily loaded font '../../Content/Font/Lato-Regular.ttf' (118K)
+[2019.04.20-03.25.57:527][317]BuildPatchResumeData file found 0
+[2019.04.20-03.26.00:109][469]LogSlate: Request Window 'Add Friend' being destroyed
+[2019.04.20-03.26.00:123][469]LogSlate: Window 'Add Friend' being destroyed
+[2019.04.20-03.28.09:661][444]LogHttp: Warning: 0000021AFBAB6000: request failed, libcurl error: 0 (No error)
+[2019.04.20-03.28.09:661][444]LogHttp: Warning: 0000021AFBAB6000: libcurl info message cache 0 (Found bundle for host epicgames-download1.akamaized.net: 0x21a824e65b0 [can pipeline])
+[2019.04.20-03.28.09:661][444]LogHttp: Warning: 0000021AFBAB6000: libcurl info message cache 1 (Re-using existing connection! (#1801) with host epicgames-download1.akamaized.net)
+[2019.04.20-03.28.09:661][444]LogHttp: Warning: 0000021AFBAB6000: libcurl info message cache 2 (Connected to epicgames-download1.akamaized.net (23.205.115.161) port 443 (#1801))
+[2019.04.20-03.28.09:661][444]LogHttp: Warning: 0000021AFBAB6000: libcurl info message cache 3 (Closing connection 1801)
+[2019.04.20-03.28.09:661][444]LogHttp: Warning: 0000021AFBAB6000: libcurl info message cache 4 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.04.20-03.41.43:424][716]LogHttp: Warning: 0000021AFBAB8A80: request failed, libcurl error: 0 (No error)
+[2019.04.20-03.41.43:424][716]LogHttp: Warning: 0000021AFBAB8A80: libcurl info message cache 0 (Found bundle for host epicgames-download1.akamaized.net: 0x21a824e65b0 [can pipeline])
+[2019.04.20-03.41.43:424][716]LogHttp: Warning: 0000021AFBAB8A80: libcurl info message cache 1 (Re-using existing connection! (#1808) with host epicgames-download1.akamaized.net)
+[2019.04.20-03.41.43:424][716]LogHttp: Warning: 0000021AFBAB8A80: libcurl info message cache 2 (Connected to epicgames-download1.akamaized.net (23.205.115.161) port 443 (#1808))
+[2019.04.20-03.41.43:424][716]LogHttp: Warning: 0000021AFBAB8A80: libcurl info message cache 3 (Closing connection 1808)
+[2019.04.20-03.41.43:424][716]LogHttp: Warning: 0000021AFBAB8A80: libcurl info message cache 4 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.04.20-04.14.11:501][356]LogSlate: Request Window '' being destroyed

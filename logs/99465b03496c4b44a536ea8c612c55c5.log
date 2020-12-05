@@ -1,0 +1,891 @@
+Log file open, 05/18/17 15:43:51
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1621723248) SRandInit(1621723248).
+LogTaskGraph: Started task graph with 4 named threads and 7 total threads with 1 sets of task threads.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++Orion+Release-40-CL-3439486
+LogInit: Engine Version: 4.16.0-3439486+++Orion+Release-40
+LogInit: Compatible Engine Version: 4.16.0-3439486+++Orion+Release-40
+LogInit: Net CL: 3435991
+LogInit: Compiled (64-bit): May 15 2017 14:32:24
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Orion+Release-40
+LogInit: Command line: 
+LogInit: Base directory: D:/GRY/Paragon/Paragon/OrionGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 2097152 objects, including 37146 objects not considered by GC, pre-allocating 15728640 bytes for permanent pool.
+LogStreaming:Display: Async Loading initialized: New Async IO: true, Event Driven Loader: true, Async Loading Thread: false
+LogInit: Object subsystem initialized
+[2017.05.18-14.43.52:064][  0]LogInit: Selected Device Profile: [WindowsClient]
+[2017.05.18-14.43.52:064][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsClient]
+[2017.05.18-14.43.52:160][  0]LogInit: Computer: WIKTOR-KOMPUTER
+[2017.05.18-14.43.52:160][  0]LogInit: User: WIKTOR
+[2017.05.18-14.43.52:160][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.05.18-14.43.52:160][  0]LogInit: High frequency timer resolution =3.827773 MHz
+[2017.05.18-14.43.52:160][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.05.18-14.43.52:160][  0]LogMemory: Platform Memory Stats for WindowsClient
+[2017.05.18-14.43.52:160][  0]LogMemory: Process Physical Memory: 204.04 MB used, 204.04 MB peak
+[2017.05.18-14.43.52:160][  0]LogMemory: Process Virtual Memory: 258.26 MB used, 258.26 MB peak
+[2017.05.18-14.43.52:160][  0]LogMemory: Physical Memory: 4950.04 MB used,  3182.13 MB free, 8132.17 MB total
+[2017.05.18-14.43.52:160][  0]LogMemory: Virtual Memory: 365.74 MB used,  3182.13 MB free, 8388608.00 MB total
+[2017.05.18-14.43.53:028][  0]LogInit: Overriding culture pl with game configuration.
+[2017.05.18-14.43.53:047][  0]LogOnline: OSS: Flushing Catalog Service cached offers/items.
+[2017.05.18-14.43.53:383][  0]LogTextLocalizationResource:Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccountCommon, Key:DowntimeMinutesWarningText):
+    Localization Resource: (D:/GRY/Paragon/Paragon/OrionGame/Content/Localization/Game/pl/Game.locres) Source String Hash: (-1895011859) Localized String: (Minuty do ostatniego wezwania do udziału w nowych meczach)
+    Localization Resource: (D:/GRY/Paragon/Paragon/OrionGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/pl/OnlineGameplayFramework.locres) Source String Hash: (-1895011859) Localized String: ( Minutes To Last Call For New Matches)
+[2017.05.18-14.43.53:383][  0]LogTextLocalizationResource:Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccountCommon, Key:DowntimeSecondsWarningText):
+    Localization Resource: (D:/GRY/Paragon/Paragon/OrionGame/Content/Localization/Game/pl/Game.locres) Source String Hash: (627076107) Localized String: (Sekundy do ostatniego wezwania do udziału w nowych meczach)
+    Localization Resource: (D:/GRY/Paragon/Paragon/OrionGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/pl/OnlineGameplayFramework.locres) Source String Hash: (627076107) Localized String: ( Seconds To Last Call For New Matches)
+[2017.05.18-14.43.53:383][  0]LogTextLocalizationResource:Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccountCommon, Key:WaitingRoomFailure3):
+    Localization Resource: (D:/GRY/Paragon/Paragon/OrionGame/Content/Localization/Game/pl/Game.locres) Source String Hash: (2023812926) Localized String: (Nie można dołączyć do kolejki logowania {0}. Spróbuj ponownie później.)
+    Localization Resource: (D:/GRY/Paragon/Paragon/OrionGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/pl/OnlineGameplayFramework.locres) Source String Hash: (2023812926) Localized String: (Unable to join the {0} login queue. Please try again later.)
+[2017.05.18-14.43.53:455][  0]LogD3D11RHI: D3D11 adapters:
+[2017.05.18-14.43.53:592][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R7 370 Series' (Feature Level 11_0)
+[2017.05.18-14.43.53:592][  0]LogD3D11RHI:       2026/0/3810 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.05.18-14.43.53:592][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.05.18-14.43.53:598][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.05.18-14.43.53:598][  0]LogD3D11RHI:     GPU DeviceId: 0x6811 (for the marketing name, search the web for "GPU Device Id")
+[2017.05.18-14.43.53:598][  0]LogWindows: EnumDisplayDevices:
+[2017.05.18-14.43.53:599][  0]LogWindows:    0. 'AMD Radeon (TM) R7 370 Series' (P:1 D:1)
+[2017.05.18-14.43.53:599][  0]LogWindows:    1. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2017.05.18-14.43.53:599][  0]LogWindows:    2. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2017.05.18-14.43.53:600][  0]LogWindows:    3. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2017.05.18-14.43.53:600][  0]LogWindows:    4. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2017.05.18-14.43.53:600][  0]LogWindows:    5. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2017.05.18-14.43.53:600][  0]LogWindows:    6. 'RDPDD Chained DD' (P:0 D:0)
+[2017.05.18-14.43.53:601][  0]LogWindows:    7. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.05.18-14.43.53:601][  0]LogWindows:    8. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.05.18-14.43.53:601][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2017.05.18-14.43.53:601][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R7 370 Series
+[2017.05.18-14.43.53:601][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.4.4 (internal:22.19.162.4, unified:22.19.162.4)
+[2017.05.18-14.43.53:601][  0]LogD3D11RHI:      Driver Date: 4-24-2017
+[2017.05.18-14.43.53:601][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.05.18-14.43.53:666][  0]LogD3D11RHI: Async texture creation enabled
+[2017.05.18-14.43.53:704][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.05.18-14.43.53:924][  0]LogSlate: Using Freetype 2.6.0
+[2017.05.18-14.43.53:927][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.05.18-14.43.53:927][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.05.18-14.43.54:575][  0]LogAssetRegistry: FAssetRegistry took 0.5587 seconds to start up
+[2017.05.18-14.43.54:796][  0]LogOrion:Display: Set hero budget to '10'
+[2017.05.18-14.43.54:796][  0]LogOrion:Display: Set minion budget to '300'
+[2017.05.18-14.43.54:796][  0]LogOrion:Display: Setting objective budget to '30'
+[2017.05.18-14.43.54:805][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.005128 seconds
+[2017.05.18-14.43.54:805][  0]LogPakFile: New pak file ../../../OrionGame/Content/Paks/OrionGame-WindowsClient.pak added to pak precacher.
+[2017.05.18-14.43.54:842][  0]LogInit: Selected Device Profile: [WindowsClient]
+[2017.05.18-14.43.55:969][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/Elek_WD-2437_Dev-Gen_Home.ini
+[2017.05.18-14.43.55:969][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/Elek_WD_8399_Dev-Gen.ini
+[2017.05.18-14.43.55:970][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/Elek_WD_8399_Release.ini
+[2017.05.18-14.43.55:970][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/ElekEpicDevGen.ini
+[2017.05.18-14.43.55:970][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/ElekHome.ini
+[2017.05.18-14.43.55:970][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/ElekWorkStream.ini
+[2017.05.18-14.43.55:970][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/fredrikseehuusen_revenant_cary.ini
+[2017.05.18-14.43.55:970][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/FredrikUKParagon.ini
+[2017.05.18-14.43.55:971][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/FX_Browett_GT.ini
+[2017.05.18-14.43.55:972][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/FX_Ketchum_GT.ini
+[2017.05.18-14.43.55:974][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/FX_KetchumGT.ini
+[2017.05.18-14.43.55:974][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/FXV_DanB.ini
+[2017.05.18-14.43.55:978][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/FXV_Mort.ini
+[2017.05.18-14.43.55:978][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/GameplayStats.ini
+[2017.05.18-14.43.55:983][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/GangEpicDevGen.ini
+[2017.05.18-14.43.55:985][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/Martin_Anim_GT.ini
+[2017.05.18-14.43.55:986][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/NReid_DevGen.ini
+[2017.05.18-14.43.55:986][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/skennedy_contentupdate.ini
+[2017.05.18-14.43.55:986][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/skennedy_devgeneral.ini
+[2017.05.18-14.43.55:986][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/sr_GCTags.ini
+[2017.05.18-14.43.55:987][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/Yanni_Cary.ini
+[2017.05.18-14.43.55:987][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/Yanni_DevGen.ini
+[2017.05.18-14.43.55:987][  0]LogGameplayTags:Display: Loading Tag File: ../../../OrionGame/Config/Tags/Yanni_Release.ini
+[2017.05.18-14.43.55:992][  0]LogContentStreaming: Texture pool size is 800.00 MB
+[2017.05.18-14.43.56:105][  0]LogOrionBannerScale:Verbose: BannerScale: SetUpStaticMesh: pre attachment component scale is: 1.00000, 1.00000, 1.00000
+[2017.05.18-14.43.56:105][  0]LogOrionBannerScale:Verbose: BannerScale: SetUpStaticMesh: Root Component scale is: 1.00000, 1.00000, 1.00000
+[2017.05.18-14.43.56:105][  0]LogOrionBannerScale:Verbose: BannerScale: SetUpStaticMesh: post attachment component scale is: 1.00000, 1.00000, 1.00000
+[2017.05.18-14.43.56:106][  0]LogOrion: Switching async loading mode to DEFAULT (5.00ms)
+[2017.05.18-14.43.57:593][  0]LogOnline: TENCENT: Tencent Startup!
+[2017.05.18-14.43.57:593][  0]LogOnline: TENCENT: Tencent API disabled.
+[2017.05.18-14.43.57:593][  0]LogOnline: Unable to create OnlineSubsystem module TENCENT
+[2017.05.18-14.43.57:879][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3439486, ProjectName: oriongame, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 2, NetworkChecksum: 1810287778
+[2017.05.18-14.43.57:879][  0]LogNetVersion: GetLocalNetworkVersionOverride: NetworkChecksum: 1810287778
+[2017.05.18-14.43.58:438][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.05.18-14.43.58:627][  0]LogMoviePlayer: Initializing movie player
+[2017.05.18-14.43.58:757][  0]LogSlate: Took 0.001846 seconds to synchronously load lazily loaded font '../../../OrionGame/Content/Slate/Fonts/Cane-Sans-Regular.otf' (37K)
+[2017.05.18-14.43.58:767][  0]LogQoSReporter: QoSReporter will be configured for 'Live' deployment.
+[2017.05.18-14.43.58:767][  0]LogOnline: OSS: Using backend 'Live' based on environment 'Prod' and override 'OrionLive'
+[2017.05.18-14.43.58:767][  0]LogOnline: OSS: Using backend 'Live' based on environment 'Prod' and override 'OrionLive'
+[2017.05.18-14.43.58:941][  0]LogAnsel: Tried to load ../../../Engine/Plugins/Runtime/Nvidia/Ansel/Binaries/ThirdParty/AnselSDK64.dll : success=1
+[2017.05.18-14.43.58:941][  0]LogSIP:Display: SIP Module Initialized
+[2017.05.18-14.43.58:941][  0]LogSIP:Display: Plugin Status: 1
+[2017.05.18-14.43.58:950][  0]LogUObjectArray: 60806 objects as part of root set at end of initial load.
+[2017.05.18-14.43.58:950][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2017.05.18-14.43.58:950][  0]LogUObjectAllocator: 12728000 out of 15728640 bytes used by permanent object pool.
+[2017.05.18-14.43.58:950][  0]LogUObjectArray: CloseDisregardForGC: 60806/60806 objects in disregard for GC pool
+[2017.05.18-14.43.59:148][  0]LogInit: Registering UMessageOfTheDay::RegisterOnHotfixedDelegate delegate in CDO.
+[2017.05.18-14.43.59:149][  0]LogOrionMemory: OrionEngine::Init: CPU: 469.30MB (Peak: 469.30MB). 
+[2017.05.18-14.43.59:157][  0]LogEngine: Initializing Engine...
+[2017.05.18-14.43.59:212][  0]LogOrion: Switching async loading mode to DEFAULT (5.00ms)
+[2017.05.18-14.43.59:222][  0]LogStats:      Loaded Native GameplayTags  -  0.009 s
+[2017.05.18-14.43.59:386][  0]LogInit: XAudio2 using 'Głośniki (2 — Urządzenie zgodne ze standardem High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-14.43.59:446][  0]LogInit: FAudioDevice initialized.
+[2017.05.18-14.43.59:456][  0]LogInit: Texture streaming: Enabled
+[2017.05.18-14.43.59:456][  0]p.RagdollPhysics = "1"
+[2017.05.18-14.43.59:457][  0]OrionChar.DisableSimulatedMovement_AI = "1"
+[2017.05.18-14.43.59:457][  0]OrionChar.DisableSimulatedMovement_Heroes = "0"
+[2017.05.18-14.43.59:457][  0]OrionChar.NetworkSmoothingLodDistanceScale = "2.0"
+[2017.05.18-14.43.59:457][  0]p.AnimDynamicsRestrictLOD = "-1"
+[2017.05.18-14.43.59:457][  0]r.Streaming.FramesForFullUpdate = "5"
+[2017.05.18-14.43.59:457][  0]r.Streaming.MaxTempMemoryAllowed = "50"
+[2017.05.18-14.43.59:457][  0]LogOrion:Display: Set hero budget to '10'
+[2017.05.18-14.43.59:457][  0]LogOrion:Display: Set minion budget to '300'
+[2017.05.18-14.43.59:457][  0]LogOrion:Display: Setting objective budget to '30'
+[2017.05.18-14.43.59:565][  0]LogOrionGamepadDetection: [WindowsMessageHandler::UpdateGamepadType()] New Type: [XBox] Old Type: [PS4]
+[2017.05.18-14.43.59:566][  0]LogOrion: Loading OrionGameUIData: /Game/UI/GlobalUIData.GlobalUIData ...
+[2017.05.18-14.43.59:872][  0]LogStats:      ... OrionGameUIData loaded! -  0.306 s
+[2017.05.18-14.43.59:889][  0]LogBlueprintContext:Display: Creating blueprint contexts for Local Player ' OrionLocalPlayer_0 ' of Game Instance ' OrionGameInstance_0 '
+[2017.05.18-14.43.59:891][  0]LogInit:Display: Game Engine Initialized.
+[2017.05.18-14.43.59:891][  0]LogQoSReporter: QoSReporter initialized (InstanceId = 'C0E1DF3446C0192AA4D01E844DDA5AB7', SystemId = 'b02ac747-2e6c-4254-ab40-9f29cc9006cc')
+[2017.05.18-14.43.59:891][  0]LogQoSReporter: APIKey = 'OrionGame.Release'. APIServer = 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data'. AppVersion = 'UE4-CL-3439486'. AppEnvironment = 'Release'
+[2017.05.18-14.43.59:891][  0]LogInit:Display: Starting Game.
+[2017.05.18-14.43.59:891][  0]LogHotfixManager:Display: Update State UpdateIdle -> UpdatePending
+[2017.05.18-14.43.59:892][  0]LogOrion: Switching async loading mode to FAST AS POSSIBLE (25.00ms)
+[2017.05.18-14.43.59:892][  0]LogNet: Browse: /Game/Maps/FrontEndScene?Name=Player
+[2017.05.18-14.43.59:896][  0]LogLoad: LoadMap: /Game/Maps/FrontEndScene?Name=Player
+[2017.05.18-14.44.00:772][  0]LogLevelActorContainer: Created LevelActorCluster (21) for /Game/Maps/FrontEndScene.FrontEndScene:PersistentLevel with 116 objects, 6 referenced clusters and 1 mutable objects.
+[2017.05.18-14.44.00:773][  0]LogOrion:Display: Set hero budget to '10'
+[2017.05.18-14.44.00:773][  0]LogOrion:Display: Set minion budget to '300'
+[2017.05.18-14.44.00:773][  0]LogOrion:Display: Setting objective budget to '30'
+[2017.05.18-14.44.00:774][  0]LogLoad: Game class is 'OrionGameMode_Main'
+[2017.05.18-14.44.01:021][  0]LogLevelActorContainer: Created LevelActorCluster (34) for /Game/Maps/Menu/FrontEnd_CardPacks.FrontEnd_CardPacks:PersistentLevel with 14 objects, 2 referenced clusters and 1 mutable objects.
+[2017.05.18-14.44.01:066][  0]LogOrionBannerScale:Verbose: BannerScale: SetUpStaticMesh: pre attachment component scale is: 1.00000, 1.00000, 1.00000
+[2017.05.18-14.44.01:066][  0]LogOrionBannerScale:Verbose: BannerScale: SetUpStaticMesh: Root Component scale is: 1.00000, 1.00000, 1.00000
+[2017.05.18-14.44.01:066][  0]LogOrionBannerScale:Verbose: BannerScale: SetUpStaticMesh: post attachment component scale is: 1.00000, 1.00000, 1.00000
+[2017.05.18-14.44.01:967][  0]LogLevelActorContainer: Created LevelActorCluster (38) for /Game/Maps/Menu/FrontEnd_HeroAndQuickMatch.FrontEnd_HeroAndQuickMatch:PersistentLevel with 76 objects, 12 referenced clusters and 3 mutable objects.
+[2017.05.18-14.44.02:078][  0]LogLevelActorContainer: Created LevelActorCluster (40) for /Game/Maps/Menu/FrontEnd_BannerThumbnail.FrontEnd_BannerThumbnail:PersistentLevel with 23 objects, 4 referenced clusters and 2 mutable objects.
+[2017.05.18-14.44.02:083][  0]LogLevelActorContainer: Created LevelActorCluster (41) for /Game/Maps/Menu/FrontEnd_BannerEditor.FrontEnd_BannerEditor:PersistentLevel with 2 objects, 3 referenced clusters and 2 mutable objects.
+[2017.05.18-14.44.04:056][  0]LogLevelActorContainer: Created LevelActorCluster (103) for /Game/Maps/Menu/FrontEnd_CardCrafting.FrontEnd_CardCrafting:PersistentLevel with 50 objects, 14 referenced clusters and 12 mutable objects.
+[2017.05.18-14.44.04:068][  0]LogLevelActorContainer: Created LevelActorCluster (104) for /Game/Maps/Menu/FrontEnd_EmptyScene.FrontEnd_EmptyScene:PersistentLevel with 2 objects, 3 referenced clusters and 2 mutable objects.
+[2017.05.18-14.44.04:073][  0]LogLevelActorContainer: Created LevelActorCluster (105) for /Game/Maps/Menu/FrontEnd_Template.FrontEnd_Template:PersistentLevel with 2 objects, 3 referenced clusters and 2 mutable objects.
+[2017.05.18-14.44.04:078][  0]LogLevelActorContainer: Created LevelActorCluster (106) for /Game/Maps/Menu/FrontEnd_Home.FrontEnd_Home:PersistentLevel with 2 objects, 3 referenced clusters and 2 mutable objects.
+[2017.05.18-14.44.04:240][  0]LogLevelActorContainer: Created LevelActorCluster (110) for /Game/Maps/Menu/FrontEnd_Global.FrontEnd_Global:PersistentLevel with 14 objects, 5 referenced clusters and 2 mutable objects.
+[2017.05.18-14.44.04:444][  0]LogLevelActorContainer: Created LevelActorCluster (121) for /Game/Maps/FrontEndBackgrounds/LootCrateImage_b.LootCrateImage_b:PersistentLevel with 38 objects, 16 referenced clusters and 15 mutable objects.
+[2017.05.18-14.44.04:592][  0]LogLevelActorContainer: Created LevelActorCluster (123) for /Game/Maps/Menu/FrontEnd_Featured.FrontEnd_Featured:PersistentLevel with 24 objects, 14 referenced clusters and 12 mutable objects.
+[2017.05.18-14.44.04:607][  0]LogLevelActorContainer: Created LevelActorCluster (126) for /Game/Maps/Menu/FrontEnd_ChestOpenScene.FrontEnd_ChestOpenScene:PersistentLevel with 10 objects, 15 referenced clusters and 15 mutable objects.
+[2017.05.18-14.44.04:634][  0]LogLevelActorContainer: Created LevelActorCluster (127) for /Game/Maps/Menu/FrontEnd_PostMatch.FrontEnd_PostMatch:PersistentLevel with 8 objects, 13 referenced clusters and 12 mutable objects.
+[2017.05.18-14.44.05:391][  0]LogLevelActorContainer: Created LevelActorCluster (135) for /Game/Maps/Menu/FrontEnd_Vault.FrontEnd_Vault:PersistentLevel with 132 objects, 17 referenced clusters and 2 mutable objects.
+[2017.05.18-14.44.05:398][  0]LogWorld: Bringing World /Game/Maps/FrontEndScene.FrontEndScene up for play (max tick rate 0) at 2017.05.18-15.44.05
+[2017.05.18-14.44.05:398][  0]LogOrion: Loading OrionGameData: /Game/Balance/DefaultGameData.DefaultGameData ...
+[2017.05.18-14.44.06:275][  0]LogOrionBannerScale:Verbose: BannerScale: SetUpStaticMesh: pre attachment component scale is: 1.00000, 1.00000, 1.00000
+[2017.05.18-14.44.06:275][  0]LogOrionBannerScale:Verbose: BannerScale: SetUpStaticMesh: Root Component scale is: 1.00000, 1.00000, 1.00000
+[2017.05.18-14.44.06:275][  0]LogOrionBannerScale:Verbose: BannerScale: SetUpStaticMesh: post attachment component scale is: 1.00000, 1.00000, 1.00000
+[2017.05.18-14.44.06:289][  0]LogOrionBannerScale:Verbose: BannerScale: SetUpStaticMesh: pre attachment component scale is: 1.00000, 1.00000, 1.00000
+[2017.05.18-14.44.06:289][  0]LogOrionBannerScale:Verbose: BannerScale: SetUpStaticMesh: Root Component scale is: 1.00000, 1.00000, 1.00000
+[2017.05.18-14.44.06:289][  0]LogOrionBannerScale:Verbose: BannerScale: SetUpStaticMesh: post attachment component scale is: 1.00000, 1.00000, 1.00000
+[2017.05.18-14.44.06:308][  0]LogStats:        ... OrionGameData loaded! -  0.910 s
+[2017.05.18-14.44.06:368][  0]LogOrion:Display: UOrionGlobals::GetHeroDataList. ShouldAggregateHeroData: 0
+[2017.05.18-14.44.06:368][  0]LogOrion:Display: 
+[2017.05.18-14.44.06:368][  0]LogOrion:Display: Aggregated these heroes:
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Totem
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_ArcBlade
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Gadget
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_RiftMage
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Grux
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_HyperBreach
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Kurohane
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Price
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Muriel
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Rampage
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Sparrow
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Steel
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_TwinBlast
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Hammer
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Pyro
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Coil
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Chains
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Tomahawk
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Sword
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Venus
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_WarDrum
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Tacticia
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Kwang
+[2017.05.18-14.44.06:368][  0]LogOrion:Display:   HeroData_Vamp
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:   HeroData_Crunch
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:   HeroData_FallenAngel
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:   HeroData_Ice
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:   HeroData_Mudang
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:   HeroData_Femme
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:   HeroData_Mambo
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:   HeroData_Revenant
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:   HeroData_Phase
+[2017.05.18-14.44.06:369][  0]LogOrion:Display: 
+[2017.05.18-14.44.06:369][  0]LogOrion:Display: NumCollections: 1
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:   Collection: ShippingHeroes. Num: 32
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Totem/HeroData_Totem.HeroData_Totem - HeroData_Totem
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/ArcBlade/HeroData_ArcBlade.HeroData_ArcBlade - HeroData_ArcBlade
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Gadget/HeroData_Gadget.HeroData_Gadget - HeroData_Gadget
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/RiftMage/HeroData_RiftMage.HeroData_RiftMage - HeroData_RiftMage
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Grux/HeroData_Grux.HeroData_Grux - HeroData_Grux
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/HyperBreach/HeroData_HyperBreach.HeroData_HyperBreach - HeroData_HyperBreach
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Kurohane/HeroData_Kurohane.HeroData_Kurohane - HeroData_Kurohane
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Price/HeroData_Price.HeroData_Price - HeroData_Price
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Muriel/HeroData_Muriel.HeroData_Muriel - HeroData_Muriel
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Rampage/HeroData_Rampage.HeroData_Rampage - HeroData_Rampage
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Sparrow/HeroData_Sparrow.HeroData_Sparrow - HeroData_Sparrow
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Steel/HeroData_Steel.HeroData_Steel - HeroData_Steel
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/TwinBlast/HeroData_TwinBlast.HeroData_TwinBlast - HeroData_TwinBlast
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Hammer/HeroData_Hammer.HeroData_Hammer - HeroData_Hammer
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Pyro/HeroData_Pyro.HeroData_Pyro - HeroData_Pyro
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Coil/HeroData_Coil.HeroData_Coil - HeroData_Coil
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Chains/HeroData_Chains.HeroData_Chains - HeroData_Chains
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Tomahawk/HeroData_Tomahawk.HeroData_Tomahawk - HeroData_Tomahawk
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Sword/HeroData_Sword.HeroData_Sword - HeroData_Sword
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Venus/HeroData_Venus.HeroData_Venus - HeroData_Venus
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/WarDrum/HeroData_WarDrum.HeroData_WarDrum - HeroData_WarDrum
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Tacticia/HeroData_Tacticia.HeroData_Tacticia - HeroData_Tacticia
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Kwang/HeroData_Kwang.HeroData_Kwang - HeroData_Kwang
+[2017.05.18-14.44.06:369][  0]LogOrion:Display:    /Game/Characters/Heroes/Vamp/HeroData_Vamp.HeroData_Vamp - HeroData_Vamp
+[2017.05.18-14.44.06:370][  0]LogOrion:Display:    /Game/Characters/Heroes/Crunch/HeroData_Crunch.HeroData_Crunch - HeroData_Crunch
+[2017.05.18-14.44.06:370][  0]LogOrion:Display:    /Game/Characters/Heroes/FallenAngel/HeroData_FallenAngel.HeroData_FallenAngel - HeroData_FallenAngel
+[2017.05.18-14.44.06:370][  0]LogOrion:Display:    /Game/Characters/Heroes/Ice/HeroData_Ice.HeroData_Ice - HeroData_Ice
+[2017.05.18-14.44.06:370][  0]LogOrion:Display:    /Game/Characters/Heroes/Mudang/HeroData_Mudang.HeroData_Mudang - HeroData_Mudang
+[2017.05.18-14.44.06:370][  0]LogOrion:Display:    /Game/Characters/Heroes/Femme/HeroData_Femme.HeroData_Femme - HeroData_Femme
+[2017.05.18-14.44.06:370][  0]LogOrion:Display:    /Game/Characters/Heroes/Mambo/HeroData_Mambo.HeroData_Mambo - HeroData_Mambo
+[2017.05.18-14.44.06:370][  0]LogOrion:Display:    /Game/Characters/Heroes/Revenant/HeroData_Revenant.HeroData_Revenant - HeroData_Revenant
+[2017.05.18-14.44.06:370][  0]LogOrion:Display:    /Game/Characters/Heroes/Phase/HeroData_Phase.HeroData_Phase - HeroData_Phase
+[2017.05.18-14.44.06:386][  0]LogWorld: Bringing up level for play took: 0.989981
+[2017.05.18-14.44.06:387][  0]LogOnlineGame: [ULocalPlayerCommon::GetGameLoginOptions] Client adding GameAccountId/AuthTicket for local player to login url. OrionGameOptions: ASID={06172EFE-48D5-2630-44A5-2FBB265895D1}
+[2017.05.18-14.44.06:387][  0]LogOrion:Display: ShowLoadingScreen( Mode = 10, DebugString = AOrionPlayerController_Base::PostInitializeComponents)
+[2017.05.18-14.44.06:387][  0]LogOrion: Switching async loading mode to FAST AS POSSIBLE (25.00ms)
+[2017.05.18-14.44.06:387][  0]LogOrion: [AOrionPlayerController_Base::PostInitializeComponents] Waiting for team info to be replicated before we load match data
+[2017.05.18-14.44.06:387][  0]LogOrion:Display: WorldGlobalsAdded FrontEndScene
+[2017.05.18-14.44.06:387][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.05.18-14.44.06:387][  0]LogOnlineGame: Server received validation credentials from client for player with UniqueId=[INVALID] GameAccountId=[] AuthTicket=[] Platform=[PC] bIsCompetitive=[0]
+[2017.05.18-14.44.06:387][  0]LogParty:Verbose: Failed to get persistent party leader
+[2017.05.18-14.44.06:387][  0]LogOrion: AOrionPlayerController_Base::ClientSetHUD_Implementation(): Client recieved HUD Class OrionUI_Menu
+[2017.05.18-14.44.06:387][  0]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.05.18-14.44.06:389][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.05.18-14.44.06:389][  0]LogOrionMemory: Loaded_FrontEndScene: CPU: 613.56MB (Peak: 636.74MB). 
+[2017.05.18-14.44.06:389][  0]LogLoad: Took 6.493321 seconds to LoadMap(/Game/Maps/FrontEndScene)
+[2017.05.18-14.44.06:603][  0]LogLoad: (Engine Initialization) Total time: 22.90 seconds
+[2017.05.18-14.44.06:603][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.05.18-14.44.06:615][  0]LogOrion: Loading OrionWidgetData: /Game/UI/Data/WidgetData.WidgetData ...
+[2017.05.18-14.44.06:693][  0]LogOrion: Finished Loading OrionWidgetData: /Game/UI/Data/WidgetData.WidgetData ...
+[2017.05.18-14.44.06:693][  0]LogOrion: Loading LocalPlayerMiniMapMaterial: /Game/UI/MiniMap/Minimap_Portrait_LocalPlayer.Minimap_Portrait_LocalPlayer ...
+[2017.05.18-14.44.06:693][  0]LogOrion: Finished loading LocalPlayerMiniMapMaterial: /Game/UI/MiniMap/Minimap_Portrait_LocalPlayer.Minimap_Portrait_LocalPlayer ...
+[2017.05.18-14.44.06:693][  0]LogBlueprintContext: [UTeamBuilderContext::SetSelectedDeck]: Deck Selected { Name = null, InstanceId = null deck }
+[2017.05.18-14.44.06:693][  0]LogStreamableManager: RequestAsyncLoad called with duplicate assets, duplicates removed from /Game/UI/HotFix/InitialPreload_Root.InitialPreload_Root_C, /Game/UI/TitleScreen/TitleScreenRoot.TitleScreenRoot_C, /Game/UI/Master_Layouts/LoginScreen.LoginScreen_C, /Game/UI/HotFix/InitialPreload_Root.InitialPreload_Root_C, /Game/UI/Master_Layouts/FrontEnd.FrontEnd_C, /Game/UI/OrionHUD-V4/HUD/HUDWidget-V4.HUDWidget-V4_C, /Game/UI/OrionSpectatorHUD/Widgets/SpectatorHUDWidget.SpectatorHUDWidget_C, /Game/UI/DraftLobby/DraftLobbyRoot.DraftLobbyRoot_C, /Game/UI/OrionHUD-V4/HUD/HUDWidget-V4.HUDWidget-V4_C, /Game/UI/Rejoin/RejoinMatchRoot.RejoinMatchRoot_C!
+[2017.05.18-14.44.11:378][  0]LogOrion:Display: Address of SocialStyle = 0000000144D0E0C0
+[2017.05.18-14.44.12:061][  1]LogOnline:Verbose: MCP: Large tick time detected 20.1350
+[2017.05.18-14.44.12:061][  1]LogOnline:Verbose: OSS: Started QueryServiceStatus request as application client.
+[2017.05.18-14.44.12:061][  1]LogOnline:Verbose: OSS: No valid auth for clientId=1483ba7d6c0247828c26cc8a74a9a183
+[2017.05.18-14.44.12:061][  1]LogOnline:Verbose: OSS: Sending Client Auth request. url=https://account-public-service-prod03.ol.epicgames.com/account, Payload=[REDACTED]
+[2017.05.18-14.44.12:062][  1]LogEngine: Slow GT frame detected (GT frame 0, delta time 5.449830 s)
+[2017.05.18-14.44.12:063][  1]LogHotfixManager:Display: Update State UpdatePending -> CheckingForPatch
+[2017.05.18-14.44.12:063][  1]LogOnline: OSS: Sending User Privilege request. url=https://orion-public-service-prod09.ol.epicgames.com/orion/api/versioncheck?version=%2B%2BOrion%2BRelease-40-CL-3439486-Windows
+[2017.05.18-14.44.12:076][  1]LogOrion: Unable to register OnGotoTimeDelegate callback
+[2017.05.18-14.44.12:077][  1]LogOrion: UI state transition from EOrionUIState::Invalid to EOrionUIState::InitialPreload
+[2017.05.18-14.44.12:083][  1]LogQoSReporter: Startup complete, took 28.327635 seconds.
+[2017.05.18-14.44.12:111][  2]LogRenderer: Reallocating scene render targets to support 1680x1052 NumSamples 1 (Frame:1).
+[2017.05.18-14.44.12:199][  2]LogRenderer: Reallocating scene render targets to support 512x512 NumSamples 1 (Frame:2).
+[2017.05.18-14.44.12:262][  2]LogRenderer: Reallocating scene render targets to support 1680x1052 NumSamples 1 (Frame:2).
+[2017.05.18-14.44.12:262][  2]LogSlate: Took 0.036737 seconds to synchronously load lazily loaded font '../../../OrionGame/Content/UI/Fonts/ContaxPro_0_Regular.ufont' (102K)
+[2017.05.18-14.44.12:265][  2]LogSlate: Took 0.002914 seconds to synchronously load lazily loaded font '../../../OrionGame/Content/UI/Fonts/OpenSans_0_Regular.ufont' (213K)
+[2017.05.18-14.44.12:693][ 16]LogOnline: MCP: Service status updated [Normal] -> [Connected]
+[2017.05.18-14.44.12:693][ 16]LogOnline:Verbose: OSS: Client auth request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token code=200 response=[REDACTED]
+[2017.05.18-14.44.12:693][ 16]LogOnline:Verbose: OSS: Client ClientId: 1483ba7d6c0247828c26cc8a74a9a183  Access[Expires: 2017.05.18-18.44.05 Remaining: 14400.30]  State: NotStarted drift: 0.30
+[2017.05.18-14.44.13:285][ 34]LogSlate: Took 0.002500 seconds to synchronously load lazily loaded font '../../../OrionGame/Content/UI/Fonts/ContaxPro_0_Bold.ufont' (104K)
+[2017.05.18-14.44.13:305][ 36]LogOnline:Verbose: OSS: QueryServiceStatus request complete. url=https://lightswitch-public-service-prod06.ol.epicgames.com/lightswitch/api/service/bulk/status?serviceId=OrionLive code=200 response=[{"serviceInstanceId":"orionlive","status":"UP","message":"Servers going down temporarily for maintenance. We'll be back soon!","allowedActions":[]}]
+[2017.05.18-14.44.13:305][ 36]LogOnline:Verbose: OSS: GetUserPrivilege request complete. url=https://orion-public-service-prod09.ol.epicgames.com/orion/api/versioncheck?version=%2B%2BOrion%2BRelease-40-CL-3439486-Windows code=200 response={"type":"NO_UPDATE","acceptedVersions":["++Orion+Release-40-CL-3439486-Windows"]}
+[2017.05.18-14.44.13:305][ 36]LogHotfixManager:Verbose: [OnCheckForPatchComplete] Privilege=1 PrivilegeResult=0
+[2017.05.18-14.44.13:305][ 36]LogHotfixManager:Display: Update State CheckingForPatch -> CheckingForHotfix
+[2017.05.18-14.44.13:305][ 36]LogOrion:Display: UOrionStateWidget_UpdateBase::OnUpdateStatusChanged 4
+[2017.05.18-14.44.13:465][ 44]LogOnline:Verbose: MCP: EnumerateFiles request complete. url=https://orion-public-service-prod09.ol.epicgames.com/orion/api/cloudstorage/system code=200 response=[{"uniqueFilename":"624ebb11649e484aaccd7b685ac3a474","filename":"MainMenu.json","hash":"8b8f1e737e3d2f32e33e31192b5295cc98709e50","hash256":"2c714f7d590c95edcfd2be7bb796bfb34dfa4553ff1124610163565b1acc745f","length":871,"contentType":"application/octet-stream","uploaded":"2017-05-15T18:23:04.475Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"104543aaeb1a429aa6bd1552d288c11b","filename":"CardData.ini","hash":"3a5bb21b69d80f28241becb5f53da5040d8942d9","hash256":"d405656a6f86c387a4b46d23636cbd0f6a23b26f8f70d006ccc9497231366055","length":177,"contentType":"application/octet-stream","uploaded":"2017-01-10T09:12:51.675Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"4f96451efdeb47ae827f255a10b98dd7","filename":"DefaultEngine.ini","hash":"db1a17c98a93f23e11e3749d53024f0f1d7722c3","hash256":"83320ca504604d34e3749a978a14c76579761310b4426a39811c813e086bd56d","length":927,"contentType":"application/octet-stream","uploaded":"2017-01-24T09:55:18.906Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"10a91234593c4aa98749ce329c26ffd1","filename":"Survey.ini","hash":"fbfeb5e6f7726be0b328c0a78d062b4b40f08989","hash256":"0349bd51f624209a7b24ac568c8eb0854b523f9e75a29c3e167a1d807ee42b0d","length":1040,"contentType":"application/octet-stream","uploaded":"2016-12-06T13:26:59.670Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"ee5d4c3ccb9e441dbc0472562acaa8a4","filename":"HeroData.ini","hash":"bdb912b4ee52e094a09329be4c0c17726d94281f","hash256":"71a1ce161fffdc6b7f28f4cd3ab4089af9f888f14db2dd605814534d5f577136","length":1024,"contentType":"application/octet-stream","uploaded":"2017-05-16T08:24:24.893Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"6f92ded684e34382bed78f087ce846d2","filename":"RuntimeOptions.ini","hash":"b7cdc6e77188a9028cec8ecf84ae6265e02eab24","hash256":"b48529236f46e9d91c9ad3984c4ba8a653621280e3c69b1dddb0c3b712aeec30","length":967,"contentType":"application/octet-stream","uploaded":"2017-05-12T20:22:46.253Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"c64513fa04e942d3bff100602b9f9d87","filename":"SkinData.ini","hash":"0776323c3f8a59004b800ad8e787adc4a49707dc","hash256":"8911d85fc4ab31e5f868c959cf3b81dfb93eb083b0396edca6c95fe9ad657bd9","length":1517,"contentType":"application/octet-stream","uploaded":"2017-04-25T08:32:49.593Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"bce15eed55c044abb438298ceade9b14","filename":"DefaultGame.ini","hash":"9002bb923913fe20c76866ce3bef1ac408844235","hash256":"cf901d46e04701dfd7d616c5eb7c322355b120a21bc2ebec36bfb4e5e53e3a0b","length":727,"contentType":"application/octet-stream","uploaded":"2017-05-12T20:22:46.378Z","storageType":"S3","doNotCache":false}]
+[2017.05.18-14.44.13:492][ 44]LogHotfixManager:Verbose: Using default hotfix DefaultEngine.ini
+[2017.05.18-14.44.13:492][ 44]LogHotfixManager:Verbose: Using default hotfix DefaultGame.ini
+[2017.05.18-14.44.13:520][ 46]LogOnline:Verbose: MCP: ReadFile request. Local file read from cache =../../../OrionGame/PersistentDownloadDir/EMS/104543aaeb1a429aa6bd1552d288c11b
+[2017.05.18-14.44.13:520][ 46]LogOnline:Verbose: MCP: ReadFile request. Local file read from cache =../../../OrionGame/PersistentDownloadDir/EMS/4f96451efdeb47ae827f255a10b98dd7
+[2017.05.18-14.44.13:520][ 46]LogOnline:Verbose: MCP: ReadFile request. Local file read from cache =../../../OrionGame/PersistentDownloadDir/EMS/ee5d4c3ccb9e441dbc0472562acaa8a4
+[2017.05.18-14.44.13:520][ 46]LogOnline:Verbose: MCP: Local file hash matches cloud header. No need to download for filename=4f96451efdeb47ae827f255a10b98dd7
+[2017.05.18-14.44.13:520][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 0/8 927/7250
+[2017.05.18-14.44.13:567][ 46]LogOnline:Verbose: MCP: ReadFile request. Local file read from cache =../../../OrionGame/PersistentDownloadDir/EMS/bce15eed55c044abb438298ceade9b14
+[2017.05.18-14.44.13:567][ 46]LogOnline:Verbose: MCP: ReadFile request. Local file read from cache =../../../OrionGame/PersistentDownloadDir/EMS/c64513fa04e942d3bff100602b9f9d87
+[2017.05.18-14.44.13:567][ 46]LogOnline:Verbose: MCP: ReadFile request. Local file read from cache =../../../OrionGame/PersistentDownloadDir/EMS/6f92ded684e34382bed78f087ce846d2
+[2017.05.18-14.44.13:567][ 46]LogOnline:Verbose: MCP: ReadFile request. Local file read from cache =../../../OrionGame/PersistentDownloadDir/EMS/624ebb11649e484aaccd7b685ac3a474
+[2017.05.18-14.44.13:567][ 46]LogOnline:Verbose: MCP: ReadFile request. Local file read from cache =../../../OrionGame/PersistentDownloadDir/EMS/10a91234593c4aa98749ce329c26ffd1
+[2017.05.18-14.44.13:567][ 46]LogHotfixManager: Hotfix file (DefaultEngine.ini) downloaded. Size was (927)
+[2017.05.18-14.44.13:567][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 1/8 927/7250
+[2017.05.18-14.44.13:567][ 46]LogOnline:Verbose: MCP: Local file hash matches cloud header. No need to download for filename=bce15eed55c044abb438298ceade9b14
+[2017.05.18-14.44.13:567][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 1/8 1654/7250
+[2017.05.18-14.44.13:567][ 46]LogHotfixManager: Hotfix file (DefaultGame.ini) downloaded. Size was (727)
+[2017.05.18-14.44.13:567][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 2/8 1654/7250
+[2017.05.18-14.44.13:567][ 46]LogOnline:Verbose: MCP: Local file hash matches cloud header. No need to download for filename=104543aaeb1a429aa6bd1552d288c11b
+[2017.05.18-14.44.13:567][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 2/8 1831/7250
+[2017.05.18-14.44.13:567][ 46]LogHotfixManager: Hotfix file (CardData.ini) downloaded. Size was (177)
+[2017.05.18-14.44.13:567][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 3/8 1831/7250
+[2017.05.18-14.44.13:567][ 46]LogOnline:Verbose: MCP: Local file hash matches cloud header. No need to download for filename=ee5d4c3ccb9e441dbc0472562acaa8a4
+[2017.05.18-14.44.13:567][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 3/8 2855/7250
+[2017.05.18-14.44.13:567][ 46]LogHotfixManager: Hotfix file (HeroData.ini) downloaded. Size was (1024)
+[2017.05.18-14.44.13:567][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 4/8 2855/7250
+[2017.05.18-14.44.13:567][ 46]LogOnline:Verbose: MCP: Local file hash matches cloud header. No need to download for filename=6f92ded684e34382bed78f087ce846d2
+[2017.05.18-14.44.13:567][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 4/8 3822/7250
+[2017.05.18-14.44.13:567][ 46]LogHotfixManager: Hotfix file (RuntimeOptions.ini) downloaded. Size was (967)
+[2017.05.18-14.44.13:567][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 5/8 3822/7250
+[2017.05.18-14.44.13:567][ 46]LogOnline:Verbose: MCP: Local file hash matches cloud header. No need to download for filename=c64513fa04e942d3bff100602b9f9d87
+[2017.05.18-14.44.13:567][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 5/8 5339/7250
+[2017.05.18-14.44.13:567][ 46]LogHotfixManager: Hotfix file (SkinData.ini) downloaded. Size was (1517)
+[2017.05.18-14.44.13:567][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 6/8 5339/7250
+[2017.05.18-14.44.13:567][ 46]LogOnline:Verbose: MCP: Local file hash matches cloud header. No need to download for filename=10a91234593c4aa98749ce329c26ffd1
+[2017.05.18-14.44.13:567][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 6/8 6379/7250
+[2017.05.18-14.44.13:568][ 46]LogHotfixManager: Hotfix file (Survey.ini) downloaded. Size was (1040)
+[2017.05.18-14.44.13:568][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 7/8 6379/7250
+[2017.05.18-14.44.13:568][ 46]LogOnline:Verbose: MCP: Local file hash matches cloud header. No need to download for filename=624ebb11649e484aaccd7b685ac3a474
+[2017.05.18-14.44.13:568][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 7/8 7250/7250
+[2017.05.18-14.44.13:568][ 46]LogHotfixManager: Hotfix file (MainMenu.json) downloaded. Size was (871)
+[2017.05.18-14.44.13:568][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixProgress 8/8 7250/7250
+[2017.05.18-14.44.13:573][ 46]LogHotfixManager: Updating config from DefaultEngine.ini took 0.004548 seconds and reloaded 1 objects
+[2017.05.18-14.44.13:573][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixFileProcessed DefaultEngine.ini
+[2017.05.18-14.44.13:580][ 46]LogHotfixManager: Updating config from DefaultGame.ini took 0.006337 seconds and reloaded 6 objects
+[2017.05.18-14.44.13:580][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixFileProcessed DefaultGame.ini
+[2017.05.18-14.44.13:580][ 46]LogHotfixManager: Updating config from CardData.ini took 0.000058 seconds and reloaded 2 objects
+[2017.05.18-14.44.13:580][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixFileProcessed CardData.ini
+[2017.05.18-14.44.13:581][ 46]LogHotfixManager: Updating config from HeroData.ini took 0.000460 seconds and reloaded 12 objects
+[2017.05.18-14.44.13:581][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixFileProcessed HeroData.ini
+[2017.05.18-14.44.13:587][ 46]LogHotfixManager: Updating config from RuntimeOptions.ini took 0.004941 seconds and reloaded 1 objects
+[2017.05.18-14.44.13:587][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixFileProcessed RuntimeOptions.ini
+[2017.05.18-14.44.13:587][ 46]LogHotfixManager: Updating config from SkinData.ini took 0.000000 seconds and reloaded 0 objects
+[2017.05.18-14.44.13:587][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixFileProcessed SkinData.ini
+[2017.05.18-14.44.13:592][ 46]LogHotfixManager: Updating config from Survey.ini took 0.004526 seconds and reloaded 1 objects
+[2017.05.18-14.44.13:592][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixFileProcessed Survey.ini
+[2017.05.18-14.44.13:592][ 46]LogOrion:Display: UOrionStateWidget_UpdateBase::OnHotfixFileProcessed MainMenu.json
+[2017.05.18-14.44.13:592][ 46]LogHotfixManager:Display: Hotfix data has been successfully applied
+[2017.05.18-14.44.13:593][ 46]LogHotfixManager:Display: OnHotfixCheckComplete 1
+[2017.05.18-14.44.13:629][ 47]LogHotfixManager:Display: Update State CheckingForHotfix -> WaitingOnInitialLoad
+[2017.05.18-14.44.13:629][ 47]LogOrion:Display: UOrionStateWidget_UpdateBase::OnUpdateStatusChanged 5
+[2017.05.18-14.44.13:958][ 47]LogOrion: Loading OrionGameData: /Game/Global/ParameterCollections/OrionGlobalGameplayCollection.OrionGlobalGameplayCollection ...
+[2017.05.18-14.44.13:958][ 47]LogStats:     ... OrionGlobalTeamColor loaded! -  0.000 s
+[2017.05.18-14.44.18:725][ 47]LogOrion: LoadStartupDataPreInit: Loaded Object Libraries in 4.77 seconds
+[2017.05.18-14.44.18:797][ 47]LogOrion: Completed LoadStartupDataPreInit in 5.17 seconds
+[2017.05.18-14.44.18:926][ 47]LogOrion: [UOrionPlaylistManager::InjectPVEPlaylists()] Injecting [0] Playlist infos
+[2017.05.18-14.44.19:049][ 47]LogOrionStartup:Display: UOrionAsyncLoadRequestQueue::BeginAsyncLoading for bucket UIManagerPlus, Requesting 1 items.
+[2017.05.18-14.44.19:049][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_BipedBot_Melee
+[2017.05.18-14.44.19:079][ 47]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.19:080][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_BipedBot_Melee NOT fully loaded
+[2017.05.18-14.44.19:131][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 5 items for Load
+[2017.05.18-14.44.19:131][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_BipedBot_Ranged
+[2017.05.18-14.44.19:131][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_BipedBot_Ranged NOT fully loaded
+[2017.05.18-14.44.19:131][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 5 items for Load
+[2017.05.18-14.44.19:131][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_BipedBot_TargetDummy
+[2017.05.18-14.44.19:131][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_BipedBot_TargetDummy NOT fully loaded
+[2017.05.18-14.44.19:131][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 3 items for Load
+[2017.05.18-14.44.19:131][ 47]LogOrion: Preloading AIData with map: AIData_BipedBot_Ranged
+[2017.05.18-14.44.19:131][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_BipedBot_Ranged
+[2017.05.18-14.44.19:131][ 47]LogOrion:Display: UOrionMcpItemDefinition called on AIData_BipedBot_Ranged while a load was already pending.
+[2017.05.18-14.44.19:132][ 47]LogOrion: Preloading AIData with map: AIData_BipedBot_Melee
+[2017.05.18-14.44.19:132][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_BipedBot_Melee
+[2017.05.18-14.44.19:132][ 47]LogOrion:Display: UOrionMcpItemDefinition called on AIData_BipedBot_Melee while a load was already pending.
+[2017.05.18-14.44.19:132][ 47]LogOrion: Preloading AIData with map: AIData_JungleCreep_Black_V2
+[2017.05.18-14.44.19:132][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_JungleCreep_Black_V2
+[2017.05.18-14.44.19:227][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 6 items for Load
+[2017.05.18-14.44.19:227][ 47]LogOrion: Preloading AIData with map: AIData_JungleCreep_Blue_V2
+[2017.05.18-14.44.19:227][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_JungleCreep_Blue_V2
+[2017.05.18-14.44.19:315][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 6 items for Load
+[2017.05.18-14.44.19:315][ 47]LogOrion: Preloading AIData with map: AIData_JungleCreep_Gold_V2
+[2017.05.18-14.44.19:315][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_JungleCreep_Gold_V2
+[2017.05.18-14.44.19:344][ 47]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.19:344][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Gold_V2 NOT fully loaded
+[2017.05.18-14.44.19:397][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 6 items for Load
+[2017.05.18-14.44.19:397][ 47]LogOrion: Preloading AIData with map: AIData_JungleCreep_Mid_AbilityDamage
+[2017.05.18-14.44.19:397][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_JungleCreep_Mid_AbilityDamage
+[2017.05.18-14.44.19:425][ 47]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.19:425][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Mid_AbilityDamage NOT fully loaded
+[2017.05.18-14.44.19:475][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 6 items for Load
+[2017.05.18-14.44.19:475][ 47]LogOrion: Preloading AIData with map: AIData_JungleCreep_Mid_DoT
+[2017.05.18-14.44.19:475][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_JungleCreep_Mid_DoT
+[2017.05.18-14.44.19:500][ 47]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.19:500][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Mid_DoT NOT fully loaded
+[2017.05.18-14.44.19:548][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 6 items for Load
+[2017.05.18-14.44.19:548][ 47]LogOrion: Preloading AIData with map: AIData_JungleCreep_Mid_MoveSpeed
+[2017.05.18-14.44.19:548][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_JungleCreep_Mid_MoveSpeed
+[2017.05.18-14.44.19:573][ 47]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.19:573][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Mid_MoveSpeed NOT fully loaded
+[2017.05.18-14.44.19:623][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 6 items for Load
+[2017.05.18-14.44.19:623][ 47]LogOrion: Preloading AIData with map: AIData_JungleCreep_Mid_ShadowPlane
+[2017.05.18-14.44.19:623][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_JungleCreep_Mid_ShadowPlane
+[2017.05.18-14.44.19:650][ 47]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.19:650][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Mid_ShadowPlane NOT fully loaded
+[2017.05.18-14.44.19:699][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 6 items for Load
+[2017.05.18-14.44.19:699][ 47]LogOrion: Preloading AIData with map: AIData_JungleCreep_Red_V2
+[2017.05.18-14.44.19:699][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_JungleCreep_Red_V2
+[2017.05.18-14.44.19:792][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 6 items for Load
+[2017.05.18-14.44.19:792][ 47]LogOrion: Preloading AIData with map: AIData_JungleCreep_White_Melee_V2
+[2017.05.18-14.44.19:792][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_JungleCreep_White_Melee_V2
+[2017.05.18-14.44.19:880][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 5 items for Load
+[2017.05.18-14.44.19:880][ 47]LogOrion: Preloading AIData with map: AIData_Lane_Joiner_Start
+[2017.05.18-14.44.19:880][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_Lane_Joiner_Start
+[2017.05.18-14.44.19:910][ 47]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.19:910][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_Lane_Joiner_Start NOT fully loaded
+[2017.05.18-14.44.19:964][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 6 items for Load
+[2017.05.18-14.44.19:964][ 47]LogOrion: Preloading AIData with map: AIData_JungleCreep_Gold_Sov
+[2017.05.18-14.44.19:964][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_JungleCreep_Gold_Sov
+[2017.05.18-14.44.19:991][ 47]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.19:991][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Gold_Sov NOT fully loaded
+[2017.05.18-14.44.20:039][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 6 items for Load
+[2017.05.18-14.44.20:039][ 47]LogOrion: Preloading AIData with map: AIData_JungleCreep_HighYield
+[2017.05.18-14.44.20:039][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_JungleCreep_HighYield
+[2017.05.18-14.44.20:066][ 47]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.20:066][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_HighYield NOT fully loaded
+[2017.05.18-14.44.20:117][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 6 items for Load
+[2017.05.18-14.44.20:117][ 47]LogOrion: Preloading AIData with map: AIData_JungleCreep_Green
+[2017.05.18-14.44.20:117][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_JungleCreep_Green
+[2017.05.18-14.44.20:145][ 47]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.20:145][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Green NOT fully loaded
+[2017.05.18-14.44.20:196][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 6 items for Load
+[2017.05.18-14.44.20:196][ 47]LogOrion: Preloading AIData with map: AIData_BipedBot_Melee_Super
+[2017.05.18-14.44.20:196][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_BipedBot_Melee_Super
+[2017.05.18-14.44.20:196][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_BipedBot_Melee_Super NOT fully loaded
+[2017.05.18-14.44.20:197][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 5 items for Load
+[2017.05.18-14.44.20:197][ 47]LogOrion: Preloading AIData with map: AIData_BipedBot_Siege
+[2017.05.18-14.44.20:197][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_BipedBot_Siege
+[2017.05.18-14.44.20:197][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_BipedBot_Siege NOT fully loaded
+[2017.05.18-14.44.20:197][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 5 items for Load
+[2017.05.18-14.44.20:197][ 47]LogOrion: Preloading AIData with map: AIData_Prototype_Melee
+[2017.05.18-14.44.20:197][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_Prototype_Melee
+[2017.05.18-14.44.20:226][ 47]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.20:226][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_Prototype_Melee NOT fully loaded
+[2017.05.18-14.44.20:278][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 5 items for Load
+[2017.05.18-14.44.20:278][ 47]LogOrion: Preloading AIData with map: AIData_Lane_Joiner
+[2017.05.18-14.44.20:278][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_Lane_Joiner
+[2017.05.18-14.44.20:308][ 47]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.20:308][ 47]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_Lane_Joiner NOT fully loaded
+[2017.05.18-14.44.20:358][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 5 items for Load
+[2017.05.18-14.44.20:358][ 47]LogOrion: Preloading AIData with map: AIData_Core_Boss
+[2017.05.18-14.44.20:358][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_Core_Boss
+[2017.05.18-14.44.20:453][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 6 items for Load
+[2017.05.18-14.44.20:453][ 47]LogOrion: Preloading AIData with map: AIData_JungleCreep_PrimeHelix_V2
+[2017.05.18-14.44.20:454][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: AIData_JungleCreep_PrimeHelix_V2
+[2017.05.18-14.44.20:454][ 47]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Submitted 6 items for Load
+[2017.05.18-14.44.20:454][ 47]LogOrion: MapPreload: Scanning for map assets to preload for /Game/Maps/Origin/Origin
+[2017.05.18-14.44.20:454][ 47]LogOrion: MapPreload: Finished scanning for map assets to preload for /Game/Maps/Origin/Origin, found 516 packages in 0.00 seconds (deps 0.00 s, ptoa 0.00 s, filter 0.00)
+[2017.05.18-14.44.20:454][ 47]LogOrion: MapPreload: Scanning for map assets to preload for /Game/Maps/Monolith/Monolith
+[2017.05.18-14.44.20:455][ 47]LogOrion: MapPreload: Finished scanning for map assets to preload for /Game/Maps/Monolith/Monolith, found 392 packages in 0.00 seconds (deps 0.00 s, ptoa 0.00 s, filter 0.00)
+[2017.05.18-14.44.20:455][ 47]LogOrion: Intersecting all sets left us with 104 assets (took 0.00 s):
+[2017.05.18-14.44.20:455][ 47]LogOrion: MapPreload: Starting async loading of 104 packages used in map '[SharedSet]'
+[2017.05.18-14.44.20:456][ 47]LogOrionStartup:Display: UOrionAsyncLoadRequestQueue finished loading for bucket UIManagerPlus. Total time: 1.4075. Delta since last: 1.4074
+[2017.05.18-14.44.20:456][ 47]LogOrionStartup:Display: UOrionAsyncLoadRequestQueue::BeginAsyncLoading for bucket SharedGameplayCues, Requesting 454 items.
+[2017.05.18-14.44.20:471][ 48]LogOnline:Verbose: MCP: Large tick time detected 6.8770
+[2017.05.18-14.44.20:471][ 48]LogEngine: Slow GT frame detected (GT frame 47, delta time 6.841195 s)
+[2017.05.18-14.44.20:515][ 49]LogStreaming:Warning: FAsyncPackage::LoadImports for /Game/Characters/Minions/BipedBot/SolsticeMap/BP_OrionCharAI_Lane_Joiner: Skipping import ArrowComponent, depends on missing native class
+[2017.05.18-14.44.25:644][208]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_BipedBot_TargetDummy
+[2017.05.18-14.44.25:644][208]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_BipedBot_TargetDummy fully loaded
+[2017.05.18-14.44.25:763][212]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_BipedBot_Ranged
+[2017.05.18-14.44.25:763][212]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_BipedBot_Ranged fully loaded
+[2017.05.18-14.44.25:763][212]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.25:764][212]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Red_V2 NOT fully loaded
+[2017.05.18-14.44.25:764][212]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_JungleCreep_White_Melee_V2
+[2017.05.18-14.44.25:764][212]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_White_Melee_V2 NOT fully loaded
+[2017.05.18-14.44.25:764][212]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_BipedBot_Melee
+[2017.05.18-14.44.25:764][212]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_BipedBot_Melee fully loaded
+[2017.05.18-14.44.25:909][217]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_Lane_Joiner
+[2017.05.18-14.44.25:909][217]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_Lane_Joiner fully loaded
+[2017.05.18-14.44.25:909][217]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_JungleCreep_Gold_Sov
+[2017.05.18-14.44.25:910][217]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Gold_Sov fully loaded
+[2017.05.18-14.44.25:910][217]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_Lane_Joiner_Start
+[2017.05.18-14.44.25:910][217]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_Lane_Joiner_Start fully loaded
+[2017.05.18-14.44.25:938][218]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.25:938][218]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Blue_V2 NOT fully loaded
+[2017.05.18-14.44.25:938][218]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.25:938][218]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_White_Melee_V2 fully loaded
+[2017.05.18-14.44.25:966][219]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.25:966][219]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Black_V2 NOT fully loaded
+[2017.05.18-14.44.25:967][219]LogOrion:Display: Found subset. OnLoaded: 2
+[2017.05.18-14.44.25:967][219]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_Core_Boss NOT fully loaded
+[2017.05.18-14.44.25:967][219]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_PrimeHelix_V2 NOT fully loaded
+[2017.05.18-14.44.28:437][305]LogOrion: MapPreload: Finished preloading 116 assets referenced by map '[SharedSet]'
+[2017.05.18-14.44.28:440][305]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_JungleCreep_Red_V2
+[2017.05.18-14.44.28:441][305]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Red_V2 fully loaded
+[2017.05.18-14.44.28:441][305]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_Core_Boss
+[2017.05.18-14.44.28:441][305]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_Core_Boss fully loaded
+[2017.05.18-14.44.28:441][305]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_JungleCreep_PrimeHelix_V2
+[2017.05.18-14.44.28:441][305]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_PrimeHelix_V2 fully loaded
+[2017.05.18-14.44.28:441][305]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_JungleCreep_Mid_ShadowPlane
+[2017.05.18-14.44.28:441][305]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Mid_ShadowPlane fully loaded
+[2017.05.18-14.44.28:441][305]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_JungleCreep_Mid_MoveSpeed
+[2017.05.18-14.44.28:441][305]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Mid_MoveSpeed fully loaded
+[2017.05.18-14.44.28:441][305]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_JungleCreep_Mid_DoT
+[2017.05.18-14.44.28:441][305]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Mid_DoT fully loaded
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_JungleCreep_Mid_AbilityDamage
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Mid_AbilityDamage fully loaded
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_JungleCreep_Gold_V2
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Gold_V2 fully loaded
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_JungleCreep_Blue_V2
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Blue_V2 fully loaded
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_JungleCreep_Black_V2
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Black_V2 fully loaded
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_JungleCreep_HighYield
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_HighYield fully loaded
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_JungleCreep_Green
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_JungleCreep_Green fully loaded
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_Prototype_Melee
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_Prototype_Melee fully loaded
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_BipedBot_Siege
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_BipedBot_Siege fully loaded
+[2017.05.18-14.44.28:442][305]LogOrion: [UOrionMcpItemDefinition::OnDataLoadedInternal] AIData_BipedBot_Melee_Super
+[2017.05.18-14.44.28:443][305]LogOrion: [UOrionMcpItemDefinition::BroadcastOnLoadComplete] AIData_BipedBot_Melee_Super fully loaded
+[2017.05.18-14.44.33:438][481]LogOrionStartup:Display: UOrionAsyncLoadRequestQueue finished loading for bucket SharedGameplayCues. Total time: 12.9812. Delta since last: 0.0455
+[2017.05.18-14.44.33:439][482]LogHotfixManager: Finished initial load/hotfix phase in 19.808052s
+[2017.05.18-14.44.33:439][482]LogHotfixManager:Display: Update State WaitingOnInitialLoad -> InitialLoadComplete
+[2017.05.18-14.44.33:439][482]LogOrion:Display: UOrionStateWidget_UpdateBase::OnUpdateStatusChanged 6
+[2017.05.18-14.44.33:439][482]LogOrion: Switching async loading mode to DEFAULT (5.00ms)
+[2017.05.18-14.44.33:439][482]LogHotfixManager:Display: CheckComplete UpdateSuccess
+[2017.05.18-14.44.35:459][611]LogHotfixManager:Display: External CheckComplete UpdateSuccess
+[2017.05.18-14.44.35:459][611]LogHotfixManager:Display: Update State InitialLoadComplete -> UpdatePending
+[2017.05.18-14.44.35:459][611]LogOrion:Display: UOrionStateWidget_UpdateBase::OnUpdateStatusChanged 1
+[2017.05.18-14.44.35:459][611]LogOrion:Display: UOrionStateWidget_InitialPreload::OnUpdateComplete 1
+[2017.05.18-14.44.35:459][611]LogOrion:Display: UOrionStateWidget_UpdateBase::OnUpdateComplete 1
+[2017.05.18-14.44.35:460][611]LogOrion: UI state transition from EOrionUIState::InitialPreload to EOrionUIState::Login
+[2017.05.18-14.44.35:500][611]LogSlate: Took 0.030736 seconds to synchronously load lazily loaded font '../../../OrionGame/Content/UI/Fonts/OpenSans_0_Bold.ufont' (220K)
+[2017.05.18-14.44.35:512][611]LogSlate: Took 0.011493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.05.18-14.44.35:516][611]LogOnlineGame:Verbose: [UOnlineAccountCommon::AutoLogin] Attempting AutoLogin for player with e-mail unused on controller 0
+[2017.05.18-14.44.35:517][612]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Sprawdzanie kolejki na serwerach Epic...
+[2017.05.18-14.44.35:554][613]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Logowanie w usługach Epic...
+[2017.05.18-14.44.35:554][613]LogOnlineGame:Verbose: [UOnlineAccountCommon::LoginStep_LoggingIn] Valid credentials , attempting AutoLogin
+[2017.05.18-14.44.35:554][613]LogOnline: OSS: Sending Login request. url=https://account-public-service-prod03.ol.epicgames.com/account, type=exchangecode, id=[REDACTED]
+[2017.05.18-14.44.35:956][636]LogOnline:Verbose: OSS: Login request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token code=200 response=[REDACTED]
+[2017.05.18-14.44.35:956][636]LogOnline:Verbose: OSS: User ClientId: 1483ba7d6c0247828c26cc8a74a9a183 AccountId: 57c0ec2d8ebf49c8948db4ea407cb23b Access[Expires: 2017.05.18-22.44.28 Remaining: 28800.36] Refresh[Expires: 2017.05.19-14.44.28 Remaining: 86400.36] State: Valid drift: 0.36
+[2017.05.18-14.44.35:957][636]LogOnline:Verbose: OSS: Starting QueryLoggedInUserInfo request.
+[2017.05.18-14.44.35:957][636]LogOnline:Verbose: OSS: Starting QueryExternalAuths request.
+[2017.05.18-14.44.35:957][636]LogOnline: OSS: FOnlineIdentityMcp::HandleXmppConnectionCreated
+[2017.05.18-14.44.35:957][636]LogOnline:Verbose: MCP: FOnlineSessionMcp::HandleXmppConnectionCreated
+[2017.05.18-14.44.35:957][636]LogOnline:Verbose: OSS: FOnlineFriendsMcp::HandleXmppConnectionCreated
+[2017.05.18-14.44.35:957][636]LogOnlineParty:Verbose: OSS::Party: FOnlinePartySystemMcp::HandleXmppConnectionCreated
+[2017.05.18-14.44.35:957][636]LogOnline:Verbose: OSS: FOnlinePresenceMcp::HandleXmppConnectionCreated
+[2017.05.18-14.44.35:957][636]LogOnlineChat:Verbose: OSS::Chat: FOnlineChatMcp::HandleXmppConnectionCreated
+[2017.05.18-14.44.36:128][646]LogOnline: OSS: Kill auth sessions request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/sessions/kill?killType=OTHERS_ACCOUNT_CLIENT_SERVICE code=204 response=[REDACTED]
+[2017.05.18-14.44.36:537][672]LogOnline:Verbose: OSS: QueryExternalAuths request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/public/account/57c0ec2d8ebf49c8948db4ea407cb23b/externalAuths code=200 response=[REDACTED]
+[2017.05.18-14.44.36:537][672]LogOnline:Verbose: OSS: QueryLoggedInUserInfo request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/public/account/57c0ec2d8ebf49c8948db4ea407cb23b code=200 response=[REDACTED]
+[2017.05.18-14.44.37:286][719]LogOnlineGame:Verbose: [UOnlineAccountCommon::LoginStep_OnLoginComplete] Login completed. UserId=[57c0ec2d8ebf49c8948db4ea407cb23b] DisplayName=[] EpicAccountId=[]
+[2017.05.18-14.44.37:286][719]LogOnlineGame:Verbose: [UOnlineAccountCommon::LoginStep_OnLoginComplete] Login completed, continuing login process
+[2017.05.18-14.44.37:286][719]LogOnlineGame:Display: [UOnlineAccountCommon::ProcessUserLogin] Successfully logged in user. UserId=[57c0ec2d8ebf49c8948db4ea407cb23b] DisplayName=[DarkSoul1991] EpicAccountId=[57c0ec2d8ebf49c8948db4ea407cb23b] AuthTicket=[aed79c4a1d204ee085ecf1064352f89b]
+[2017.05.18-14.44.37:287][719]LogOnlineGame:Verbose: [UOnlineAccountCommon::OnLoginStatusChanged] Login status changed for User 57c0ec2d8ebf49c8948db4ea407cb23b (local user 0) from 0 to 2
+[2017.05.18-14.44.37:287][719]LogOnline:Verbose: OSS: Starting QuerySSODomains request.
+[2017.05.18-14.44.37:287][719]LogOnlineParty: OSS::Party: FOnlinePartySystemMcp::OnXmppLoginChanged - logged in user 57c0ec2d8ebf49c8948db4ea407cb23b
+[2017.05.18-14.44.37:287][719]LogOnline: OSS: FOnlineIdentityMcp::OnXmppLoginChanged 57c0ec2d8ebf49c8948db4ea407cb23b@prod.ol.epicgames.com/V2:OrionLive::D6AA164F4C990458699FD48D55359A5F loggedin
+[2017.05.18-14.44.37:288][719]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Weryfikowanie umowy EULA...
+[2017.05.18-14.44.37:429][728]LogOnline:Verbose: OSS: QuerySSODomains request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/epicdomains/ssodomains code=200 response=[REDACTED]
+[2017.05.18-14.44.37:556][736]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=57c0ec2d8ebf49c8948db4ea407cb23b@prod.ol.epicgames.com/V2:launcher::543766954C90C9A20381F59AF93F010B [Online] [2017.05.18-14.42.44] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[]}]
+[2017.05.18-14.44.37:556][736]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=57c0ec2d8ebf49c8948db4ea407cb23b@prod.ol.epicgames.com/V2:OrionLive::D6AA164F4C990458699FD48D55359A5F [Online] [2017.05.18-14.44.37] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[]}]
+[2017.05.18-14.44.37:557][736]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=7769c8668394490e9b9bfbef93eae024@prod.ol.epicgames.com/V2:OrionLive:PSN:49F1DB71180510120009013404351C2B [Online] [2017.05.18-14.42.50] [{"Status":"In menus (Player Lv 50)","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"7769c8668394490e9b9bfbef93eae024\",\"sourceDisplayName\":\"Patryk95r\",\"partyId\":\"E88F0F8B32051012000F01FE280925D6\",\"partyTypeId\":286331153,\"leaderId\":\"7769c8668394490e9b9bfbef93eae024\",\"leaderDisplayName\":\"Patryk95r\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":0,\"notAcceptingReason\":5}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.37:557][736]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=07ac10cf17b74a25a19c6eb8bc977cc9@prod.ol.epicgames.com/V2:launcher::315DD1E742058563A3EF7A8D00E19C2A [Online] [2017.05.18-14.03.26] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[]}]
+[2017.05.18-14.44.37:557][736]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=07ac10cf17b74a25a19c6eb8bc977cc9@prod.ol.epicgames.com/V2:OrionLive::8A3634D94E6F5DFBA095518BFCAAB84B [Online] [2017.05.18-14.42.10] [{"Status":"Playing PVP as Kallari (Lv 13)","bIsPlaying":true,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"5199a5ea535e4a21ba40397748904386","Properties":[{"Type":"String","Value":"{\"sourceId\":\"07ac10cf17b74a25a19c6eb8bc977cc9\",\"sourceDisplayName\":\"AshySmurfy\",\"partyId\":\"4E9F244E44AF78713078FAA2655DBE51\",\"partyTypeId\":286331153,\"leaderId\":\"07ac10cf17b74a25a19c6eb8bc977cc9\",\"leaderDisplayName\":\"AshySmurfy\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":4,\"notAcceptingReason\":3}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.37:557][736]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=c9e029f912a34b45836c37c22e1284d2@prod.ol.epicgames.com/V2:OrionLive:PSN:49F1EDE938050F12000A01E40AD117AD [Online] [2017.05.18-14.43.53] [{"Status":"Playing PVP as Gadget (Lv 1)","bIsPlaying":true,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"0c01d9755a8a48ffb2749d76dc25c255","Properties":[{"Type":"String","Value":"{\"sourceId\":\"c9e029f912a34b45836c37c22e1284d2\",\"sourceDisplayName\":\"saeedo0o3663\",\"partyId\":\"4A01FFC728050F12000903A70942440A\",\"partyTypeId\":286331153,\"leaderId\":\"e525b7b4cff244e19731539f5c9940b8\",\"leaderDisplayName\":\"lmohd_1998\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":0,\"notAcceptingReason\":3}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.37:557][736]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=97f02ee7f88b43428bc2bd9bbef270d8@prod.ol.epicgames.com/V2:OrionLive:PSN:49F1E5F630050912000E022C080DB547 [Online] [2017.05.18-14.42.52] [{"Status":"Playing PVP as Phase (Lv 9)","bIsPlaying":true,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"3a3d43d41497413baee97caecbdd13be","Properties":[{"Type":"String","Value":"{\"sourceId\":\"97f02ee7f88b43428bc2bd9bbef270d8\",\"sourceDisplayName\":\"Tat-MeBrahh92\",\"partyId\":\"4A015FBB02050912000F0315095FBD90\",\"partyTypeId\":286331153,\"leaderId\":\"97f02ee7f88b43428bc2bd9bbef270d8\",\"leaderDisplayName\":\"Tat-MeBrahh92\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":4,\"notAcceptingReason\":3}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.37:557][736]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=e731fd941a0344f1acab43c8602d040d@prod.ol.epicgames.com/V2:launcher::CBD64D1C4B613C04CC2C4093AF3B44A8 [Online] [2017.05.18-14.36.52] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[]}]
+[2017.05.18-14.44.37:557][736]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=e731fd941a0344f1acab43c8602d040d@prod.ol.epicgames.com/V2:OrionLive::EC7976E1408C90D53A347C99E906777B [Online] [2017.05.18-14.41.31] [{"Status":"Drafting in the lobby","bIsPlaying":true,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"4f664ef480d9413e9815d4a8c57ff2aa","Properties":[{"Type":"String","Value":"{\"sourceId\":\"e731fd941a0344f1acab43c8602d040d\",\"sourceDisplayName\":\"Merlinxp0\",\"partyId\":\"5B69C77446C6F664727497AE20D950FF\",\"partyTypeId\":286331153,\"leaderId\":\"e731fd941a0344f1acab43c8602d040d\",\"leaderDisplayName\":\"Merlinxp0\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":4,\"notAcceptingReason\":3}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.37:557][736]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=8bc9966fd3d54fcf888c0c19cf2aa29d@prod.ol.epicgames.com/V2:OrionLive::2F1F5B724E90191E369BD08196F9D313 [Online] [2017.05.18-14.43.35] [{"Status":"Playing PVP as Hrabina (Lv 1)","bIsPlaying":true,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"ba1847d39182499495e7db7535a2d0fd","Properties":[{"Type":"String","Value":"{\"sourceId\":\"8bc9966fd3d54fcf888c0c19cf2aa29d\",\"sourceDisplayName\":\"Royal958\",\"partyId\":\"31E05794485AC2A9E46C4AA18B3139E9\",\"partyTypeId\":286331153,\"leaderId\":\"8fa3aadd7d1c4970884a48d2eff579da\",\"leaderDisplayName\":\"nakq148\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":0,\"notAcceptingReason\":3}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.37:667][743]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=cbbe849627ef43209fffd4239d95ce54@prod.ol.epicgames.com/V2:launcher::983BBEFC4F6FEA422A57CAB052EA47BD [Online] [2017.05.18-13.50.12] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[]}]
+[2017.05.18-14.44.37:667][743]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=cbbe849627ef43209fffd4239d95ce54@prod.ol.epicgames.com/V2:OrionLive::2D8868B34959579F4A2B56B412C0C3D0 [Online] [2017.05.18-14.29.18] [{"Status":"In menus (Player Lv 50)","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"cbbe849627ef43209fffd4239d95ce54\",\"sourceDisplayName\":\"gruby_\",\"partyId\":\"B49876D84229FA660F5813AC29A8E4B1\",\"partyTypeId\":286331153,\"leaderId\":\"cbbe849627ef43209fffd4239d95ce54\",\"leaderDisplayName\":\"gruby_\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":4,\"notAcceptingReason\":5}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.37:668][743]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=8bc9966fd3d54fcf888c0c19cf2aa29d@prod.ol.epicgames.com/V2:launcher::B458E0E741ED78B263C689A71A087CE2 [Online] [2017.05.18-13.13.28] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[]}]
+[2017.05.18-14.44.37:668][743]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=8dedb06aec6d4a4b8dec3f4764b2cedf@prod.ol.epicgames.com/V2:OrionLive:PSN:49F191E70F050F12002F000E05FB7017 [Online] [2017.05.18-14.43.29] [{"Status":"In menus (Player Lv 50)","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"8dedb06aec6d4a4b8dec3f4764b2cedf\",\"sourceDisplayName\":\"KAPITANwu\",\"partyId\":\"4A019DFE1E050F12002F01380766D40F\",\"partyTypeId\":286331153,\"leaderId\":\"8dedb06aec6d4a4b8dec3f4764b2cedf\",\"leaderDisplayName\":\"KAPITANwu\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":0,\"notAcceptingReason\":5}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.37:668][743]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=99353b8dbd7647abaf35c63595d9f095@prod.ol.epicgames.com/V2:OrionLive:PSN:4A2B54DD3305101200220158AB219F0A [Online] [2017.05.18-14.42.52] [{"Status":"Playing PVP as Murdock (Lv 3)","bIsPlaying":true,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"cea0dbb6fc3b4fd8bd79f3f976dfa4cc","Properties":[{"Type":"String","Value":"{\"sourceId\":\"99353b8dbd7647abaf35c63595d9f095\",\"sourceDisplayName\":\"carek_\",\"partyId\":\"4A390FAC0F051012002302F1AD654EB2\",\"partyTypeId\":286331153,\"leaderId\":\"99353b8dbd7647abaf35c63595d9f095\",\"leaderDisplayName\":\"carek_\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":4,\"notAcceptingReason\":3}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.37:668][743]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=8d8ec755cc90439f91f905adcf5c0ac9@prod.ol.epicgames.com/V2:OrionLive:PSN:49F1E16B17050F120012033E044838CC [Online] [2017.05.18-14.42.53] [{"Status":"In menus (Player Lv 50)","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"8d8ec755cc90439f91f905adcf5c0ac9\",\"sourceDisplayName\":\"Ayor998\",\"partyId\":\"E88F0F8B32051012000F01FE280925D6\",\"partyTypeId\":286331153,\"leaderId\":\"7769c8668394490e9b9bfbef93eae024\",\"leaderDisplayName\":\"Patryk95r\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":0,\"notAcceptingReason\":5}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.37:668][743]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=aaec6a1d66414ebbb4213e4891e67b2b@prod.ol.epicgames.com/V2:OrionLive:PSN:0914F53132050B12001703155A07247F [Online] [2017.05.18-14.40.10] [{"Status":"Playing PVP as Phase (Lv 11)","bIsPlaying":true,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"a57e2cc96bdd493e983d344554246182","Properties":[{"Type":"String","Value":"{\"sourceId\":\"aaec6a1d66414ebbb4213e4891e67b2b\",\"sourceDisplayName\":\"d1z4st_\",\"partyId\":\"08E6B79129050B12001701D6368D9188\",\"partyTypeId\":286331153,\"leaderId\":\"aaec6a1d66414ebbb4213e4891e67b2b\",\"leaderDisplayName\":\"d1z4st_\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":0,\"notAcceptingReason\":3}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.37:668][743]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=414a84aab533428bbca6e7e4a00248d0@prod.ol.epicgames.com/V2:OrionLive:PSN:15CE7C97270510120024002054F4C3DA [Online] [2017.05.18-14.36.40] [{"Status":"In menus (Player Lv 50)","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"414a84aab533428bbca6e7e4a00248d0\",\"sourceDisplayName\":\"rudex83\",\"partyId\":\"15D0AA84270510120024002454F4DEFE\",\"partyTypeId\":286331153,\"leaderId\":\"414a84aab533428bbca6e7e4a00248d0\",\"leaderDisplayName\":\"rudex83\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":4,\"notAcceptingReason\":5}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.37:668][743]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=ad5506a56504408198208202d75e40d5@prod.ol.epicgames.com/V2:launcher::B586E45B481FE3357CE053A39C695C34 [Online] [2017.05.18-09.22.51] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[]}]
+[2017.05.18-14.44.37:975][762]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Kontaktowanie się z usługami...
+[2017.05.18-14.44.37:975][762]LogOnlineGame:Verbose: [UOnlineAccountCommon::LoginStep_CheckServiceAvailability] bShouldSkipAvailabilityCheck is not true, checking service availability
+[2017.05.18-14.44.37:987][763]LogOnline:Verbose: OSS: Started QueryServiceStatus request as user.
+[2017.05.18-14.44.38:577][800]LogOnline:Verbose: OSS: QueryServiceStatus request complete. url=https://lightswitch-public-service-prod06.ol.epicgames.com/lightswitch/api/service/bulk/status?serviceId=OrionLive code=200 response=[{"serviceInstanceId":"orionlive","status":"UP","message":"Servers going down temporarily for maintenance. We'll be back soon!","allowedActions":[]}]
+[2017.05.18-14.44.38:578][800]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Sprawdzanie uprawnień...
+[2017.05.18-14.44.38:578][800]LogOnline:Verbose: OSS: Started QueryGameAccess request as user.
+[2017.05.18-14.44.39:188][838]LogOnline: OSS: QueryAvailableFeatures request complete and valid. Response string length is 48, code is 200
+[2017.05.18-14.44.39:188][838]LogOnline: OSS: QueryAvailableFeatures request complete. url=https://orion-public-service-prod09.ol.epicgames.com/orion/api/game/v2/enabled_features code=200 response=["playlist:5","playlist:4","playlist:6","store"]
+[2017.05.18-14.44.39:188][838]LogOnline:Verbose: OSS: QueryGameAccess received 4 enabled features
+[2017.05.18-14.44.39:190][838]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Pobieranie profilu...
+[2017.05.18-14.44.39:190][838]LogProfileSys: Profile notifications disabled (No topic (McpProfileGroup.ProfileNotificationsStompTopic) specified)
+[2017.05.18-14.44.39:190][838]LogOnlineGame:Verbose: [UOrionMcpProfileAccount::Initialize] Profile: "profile0" initialized
+[2017.05.18-14.44.39:190][838]LogOnlineGame:Verbose: [UOrionOnlineAccount::LoginStep_QueryProfile] Synchronizing profile with MCP.
+[2017.05.18-14.44.39:205][839]LogBlueprintContext: [UHeroContext::QueryHeroWaitTimes]: Querying MCP for hero wait times
+[2017.05.18-14.44.39:861][880]LogProfileSys: (200) https://orion-public-service-prod09.ol.epicgames.com/orion/api/game/v2/profile/57c0ec2d8ebf49c8948db4ea407cb23b/client/CheckForStuff?rvn=-1
+[2017.05.18-14.44.39:861][880]LogProfileSys:Display: MCP-Version = prod-live Release-40 build b1039 cl 3440932
+[2017.05.18-14.44.39:885][880]LogProfileSys: MCP-Profile: Full profile update (rev=6897, version=40.0_CamoGadgetFix@w=44) for DarkSoul1991 accountId=57c0ec2d8ebf49c8948db4ea407cb23b profileId=profile0.
+[2017.05.18-14.44.40:195][880]LogProfileSys:Display: HandleFullProfileUpdate Complete:
+[2017.05.18-14.44.40:196][880]LogProfileSys:Display: 	TotalTime: 0.31
+[2017.05.18-14.44.40:196][880]LogProfileSys:Display: 	StatUpdate: 0.00
+[2017.05.18-14.44.40:196][880]LogProfileSys:Display: 	ItemUpdate: 0.31
+[2017.05.18-14.44.40:196][880]LogProfileSys:Display: 	DestroyOld: 0.00
+[2017.05.18-14.44.40:209][880]LogOrion: [InsertCuratedDecks]
+[2017.05.18-14.44.40:211][880]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: Daily_General_TowerDamageDone_Q1
+[2017.05.18-14.44.40:211][880]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Already Fully Loaded: Daily_General_TowerDamageDone_Q1
+[2017.05.18-14.44.40:211][880]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: Daily_General_TowerDamageDone_Q2
+[2017.05.18-14.44.40:211][880]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Already Fully Loaded: Daily_General_TowerDamageDone_Q2
+[2017.05.18-14.44.40:211][880]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: Daily_Ranger_Win
+[2017.05.18-14.44.40:211][880]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Already Fully Loaded: Daily_Ranger_Win
+[2017.05.18-14.44.40:212][880]LogOrion:Warning: FOrionMcpInventoryView::InsertTransientQuests called when there has been no PlayListID set on the ProfileAccount. Returning
+[2017.05.18-14.44.40:212][880]LogOrion: [GetInventory::PreDeckSort]
+[2017.05.18-14.44.40:365][886]LogProfileSys: (200) https://orion-public-service-prod09.ol.epicgames.com/orion/api/game/v2/profile/57c0ec2d8ebf49c8948db4ea407cb23b/client/SetPlatform?rvn=6897
+[2017.05.18-14.44.40:524][896]LogProfileSys: (200) https://orion-public-service-prod09.ol.epicgames.com/orion/api/game/v2/profile/57c0ec2d8ebf49c8948db4ea407cb23b/client/QueryProfile?rvn=6897
+[2017.05.18-14.44.40:525][896]LogOnlineGame:Verbose: [UOrionOnlineAccount::OnMcpProfileQueryComplete] Was successful, continuing login process.
+[2017.05.18-14.44.40:525][896]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Pobieranie ustawień użytkowników...
+[2017.05.18-14.44.40:525][896]LogOnline:Verbose: MCP: Starting EnumerateUserFiles request.
+[2017.05.18-14.44.40:717][908]LogOnline:Verbose: MCP: EnumerateUserFiles request complete. url=https://orion-public-service-prod09.ol.epicgames.com/orion/api/cloudstorage/user/57c0ec2d8ebf49c8948db4ea407cb23b code=200 response=[{"uniqueFilename":"ClientSettings.Sav","filename":"ClientSettings.Sav","hash":"da0c0aaa3136b74b0a20f8cfb8ff11460eec8078","hash256":"4c3c328566527600a9d123d62502eb2957b313a30e06d01cbdef4303e948db46","length":2513,"contentType":"text/plain","uploaded":"2017-05-17T14:43:53.978Z","storageType":"S3","accountId":"57c0ec2d8ebf49c8948db4ea407cb23b"}]
+[2017.05.18-14.44.40:717][908]LogOnline:Verbose: MCP: ReadUserFile request. Local file failed to read from cache =C:/Users/WIKTOR/AppData/Local/OrionGame/Saved/Cloud/57c0ec2d8ebf49c8948db4ea407cb23b/ClientSettings.Sav
+[2017.05.18-14.44.40:717][908]LogOnline:Verbose: MCP: Starting ReadUserFile request. filename=ClientSettings.Sav
+[2017.05.18-14.44.40:877][918]LogOnline:Verbose: MCP: ReadUserFile request complete. url=https://orion-public-service-prod09.ol.epicgames.com/orion/api/cloudstorage/user/57c0ec2d8ebf49c8948db4ea407cb23b/ClientSettings.Sav code=200 length=2513 type=text/plain
+[2017.05.18-14.44.40:898][918]LogOnline:Verbose: MCP: WriteUserFile request complete. Local file cache updated =C:/Users/WIKTOR/AppData/Local/OrionGame/Saved/Cloud/57c0ec2d8ebf49c8948db4ea407cb23b/ClientSettings.Sav
+[2017.05.18-14.44.40:899][918]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Aktualizowanie stanu konta profilu...
+[2017.05.18-14.44.40:933][919]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Realizacja zakupów offline.
+[2017.05.18-14.44.41:113][928]LogCatalogHelper: Found receipt with 1 offers
+[2017.05.18-14.44.41:113][928]LogCatalogHelper:   Offer 0 had 6 line-items
+[2017.05.18-14.44.41:113][928]LogCatalogHelper: Validated no receipts
+[2017.05.18-14.44.41:126][928]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Szukanie sesji w celu ponownego dołączenia...
+[2017.05.18-14.44.41:128][929]LogOnline: OSS: Sending FindFriendSession request. url=https://orion-public-service-prod09.ol.epicgames.com/orion/api/matchmaking/session/findPlayer/57c0ec2d8ebf49c8948db4ea407cb23b, friendid=57c0ec2d8ebf49c8948db4ea407cb23b
+[2017.05.18-14.44.41:293][940]LogOnline:Verbose: OSS: FindFriendSessionUrl request complete. url=https://orion-public-service-prod09.ol.epicgames.com/orion/api/matchmaking/session/findPlayer/57c0ec2d8ebf49c8948db4ea407cb23b code=200 response=[]
+[2017.05.18-14.44.41:308][941]LogOnline:Verbose: Async task 'FOnlineAsyncTaskMcpFindFriendSession bWasSuccessful: 1' succeeded in 0.181260 seconds
+[2017.05.18-14.44.41:308][941]LogOnline:Verbose: OSS: Num Valid / Total Search Results 0 / 0
+[2017.05.18-14.44.41:308][941]LogOnline:Verbose: OSS: BestSessionIdx -1
+[2017.05.18-14.44.41:308][941]LogOnlineGame:Verbose: [UOrionOnlineAccount::OnRejoinCheckComplete] Rejoin check completed with Result (RejoinNotRequired)
+[2017.05.18-14.44.41:310][941]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Sprawdzanie połączenia z centrami danych...
+[2017.05.18-14.44.41:310][941]LogOnlineGame:Display: [UOnlineAccountCommon::LoginStep_DoQosPingTests] Suspending async loading for the duration of ping tests
+[2017.05.18-14.44.41:310][941]LogStreaming:Display: Suspending async loading (1)
+[2017.05.18-14.44.41:310][941]LogQos:Verbose: Pinging [NA] 104.197.43.234:22222
+[2017.05.18-14.44.41:321][941]LogQos:Verbose: Pinging [NA] 104.154.69.32:22222
+[2017.05.18-14.44.41:331][941]LogQos:Verbose: Pinging [NA] 54.80.227.49:22222
+[2017.05.18-14.44.41:341][941]LogQos:Verbose: Pinging [NA] 52.207.149.112:22222
+[2017.05.18-14.44.41:351][941]LogQos:Verbose: Pinging [NA] 104.197.43.234:22222
+[2017.05.18-14.44.41:361][941]LogQos:Verbose: Pinging [EU] 130.211.73.167:22222
+[2017.05.18-14.44.41:371][941]LogQos:Verbose: Pinging [EU] 146.148.11.96:22222
+[2017.05.18-14.44.41:381][941]LogQos:Verbose: Pinging [EU] 52.28.126.110:22222
+[2017.05.18-14.44.41:391][941]LogQos:Verbose: Pinging [EU] 52.58.171.172:22222
+[2017.05.18-14.44.41:401][941]LogQos:Verbose: Pinging [EU] 130.211.73.167:22222
+[2017.05.18-14.44.41:411][941]LogQos:Verbose: Pinging [OCE] 52.63.211.194:22222
+[2017.05.18-14.44.41:421][941]LogQos:Verbose: Pinging [OCE] 52.63.164.167:22222
+[2017.05.18-14.44.41:431][941]LogQos:Verbose: Pinging [OCE] 52.63.66.90:22222
+[2017.05.18-14.44.41:441][941]LogQos:Verbose: Pinging [OCE] 52.63.3.189:22222
+[2017.05.18-14.44.41:451][941]LogQos:Verbose: Pinging [OCE] 52.63.211.194:22222
+[2017.05.18-14.44.41:462][942]LogQos:Verbose: Ping Complete [EU] 130.211.73.167: 34
+[2017.05.18-14.44.41:462][942]LogQos:Verbose: Ping Complete [EU] 52.58.171.172: 38
+[2017.05.18-14.44.41:462][942]LogQos:Verbose: Ping Complete [EU] 52.28.126.110: 37
+[2017.05.18-14.44.41:462][942]LogQos:Verbose: Ping Complete [EU] 146.148.11.96: 35
+[2017.05.18-14.44.41:462][942]LogQos:Verbose: Ping Complete [EU] 130.211.73.167: 27
+[2017.05.18-14.44.41:462][942]LogQos:Verbose: Ping Complete [NA] 54.80.227.49: 124
+[2017.05.18-14.44.41:462][942]LogQos:Verbose: Ping Complete [NA] 104.154.69.32: 123
+[2017.05.18-14.44.41:462][942]LogQos:Verbose: Ping Complete [NA] 104.197.43.234: 127
+[2017.05.18-14.44.41:467][943]LogQos:Verbose: Ping Complete [NA] 52.207.149.112: 125
+[2017.05.18-14.44.41:500][944]LogQos:Verbose: Ping Complete [NA] 104.197.43.234: 133
+[2017.05.18-14.44.41:722][954]LogQos:Verbose: Ping Complete [OCE] 52.63.211.194: 303
+[2017.05.18-14.44.41:735][955]LogQos:Verbose: Ping Complete [OCE] 52.63.164.167: 306
+[2017.05.18-14.44.41:735][955]LogQos:Verbose: Ping Complete [OCE] 52.63.66.90: 298
+[2017.05.18-14.44.41:746][956]LogQos:Verbose: Ping Complete [OCE] 52.63.3.189: 303
+[2017.05.18-14.44.41:759][957]LogQos:Verbose: Ping Complete [OCE] 52.63.211.194: 296
+[2017.05.18-14.44.41:759][957]LogQos:Verbose: Region[NA] Avg: 126 Num: 5; Adjusted: 126
+[2017.05.18-14.44.41:759][957]LogQos:Verbose: Region[EU] Avg: 34 Num: 5; Adjusted: 34
+[2017.05.18-14.44.41:759][957]LogQos:Verbose: Region[OCE] Avg: 301 Num: 5; Adjusted: 301
+[2017.05.18-14.44.41:759][957]LogQos:Verbose: No region found, returning REGION_NONE
+[2017.05.18-14.44.41:759][957]LogStreaming:Display: Resuming async loading (0)
+[2017.05.18-14.44.41:759][957]LogOnlineGame:Display: [UOnlineAccountCommon::LoginStep_OnQosPingTestsComplete] Resuming async loading
+[2017.05.18-14.44.41:766][957]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Tworzenie grupy...
+[2017.05.18-14.44.41:766][957]LogOnlineGame:Display: GetPreferredUniqueNetId = 000000004B17EE60
+[2017.05.18-14.44.41:766][957]LogOnlineParty:Display: OSS::Party: Publishing party to presence DisplayName(DarkSoul1991) PartyId(C8A3688043BB8F41FE95EFAFFE865979) LeaderId(57c0ec2d8ebf49c8948db4ea407cb23b) LeaderDisplayName(DarkSoul1991) AccessKey() HasPassword(0) IsAcceptingMembers(0) NotAcceptingReason(0)
+[2017.05.18-14.44.41:766][957]LogNetVersion: GetLocalNetworkVersion: CL: 3439486, ProjectName: oriongame, ProjectVersion: 40, EngineNetworkVersion: 2, GameNetworkVersion: 2, NetworkChecksum: 448741326
+[2017.05.18-14.44.41:766][957]LogNetVersion: GetLocalNetworkVersionOverride: NetworkChecksum: 448741326
+[2017.05.18-14.44.41:766][957]LogOnlineParty:Verbose: OSS::Party: FOnlinePartySystemMcp::PublishPartyInfoToPresence success to publish presence user=57c0ec2d8ebf49c8948db4ea407cb23b party=C8A3688043BB8F41FE95EFAFFE865979
+[2017.05.18-14.44.41:766][957]LogParty:Display: OnCreatePartyInternalComplete() C8A3688043BB8F41FE95EFAFFE865979 Succeeded
+[2017.05.18-14.44.41:766][957]LogOnlineParty:Verbose: OSS::Party: UpdatePartyData request success. user=57c0ec2d8ebf49c8948db4ea407cb23b party=C8A3688043BB8F41FE95EFAFFE865979
+[2017.05.18-14.44.41:767][957]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: Daily_General_TowerDamageDone_Q1
+[2017.05.18-14.44.41:767][957]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Already Fully Loaded: Daily_General_TowerDamageDone_Q1
+[2017.05.18-14.44.41:767][957]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: Daily_General_TowerDamageDone_Q2
+[2017.05.18-14.44.41:767][957]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Already Fully Loaded: Daily_General_TowerDamageDone_Q2
+[2017.05.18-14.44.41:767][957]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: Daily_Ranger_Win
+[2017.05.18-14.44.41:767][957]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Already Fully Loaded: Daily_Ranger_Win
+[2017.05.18-14.44.41:767][957]LogOnlineParty:Verbose: OSS::Party: UpdatePartyMemberData request success. user=57c0ec2d8ebf49c8948db4ea407cb23b party=C8A3688043BB8F41FE95EFAFFE865979
+[2017.05.18-14.44.41:767][957]LogOnlineParty:Verbose: OSS::Party: UpdatePartyMemberData request success. user=57c0ec2d8ebf49c8948db4ea407cb23b party=C8A3688043BB8F41FE95EFAFFE865979
+[2017.05.18-14.44.41:767][957]LogParty:Display: OnCreatePersistentPartyComplete() Succeeded
+[2017.05.18-14.44.41:767][957]LogOnlineParty:Display: OSS::Party: Publishing party to presence DisplayName(DarkSoul1991) PartyId(C8A3688043BB8F41FE95EFAFFE865979) LeaderId(57c0ec2d8ebf49c8948db4ea407cb23b) LeaderDisplayName(DarkSoul1991) AccessKey() HasPassword(0) IsAcceptingMembers(0) NotAcceptingReason(0)
+[2017.05.18-14.44.41:768][957]LogOnlineParty:Verbose: OSS::Party: FOnlinePartySystemMcp::PublishPartyInfoToPresence success to publish presence user=57c0ec2d8ebf49c8948db4ea407cb23b party=C8A3688043BB8F41FE95EFAFFE865979
+[2017.05.18-14.44.41:768][957]LogOnlineParty:Verbose: OSS::Party: UpdateParty request success. user=57c0ec2d8ebf49c8948db4ea407cb23b party=C8A3688043BB8F41FE95EFAFFE865979
+[2017.05.18-14.44.41:768][957]LogParty:Verbose: [C8A3688043BB8F41FE95EFAFFE865979] Party config updated Succeeded
+[2017.05.18-14.44.41:768][957]LogOnlineParty:Verbose: OSS::Party: UpdatePartyData request success. user=57c0ec2d8ebf49c8948db4ea407cb23b party=C8A3688043BB8F41FE95EFAFFE865979
+[2017.05.18-14.44.41:768][957]LogOnlineParty:Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.updatepartyconfiguration user=57c0ec2d8ebf49c8948db4ea407cb23b to=all payload={"partyId":"C8A3688043BB8F41FE95EFAFFE865979","presencePermissions":64,"invitePermissions":2,"partyFlags":2,"notAcceptingMembersReason":5,"maxMembers":5,"password":"","accessKey":"F229B6C846C8F57956186D8DE4B4BB38","clientData":""}
+[2017.05.18-14.44.41:768][957]LogOnlineParty:Display: OSS::Party: Publishing party to presence DisplayName(DarkSoul1991) PartyId(C8A3688043BB8F41FE95EFAFFE865979) LeaderId(57c0ec2d8ebf49c8948db4ea407cb23b) LeaderDisplayName(DarkSoul1991) AccessKey() HasPassword(0) IsAcceptingMembers(0) NotAcceptingReason(5)
+[2017.05.18-14.44.41:768][957]LogOnlineParty:Verbose: OSS::Party: FOnlinePartySystemMcp::PublishPartyInfoToPresence success to publish presence user=57c0ec2d8ebf49c8948db4ea407cb23b party=C8A3688043BB8F41FE95EFAFFE865979
+[2017.05.18-14.44.41:768][957]LogOnlineParty:Verbose: OSS::Party: UpdateParty request success. user=57c0ec2d8ebf49c8948db4ea407cb23b party=C8A3688043BB8F41FE95EFAFFE865979
+[2017.05.18-14.44.41:768][957]LogParty:Verbose: [C8A3688043BB8F41FE95EFAFFE865979] Party config updated Succeeded
+[2017.05.18-14.44.41:768][957]LogOnlineGame:Verbose: [UOrionOnlineAccount::LoginStep_CreatingPartyComplete] Persistent party creation completed with Result (1) for User 57c0ec2d8ebf49c8948db4ea407cb23b
+[2017.05.18-14.44.41:768][957]LogOnlineParty: OSS::Party: CreateParty request success. user=57c0ec2d8ebf49c8948db4ea407cb23b party=C8A3688043BB8F41FE95EFAFFE865979 state=Active
+[2017.05.18-14.44.41:775][958]LogParty: [C8A3688043BB8F41FE95EFAFFE865979] Party config changed
+[2017.05.18-14.44.41:775][958]LogOnlineParty:Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.data user=57c0ec2d8ebf49c8948db4ea407cb23b to all
+[2017.05.18-14.44.41:775][958]LogParty: [C8A3688043BB8F41FE95EFAFFE865979] Player 57c0ec2d8ebf49c8948db4ea407cb23b data received
+[2017.05.18-14.44.41:775][958]LogOnlineParty:Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.memberdata user=57c0ec2d8ebf49c8948db4ea407cb23b to all
+[2017.05.18-14.44.41:777][958]LogOnlineGame:Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Kończenie logowania...
+[2017.05.18-14.44.41:777][958]LogOrionTutorial: [UMatchTutorialContext::LoggedIn()] Logged in...
+[2017.05.18-14.44.41:777][958]LogOrionTutorial: [UMatchTutorialContext::LoggedIn()] Skipping tutorial
+[2017.05.18-14.44.41:777][958]LogOrionTutorial: [UMatchTutorialContext::LoggedIn()] Games Played: 1277, Cap: 1
+[2017.05.18-14.44.41:777][958]LogOrionTutorial: [UMatchTutorialContext::LoggedIn()] Account Level: 50, Cap: 1
+[2017.05.18-14.44.41:777][958]LogOrionTutorial: [UMatchTutorialContext::UnregisterTutorialDelegates()] Unregistering matchmakign delegates
+[2017.05.18-14.44.41:777][958]LogOnlineGame:Display: [UMcpContext::HandleLoginRequestComplete]: Result=2 Message=
+[2017.05.18-14.44.41:782][958]LogOrion: UI state transition from EOrionUIState::Login to EOrionUIState::HotfixAndLoad
+[2017.05.18-14.44.41:789][958]LogOrion: Loading Screen Activated!
+[2017.05.18-14.44.41:789][958]LogOrionUI: Disabling world rendering
+[2017.05.18-14.44.41:791][959]LogGameMode: GameMode returned ReadyToStartMatch
+[2017.05.18-14.44.41:791][959]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.05.18-14.44.41:834][959]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Icons/PORT_Sword.PORT_Sword -  0.028 s
+[2017.05.18-14.44.41:834][959]LogOrionUI: AOrionPlacementActor SetIsLoading
+[2017.05.18-14.44.42:065][959]LogHotfixManager:Display: Returning cached update result 1
+[2017.05.18-14.44.42:065][959]LogOrion: Switching async loading mode to FAST AS POSSIBLE (25.00ms)
+[2017.05.18-14.44.42:065][959]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.05.18-14.44.42:068][960]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=57c0ec2d8ebf49c8948db4ea407cb23b@prod.ol.epicgames.com/V2:OrionLive::D6AA164F4C990458699FD48D55359A5F [Online] [2017.05.18-14.44.41] [{"Status":"In menus (Player Lv 50)","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"57c0ec2d8ebf49c8948db4ea407cb23b\",\"sourceDisplayName\":\"DarkSoul1991\",\"partyId\":\"C8A3688043BB8F41FE95EFAFFE865979\",\"partyTypeId\":286331153,\"leaderId\":\"57c0ec2d8ebf49c8948db4ea407cb23b\",\"leaderDisplayName\":\"DarkSoul1991\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":4,\"notAcceptingReason\":5}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.42:068][960]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=57c0ec2d8ebf49c8948db4ea407cb23b@prod.ol.epicgames.com/V2:OrionLive::D6AA164F4C990458699FD48D55359A5F [Online] [2017.05.18-14.44.41] [{"Status":"In menus (Player Lv 50)","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"57c0ec2d8ebf49c8948db4ea407cb23b\",\"sourceDisplayName\":\"DarkSoul1991\",\"partyId\":\"C8A3688043BB8F41FE95EFAFFE865979\",\"partyTypeId\":286331153,\"leaderId\":\"57c0ec2d8ebf49c8948db4ea407cb23b\",\"leaderDisplayName\":\"DarkSoul1991\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":4,\"notAcceptingReason\":5}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.42:068][960]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=57c0ec2d8ebf49c8948db4ea407cb23b@prod.ol.epicgames.com/V2:OrionLive::D6AA164F4C990458699FD48D55359A5F [Online] [2017.05.18-14.44.41] [{"Status":"In menus (Player Lv 50)","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"57c0ec2d8ebf49c8948db4ea407cb23b\",\"sourceDisplayName\":\"DarkSoul1991\",\"partyId\":\"C8A3688043BB8F41FE95EFAFFE865979\",\"partyTypeId\":286331153,\"leaderId\":\"57c0ec2d8ebf49c8948db4ea407cb23b\",\"leaderDisplayName\":\"DarkSoul1991\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":4,\"notAcceptingReason\":5}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.42:093][960]LogOrion: Switching async loading mode to DEFAULT (5.00ms)
+[2017.05.18-14.44.42:093][960]LogHotfixManager:Display: CheckComplete UpdateSuccess
+[2017.05.18-14.44.42:370][970]LogOnline:Verbose: OSS: You have 76 friends.
+[2017.05.18-14.44.42:406][972]LogOnline:Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=e731fd941a0344f1acab43c8602d040d@prod.ol.epicgames.com/V2:OrionLive::EC7976E1408C90D53A347C99E906777B [Online] [2017.05.18-14.44.35] [{"Status":"Playing PVP as Gadget (Lv 1)","bIsPlaying":true,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"4f664ef480d9413e9815d4a8c57ff2aa","Properties":[{"Type":"String","Value":"{\"sourceId\":\"e731fd941a0344f1acab43c8602d040d\",\"sourceDisplayName\":\"Merlinxp0\",\"partyId\":\"5B69C77446C6F664727497AE20D950FF\",\"partyTypeId\":286331153,\"leaderId\":\"e731fd941a0344f1acab43c8602d040d\",\"leaderDisplayName\":\"Merlinxp0\",\"key\":\"\",\"appId\":\"OrionLive\",\"buildId\":\"1960842305\",\"partyFlags\":4,\"notAcceptingReason\":3}","Name":"party.joininfodata.286331153"}]}]
+[2017.05.18-14.44.42:591][988]LogOnline:Verbose: OSS: You have 76 friends.
+[2017.05.18-14.44.42:592][988]LogOnline:Verbose: MCP: Starting QueryUserInfo request.
+[2017.05.18-14.44.43:229][102]LogOnline:Verbose: MCP: QueryUserInfo request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/public/account?accountId=048728d95ffb4b498d11085cae4d9c5d&accountId=07b6f2e67992404f8794bc4d8e3f448c&accountId=0b0de7b12c7f42d2a15f65e82204c8e6&accountId=0f66f23d9c784b23ac68ec4468e5e20c&accountId=15d56b5781dc4a3aaf6b73f7b2604984&accountId=18d6f31be1fb4887956e1f4c64435510&accountId=21a4850f2b9143479fe6a361a54aeb0d&accountId=249959bc6e8b468cb62b7895c39e6141&accountId=250b5901f6de4ad79a689dec5223bc98&accountId=3d6084c2975343a3ad888738a6465a21&accountId=414a84aab533428bbca6e7e4a00248d0&accountId=54b36b8e8b0649768c752bc384177151&accountId=7769c8668394490e9b9bfbef93eae024&accountId=444fb79a90a141a7ad87a772127f3499&accountId=24afce42f7f544708eb4b3cac995d421&accountId=23c0812783874e8b855e2d53aaaa2f68&accountId=6d0b3459813e478b99fb78842e1ff88f&accountId=2a26cfb19fb8409cb35b8e8086962c5a&accountId=11b98c65f77b448b8379bf723d5e38ea&accountId=36d6363fdd7a4efcb4ed35dd37af9399&accountId=9db23d100ab7422b807b9c53f068e114&accountId=0c936bb2e1794750a7dc214f0bae9774&accountId=a9ef55276b7742968b36a22a2118e9cd&accountId=ad5506a56504408198208202d75e40d5&accountId=5cf919a59f9049e2a4d15f1a69fd5a1a&accountId=4ed5663b8aa943d384d4f679d6c0992c&accountId=572ec68b590c4509b6f1c47bea97c870&accountId=269c77c3d31945f2a42361e33ef4be75&accountId=cbbe849627ef43209fffd4239d95ce54&accountId=e6ee834d092f436099abd4f952600fdf&accountId=371b5df3d8cc480db3462281fe7d3aff&accountId=16a4a7848c8540988681230953d55af7&accountId=05c962c5cb5b4a49a1b94965982ade08&accountId=e731fd941a0344f1acab43c8602d040d&accountId=c933532474eb4bf28af950388cb31289&accountId=e5fcb2e1514c4834a6ac0d94f6829a59&accountId=8bc9966fd3d54fcf888c0c19cf2aa29d&accountId=e1e00b17717d4efda5338751808c3b66&accountId=3e9ea13522544631b0fff7b960d93552&accountId=c9e029f912a34b45836c37c22e1284d2&accountId=714d45010dfe46a5b25f4ff1bcedcd0b&accountId=f42e9ef429494ef0bd13a5bb25b26435&accountId=67c24572ad674838a025091ea1b44236&accountId=99353b8dbd7647abaf35c63595d9f095&accountId=26f0dd538aa04c50858c5a1138200b7e&accountId=ed2adf90ec734723a57e60e54c87beaf&accountId=959e3a6223c4408fab72fd70cf44e50c&accountId=e67834002cd64db19b63538252a9b189&accountId=036e336247e94bb286edad1642393024&accountId=de896d9ea131401ead45d8fc70fee643&accountId=b6d8262263f34fae94a7cd02956a2d17&accountId=07ac10cf17b74a25a19c6eb8bc977cc9&accountId=6b7a6bd6b6f744c7b321755b736b7c9a&accountId=cb0625498e5b4deda4b8ca2f011b2d01&accountId=124058bd904142cdba1f82b3394906a3&accountId=2dd3bf97039b4b22b92dd0b03a3ac3a6&accountId=9634e9167aa7423f9955ef920902859a&accountId=97f02ee7f88b43428bc2bd9bbef270d8&accountId=5e22a83bd3f34532b200d4d6754fd4a8&accountId=82b674cd43ed40768105e95709ff0178&accountId=8809685ef60e40d7ba31a5e961610c87&accountId=8d8ec755cc90439f91f905adcf5c0ac9&accountId=8dedb06aec6d4a4b8dec3f4764b2cedf&accountId=9208a5dedeb341cc880d4e6d3b3b5f4f&accountId=9dcbae92ac2c4c038cc8b2f4f78ab4e5&accountId=aaec6a1d66414ebbb4213e4891e67b2b&accountId=ac60955c2c194c798c3c9d84e21e751a&accountId=ba6f3f0337064b0fae08254f2dd51aef&accountId=bd291d1a32004149a41e46b060fd828a&accountId=c5ec29f5e2f546a3b1c3d5271f55359a&accountId=cc7be6fa6f1d4306b66d3ad11e20049b&accountId=cea4140ce5784f419e865e28f4356121&accountId=d88e27a4054b4cbf8e5015fc554db4d1&accountId=e094f562123c438888bfe9dcde31afca&accountId=f895362a0f144867ad698dedc1e656bc&accountId=f8fd649848514c9dbc8ebae6d97ca55a code=200 response=<REDACTED>
+[2017.05.18-14.44.43:381][120]LogOnline:Verbose: OSS: You have 4 blocked players.
+[2017.05.18-14.44.43:381][120]LogOnline:Verbose: MCP: Starting QueryUserInfo request.
+[2017.05.18-14.44.43:548][150]LogOnline:Verbose: MCP: QueryUserInfo request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/public/account?accountId=bb9f8f76c2814b5e8eccc2234db533df&accountId=39ba9a4e23f34e17be92f6bed1024695&accountId=34030e3950fe45b985f689feb992512b&accountId=dd1ab2c86337427e87491ff17e733340 code=200 response=<REDACTED>
+[2017.05.18-14.44.43:704][180]LogOnline:Verbose: OSS: You have 10 recent players.
+[2017.05.18-14.44.43:704][180]LogOnline:Verbose: MCP: Starting QueryUserInfo request.
+[2017.05.18-14.44.43:856][208]LogOnline:Verbose: MCP: QueryUserInfo request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/public/account?accountId=aa63b3f4a79f4521b42157a1974abdab&accountId=6278b535e575437fa4932b18375c3d4e&accountId=edba1642e17044359e058e19d2a65485&accountId=d4c603d2d89249149ba8b5175f47faf2&accountId=495955d87a144b8dab6f1e6e5677c268&accountId=a77ee944293a4c1da52622ec70457348&accountId=9c97cd8c793a4fd39832fc3819e66907&accountId=317045209a474a7fb474a5c1aab77176&accountId=c7742e26f7ca492a819cf7f80dc06a61&accountId=12b75692e32d48f9a28754fc161533e1 code=200 response=<REDACTED>
+[2017.05.18-14.44.44:076][248]LogHotfixManager:Display: External CheckComplete UpdateSuccess
+[2017.05.18-14.44.44:076][248]LogHotfixManager:Display: Update State UpdatePending -> UpdateComplete
+[2017.05.18-14.44.44:076][248]LogOrion:Display: UOrionStateWidget_UpdateBase::OnUpdateStatusChanged 7
+[2017.05.18-14.44.44:076][248]LogOrion:Display: AOrionGameMode_Main::OnUpdateCheckComplete called. Result=1
+[2017.05.18-14.44.44:088][248]LogOrion:Display: AOrionGameMode_Main::OnRejoinCheckComplete called. Status=0
+[2017.05.18-14.44.44:088][248]LogOrion:Display: HideLoadingScreen( DebugString = AOrionGameMode_Main::HideLoadingScreen)
+[2017.05.18-14.44.44:088][248]LogOrion: Switching async loading mode to DEFAULT (5.00ms)
+[2017.05.18-14.44.44:088][248]LogOrion: Loading Screen EOrionLoadingScreenMode::Hotfix Deactivated! Active for: 2.30 secs
+[2017.05.18-14.44.44:088][248]LogOrionUI: Enabling world rendering
+[2017.05.18-14.44.44:088][248]LogOrion:Warning: ProcessPartyFlow - no party invite check due to code 7
+[2017.05.18-14.44.44:088][248]LogParty:Verbose: Resetting parties for frontend
+[2017.05.18-14.44.44:088][248]LogOnlineParty:Verbose: OSS::Party: UpdatePartyData request success. user=57c0ec2d8ebf49c8948db4ea407cb23b party=C8A3688043BB8F41FE95EFAFFE865979
+[2017.05.18-14.44.44:089][248]LogParty:Verbose: Resetting parties for frontend
+[2017.05.18-14.44.44:089][248]LogOnlineParty:Verbose: OSS::Party: UpdatePartyMemberData request success. user=57c0ec2d8ebf49c8948db4ea407cb23b party=C8A3688043BB8F41FE95EFAFFE865979
+[2017.05.18-14.44.44:089][248]LogOnlineParty:Verbose: OSS::Party: UpdatePartyMemberData request success. user=57c0ec2d8ebf49c8948db4ea407cb23b party=C8A3688043BB8F41FE95EFAFFE865979
+[2017.05.18-14.44.44:089][248]LogOnlineParty:Verbose: OSS::Party: UpdatePartyData request success. user=57c0ec2d8ebf49c8948db4ea407cb23b party=C8A3688043BB8F41FE95EFAFFE865979
+[2017.05.18-14.44.44:089][248]LogOrion:Display: UOrionStateWidget_InitialPreload::OnUpdateComplete 1
+[2017.05.18-14.44.44:089][248]LogOrion:Display: UOrionStateWidget_UpdateBase::OnUpdateComplete 1
+[2017.05.18-14.44.44:090][249]LogOnlineParty:Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.data user=57c0ec2d8ebf49c8948db4ea407cb23b to all
+[2017.05.18-14.44.44:090][249]LogParty: [C8A3688043BB8F41FE95EFAFFE865979] Player 57c0ec2d8ebf49c8948db4ea407cb23b data received
+[2017.05.18-14.44.44:090][249]LogOnlineParty:Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.memberdata user=57c0ec2d8ebf49c8948db4ea407cb23b to all
+[2017.05.18-14.44.47:341][445]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.48:244][504]LogOrion:Display: AOrionHeroPlacementActor Took: 6.4506 seconds to load actor class
+[2017.05.18-14.44.48:244][504]LogOrionUI: AOrionPlacementActor Reset
+[2017.05.18-14.44.48:244][504]LogOrionUI: AOrionPlacementActor SpawnActor [FeaturedHeroPlacementActor]: Spawning new actor
+[2017.05.18-14.44.48:246][504]LogOrionUI: AOrionPlacementActor SpawnActor DisplayActor==true
+[2017.05.18-14.44.48:246][504]LogOrionUI: AOrionPlacementActor SetIsLoading
+[2017.05.18-14.44.48:246][504]LogOrionUI: [FeaturedHeroPlacementActor]: Prestreaming textures
+[2017.05.18-14.44.48:246][504]LogOrion:Display: RegisterOrionPlayerState. Actor: BP_HeroPedestal_Sword_C_0. HeroData: HeroData_Sword. FoundIndex: 28
+[2017.05.18-14.44.48:246][504]LogOrion:Display: RegisterOrionPlayerState. Actor BP_HeroPedestal_Sword_C_0. Skin: Skin_Sword_Buy_T1_Spaceknight. FoundIndex: 146
+[2017.05.18-14.44.48:247][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Skins/Tier_2/SciFi/Meshes/Sword_SpaceKnight.Sword_SpaceKnight -  0.000 s
+[2017.05.18-14.44.48:247][504]LogOrion: Applying skin [Skin_Sword_Buy_T1_Spaceknight] and variant [None] to component [HeroMeshComponent] on actor [BP_HeroPedestal_Sword_C_0]
+[2017.05.18-14.44.48:271][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Skins/Tier_2/SciFi/Materials/M_Sword_SciFi_Flesh_head.M_Sword_SciFi_Flesh_head -  0.000 s
+[2017.05.18-14.44.48:271][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Skins/Tier_2/SciFi/Materials/M_Sword_SciFi_Head.M_Sword_SciFi_Head -  0.000 s
+[2017.05.18-14.44.48:271][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Skins/Tier_2/SciFi/Materials/M_Sword_SciFi_Torso.M_Sword_SciFi_Torso -  0.000 s
+[2017.05.18-14.44.48:271][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Skins/Tier_2/SciFi/Materials/M_Sword_SciFi_Legs.M_Sword_SciFi_Legs -  0.000 s
+[2017.05.18-14.44.48:271][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Skins/Tier_2/SciFi/Materials/M_Sword_SciFi_Legs.M_Sword_SciFi_Legs -  0.000 s
+[2017.05.18-14.44.48:271][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Skins/Tier_2/SciFi/Materials/M_Sword_SciFi_weapons.M_Sword_SciFi_weapons -  0.000 s
+[2017.05.18-14.44.48:271][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Skins/Tier_2/SciFi/Materials/M_Sword_SciFi_Weapons_Energy_Demo.M_Sword_SciFi_Weapons_Energy_Demo -  0.000 s
+[2017.05.18-14.44.48:271][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Skins/Tier_2/SciFi/Materials/MIC_Sword_SciFi_Hair_Demo.MIC_Sword_SciFi_Hair_Demo -  0.000 s
+[2017.05.18-14.44.48:271][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Skins/Tier_2/SciFi/Materials/M_Sword_EyeRefractive_Inst.M_Sword_EyeRefractive_Inst -  0.000 s
+[2017.05.18-14.44.48:271][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Global/Mouth/Materials/M_Mouth_MId_color.M_Mouth_MId_color -  0.000 s
+[2017.05.18-14.44.48:271][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Skins/Tier_2/SciFi/Materials/M_TearLine_Inst2.M_TearLine_Inst2 -  0.000 s
+[2017.05.18-14.44.48:271][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Skins/Tier_2/SciFi/Materials/M_Eye_Occlusion_Inst.M_Eye_Occlusion_Inst -  0.000 s
+[2017.05.18-14.44.48:271][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Skins/Tier_2/SciFi/Materials/M_Sword_SciFi_Legs.M_Sword_SciFi_Legs -  0.000 s
+[2017.05.18-14.44.48:271][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Skins/Tier_2/SciFi/Materials/M_Sword_SciFi_Legs.M_Sword_SciFi_Legs -  0.000 s
+[2017.05.18-14.44.48:271][504]LogStats: Loaded OrionGlobals asset /Game/Characters/Heroes/Sword/Skins/Tier_2/SciFi/Materials/M_Sword_SciFi_Legs.M_Sword_SciFi_Legs -  0.000 s
+[2017.05.18-14.44.48:272][504]LogOrion: Applying skin [Skin_Sword_Buy_T1_Spaceknight] and variant [V_SwordSkin_SpaceKnight_V0] to component [HeroMeshComponent] on actor [BP_HeroPedestal_Sword_C_0]
+[2017.05.18-14.44.48:272][504]LogOrionUI: AOrionPlacementActor SetIsLoading
+[2017.05.18-14.44.48:272][504]LogOrion:Display: Found subset. OnLoaded: 1
+[2017.05.18-14.44.48:273][504]LogOrion: UI state transition from EOrionUIState::HotfixAndLoad to EOrionUIState::FrontEnd
+[2017.05.18-14.44.49:165][504]LogOrionUI: UOrionDynamicEntryBox::RebuildWidget()
+[2017.05.18-14.44.49:175][504]LogOrionUI: UOrionDynamicEntryBox::RebuildWidget()
+[2017.05.18-14.44.49:176][504]LogOrionUI: UOrionDynamicEntryBox::RebuildWidget()
+[2017.05.18-14.44.49:176][504]LogOrionUI: UOrionDynamicEntryBox::RebuildWidget()
+[2017.05.18-14.44.49:176][504]LogOrionUI: UOrionDynamicEntryBox::RebuildWidget()
+[2017.05.18-14.44.49:233][504]LogSlate: Took 0.001860 seconds to synchronously load lazily loaded font '../../../OrionGame/Content/UI/Fonts/Cane-FixedWidthNumbers_0_Font.ufont' (65K)
+[2017.05.18-14.44.51:816][504]LogOrionUI: UOrionDynamicEntryBox::RebuildWidget()
+[2017.05.18-14.44.51:816][504]LogOrionUI: UOrionDynamicEntryBox::RebuildWidget()
+[2017.05.18-14.44.51:821][504]LogOrionUI: UOrionDynamicEntryBox::RebuildWidget()
+[2017.05.18-14.44.51:839][504]LogOrionUI: UOrionDynamicEntryBox::RebuildWidget()
+[2017.05.18-14.44.51:839][504]LogOrionUI: UOrionDynamicEntryBox::RebuildWidget()
+[2017.05.18-14.44.51:858][504]LogOnlineGame:Verbose: MCP-Utils: Dispatching request to https://orion-public-service-prod09.ol.epicgames.com/orion/api/game/v2/friendcodes/57c0ec2d8ebf49c8948db4ea407cb23b/unused
+[2017.05.18-14.44.51:923][504]LogOnlineParty:Verbose: OSS::Party: UpdatePartyData request success. user=57c0ec2d8ebf49c8948db4ea407cb23b party=C8A3688043BB8F41FE95EFAFFE865979
+[2017.05.18-14.44.51:935][504]LogOrionUI: AOrionPlacementActor Reset
+[2017.05.18-14.44.52:633][504]LogLoad:Display: Completed Frontend in 40.57 secs
+[2017.05.18-14.44.52:637][505]LogOnline:Verbose: MCP: Large tick time detected 4.3990
+[2017.05.18-14.44.52:637][505]LogOnlineParty:Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.data user=57c0ec2d8ebf49c8948db4ea407cb23b to all
+[2017.05.18-14.44.54:786][505]LogOrionUI: [UOrionCMSTile] SetMedia
+[2017.05.18-14.44.54:791][505]LogEngine: Slow GT frame detected (GT frame 1504, delta time 6.548649 s)
+[2017.05.18-14.44.55:231][505]LogSlate: Took 0.408424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.05.18-14.44.55:264][505]LogSlate: Took 0.032494 seconds to synchronously load lazily loaded font '../../../OrionGame/Content/UI/Fonts/ContaxPro_0_Light.ufont' (103K)
+[2017.05.18-14.44.55:272][506]LogProfileSys: (200) https://orion-public-service-prod09.ol.epicgames.com/orion/api/storefront/v2/catalog?rvn=6897
+[2017.05.18-14.44.55:319][506]LogOnline:Verbose: OSS: Starting QueryOffersById request.
+[2017.05.18-14.44.55:331][506]LogOrionUI: AOrionPlacementActor HandleShowActorAfterPrestream [FeaturedHeroPlacementActor]: Showing new actor after prestream
+[2017.05.18-14.44.55:331][506]LogOrionUI: AOrionPlacementActor SetIsLoading
+[2017.05.18-14.44.55:343][507]LogEpicCMS: ReadFile complete in 0.512017s
+[2017.05.18-14.44.55:366][507]LogEpicCMS: WriteFile Complete 0.022984s
+[2017.05.18-14.44.55:414][507]LogEpicCMS: Uncompressing image tool 0.048171s
+[2017.05.18-14.44.55:415][507]LogOrionUI: [UOrionCMSTile] SetImageData
+[2017.05.18-14.44.55:489][507]LogAudio:Warning: Waited 69.932312ms for audio thread.
+[2017.05.18-14.44.55:501][507]LogAudio:Warning: Waited 82.515343ms for audio thread.
+[2017.05.18-14.44.55:655][508]LogOnline:Verbose: OSS: McpUtils request https://orion-public-service-prod09.ol.epicgames.com/orion/api/game/v2/friendcodes/57c0ec2d8ebf49c8948db4ea407cb23b/unused complete. code=200
+[2017.05.18-14.44.56:334][532]LogOnline:Verbose: OSS: QueryOffers request complete. url=https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/bulk/offers?id=8823dbf4c7dc4089a513e3f3136cec8b&id=988161244ab1437ab28a3231d809e45d&id=c28a3d45452641e7a0d881f9239f0283&id=6d78aeee22d946a193b9248ca78175e0&id=490e5c50296e4676831ba4b8ed328ce5&id=1b3bb290ae84495f8152f1ec0afd8df1&id=bb2ddbb2641143928d4874836bd6b54c&id=35dd7d6de725473f8d25ab304513e836&id=830149e78fa645d79169fc235f04f17b&id=483bf492250d4aca84f715fc47fe0653&id=6c89a0b78e8848a9a3a41b2670229f58&id=b8fe2e83d9dd4d3b83b20e7ce5703a9a&id=5f1be76a19ac4333ac95ad95e1b2d785&id=f5103b69817943c392f8fb6ac1326247&returnItemDetails=false&country=GB&locale=pl code=200
+[2017.05.18-14.44.56:338][532]LogOnline:Verbose: OSS: Starting QueryOfferPromotions request.
+[2017.05.18-14.44.56:939][554]LogOnline:Verbose: OSS: QueryOfferPromotions request complete. url=https://priceengine-public-service-ecomprod01.ol.epicgames.com/priceengine/api/shared/offers/price code=200 response={"accountId":"57c0ec2d8ebf49c8948db4ea407cb23b","country":"GB","taxCalculationStatus":"NOT_APPLICABLE","totalPrice":{"currencyCode":"GBP","discountPrice":47886,"originalPrice":47886,"discountPercentage":100,"discount":0,"basePayoutPrice":58986,"basePayoutCurrencyCode":"USD"},"totalPaymentPrice":{"paymentCurrencyExchangeRate":1.0,"paymentCurrencyCode":"GBP","paymentCurrencySymbol":"£","paymentCurrencyAmount":47886},"coupons":[],"lineOffers":[{"lineId":"1","quantity":1,"taxSkuId":"OR_Founders","price":{"currencyCode":"GBP","discountPrice":3999,"unitPrice":3999,"originalPrice":3999,"originalUnitPrice":3999,"discountPercentage":100,"discount":0,"basePayoutPrice":4999,"basePayoutCurrencyCode":"USD"},"offerId":"35dd7d6de725473f8d25ab304513e836","appliedRules":[],"ref":"35dd7d6de725473f8d25ab304513e836"},{"lineId":"2","quantity":1,"taxSkuId":"OR_Starter","price":{"currencyCode":"GBP","discountPrice":1599,"unitPrice":1599,"originalPrice":1599,"originalUnitPrice":1599,"discountPercentage":100,"discount":0,"basePayoutPrice":1999,"basePayoutCurrencyCode":"USD"},"offerId":"f5103b69817943c392f8fb6ac1326247","appliedRules":[],"ref":"f5103b69817943c392f8fb6ac1326247"},{"lineId":"3","quantity":1,"taxSkuId":"OR_Founders","price":{"currencyCode":"GBP","discountPrice":4799,"unitPrice":4799,"originalPrice":4799,"originalUnitPrice":4799,"discountPercentage":100,"discount":0,"basePayoutPrice":5999,"basePayoutCurrencyCode":"USD"},"offerId":"483bf492250d4aca84f715fc47fe0653","appliedRules":[],"ref":"483bf492250d4aca84f715fc47fe0653"},{"lineId":"4","quantity":1,"taxSkuId":"OR_Founders","price":{"currencyCode":"GBP","discountPrice":8399,"unitPrice":8399,"originalPrice":8399,"originalUnitPrice":8399,"discountPercentage":100,"discount":0,"basePayoutPrice":9999,"basePayoutCurrencyCode":"USD"},"offerId":"988161244ab1437ab28a3231d809e45d","appliedRules":[],"ref":"988161244ab1437ab28a3231d809e45d"},{"lineId":"5","quantity":1,"taxSkuId":"OR_Founders","price":{"currencyCode":"GBP","discountPrice":3999,"unitPrice":3999,"originalPrice":3999,"originalUnitPrice":3999,"discountPercentage":100,"discount":0,"basePayoutPrice":4999,"basePayoutCurrencyCode":"USD"},"offerId":"c28a3d45452641e7a0d881f9239f0283","appliedRules":[],"ref":"c28a3d45452641e7a0d881f9239f0283"},{"lineId":"6","quantity":1,"taxSkuId":"OR_Founders","price":{"currencyCode":"GBP","discountPrice":3199,"unitPrice":3199,"originalPrice":3199,"originalUnitPrice":3199,"discountPercentage":100,"discount":0,"basePayoutPrice":3999,"basePayoutCurrencyCode":"USD"},"offerId":"6d78aeee22d946a193b9248ca78175e0","appliedRules":[],"ref":"6d78aeee22d946a193b9248ca78175e0"},{"lineId":"7","quantity":1,"taxSkuId":"OR_Founders","price":{"currencyCode":"GBP","discountPrice":2499,"unitPrice":2499,"originalPrice":2499,"originalUnitPrice":2499,"discountPercentage":100,"discount":0,"basePayoutPrice":2999,"basePayoutCurrencyCode":"USD"},"offerId":"b8fe2e83d9dd4d3b83b20e7ce5703a9a","appliedRules":[],"ref":"b8fe2e83d9dd4d3b83b20e7ce5703a9a"},{"lineId":"8","quantity":1,"taxSkuId":"OR_Founders","price":{"currencyCode":"GBP","discountPrice":799,"unitPrice":799,"originalPrice":799,"originalUnitPrice":799,"discountPercentage":100,"discount":0,"basePayoutPrice":999,"basePayoutCurrencyCode":"USD"},"offerId":"8823dbf4c7dc4089a513e3f3136cec8b","appliedRules":[],"ref":"8823dbf4c7dc4089a513e3f3136cec8b"},{"lineId":"9","quantity":1,"taxSkuId":"OR_Founders","price":{"currencyCode":"GBP","discountPrice":6399,"unitPrice":6399,"originalPrice":6399,"originalUnitPrice":6399,"discountPercentage":100,"discount":0,"basePayoutPrice":7999,"basePayoutCurrencyCode":"USD"},"offerId":"1b3bb290ae84495f8152f1ec0afd8df1","appliedRules":[],"ref":"1b3bb290ae84495f8152f1ec0afd8df1"},{"lineId":"10","quantity":1,"taxSkuId":"OR_Founders","price":{"currencyCode":"GBP","discountPrice":2499,"unitPrice":2499,"originalPrice":2499,"originalUnitPrice":2499,"discountPercentage":100,"discount":0,"basePayoutPrice":2999,"basePayoutCurrencyCode":"USD"},"offerId":"6c89a0b78e8848a9a3a41b2670229f58","appliedRules":[],"ref":"6c89a0b78e8848a9a3a41b2670229f58"},{"lineId":"11","quantity":1,"taxSkuId":"OR_Founders","price":{"currencyCode":"GBP","discountPrice":2499,"unitPrice":2499,"originalPrice":2499,"originalUnitPrice":2499,"discountPercentage":100,"discount":0,"basePayoutPrice":2999,"basePayoutCurrencyCode":"USD"},"offerId":"5f1be76a19ac4333ac95ad95e1b2d785","appliedRules":[],"ref":"5f1be76a19ac4333ac95ad95e1b2d785"},{"lineId":"12","quantity":1,"taxSkuId":"OR_Founders","price":{"currencyCode":"GBP","discountPrice":3999,"unitPrice":3999,"originalPrice":3999,"originalUnitPrice":3999,"discountPercentage":100,"discount":0,"basePayoutPrice":4999,"basePayoutCurrencyCode":"USD"},"offerId":"bb2ddbb2641143928d4874836bd6b54c","appliedRules":[],"ref":"bb2ddbb2641143928d4874836bd6b54c"},{"lineId":"13","quantity":1,"taxSkuId":"OR_Founders","price":{"currencyCode":"GBP","discountPrice":1599,"unitPrice":1599,"originalPrice":1599,"originalUnitPrice":1599,"discountPercentage":100,"discount":0,"basePayoutPrice":1999,"basePayoutCurrencyCode":"USD"},"offerId":"830149e78fa645d79169fc235f04f17b","appliedRules":[],"ref":"830149e78fa645d79169fc235f04f17b"},{"lineId":"14","quantity":1,"taxSkuId":"OR_Founders","price":{"currencyCode":"GBP","discountPrice":1599,"unitPrice":1599,"originalPrice":1599,"originalUnitPrice":1599,"discountPercentage":100,"discount":0,"basePayoutPrice":1999,"basePayoutCurrencyCode":"USD"},"offerId":"490e5c50296e4676831ba4b8ed328ce5","appliedRules":[],"ref":"490e5c50296e4676831ba4b8ed328ce5"}]}
+[2017.05.18-14.45.00:738][690]LogProfileSys: (200) https://orion-public-service-prod09.ol.epicgames.com/orion/api/game/v2/profile/57c0ec2d8ebf49c8948db4ea407cb23b/client/ClaimLoginReward?rvn=6897
+[2017.05.18-14.45.00:739][690]LogProfileSys: MCP-Profile: DarkSoul1991 accountId=57c0ec2d8ebf49c8948db4ea407cb23b profileId=profile0 lost 52 x Token.DailyLogin
+[2017.05.18-14.45.00:739][690]LogProfileSys: MCP-Profile: DarkSoul1991 accountId=57c0ec2d8ebf49c8948db4ea407cb23b profileId=profile0 gained 1 x CardPack.SilverChest [798791cc-9d60-4b91-97dd-e66b76bd6602]
+[2017.05.18-14.45.00:739][690]LogProfileSys: MCP-Profile: DarkSoul1991 accountId=57c0ec2d8ebf49c8948db4ea407cb23b profileId=profile0 gained 53 x Token.DailyLogin [5645e19e-eb2a-4478-9d81-c164cc4a73c9]
+[2017.05.18-14.45.00:740][690]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: Daily_General_TowerDamageDone_Q1
+[2017.05.18-14.45.00:740][690]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Already Fully Loaded: Daily_General_TowerDamageDone_Q1
+[2017.05.18-14.45.00:740][690]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: Daily_General_TowerDamageDone_Q2
+[2017.05.18-14.45.00:740][690]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Already Fully Loaded: Daily_General_TowerDamageDone_Q2
+[2017.05.18-14.45.00:740][690]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: Daily_Ranger_Win
+[2017.05.18-14.45.00:740][690]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Already Fully Loaded: Daily_Ranger_Win
+[2017.05.18-14.45.00:755][690]LogOrion: [InsertCuratedDecks]
+[2017.05.18-14.45.00:756][690]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: Daily_General_TowerDamageDone_Q1
+[2017.05.18-14.45.00:756][690]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Already Fully Loaded: Daily_General_TowerDamageDone_Q1
+[2017.05.18-14.45.00:756][690]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: Daily_General_TowerDamageDone_Q2
+[2017.05.18-14.45.00:756][690]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Already Fully Loaded: Daily_General_TowerDamageDone_Q2
+[2017.05.18-14.45.00:756][690]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] AsyncLoadAllData: Daily_Ranger_Win
+[2017.05.18-14.45.00:756][690]LogOrion:Display: [UOrionMcpItemDefinition::AsyncLoadAllData] Already Fully Loaded: Daily_Ranger_Win
+[2017.05.18-14.45.00:758][690]LogOrion:Warning: FOrionMcpInventoryView::InsertTransientQuests called when there has been no PlayListID set on the ProfileAccount. Returning
+[2017.05.18-14.45.00:758][690]LogOrion: [GetInventory::PreDeckSort]
+[2017.05.18-14.45.04:910][817]LogOrionUI: [UOrionDailyQuestWidget] Loaded 4 Daily Quests. If this is zero, maybe MCP is incorrect
+[2017.05.18-14.45.04:913][817]LogOrionUI: UOrionDynamicEntryBox::RebuildWidget()
+[2017.05.18-14.45.04:936][817]LogOrionUI: UOrionDynamicEntryBox::RebuildWidget()
+[2017.05.18-14.45.04:959][817]LogOrionUI: UOrionDynamicEntryBox::RebuildWidget()
+[2017.05.18-14.45.04:981][817]LogOnline:Verbose: MCP: Starting WriteUserFile request. filename=ClientSettings.Sav
+[2017.05.18-14.45.05:198][826]LogOnline:Verbose: MCP: WriteUserFile request complete. url=https://orion-public-service-prod09.ol.epicgames.com/orion/api/cloudstorage/user/57c0ec2d8ebf49c8948db4ea407cb23b/ClientSettings.Sav code=200 response=
+[2017.05.18-14.45.05:204][826]LogOnline:Verbose: MCP: WriteUserFile request complete. Local file cache updated =C:/Users/WIKTOR/AppData/Local/OrionGame/Saved/Cloud/57c0ec2d8ebf49c8948db4ea407cb23b/ClientSettings.Sav
+[2017.05.18-14.45.07:505][897]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.05.18-14.45.08:008][898]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.05.18-14.45.08:509][898]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.05.18-14.45.09:291][898]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.05.18-14.45.09:528][898]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.05.18-14.45.09:528][898]LogEngine: Slow GT frame detected (GT frame 1897, delta time 2.022639 s)
+[2017.05.18-14.45.10:092][899]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.05.18-14.45.10:538][899]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.05.18-14.45.11:038][899]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.05.18-14.45.11:538][899]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.05.18-14.45.12:048][899]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.05.18-14.45.12:056][899]LogD3D11RHI:Error: Result failed 
+ at D:\Build\++Orion+Release-40+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:289 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2017.05.18-14.45.12:056][899]LogWindows: Windows GetLastError: Operacja ukończona pomyślnie. (0)

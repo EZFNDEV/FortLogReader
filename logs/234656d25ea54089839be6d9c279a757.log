@@ -1,0 +1,222 @@
+﻿Log file open, 07/26/18 22:32:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+AppSettings: Version: 7.14.2-4231683+++Portal+Release-Live
+AppSettings: CommandLine: "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\..\..\..\Portal\Binaries\Win64\EpicGamesLauncher.exe"  -SkipBuildPatchPrereq
+AppSettings: RunningCommandlet: false
+AppSettings: ForwardMessage: false
+AppSettings: ForcedRestart: false
+AppSettings: bAllowMultipleInstances: false
+AppSettings: bBootstrap: false
+AppSettings: bSilent: false
+AppSettings: bForceDeprecated: false
+AppSettings: bDoesCompiledPlatformMatch: true
+AppSettings: bIsUnattended: false
+AppSettings: bAllowFullAppTesting: false
+AppSettings: bIsExecutingAutomation: false
+AppSettings: Mode: default
+LogInit: WinPlatform: User is admin: true
+LogInit: WinPlatform: Process ran as admin: true
+LogInit: WinPlatform: Process is elevated: true
+LogInit: WinPlatform: Process integrity level: High
+LogInit: WinPlatform: Running 64bit App: true
+LogInit: WinPlatform: Running 64bit OS: true
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1662664215) SRandInit(1662664218).
+LogTaskGraph: Started task graph with 4 named threads and 7 total threads with 1 sets of task threads.
+LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+LogWindows: File 'shcore.dll' does not exist
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MessagingDebugger
+LogPluginManager: Mounting plugin UdpMessaging
+LogInit: Build: 7.14.2-4231683+++Portal+Release-Live
+LogInit: Engine Version: 4.18.0-4231683+++Portal+Release-Live
+LogInit: Compatible Engine Version: 4.18.0-4231683+++Portal+Release-Live
+LogInit: Net CL: 4231683
+LogInit: Compiled (64-bit): Jul 25 2018 14:05:03
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Portal+Release-Live
+LogInit: Command line: "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\..\..\..\Portal\Binaries\Win64\EpicGamesLauncher.exe"  -SkipBuildPatchPrereq -SaveToUserDir -Messaging -enablehighdpi
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.27-04.32.04:134][  0]LogInit: Computer: monolith
+[2018.07.27-04.32.04:135][  0]LogInit: User: lord
+[2018.07.27-04.32.04:135][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.27-04.32.04:135][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.07.27-04.32.04:135][  0]LogMemory: Memory total: Physical=15.6GB (16GB approx)
+[2018.07.27-04.32.04:135][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.27-04.32.04:135][  0]LogMemory: Process Physical Memory: 74.79 MB used, 74.79 MB peak
+[2018.07.27-04.32.04:135][  0]LogMemory: Process Virtual Memory: 45.27 MB used, 45.27 MB peak
+[2018.07.27-04.32.04:135][  0]LogMemory: Physical Memory: 3492.53 MB used,  12506.87 MB free, 15999.39 MB total
+[2018.07.27-04.32.04:135][  0]LogMemory: Virtual Memory: 0.06 MB used,  12506.87 MB free, 134217728.00 MB total
+[2018.07.27-04.32.04:156][  0]LogAssetRegistry: FAssetRegistry took 0.0107 seconds to start up
+[2018.07.27-04.32.04:156][  0]LogUObjectArray: 217 objects as part of root set at end of initial load.
+[2018.07.27-04.32.04:156][  0]LogUObjectAllocator: 36496 out of 0 bytes used by permanent object pool.
+[2018.07.27-04.32.04:156][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.27-04.32.04:156][  0]LogInit: Using OS detected language (en-US).
+[2018.07.27-04.32.04:156][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.27-04.32.04:164][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.27-04.32.04:169][  0]LogPackageLocalizationCache: Processed 2 localized package path(s) for 2 prioritized culture(s) in 0.000184 seconds
+[2018.07.27-04.32.04:181][  0]LogTaskGraph: Started task graph with 4 named threads and 7 total threads with 1 sets of task threads.
+[2018.07.27-04.32.04:245][  0]LogInit: Using libcurl 7.55.1-DEV
+[2018.07.27-04.32.04:245][  0]LogInit:  - built for x86_64-pc-win32
+[2018.07.27-04.32.04:245][  0]LogInit:  - supports SSL with OpenSSL/1.0.2h
+[2018.07.27-04.32.04:245][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+[2018.07.27-04.32.04:245][  0]LogInit:  - other features:
+[2018.07.27-04.32.04:245][  0]LogInit:      CURL_VERSION_SSL
+[2018.07.27-04.32.04:245][  0]LogInit:      CURL_VERSION_LIBZ
+[2018.07.27-04.32.04:245][  0]LogInit:      CURL_VERSION_IPV6
+[2018.07.27-04.32.04:245][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2018.07.27-04.32.04:245][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2018.07.27-04.32.04:245][  0]LogInit:      CURL_VERSION_IDN
+[2018.07.27-04.32.04:245][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2018.07.27-04.32.04:245][  0]LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+[2018.07.27-04.32.04:245][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2018.07.27-04.32.04:245][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2018.07.27-04.32.04:245][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2018.07.27-04.32.04:245][  0]LogInit:  - BufferSize = 65536
+[2018.07.27-04.32.04:571][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.07.27-04.32.04:571][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.07.27-04.32.04:572][  0]LogWindowsTextInputMethodSystem: Error: Initialization failed while advising the profile notification sink to the TSF source.  (0x80004001)
+[2018.07.27-04.32.04:572][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.27-04.32.04:573][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.27-04.32.04:964][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=128, MaxUdp=1024
+[2018.07.27-04.32.04:969][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.27-04.32.05:052][  0]BuildPatchServicesModule: Setup to skip prerequisites install via commandline.
+[2018.07.27-04.32.05:055][  0]Portal: Constructing App Data Access Layer
+[2018.07.27-04.32.05:065][  0]LogBuildInfoRepository: Using LauncherLabel Live-Belica
+[2018.07.27-04.32.05:097][  0]LogSelfUpdateService: Initialising for EpicGamesLauncher 7.14.2-4231683+++Portal+Release-Live-Windows.
+[2018.07.27-04.32.05:097][  0]Portal: Constructing App Domain Layer
+[2018.07.27-04.32.05:371][  0]LogStreaming: Warning: Failed to read file 'C:/ProgramData/Epic/EpicGamesLauncher/Data/LauncherUpdate.manifest' error.
+[2018.07.27-04.32.05:371][  0]Manifest Check:   0x0000000000E25840   Version:   ++Fortnite+Release-5.10-CL-4225813-Windows   AppName:   Fortnite  CPAM Line: 2247 Desc: HandleInstalledManifestReceived 
+[2018.07.27-04.32.05:371][  0]FCommunityPortalAppManagerImpl: Keeping discovered manifest
+[2018.07.27-04.32.05:371][  0]Portal: Constructing App Presentation Layer
+[2018.07.27-04.32.05:373][  0]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:2
+[2018.07.27-04.32.05:373][  0]Portal: Constructing App UI Layer
+[2018.07.27-04.32.05:515][  5]FCommunityPortalManagerImpl: Change State CPManagerState_Init->CPManagerState_WaitingRoom
+[2018.07.27-04.32.05:515][  5][SignInRouter] GoToUrl('/waiting-room')
+[2018.07.27-04.32.05:515][  5][SignInRouter]    Resolved To: '/waiting-room'
+[2018.07.27-04.32.05:515][  5][SignInRouter]    Best Match: waiting-room
+[2018.07.27-04.32.05:516][  5][SignInRouter]    Navigation Complete.
+[2018.07.27-04.32.05:518][  5]SCommunityPortalMainImpl::Construct UEPVM:4
+[2018.07.27-04.32.05:520][  5]LogWindows: Warning: Register touch input failed!
+[2018.07.27-04.32.05:601][  5]~SCommunityPortalMainImpl UEPVM:2
+[2018.07.27-04.32.05:606][  5]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../Content/Font/Lato-Regular.ttf' (118K)
+[2018.07.27-04.32.05:933][ 19]FCommunityPortalManagerImpl: Change State CPManagerState_WaitingRoom->CPManagerState_UserLogin
+[2018.07.27-04.32.05:934][ 19][SignInRouter] GoToUrl('/epic-login')
+[2018.07.27-04.32.05:934][ 19][SignInRouter]    Resolved To: '/epic-login'
+[2018.07.27-04.32.05:934][ 19][SignInRouter]    Best Match: epic-login
+[2018.07.27-04.32.06:039][ 25]FCommunityPortalManagerImpl: Change State CPManagerState_UserLogin->CPManagerState_SelfUpdateCheck
+[2018.07.27-04.32.06:330][ 42]LogSelfUpdateService: Launcher build response 7.14.2-4231683+++Portal+Release-Live-Windows.
+[2018.07.27-04.32.06:330][ 42]LogSelfUpdateService: Launcher is up-to-date with the latest available version.
+[2018.07.27-04.32.06:330][ 42]LogSelfUpdateService: Waiting for next version update.
+[2018.07.27-04.32.06:330][ 42]LogEmsContentProvider: Content build response ++Portal+Main+prod-CL-4229262-Windows.
+[2018.07.27-04.32.06:331][ 42]LogBuildPatchServices: FBuildPatchInstaller CTOR Configuration.InstallManifest Check:   0x0000000000E247C0
+[2018.07.27-04.32.06:331][ 42]LogBuildPatchServices: FBuildPatchInstaller CTOR Configuration.CurrentManifest Check:   0x0000000000E247C0
+[2018.07.27-04.32.06:331][ 42]LogBuildPatchServices: FBuildPatchInstaller CTOR CurrentBuildManifest Check:   0x0000000000E247C0
+[2018.07.27-04.32.06:331][ 42]LogBuildPatchServices: FBuildPatchInstaller CTOR NewBuildManifest Check:   0x0000000000E247C0
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: InstallManifest: 0x0000000000E247C0
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: InstallManifest Version: ++Portal+Main+prod-CL-4229262-Windows
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: CurrentManifest: 0x0000000000E247C0
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: CurrentManifest Version: ++Portal+Main+prod-CL-4229262-Windows
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: InstallDirectory: C:/ProgramData/Epic/EpicGamesLauncher/Data/EMS/EpicGamesLauncher
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: StagingDirectory: C:/ProgramData/Epic/EpicGamesLauncher/Data/EMS/stage/
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: BackupDirectory: 
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: CloudDirectories: https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/CloudDir
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: CloudDirectories: https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/CloudDir
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: CloudDirectories: https://download.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: CloudDirectories: https://download2.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: CloudDirectories: https://download3.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: CloudDirectories: https://download4.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: InstallTags: 
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: ValidTags: 
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: InstallMode: EInstallMode::NonDestructiveInstall
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: VerifyMode: EVerifyMode::ShaVerifyAllFiles
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: bIsRepair: true
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: bRunRequiredPrereqs: false
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Build Config: bAllowConcurrentExecution: false
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Starting Installation
+[2018.07.27-04.32.06:345][ 42]LogBuildPatchServices: Requiring 0 files
+[2018.07.27-04.32.06:345][ 42]LogEmsContentProvider: Installer started.
+[2018.07.27-04.32.06:379][ 45]FCommunityPortalManagerImpl: Change State CPManagerState_SelfUpdateCheck->CPManagerState_WaitEms
+[2018.07.27-04.32.06:412][ 47]BuildPatchResumeData file found 0
+[2018.07.27-04.32.06:412][ 47]LogBuildPatchServices: Performing a repair operation
+[2018.07.27-04.32.06:412][ 47]LogBuildPatchServices: File construction complete
+[2018.07.27-04.32.06:464][ 50]LogBuildPatchServices: Staged install complete
+[2018.07.27-04.32.06:464][ 50]LogBuildPatchServices: Running backup and stage relocation
+[2018.07.27-04.32.06:492][ 52]LogBuildPatchServices: Relocation complete 1
+[2018.07.27-04.32.06:524][ 54]LogBuildPatchServices: Verifying install
+[2018.07.27-04.32.06:571][ 57]LogBuildPatchServices: Verify stage complete 1
+[2018.07.27-04.32.06:571][ 57]LogBuildPatchServices: Deleting staging area.
+[2018.07.27-04.32.06:571][ 57]LogBuildPatchServices: Reset MM.
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: AppName: EpicGamesLauncherContent
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: AppInstalledVersion: ++Portal+Main+prod-CL-4229262-Windows
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: AppPatchVersion: ++Portal+Main+prod-CL-4229262-Windows
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: CloudDirectory: https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/CloudDir
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumFilesInBuild: 255
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumFilesOutdated: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumFilesToRemove: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumChunksRequired: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: ChunksQueuedForDownload: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: ChunksLocallyAvailable: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: ChunksInChunkDbs: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumChunksDownloaded: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumChunksRecycled: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumChunksReadFromChunkDbs: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumFailedDownloads: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumBadDownloads: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumAbortedDownloads: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumRecycleFailures: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumChunksStoreBooted: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumDriveStoreChunkLoads: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumDriveStoreLoadFailures: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumChunkDbChunksFailed: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: TotalDownloadedData: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: AverageDownloadSpeed: 0 bytes (0 B, 0 B) /sec
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: PeakDownloadSpeed: 0 bytes (0 B, 0 B) /sec
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: TotalReadData: 5869682
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: AverageDiskReadSpeed: 330,926,623.027 bytes (330.926 MB, 315.596 MiB) /sec
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: PeakDiskReadSpeed: 330,926,623.027 bytes (330.926 MB, 315.596 MiB) /sec
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: TotalWrittenData: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: AverageDiskWriteSpeed: 0 bytes (0 B, 0 B) /sec
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: PeakDiskWriteSpeed: 0 bytes (0 B, 0 B) /sec
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: NumFilesConstructed: 0
+[2018.07.27-04.32.06:572][ 57]LogBuildPatchServices: Build Stat: InitializeTime: 75 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: TheoreticalDownloadTime: 0 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: ConstructTime: 0 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: MoveFromStageTime: 20 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: FileAttributesTime: 43 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: VerifyTime: 38 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: CleanUpTime: 0 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: PrereqTime: 0 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: ProcessPausedTime: 0 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: ProcessActiveTime: 226 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: ProcessExecuteTime: 226 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: ProcessSuccess: TRUE
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: ErrorCode: OK
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: FailureReasonText: The operation was successful.
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: FailureType: SUCCESS
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: NumInstallRetries: 0
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: FinalProgressValue: 1.000000
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: OverallRequestSuccessRate: 1.000000
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: ExcellentDownloadHealthTime: 30 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: GoodDownloadHealthTime: 0 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: OkDownloadHealthTime: 0 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: PoorDownloadHealthTime: 0 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: DisconnectedDownloadHealthTime: 0 ms
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: AverageMemoryStoreUse: 0.0
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: PeakMemoryStoreUse: 0
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: AverageMemoryStoreRetained: 0.0
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: PeakMemoryStoreRetained: 0
+[2018.07.27-04.32.06:573][ 57]LogBuildPatchServices: Build Stat: MemoryStoreSize: 336
+[2018.07.27-04.32.06:573][ 57]LogEmsContentProvider: Installer complete. Success:1.

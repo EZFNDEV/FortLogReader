@@ -1,0 +1,954 @@
+Log file open, 06/22/19 13:14:41
+AppSettings: Version: 10.2.4-7100722+++Portal+Release-Live
+AppSettings: CommandLine: "E:/Epic Games/Launcher/Portal/Binaries/Win64/EpicGamesLauncher.exe"  -SaveToUserDir -Messaging  -enablehighdpi -ForcedRestart
+AppSettings: RunningCommandlet: false
+AppSettings: ForwardMessage: false
+AppSettings: ForcedRestart: true
+AppSettings: bAllowMultipleInstances: false
+AppSettings: bBootstrap: false
+AppSettings: bSilent: false
+AppSettings: bForceDeprecated: false
+AppSettings: bDoesCompiledPlatformMatch: true
+AppSettings: bIsUnattended: false
+AppSettings: bAllowFullAppTesting: false
+AppSettings: bIsExecutingAutomation: false
+AppSettings: Mode: default
+LogInit: WinPlatform: User is admin: true
+LogInit: WinPlatform: Process ran as admin: false
+LogInit: WinPlatform: Process is elevated: false
+LogInit: WinPlatform: Process integrity level: Medium
+LogInit: WinPlatform: Running 64bit App: true
+LogInit: WinPlatform: Running 64bit OS: true
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 9 total threads with 1 sets of task threads.
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MessagingDebugger
+LogPluginManager: Mounting plugin UdpMessaging
+LogInit: Build: 10.2.4-7100722+++Portal+Release-Live
+LogInit: Engine Version: 4.21.0-7100722+++Portal+Release-Live
+LogInit: Compatible Engine Version: 4.21.0-7100722+++Portal+Release-Live
+LogInit: Net CL: 7100722
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jun 20 2019 09:41:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Portal+Release-Live
+LogInit: Command Line: "E:/Epic Games/Launcher/Portal/Binaries/Win64/EpicGamesLauncher.exe"  -SaveToUserDir -Messaging  -enablehighdpi -ForcedRestart
+LogInit: Base Directory: E:/Epic Games/Launcher/Portal/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.06.22-11.14.41:567][  0]LogInit: Computer: DESKTOP-6050MVA
+[2019.06.22-11.14.41:567][  0]LogInit: User: VGUser
+[2019.06.22-11.14.41:567][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.06.22-11.14.41:567][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.22-11.14.41:567][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.22-11.14.41:567][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.22-11.14.41:567][  0]LogMemory: Process Physical Memory: 25.96 MB used, 25.96 MB peak
+[2019.06.22-11.14.41:567][  0]LogMemory: Process Virtual Memory: 50.42 MB used, 50.42 MB peak
+[2019.06.22-11.14.41:567][  0]LogMemory: Physical Memory: 3847.00 MB used,  12456.53 MB free, 16303.53 MB total
+[2019.06.22-11.14.41:567][  0]LogMemory: Virtual Memory: 4347.44 MB used,  12456.53 MB free, 134217728.00 MB total
+[2019.06.22-11.14.41:589][  0]LogAssetRegistry: FAssetRegistry took 0.0062 seconds to start up
+[2019.06.22-11.14.41:589][  0]LogUObjectArray: 2080 objects as part of root set at end of initial load.
+[2019.06.22-11.14.41:589][  0]LogUObjectAllocator: 299952 out of 0 bytes used by permanent object pool.
+[2019.06.22-11.14.41:589][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.22-11.14.41:589][  0]LogInit: Overriding language with game user settings culture configuration option (en-US).
+[2019.06.22-11.14.41:589][  0]LogInit: Overriding locale with game user settings culture configuration option (en-US).
+[2019.06.22-11.14.41:590][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.22-11.14.41:590][  0]LogInit: Overriding language with game user settings culture configuration option (en-US).
+[2019.06.22-11.14.41:591][  0]LogInit: Overriding locale with game user settings culture configuration option (en-US).
+[2019.06.22-11.14.41:591][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.22-11.14.41:594][  0]LogPackageLocalizationCache: Processed 2 localized package path(s) for 2 prioritized culture(s) in 0.000102 seconds
+[2019.06.22-11.14.41:603][  0]LogTaskGraph: Started task graph with 4 named threads and 9 total threads with 1 sets of task threads.
+[2019.06.22-11.14.41:667][  0]LogInit: Using libcurl 7.55.1-DEV
+[2019.06.22-11.14.41:667][  0]LogInit:  - built for x86_64-pc-win32
+[2019.06.22-11.14.41:667][  0]LogInit:  - supports SSL with OpenSSL/1.0.2h
+[2019.06.22-11.14.41:667][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+[2019.06.22-11.14.41:667][  0]LogInit:  - other features:
+[2019.06.22-11.14.41:667][  0]LogInit:      CURL_VERSION_SSL
+[2019.06.22-11.14.41:667][  0]LogInit:      CURL_VERSION_LIBZ
+[2019.06.22-11.14.41:667][  0]LogInit:      CURL_VERSION_IPV6
+[2019.06.22-11.14.41:667][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2019.06.22-11.14.41:667][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2019.06.22-11.14.41:667][  0]LogInit:      CURL_VERSION_IDN
+[2019.06.22-11.14.41:667][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2019.06.22-11.14.41:667][  0]LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+[2019.06.22-11.14.41:667][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2019.06.22-11.14.41:667][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2019.06.22-11.14.41:667][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2019.06.22-11.14.41:667][  0]LogInit:  - MaxHostConnections = 0  - Libcurl will NOT limit the number of connections to a host
+[2019.06.22-11.14.41:667][  0]LogInit:  - LocalHostAddr = Default
+[2019.06.22-11.14.41:667][  0]LogInit:  - BufferSize = 65536
+[2019.06.22-11.14.41:751][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.22-11.14.41:751][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.22-11.14.41:751][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.22-11.14.41:755][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.22-11.14.41:755][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.22-11.14.41:864][  0]Portal: Constructing App Data Access Layer
+[2019.06.22-11.14.41:875][  0]LogBuildInfoRepository: Using LauncherLabel Live-DurrBurger
+[2019.06.22-11.14.41:898][  0]LogSelfUpdateService: Initialising for EpicGamesLauncher 10.2.4-7100722+++Portal+Release-Live-Windows.
+[2019.06.22-11.14.41:898][  0]LogStreaming: Warning: Failed to read file 'C:/ProgramData/Epic/EpicGamesLauncher/Data/LauncherUpdate.manifest' error.
+[2019.06.22-11.14.41:898][  0]Portal: Constructing App Domain Layer
+[2019.06.22-11.14.41:912][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: E:\Epic Games\Launcher\Engine\Binaries\Win64\UnrealEngineLauncher.exe LinkWorkingDir: E:\Epic Games.
+[2019.06.22-11.14.41:915][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: E:\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: E:\Epic Games
+[2019.06.22-11.14.41:915][  0]WinPlatform: Found matching shortcut: false
+[2019.06.22-11.14.41:915][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: E:\Epic Games\Launcher\Engine\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: E:\Epic Games.
+[2019.06.22-11.14.41:915][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: E:\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: E:\Epic Games
+[2019.06.22-11.14.41:915][  0]WinPlatform: Found matching shortcut: false
+[2019.06.22-11.14.41:915][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: E:\Epic Games\Launcher\Engine\Binaries\Win64\EpicGamesLauncher.exe LinkWorkingDir: E:\Epic Games.
+[2019.06.22-11.14.41:916][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: E:\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: E:\Epic Games
+[2019.06.22-11.14.41:916][  0]WinPlatform: Found matching shortcut: false
+[2019.06.22-11.14.41:916][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\Users\Public\Desktop\Epic Games Launcher.lnk LinkTargetPath: E:\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: E:\Epic Games.
+[2019.06.22-11.14.41:916][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: E:\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: E:\Epic Games
+[2019.06.22-11.14.41:916][  0]WinPlatform: Found matching shortcut: true
+[2019.06.22-11.14.41:916][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: E:\Epic Games\Launcher\Engine\Binaries\Win64\UnrealEngineLauncher.exe LinkWorkingDir: E:\Epic Games.
+[2019.06.22-11.14.41:916][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: E:\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: E:\Epic Games
+[2019.06.22-11.14.41:916][  0]WinPlatform: Found matching shortcut: false
+[2019.06.22-11.14.41:916][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: E:\Epic Games\Launcher\Engine\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: E:\Epic Games.
+[2019.06.22-11.14.41:916][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: E:\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: E:\Epic Games
+[2019.06.22-11.14.41:916][  0]WinPlatform: Found matching shortcut: false
+[2019.06.22-11.14.41:916][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: E:\Epic Games\Launcher\Engine\Binaries\Win64\EpicGamesLauncher.exe LinkWorkingDir: E:\Epic Games.
+[2019.06.22-11.14.41:917][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: E:\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: E:\Epic Games
+[2019.06.22-11.14.41:917][  0]WinPlatform: Found matching shortcut: false
+[2019.06.22-11.14.41:917][  0]WinPlatform: Checking if shortcut exists. LinkPath: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk LinkTargetPath: E:\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe LinkWorkingDir: E:\Epic Games.
+[2019.06.22-11.14.41:917][  0]WinPlatform: Found existing shortcut. ExistingLinkTargetPath: E:\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe ExistingLinkWorkingDir: E:\Epic Games
+[2019.06.22-11.14.41:917][  0]WinPlatform: Found matching shortcut: true
+[2019.06.22-11.14.41:929][  0]LogCommunityPortalAppManager: FCommunityPortalEnumerateInstalledRunnable: Discovered 0 item files.
+[2019.06.22-11.14.41:929][  0]LogCommunityPortalAppManager: FCommunityPortalEnumerateInstalledRunnable: Loaded 0 sidecars in 0.0 secs
+[2019.06.22-11.14.41:929][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.06.22-11.14.42:058][  0]Portal: Constructing App Presentation Layer
+[2019.06.22-11.14.42:060][  0]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:2
+[2019.06.22-11.14.42:060][  0]Portal: Constructing App UI Layer
+[2019.06.22-11.14.42:164][  4]FCommunityPortalManagerImpl: Change State CPManagerState_Init->CPManagerState_UserLogin
+[2019.06.22-11.14.42:164][  4][SignInRouter] GoToUrl('/epic-login')
+[2019.06.22-11.14.42:164][  4][SignInRouter]    Resolved To: '/epic-login'
+[2019.06.22-11.14.42:164][  4][SignInRouter]    Best Match: epic-login
+[2019.06.22-11.14.42:166][  4]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.06.22-11.14.42:212][  4]~SCommunityPortalMainImpl UEPVM:2
+[2019.06.22-11.14.42:212][  4][SignInRouter]    Canceling in progress navigation. New command issued.
+[2019.06.22-11.14.42:212][  4][SignInRouter]    Navigation Canceled.
+[2019.06.22-11.14.42:212][  4][SignInRouter] GoToUrl('/epic-login')
+[2019.06.22-11.14.42:212][  4][SignInRouter]    Resolved To: '/epic-login'
+[2019.06.22-11.14.42:212][  4][SignInRouter]    Best Match: epic-login
+[2019.06.22-11.14.42:267][  8]FCommunityPortalManagerImpl: Change State CPManagerState_UserLogin->CPManagerState_SelfUpdateCheck
+[2019.06.22-11.14.43:656][ 90]LogSelfUpdateService: Launcher build response 10.2.4-7100722+++Portal+Release-Live-Windows.
+[2019.06.22-11.14.43:656][ 90]LogSelfUpdateService: Launcher is up-to-date with the latest available version.
+[2019.06.22-11.14.43:656][ 90]LogSelfUpdateService: Waiting for next version update.
+[2019.06.22-11.14.43:656][ 90]LogEmsContentProvider: Content build response ++Portal+Main+prod-CL-7074822-Windows.
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: InstallerId: A700EC7D4A74FD0193920FB372B10D80
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: ActionType: Repair
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: CurrentManifest: EpicGamesLauncherContent ++Portal+Main+prod-CL-7074822-Windows (Y6qqsl3uHVC8GRJ7TfUKWE6n1ec)
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: InstallManifest: EpicGamesLauncherContent ++Portal+Main+prod-CL-7074822-Windows (Y6qqsl3uHVC8GRJ7TfUKWE6n1ec)
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: InstallTags: 
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: ValidTags: 
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: InstallDirectory: C:/ProgramData/Epic/EpicGamesLauncher/Data/EMS/EpicGamesLauncher/
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: StagingDirectory: C:/ProgramData/Epic/EpicGamesLauncher/Data/EMS/stage/
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: BackupDirectory: 
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: CloudDirectories: http://download.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: CloudDirectories: http://download2.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: CloudDirectories: http://download3.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: CloudDirectories: http://download4.epicgames.com/Builds/UnrealEngineLauncher/CloudDir
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: CloudDirectories: http://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/CloudDir
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: InstallMode: EInstallMode::NonDestructiveInstall
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: VerifyMode: EVerifyMode::ShaVerifyAllFiles
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: DeltaPolicy: EDeltaPolicy::Skip
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: bRunRequiredPrereqs: true
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Build Config: bAllowConcurrentExecution: false
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Starting Installation
+[2019.06.22-11.14.43:668][ 90]LogBuildPatchServices: Requiring 0 files
+[2019.06.22-11.14.43:668][ 90]LogEmsContentProvider: Installer started.
+[2019.06.22-11.14.43:690][ 92]FCommunityPortalManagerImpl: Change State CPManagerState_SelfUpdateCheck->CPManagerState_WaitEms
+[2019.06.22-11.14.43:741][ 95]BuildPatchResumeData file found: false
+[2019.06.22-11.14.43:758][ 96]LogBuildPatchServices: Performing a repair operation
+[2019.06.22-11.14.43:758][ 96]LogBuildPatchServices: File construction complete
+[2019.06.22-11.14.43:792][ 98]LogBuildPatchServices: Staged install complete
+[2019.06.22-11.14.43:792][ 98]LogBuildPatchServices: Running backup and stage relocation
+[2019.06.22-11.14.43:792][ 98]LogBuildPatchServices: Relocation complete 1
+[2019.06.22-11.14.43:826][100]LogBuildPatchServices: Verifying install
+[2019.06.22-11.14.43:861][102]LogBuildPatchServices: Verify stage complete 1
+[2019.06.22-11.14.43:861][102]LogBuildPatchServices: Deleting staging area.
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Reset MM.
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: InstallerId: A700EC7D4A74FD0193920FB372B10D80
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: NumFilesInBuild: 319
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: NumFilesOutdated: 0
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: NumFilesToRemove: 0
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: NumChunksRequired: 0
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: ChunksQueuedForDownload: 0
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: ChunksLocallyAvailable: 0
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: ChunksInChunkDbs: 0
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: NumChunksDownloaded: 0
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: NumChunksRecycled: 0
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: NumChunksReadFromChunkDbs: 0
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: NumFailedDownloads: 0
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: NumBadDownloads: 0
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: NumAbortedDownloads: 0
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: NumRecycleFailures: 0
+[2019.06.22-11.14.43:877][103]LogBuildPatchServices: Build Stat: NumChunksStoreBooted: 0
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: NumDriveStoreChunkLoads: 0
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: NumDriveStoreLoadFailures: 0
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: NumChunkDbChunksFailed: 0
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: TotalDownloadedData: 0
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: ActiveRequestCountPeak : 0
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: AverageDownloadSpeed: 0 bytes (0 B, 0 B) /sec
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: PeakDownloadSpeed: 0 bytes (0 B, 0 B) /sec
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: TotalReadData: 16711982
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: AverageDiskReadSpeed: 561,892,725.176 bytes (561.892 MB, 535.862 MiB) /sec
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: PeakDiskReadSpeed: 561,892,725.176 bytes (561.892 MB, 535.862 MiB) /sec
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: TotalWrittenData: 0
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: AverageDiskWriteSpeed: 0 bytes (0 B, 0 B) /sec
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: PeakDiskWriteSpeed: 0 bytes (0 B, 0 B) /sec
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: NumFilesConstructed: 0
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: InitializeTime: 120 ms
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: TheoreticalDownloadTime: 0 ms
+[2019.06.22-11.14.43:878][103]LogBuildPatchServices: Build Stat: ConstructTime: 0 ms
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: MoveFromStageTime: 2 ms
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: FileAttributesTime: 36 ms
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: VerifyTime: 42 ms
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: CleanUpTime: 1 ms
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: PrereqTime: 0 ms
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: ProcessPausedTime: 0 ms
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: ProcessActiveTime: 203 ms
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: ProcessExecuteTime: 203 ms
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: ProcessSuccess: TRUE
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: ErrorCode: OK
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: FailureReasonText: The operation was successful.
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: FailureType: SUCCESS
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: NumInstallRetries: 0
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: FinalProgressValue: 1.000000
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: OverallRequestSuccessRate: 0.000000
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: ExcellentDownloadHealthTime: 0 ms
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: GoodDownloadHealthTime: 0 ms
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: OkDownloadHealthTime: 0 ms
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: PoorDownloadHealthTime: 30 ms
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: DisconnectedDownloadHealthTime: 0 ms
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: AverageMemoryStoreUse: 0.0
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: PeakMemoryStoreUse: 0
+[2019.06.22-11.14.43:879][103]LogBuildPatchServices: Build Stat: AverageMemoryStoreRetained: 0.0
+[2019.06.22-11.14.43:880][103]LogBuildPatchServices: Build Stat: PeakMemoryStoreRetained: 0
+[2019.06.22-11.14.43:880][103]LogBuildPatchServices: Build Stat: MemoryStoreSize: 336
+[2019.06.22-11.14.43:880][103]LogBuildPatchServices: Build Stat: ProcessRequiredDiskSpace: 0
+[2019.06.22-11.14.43:880][103]LogBuildPatchServices: Build Stat: ProcessAvailableDiskSpace: 0
+[2019.06.22-11.14.43:880][103]LogEmsContentProvider: Installer complete. Success:1.
+[2019.06.22-11.14.43:883][103]LogEmsContentProvider: Waiting for next version update.
+[2019.06.22-11.14.43:894][104]FAccountService::AutoSignIn
+[2019.06.22-11.14.43:894][104]LogOnlineIdentity: OSS: Sending Login request. url=https://account-public-service-prod03.ol.epicgames.com/account, type=refresh, id=[REDACTED]
+[2019.06.22-11.14.43:894][104]FCommunityPortalManagerImpl: Change State CPManagerState_WaitEms->CPManagerState_LoggingIn
+[2019.06.22-11.14.44:164][120]LogOnlineIdentity: OSS: FOnlineIdentityMcp::HandleXmppConnectionCreated
+[2019.06.22-11.14.45:367][191]LogWebView: Loading widget js
+[2019.06.22-11.14.45:434][195]LogWebView: Loaded, running callback
+[2019.06.22-11.14.45:434][195]LogWebView: login
+[2019.06.22-11.14.45:638][207]LogWebView: showModal
+[2019.06.22-11.14.45:638][207]LogWebView: loadI18N
+[2019.06.22-11.14.45:638][207]LogWebView: Messages not loaded, loading
+[2019.06.22-11.14.45:723][212][SignInRouter]    Navigation Complete.
+[2019.06.22-11.14.45:984][227]FAccountService::OnLoginComplete - 0 TRUE d0898ad861364d8bbff5849cfa938ea7 
+[2019.06.22-11.14.45:984][227]Portal: Constructing User Data Access Layer
+[2019.06.22-11.14.45:984][227]Portal: Constructing User Domain Layer
+[2019.06.22-11.14.45:997][227]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(7b443be3671842eeb181cc61facfe301) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2019.06.22-11.14.46:002][227]Portal: Constructing User Presentation Layer
+[2019.06.22-11.14.46:110][227]Portal: Constructing User UI Layer
+[2019.06.22-11.14.46:110][227]FUnrealEnginePortalViewModelImple_UpdateLauncherViewModel: LauncherViewModel is valid
+[2019.06.22-11.14.46:114][227]FAccountService::OnLoginChanged - LoggedIn 0
+[2019.06.22-11.14.46:115][227]LogOnlineParty: OSS: FOnlinePartySystemMcp::OnXmppLoginChanged - logged in user d0898ad861364d8bbff5849cfa938ea7
+[2019.06.22-11.14.46:115][227]LogOnlineIdentity: OSS: FOnlineIdentityMcp::OnXmppLoginChanged d0898ad861364d8bbff5849cfa938ea7:prod.ol.epicgames.com:V2:launcher:WIN::F72712EA4EB16192AE6C3583949DC947 loggedin
+[2019.06.22-11.14.46:142][228]FCommunityPortalManagerImpl: Change State CPManagerState_LoggingIn->CPManagerState_LaunchWebSession
+[2019.06.22-11.14.46:175][230]LogWebView: Messages loaded running callback
+[2019.06.22-11.14.46:175][230]LogWebView: setupJQueryValidateI18n
+[2019.06.22-11.14.46:175][230]LogWebView: ShowModal anon callback running
+[2019.06.22-11.14.46:175][230]LogWebView: buildModal
+[2019.06.22-11.14.46:175][230]LogWebView: creating modal overlay and dialog
+[2019.06.22-11.14.46:175][230]LogWebView: ajaxSuccessHandlerModal showModal callback running
+[2019.06.22-11.14.46:175][230]LogWebView: Calling a callback in ajaxSuccessHandlerModal
+[2019.06.22-11.14.46:191][231]LogWebView: loadI18N
+[2019.06.22-11.14.46:191][231]LogWebView: Messages already loaded
+[2019.06.22-11.14.46:373][242]FCommunityPortalManagerImpl: Change State CPManagerState_LaunchWebSession->CPManagerState_LaunchInfo
+[2019.06.22-11.14.48:229][352][MainRouter] GoToUrl('[epic_home]')
+[2019.06.22-11.14.48:229][352][MainRouter]    Resolved To: '/store/en-US/home'
+[2019.06.22-11.14.48:229][352][MainRouter]    Best Match: app
+[2019.06.22-11.14.48:242][352]FCommunityPortalManagerImpl: Change State CPManagerState_LaunchInfo->CPManagerState_Launch
+[2019.06.22-11.14.48:255][352]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.06.22-11.14.48:256][352][SignInRouter] GoToUrl('/null')
+[2019.06.22-11.14.48:256][352][SignInRouter]    Resolved To: '/null'
+[2019.06.22-11.14.48:256][352][SignInRouter]    Best Match: null
+[2019.06.22-11.14.48:262][352][SignInRouter]    Navigation Complete.
+[2019.06.22-11.14.50:780][502]LogWebView: Launcher Integration configured for Launcher
+[2019.06.22-11.14.50:780][502]LogWebView: Lower-casing object properties on root.ue
+[2019.06.22-11.14.50:848][506]LogWebView: Launcher Integration - Checking for purchase in progress
+[2019.06.22-11.14.51:269][530][MainRouter]    Navigation Complete.
+[2019.06.22-11.15.01:539][136][MainRouter] GoToUrl('com.epicgames.launcher://settings')
+[2019.06.22-11.15.01:539][136][MainRouter]    Resolved To: 'com.epicgames.launcher://settings'
+[2019.06.22-11.15.01:539][136][MainRouter]    Best Match: invalid - [22] states compared
+[2019.06.22-11.15.01:539][136][MainRouter]    Canceling in progress navigation. New command issued.
+[2019.06.22-11.15.01:539][136][MainRouter]    Navigation Canceled.
+[2019.06.22-11.15.01:539][136][MainRouter] GoToUrl('/store/en-US/product/fortnite/home')
+[2019.06.22-11.15.01:539][136][MainRouter]    Resolved To: '/store/en-US/product/fortnite/home'
+[2019.06.22-11.15.01:539][136][MainRouter]    Best Match: app
+[2019.06.22-11.15.01:539][136][MainRouter]    Navigation Stopped. Already at location.
+[2019.06.22-11.15.01:539][136][MainRouter]    Navigation Canceled.
+[2019.06.22-11.15.01:539][136][MainRouter] GoToUrl('/store/en-US/product/fortnite/home')
+[2019.06.22-11.15.01:539][136][MainRouter]    Resolved To: '/store/en-US/product/fortnite/home'
+[2019.06.22-11.15.01:539][136][MainRouter]    Best Match: app
+[2019.06.22-11.15.01:539][136][MainRouter]    Navigation Stopped. Already at location.
+[2019.06.22-11.15.01:539][136][MainRouter]    Navigation Canceled.
+[2019.06.22-11.15.01:539][136][MainRouter] GoToUrl('/settings')
+[2019.06.22-11.15.01:539][136][MainRouter]    Resolved To: '/settings'
+[2019.06.22-11.15.01:539][136][MainRouter]    Best Match: invalid - [22] states compared
+[2019.06.22-11.15.01:546][136][MainRouter]    Navigation Canceled.
+[2019.06.22-11.15.01:546][136][MainRouter]    Navigation Canceled.
+[2019.06.22-11.15.11:271][715]LogOnlineEula: Display: OSS: Starting EulaService::GetAgreement request for key fn user d0898ad861364d8bbff5849cfa938ea7
+[2019.06.22-11.15.12:085][764]LogOnlineEula: Display: OSS: EulaService::GetAgreement request complete. url=https://eulatracking-public-service-prod06.ol.epicgames.com/eulatracking/api/public/agreements/fn/account/d0898ad861364d8bbff5849cfa938ea7?locale=en-US code=204 key=fn responselength=0
+[2019.06.22-11.15.12:085][764]LogOnlineEula: Display: OSS: EulaService::GetAgreement user has already accepted the agreement fn (no content)
+[2019.06.22-11.15.31:366][731]DirectoryPreparation: Directory already setup
+[2019.06.22-11.15.31:467][737]FCommunityPortalPatcher: Change State Idle->Patching
+[2019.06.22-11.15.35:437][972]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../Content/Font/Lato-Regular.ttf' (118K)
+[2019.06.22-11.15.37:053][ 70]LogWebView: Loading widget js
+[2019.06.22-11.15.37:119][ 74]LogWebView: Loaded, running callback
+[2019.06.22-11.15.37:335][ 87]LogWebView: showModal
+[2019.06.22-11.15.37:335][ 87]LogWebView: loadI18N
+[2019.06.22-11.15.37:335][ 87]LogWebView: Messages not loaded, loading
+[2019.06.22-11.15.37:553][100]Manifest Check:   0x000002C694748A80   Version:   ++Fortnite+Release-9.30-CL-7095426-Windows   AppName:   Fortnite  CPP Line: 1664 Desc: QueueAppInstall::LatestManifest 
+[2019.06.22-11.15.37:553][100]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1665 Desc: QueueAppInstall::IncompleteInstallManifest 
+[2019.06.22-11.15.37:553][100]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1666 Desc: QueueAppInstall::InstalledManifest 
+[2019.06.22-11.15.37:558][100]Manifest Check:   0x000002C694748A80   Version:   ++Fortnite+Release-9.30-CL-7095426-Windows   AppName:   Fortnite  CPP Line: 1747 Desc: QueueAppInstall::LatestManifest 
+[2019.06.22-11.15.37:558][100]Manifest Check:   0x0000000000000000   Version:   NULL   AppName:   NoAppId  CPP Line: 1748 Desc: QueueAppInstall::IncompleteInstallManifest 
+[2019.06.22-11.15.37:563][100]LogPortal: Warning: No manifest location specified, falling back to install location. E:\Epic Games\Fortnite
+[2019.06.22-11.15.37:565][100]DirectoryPreparation: Directory already setup
+[2019.06.22-11.15.37:569][101]Manifest Check:   0x000002C6947C38A0   Version:   ++Fortnite+Release-9.30-CL-7095426-Windows   AppName:   Fortnite  CPAM Line: 1277 Desc: AddIncompleteInstallManifest 
+[2019.06.22-11.15.37:923][101]LogBuildPatchServices: Build Config: InstallerId: ABB1DB644D596A55F8B16EB1A916A851
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: ActionType: Install
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: CurrentManifest: NULL
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: InstallManifest: FortniteReleaseBuilds ++Fortnite+Release-9.30-CL-7095426-Windows (SjpiXf-KSTa8dgCSeITcCgmSix0)
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: InstallTags: 
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: InstallTags: chunk0
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: InstallTags: chunk1
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: InstallTags: chunk10
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: ValidTags: 
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: ValidTags: chunk0
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: ValidTags: chunk1
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: ValidTags: chunk10
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: ValidTags: chunk11
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: ValidTags: chunk2
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: ValidTags: chunk5
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: ValidTags: chunk7
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: ValidTags: chunk8
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: ValidTags: chunk9
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: InstallDirectory: E:\Epic Games\Fortnite
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: StagingDirectory: E:\Epic Games\Fortnite/.egstore/bps
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: BackupDirectory: 
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: CloudDirectories: http://download.epicgames.com/Builds/Fortnite/CloudDir
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: CloudDirectories: http://download2.epicgames.com/Builds/Fortnite/CloudDir
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: CloudDirectories: http://download3.epicgames.com/Builds/Fortnite/CloudDir
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: CloudDirectories: http://download4.epicgames.com/Builds/Fortnite/CloudDir
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: CloudDirectories: http://epicgames-download1.akamaized.net/Builds/Fortnite/CloudDir
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: InstallMode: EInstallMode::NonDestructiveInstall
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: VerifyMode: EVerifyMode::ShaVerifyTouchedFiles
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: DeltaPolicy: EDeltaPolicy::TryFetchContinueWithout
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: bRunRequiredPrereqs: false
+[2019.06.22-11.15.37:924][101]LogBuildPatchServices: Build Config: bAllowConcurrentExecution: false
+[2019.06.22-11.15.37:924][101]LogWebView: Messages loaded running callback
+[2019.06.22-11.15.37:924][101]LogWebView: setupJQueryValidateI18n
+[2019.06.22-11.15.37:924][101]LogWebView: ShowModal anon callback running
+[2019.06.22-11.15.37:924][101]LogWebView: buildModal
+[2019.06.22-11.15.37:924][101]LogWebView: creating modal overlay and dialog
+[2019.06.22-11.15.37:924][101]LogWebView: ajaxSuccessHandlerModal showModal callback running
+[2019.06.22-11.15.37:924][101]LogWebView: Already loaded, running callback
+[2019.06.22-11.15.37:932][101]LogWebView: loadI18N
+[2019.06.22-11.15.37:932][101]LogWebView: Messages already loaded
+[2019.06.22-11.15.38:076][102]LogBuildPatchServices: Starting Installation
+[2019.06.22-11.15.38:076][102]LogBuildPatchServices: Requiring 418 files
+[2019.06.22-11.15.38:076][102]BuildPatchResumeData file found: false
+[2019.06.22-11.15.38:210][111]LogWebView: DocumentReady()
+[2019.06.22-11.15.38:210][111]LogWebView: postJsBridgeInit()
+[2019.06.22-11.15.38:210][111]LogWebView: Requested lang: en-US
+[2019.06.22-11.15.38:210][111]LogWebView: preferredLanguages: en
+[2019.06.22-11.15.38:210][111]LogWebView: Messages loading from file ./i18_en.json
+[2019.06.22-11.15.45:923][543]LogSlate: Request Window 'Add Friend' being destroyed
+[2019.06.22-11.15.45:928][543]LogSlate: Window 'Add Friend' being destroyed
+[2019.06.22-11.26.06:681][723]LogHttp: Warning: 000002C6812FA4C0: request failed, libcurl error: 0 (No error)
+[2019.06.22-11.26.06:681][723]LogHttp: Warning: 000002C6812FA4C0: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-11.26.06:681][723]LogHttp: Warning: 000002C6812FA4C0: libcurl info message cache 1 (Re-using existing connection! (#42) with host download.epicgames.com)
+[2019.06.22-11.26.06:681][723]LogHttp: Warning: 000002C6812FA4C0: libcurl info message cache 2 (Connected to download.epicgames.com (52.84.162.232) port 80 (#42))
+[2019.06.22-11.26.06:681][723]LogHttp: Warning: 000002C6812FA4C0: libcurl info message cache 3 (Closing connection 42)
+[2019.06.22-11.32.40:764][554]LogHttp: Warning: 000002C6812F3440: request failed, libcurl error: 0 (No error)
+[2019.06.22-11.32.40:764][554]LogHttp: Warning: 000002C6812F3440: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-11.32.40:764][554]LogHttp: Warning: 000002C6812F3440: libcurl info message cache 1 (Re-using existing connection! (#37) with host download.epicgames.com)
+[2019.06.22-11.32.40:764][554]LogHttp: Warning: 000002C6812F3440: libcurl info message cache 2 (Connected to download.epicgames.com (52.84.162.232) port 80 (#37))
+[2019.06.22-11.32.40:764][554]LogHttp: Warning: 000002C6812F3440: libcurl info message cache 3 (Closing connection 37)
+[2019.06.22-11.33.50:676][654]LogHttp: Warning: 000002C6812F8F80: request failed, libcurl error: 0 (No error)
+[2019.06.22-11.33.50:676][654]LogHttp: Warning: 000002C6812F8F80: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-11.33.50:676][654]LogHttp: Warning: 000002C6812F8F80: libcurl info message cache 1 (Re-using existing connection! (#38) with host download.epicgames.com)
+[2019.06.22-11.33.50:676][654]LogHttp: Warning: 000002C6812F8F80: libcurl info message cache 2 (Connected to download.epicgames.com (52.84.162.232) port 80 (#38))
+[2019.06.22-11.33.50:676][654]LogHttp: Warning: 000002C6812F8F80: libcurl info message cache 3 (Closing connection 38)
+[2019.06.22-11.38.40:309][350]LogHttp: Warning: 000002C6812FDF80: request failed, libcurl error: 0 (No error)
+[2019.06.22-11.38.40:309][350]LogHttp: Warning: 000002C6812FDF80: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-11.38.40:309][350]LogHttp: Warning: 000002C6812FDF80: libcurl info message cache 1 (Re-using existing connection! (#36) with host download.epicgames.com)
+[2019.06.22-11.38.40:309][350]LogHttp: Warning: 000002C6812FDF80: libcurl info message cache 2 (Connected to download.epicgames.com (52.84.162.232) port 80 (#36))
+[2019.06.22-11.38.40:309][350]LogHttp: Warning: 000002C6812FDF80: libcurl info message cache 3 (Closing connection 36)
+[2019.06.22-11.39.10:804][265]LogHttp: Warning: 000002C6812F6C80: HTTP request timed out after 30.00 seconds URL=http://download2.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/00/0758F86016680901_7237913A40A1E7B5A4BCAEA660FEC5D0.chunk
+[2019.06.22-11.39.10:804][265]LogHttp: Warning: 000002C6812F6C80: request failed, libcurl error: 0 (No error)
+[2019.06.22-11.39.10:804][265]LogHttp: Warning: 000002C6812F6C80: libcurl info message cache 0 (Found bundle for host download2.epicgames.com: 0x2c6ff1b1780 [can pipeline])
+[2019.06.22-11.39.10:804][265]LogHttp: Warning: 000002C6812F6C80: libcurl info message cache 1 (Re-using existing connection! (#55) with host download2.epicgames.com)
+[2019.06.22-11.39.10:804][265]LogHttp: Warning: 000002C6812F6C80: libcurl info message cache 2 (Connected to download2.epicgames.com (143.204.11.37) port 80 (#55))
+[2019.06.22-11.39.10:804][265]LogHttp: Warning: 000002C6812F6C80: libcurl info message cache 3 (Closing connection 55)
+[2019.06.22-12.02.39:076][987]LogHttp: Warning: 000002C6812F63C0: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.02.39:076][987]LogHttp: Warning: 000002C6812F63C0: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-12.02.39:076][987]LogHttp: Warning: 000002C6812F63C0: libcurl info message cache 1 (Re-using existing connection! (#91) with host download.epicgames.com)
+[2019.06.22-12.02.39:076][987]LogHttp: Warning: 000002C6812F63C0: libcurl info message cache 2 (Connected to download.epicgames.com (143.204.11.37) port 80 (#91))
+[2019.06.22-12.02.39:076][987]LogHttp: Warning: 000002C6812F63C0: libcurl info message cache 3 (Closing connection 91)
+[2019.06.22-12.06.26:423][938]LogHttp: Warning: 000002C6812FFEC0: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.06.26:423][938]LogHttp: Warning: 000002C6812FFEC0: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-12.06.26:423][938]LogHttp: Warning: 000002C6812FFEC0: libcurl info message cache 1 (Re-using existing connection! (#75) with host download.epicgames.com)
+[2019.06.22-12.06.26:423][938]LogHttp: Warning: 000002C6812FFEC0: libcurl info message cache 2 (Connected to download.epicgames.com (143.204.11.37) port 80 (#75))
+[2019.06.22-12.06.26:423][938]LogHttp: Warning: 000002C6812FFEC0: libcurl info message cache 3 (Closing connection 75)
+[2019.06.22-12.06.41:926][443]LogHttp: Warning: 000002C6812FDF80: HTTP request timed out after 30.00 seconds URL=http://download.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/40/21DECCFBEEA51F21_38A751FE4524A6C3E02C54A999816472.chunk
+[2019.06.22-12.06.41:926][443]LogHttp: Warning: 000002C6812FDF80: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.06.41:926][443]LogHttp: Warning: 000002C6812FDF80: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-12.06.41:926][443]LogHttp: Warning: 000002C6812FDF80: libcurl info message cache 1 (Re-using existing connection! (#84) with host download.epicgames.com)
+[2019.06.22-12.06.41:926][443]LogHttp: Warning: 000002C6812FDF80: libcurl info message cache 2 (Connected to download.epicgames.com (143.204.11.37) port 80 (#84))
+[2019.06.22-12.06.41:926][443]LogHttp: Warning: 000002C6812FDF80: libcurl info message cache 3 (Closing connection 84)
+[2019.06.22-12.06.41:942][444]LogHttp: Warning: 000002C6812F2CC0: HTTP request timed out after 30.00 seconds URL=http://download.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/61/ADDC7A19BEB9499B_EFF302CA43B17F79CA4778BBBC89C116.chunk
+[2019.06.22-12.06.41:942][444]LogHttp: Warning: 000002C6812F2CC0: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.06.41:942][444]LogHttp: Warning: 000002C6812F2CC0: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-12.06.41:942][444]LogHttp: Warning: 000002C6812F2CC0: libcurl info message cache 1 (Re-using existing connection! (#83) with host download.epicgames.com)
+[2019.06.22-12.06.41:942][444]LogHttp: Warning: 000002C6812F2CC0: libcurl info message cache 2 (Connected to download.epicgames.com (143.204.11.37) port 80 (#83))
+[2019.06.22-12.06.41:942][444]LogHttp: Warning: 000002C6812F2CC0: libcurl info message cache 3 (Closing connection 83)
+[2019.06.22-12.06.42:209][460]LogHttp: Warning: 000002C6812F8940: HTTP request timed out after 30.00 seconds URL=http://download.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/80/AF11B6A6AABECE10_BA6D24E14EEEED53FC3ACC9D1FF51699.chunk
+[2019.06.22-12.06.42:227][461]LogHttp: Warning: 000002C6812F8940: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.06.42:227][461]LogHttp: Warning: 000002C6812F8940: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-12.06.42:227][461]LogHttp: Warning: 000002C6812F8940: libcurl info message cache 1 (Re-using existing connection! (#74) with host download.epicgames.com)
+[2019.06.22-12.06.42:227][461]LogHttp: Warning: 000002C6812F8940: libcurl info message cache 2 (Connected to download.epicgames.com (143.204.11.37) port 80 (#74))
+[2019.06.22-12.06.42:227][461]LogHttp: Warning: 000002C6812F8940: libcurl info message cache 3 (Closing connection 74)
+[2019.06.22-12.06.44:954][562]LogHttp: Warning: 000002C6812FDD00: HTTP request timed out after 30.00 seconds URL=http://download.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/05/6F44BA184B8A358E_C86919414CFF7687917F8F892EC730C7.chunk
+[2019.06.22-12.06.44:954][562]LogHttp: Warning: 000002C6812FDD00: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.06.44:954][562]LogHttp: Warning: 000002C6812FDD00: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-12.06.44:954][562]LogHttp: Warning: 000002C6812FDD00: libcurl info message cache 1 (Re-using existing connection! (#73) with host download.epicgames.com)
+[2019.06.22-12.06.44:954][562]LogHttp: Warning: 000002C6812FDD00: libcurl info message cache 2 (Connected to download.epicgames.com (143.204.11.37) port 80 (#73))
+[2019.06.22-12.06.44:954][562]LogHttp: Warning: 000002C6812FDD00: libcurl info message cache 3 (Closing connection 73)
+[2019.06.22-12.06.48:252][698]LogHttp: Warning: 000002C6812FD800: HTTP request timed out after 30.00 seconds URL=http://download.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/07/A39E96614CEC804F_D5CDF8CA4C1BF4F8A7CB8387B10E67F5.chunk
+[2019.06.22-12.06.48:252][698]LogHttp: Warning: 000002C6812FD800: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.06.48:252][698]LogHttp: Warning: 000002C6812FD800: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-12.06.48:252][698]LogHttp: Warning: 000002C6812FD800: libcurl info message cache 1 (Re-using existing connection! (#79) with host download.epicgames.com)
+[2019.06.22-12.06.48:252][698]LogHttp: Warning: 000002C6812FD800: libcurl info message cache 2 (Connected to download.epicgames.com (143.204.11.37) port 80 (#79))
+[2019.06.22-12.06.48:252][698]LogHttp: Warning: 000002C6812FD800: libcurl info message cache 3 (Closing connection 79)
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F2400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F2400: libcurl info message cache 0 (Found bundle for host download2.epicgames.com: 0x2c698928dd0 [can pipeline])
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F2400: libcurl info message cache 1 (Could not resolve host: download2.epicgames.com)
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F2400: libcurl info message cache 2 (Closing connection 117)
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F27C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F27C0: libcurl info message cache 0 (Found bundle for host download2.epicgames.com: 0x2c698928dd0 [can pipeline])
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F27C0: libcurl info message cache 1 (Could not resolve host: download2.epicgames.com)
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F27C0: libcurl info message cache 2 (Closing connection 119)
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F6500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F6500: libcurl info message cache 0 (Found bundle for host download2.epicgames.com: 0x2c698928dd0 [can pipeline])
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F6500: libcurl info message cache 1 (Could not resolve host: download2.epicgames.com)
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F6500: libcurl info message cache 2 (Closing connection 116)
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6E7FCB640: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6E7FCB640: libcurl info message cache 0 (Found bundle for host download2.epicgames.com: 0x2c698928dd0 [can pipeline])
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6E7FCB640: libcurl info message cache 1 (Could not resolve host: download2.epicgames.com)
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6E7FCB640: libcurl info message cache 2 (Closing connection 115)
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F7CC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F7CC0: libcurl info message cache 0 (Found bundle for host download2.epicgames.com: 0x2c698928dd0 [can pipeline])
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F7CC0: libcurl info message cache 1 (Could not resolve host: download2.epicgames.com)
+[2019.06.22-12.06.53:604][858]LogHttp: Warning: 000002C6812F7CC0: libcurl info message cache 2 (Closing connection 118)
+[2019.06.22-12.06.56:522][945]LogHttp: Warning: 000002C6812F9340: HTTP request timed out after 30.00 seconds URL=http://download.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/34/EA4105F1B7E351BF_60D79886400A7541647119963017AC3A.chunk
+[2019.06.22-12.06.56:555][946]LogHttp: Warning: 000002C6812F9340: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.06.56:555][946]LogHttp: Warning: 000002C6812F9340: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-12.06.56:555][946]LogHttp: Warning: 000002C6812F9340: libcurl info message cache 1 (Re-using existing connection! (#77) with host download.epicgames.com)
+[2019.06.22-12.06.56:555][946]LogHttp: Warning: 000002C6812F9340: libcurl info message cache 2 (Connected to download.epicgames.com (143.204.11.37) port 80 (#77))
+[2019.06.22-12.06.56:555][946]LogHttp: Warning: 000002C6812F9340: libcurl info message cache 3 (Closing connection 77)
+[2019.06.22-12.06.56:821][954]LogHttp: Warning: 000002C6812F31C0: HTTP request timed out after 30.00 seconds URL=http://download.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/06/29C8BE6EF7FF494A_6AA0F00E4BD323D8FF9E0698A1FFD04B.chunk
+[2019.06.22-12.06.56:821][954]LogHttp: Warning: 000002C6812F31C0: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.06.56:821][954]LogHttp: Warning: 000002C6812F31C0: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-12.06.56:821][954]LogHttp: Warning: 000002C6812F31C0: libcurl info message cache 1 (Re-using existing connection! (#82) with host download.epicgames.com)
+[2019.06.22-12.06.56:821][954]LogHttp: Warning: 000002C6812F31C0: libcurl info message cache 2 (Connected to download.epicgames.com (143.204.11.37) port 80 (#82))
+[2019.06.22-12.06.56:821][954]LogHttp: Warning: 000002C6812F31C0: libcurl info message cache 3 (Closing connection 82)
+[2019.06.22-12.06.56:954][958]LogHttp: Warning: 000002C6E7FCAEC0: HTTP request timed out after 30.00 seconds URL=http://download2.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/87/F0C244D8BDB6383E_981DE8844DCF2AA17F5DD39CA7602825.chunk
+[2019.06.22-12.06.56:954][958]LogHttp: Warning: 000002C6E7FCAEC0: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.06.56:954][958]LogHttp: Warning: 000002C6E7FCAEC0: libcurl info message cache 0 (Found bundle for host download2.epicgames.com: 0x2c698928dd0 [can pipeline])
+[2019.06.22-12.06.56:954][958]LogHttp: Warning: 000002C6E7FCAEC0: libcurl info message cache 1 (Re-using existing connection! (#109) with host download2.epicgames.com)
+[2019.06.22-12.06.56:954][958]LogHttp: Warning: 000002C6E7FCAEC0: libcurl info message cache 2 (Connected to download2.epicgames.com (143.204.11.37) port 80 (#109))
+[2019.06.22-12.06.56:954][958]LogHttp: Warning: 000002C6E7FCAEC0: libcurl info message cache 3 (Closing connection 109)
+[2019.06.22-12.07.04:915][331]LogHttp: Warning: 000002C6812FD080: HTTP request timed out after 30.00 seconds URL=http://download.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/32/C5BCE4E3361D3EE0_18B470F241AB2CAFF8FAE9956DB362C5.chunk
+[2019.06.22-12.07.04:915][331]LogHttp: Warning: 000002C6812FD080: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.07.04:915][331]LogHttp: Warning: 000002C6812FD080: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-12.07.04:915][331]LogHttp: Warning: 000002C6812FD080: libcurl info message cache 1 (Re-using existing connection! (#76) with host download.epicgames.com)
+[2019.06.22-12.07.04:915][331]LogHttp: Warning: 000002C6812FD080: libcurl info message cache 2 (Connected to download.epicgames.com (143.204.11.37) port 80 (#76))
+[2019.06.22-12.07.04:915][331]LogHttp: Warning: 000002C6812FD080: libcurl info message cache 3 (Closing connection 76)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FA880: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FA880: libcurl info message cache 0 (Found bundle for host download3.epicgames.com: 0x2c6f8c574e0 [serially])
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FA880: libcurl info message cache 1 (Hostname 'download3.epicgames.com' was found in DNS cache)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FA880: libcurl info message cache 2 (  Trying 143.204.11.37...)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FA880: libcurl info message cache 3 (TCP_NODELAY set)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FA880: libcurl info message cache 4 (connect to 143.204.11.37 port 80 failed: Timed out)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FA880: libcurl info message cache 5 (Failed to connect to download3.epicgames.com port 80: Timed out)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FA880: libcurl info message cache 6 (Closing connection 122)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FC540: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FC540: libcurl info message cache 0 (Connection 113 seems to be dead!)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FC540: libcurl info message cache 1 (Closing connection 113)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FC540: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FC540: libcurl info message cache 3 (  Trying 143.204.11.37...)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FC540: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FC540: libcurl info message cache 5 (connect to 143.204.11.37 port 80 failed: Timed out)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FC540: libcurl info message cache 6 (Failed to connect to download3.epicgames.com port 80: Timed out)
+[2019.06.22-12.07.23:918][473]LogHttp: Warning: 000002C6812FC540: libcurl info message cache 7 (Closing connection 120)
+[2019.06.22-12.07.26:616][635]LogHttp: Warning: 000002C6812FBDC0: HTTP request timed out after 30.00 seconds URL=http://download.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/49/3CEC8AAD3AA721AC_6C793AB0498772CD2DF01DA36301BED1.chunk
+[2019.06.22-12.07.26:616][635]LogHttp: Warning: 000002C6812FBDC0: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.07.26:617][635]LogHttp: Warning: 000002C6812FBDC0: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-12.07.26:617][635]LogHttp: Warning: 000002C6812FBDC0: libcurl info message cache 1 (Re-using existing connection! (#80) with host download.epicgames.com)
+[2019.06.22-12.07.26:617][635]LogHttp: Warning: 000002C6812FBDC0: libcurl info message cache 2 (Connected to download.epicgames.com (143.204.11.37) port 80 (#80))
+[2019.06.22-12.07.26:617][635]LogHttp: Warning: 000002C6812FBDC0: libcurl info message cache 3 (Closing connection 80)
+[2019.06.22-12.07.26:649][637]LogPortal: Error: FAlertReporter: Reporting Alert code: IS-0005
+[2019.06.22-12.07.26:649][637]LogAlertListener: No user messaging in AlertMessageRepository for: IS-0005
+[2019.06.22-12.07.27:364][680]LogHttp: Warning: 000002C6812FD440: HTTP request timed out after 30.00 seconds URL=http://download2.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/06/29C8BE6EF7FF494A_6AA0F00E4BD323D8FF9E0698A1FFD04B.chunk
+[2019.06.22-12.07.27:383][681]LogHttp: Warning: 000002C6812FD440: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.07.27:383][681]LogHttp: Warning: 000002C6812FD440: libcurl info message cache 0 (Found bundle for host download2.epicgames.com: 0x2c6ff1b3370 [serially])
+[2019.06.22-12.07.27:383][681]LogHttp: Warning: 000002C6812FD440: libcurl info message cache 1 (Hostname 'download2.epicgames.com' was found in DNS cache)
+[2019.06.22-12.07.27:383][681]LogHttp: Warning: 000002C6812FD440: libcurl info message cache 2 (  Trying 143.204.11.37...)
+[2019.06.22-12.07.27:383][681]LogHttp: Warning: 000002C6812FD440: libcurl info message cache 3 (TCP_NODELAY set)
+[2019.06.22-12.07.27:383][681]LogHttp: Warning: 000002C6812FD440: libcurl info message cache 4 (Closing connection 126)
+[2019.06.22-12.07.41:162][207]LogHttp: Warning: 000002C6812F4D40: HTTP request timed out after 30.00 seconds URL=http://download3.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/05/6F44BA184B8A358E_C86919414CFF7687917F8F892EC730C7.chunk
+[2019.06.22-12.07.41:194][208]LogHttp: Warning: 000002C6812F4D40: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.07.41:194][208]LogHttp: Warning: 000002C6812F4D40: libcurl info message cache 0 (Found bundle for host download3.epicgames.com: 0x2c6f8c574e0 [serially])
+[2019.06.22-12.07.41:194][208]LogHttp: Warning: 000002C6812F4D40: libcurl info message cache 1 (Hostname 'download3.epicgames.com' was found in DNS cache)
+[2019.06.22-12.07.41:194][208]LogHttp: Warning: 000002C6812F4D40: libcurl info message cache 2 (  Trying 143.204.11.37...)
+[2019.06.22-12.07.41:194][208]LogHttp: Warning: 000002C6812F4D40: libcurl info message cache 3 (TCP_NODELAY set)
+[2019.06.22-12.07.41:194][208]LogHttp: Warning: 000002C6812F4D40: libcurl info message cache 4 (Connected to download3.epicgames.com (143.204.11.37) port 80 (#124))
+[2019.06.22-12.07.41:194][208]LogHttp: Warning: 000002C6812F4D40: libcurl info message cache 5 (Closing connection 124)
+[2019.06.22-12.07.42:196][238]LogHttp: Warning: 000002C6812F3580: HTTP request timed out after 30.00 seconds URL=http://download3.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/87/F0C244D8BDB6383E_981DE8844DCF2AA17F5DD39CA7602825.chunk
+[2019.06.22-12.07.42:196][238]LogHttp: Warning: 000002C6812F3580: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.07.42:196][238]LogHttp: Warning: 000002C6812F3580: libcurl info message cache 0 (Found bundle for host download3.epicgames.com: 0x2c6f8c574e0 [serially])
+[2019.06.22-12.07.42:196][238]LogHttp: Warning: 000002C6812F3580: libcurl info message cache 1 (Hostname 'download3.epicgames.com' was found in DNS cache)
+[2019.06.22-12.07.42:196][238]LogHttp: Warning: 000002C6812F3580: libcurl info message cache 2 (  Trying 143.204.11.37...)
+[2019.06.22-12.07.42:196][238]LogHttp: Warning: 000002C6812F3580: libcurl info message cache 3 (TCP_NODELAY set)
+[2019.06.22-12.07.42:196][238]LogHttp: Warning: 000002C6812F3580: libcurl info message cache 4 (Connected to download3.epicgames.com (143.204.11.37) port 80 (#127))
+[2019.06.22-12.07.42:196][238]LogHttp: Warning: 000002C6812F3580: libcurl info message cache 5 (Closing connection 127)
+[2019.06.22-12.07.44:172][297]LogHttp: Warning: 000002C6812FA380: HTTP request timed out after 30.00 seconds URL=http://download3.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/07/A39E96614CEC804F_D5CDF8CA4C1BF4F8A7CB8387B10E67F5.chunk
+[2019.06.22-12.07.44:172][297]LogHttp: Warning: 000002C6812FA380: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.07.44:172][297]LogHttp: Warning: 000002C6812FA380: libcurl info message cache 0 (Found bundle for host download3.epicgames.com: 0x2c6f8c574e0 [serially])
+[2019.06.22-12.07.44:172][297]LogHttp: Warning: 000002C6812FA380: libcurl info message cache 1 (Hostname 'download3.epicgames.com' was found in DNS cache)
+[2019.06.22-12.07.44:172][297]LogHttp: Warning: 000002C6812FA380: libcurl info message cache 2 (  Trying 143.204.11.37...)
+[2019.06.22-12.07.44:172][297]LogHttp: Warning: 000002C6812FA380: libcurl info message cache 3 (TCP_NODELAY set)
+[2019.06.22-12.07.44:172][297]LogHttp: Warning: 000002C6812FA380: libcurl info message cache 4 (Connected to download3.epicgames.com (143.204.11.37) port 80 (#121))
+[2019.06.22-12.07.44:172][297]LogHttp: Warning: 000002C6812FA380: libcurl info message cache 5 (Closing connection 121)
+[2019.06.22-12.07.58:550][728]LogHttp: Warning: 000002C6812FDD00: HTTP request timed out after 30.00 seconds URL=http://download2.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/34/EA4105F1B7E351BF_60D79886400A7541647119963017AC3A.chunk
+[2019.06.22-12.07.58:550][728]LogHttp: Warning: 000002C6812FDD00: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.07.58:550][728]LogHttp: Warning: 000002C6812FDD00: libcurl info message cache 0 (  Trying 143.204.11.37...)
+[2019.06.22-12.07.58:550][728]LogHttp: Warning: 000002C6812FDD00: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.06.22-12.07.58:550][728]LogHttp: Warning: 000002C6812FDD00: libcurl info message cache 2 (Connected to download2.epicgames.com (143.204.11.37) port 80 (#125))
+[2019.06.22-12.07.58:550][728]LogHttp: Warning: 000002C6812FDD00: libcurl info message cache 3 (Closing connection 125)
+[2019.06.22-12.08.11:561][118]LogHttp: Warning: 000002C6812FEE80: HTTP request timed out after 30.00 seconds URL=http://download4.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/61/ADDC7A19BEB9499B_EFF302CA43B17F79CA4778BBBC89C116.chunk
+[2019.06.22-12.08.11:561][118]LogHttp: Warning: 000002C6812FEE80: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.08.11:561][118]LogHttp: Warning: 000002C6812FEE80: libcurl info message cache 0 (Found bundle for host download4.epicgames.com: 0x2c6ff1b8290 [serially])
+[2019.06.22-12.08.11:561][118]LogHttp: Warning: 000002C6812FEE80: libcurl info message cache 1 (Hostname 'download4.epicgames.com' was found in DNS cache)
+[2019.06.22-12.08.11:561][118]LogHttp: Warning: 000002C6812FEE80: libcurl info message cache 2 (  Trying 143.204.11.37...)
+[2019.06.22-12.08.11:561][118]LogHttp: Warning: 000002C6812FEE80: libcurl info message cache 3 (TCP_NODELAY set)
+[2019.06.22-12.08.11:561][118]LogHttp: Warning: 000002C6812FEE80: libcurl info message cache 4 (Connected to download4.epicgames.com (143.204.11.37) port 80 (#130))
+[2019.06.22-12.08.11:561][118]LogHttp: Warning: 000002C6812FEE80: libcurl info message cache 5 (Closing connection 130)
+[2019.06.22-12.08.15:241][228]LogHttp: Warning: 000002C6812F6780: HTTP request timed out after 30.00 seconds URL=http://download2.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/49/3CEC8AAD3AA721AC_6C793AB0498772CD2DF01DA36301BED1.chunk
+[2019.06.22-12.08.15:241][228]LogHttp: Warning: 000002C6812F6780: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.08.15:241][228]LogHttp: Warning: 000002C6812F6780: libcurl info message cache 0 (Found bundle for host download2.epicgames.com: 0x2c6ff1b3370 [serially])
+[2019.06.22-12.08.15:241][228]LogHttp: Warning: 000002C6812F6780: libcurl info message cache 1 (Hostname download2.epicgames.com was found in DNS cache)
+[2019.06.22-12.08.15:241][228]LogHttp: Warning: 000002C6812F6780: libcurl info message cache 2 (  Trying 143.204.11.37...)
+[2019.06.22-12.08.15:241][228]LogHttp: Warning: 000002C6812F6780: libcurl info message cache 3 (TCP_NODELAY set)
+[2019.06.22-12.08.15:241][228]LogHttp: Warning: 000002C6812F6780: libcurl info message cache 4 (Connected to download2.epicgames.com (143.204.11.37) port 80 (#132))
+[2019.06.22-12.08.15:241][228]LogHttp: Warning: 000002C6812F6780: libcurl info message cache 5 (Closing connection 132)
+[2019.06.22-12.08.16:042][252]LogHttp: Warning: 000002C6812F8300: HTTP request timed out after 30.00 seconds URL=http://download3.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/06/29C8BE6EF7FF494A_6AA0F00E4BD323D8FF9E0698A1FFD04B.chunk
+[2019.06.22-12.08.16:042][252]LogHttp: Warning: 000002C6812F8300: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.08.16:042][252]LogHttp: Warning: 000002C6812F8300: libcurl info message cache 0 (Found bundle for host download3.epicgames.com: 0x2c6f8c574e0 [serially])
+[2019.06.22-12.08.16:042][252]LogHttp: Warning: 000002C6812F8300: libcurl info message cache 1 (Hostname download3.epicgames.com was found in DNS cache)
+[2019.06.22-12.08.16:042][252]LogHttp: Warning: 000002C6812F8300: libcurl info message cache 2 (  Trying 143.204.11.37...)
+[2019.06.22-12.08.16:042][252]LogHttp: Warning: 000002C6812F8300: libcurl info message cache 3 (TCP_NODELAY set)
+[2019.06.22-12.08.16:042][252]LogHttp: Warning: 000002C6812F8300: libcurl info message cache 4 (Connected to download3.epicgames.com (143.204.11.37) port 80 (#133))
+[2019.06.22-12.08.16:042][252]LogHttp: Warning: 000002C6812F8300: libcurl info message cache 5 (Closing connection 133)
+[2019.06.22-12.08.50:692][179]LogHttp: Warning: 000002C6812FD800: HTTP request timed out after 30.00 seconds URL=http://download.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/82/F8F9F6354ADAC28F_ED7346884F3A5A5B248BE896A0774FFD.chunk
+[2019.06.22-12.08.50:692][179]LogHttp: Warning: 000002C6812FD800: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.08.50:692][179]LogHttp: Warning: 000002C6812FD800: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-12.08.50:692][179]LogHttp: Warning: 000002C6812FD800: libcurl info message cache 1 (Re-using existing connection! (#88) with host download.epicgames.com)
+[2019.06.22-12.08.50:692][179]LogHttp: Warning: 000002C6812FD800: libcurl info message cache 2 (Connected to download.epicgames.com (143.204.11.37) port 80 (#88))
+[2019.06.22-12.08.50:692][179]LogHttp: Warning: 000002C6812FD800: libcurl info message cache 3 (Closing connection 88)
+[2019.06.22-12.44.05:736][647]LogHttp: Warning: 000002C6812FB140: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.44.05:736][647]LogHttp: Warning: 000002C6812FB140: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-12.44.05:736][647]LogHttp: Warning: 000002C6812FB140: libcurl info message cache 1 (Re-using existing connection! (#185) with host download.epicgames.com)
+[2019.06.22-12.44.05:736][647]LogHttp: Warning: 000002C6812FB140: libcurl info message cache 2 (Connected to download.epicgames.com (143.204.11.37) port 80 (#185))
+[2019.06.22-12.44.05:736][647]LogHttp: Warning: 000002C6812FB140: libcurl info message cache 3 (Closing connection 185)
+[2019.06.22-12.44.36:270][ 37]LogHttp: Warning: 000002C6812F4200: HTTP request timed out after 30.00 seconds URL=http://download2.epicgames.com/Builds/Fortnite/CloudDir/ChunksV3/15/2638689C20AF9BA1_4566D31D4485F5B021B5F394D6ADC48D.chunk
+[2019.06.22-12.44.36:270][ 37]LogHttp: Warning: 000002C6812F4200: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.44.36:270][ 37]LogHttp: Warning: 000002C6812F4200: libcurl info message cache 0 (Found bundle for host download2.epicgames.com: 0x2c6ff1b3370 [can pipeline])
+[2019.06.22-12.44.36:270][ 37]LogHttp: Warning: 000002C6812F4200: libcurl info message cache 1 (Re-using existing connection! (#128) with host download2.epicgames.com)
+[2019.06.22-12.44.36:270][ 37]LogHttp: Warning: 000002C6812F4200: libcurl info message cache 2 (Connected to download2.epicgames.com (143.204.11.37) port 80 (#128))
+[2019.06.22-12.44.36:270][ 37]LogHttp: Warning: 000002C6812F4200: libcurl info message cache 3 (Closing connection 128)
+[2019.06.22-12.55.03:276][151]LogHttp: Warning: 000002C6812F27C0: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.55.03:276][151]LogHttp: Warning: 000002C6812F27C0: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-12.55.03:276][151]LogHttp: Warning: 000002C6812F27C0: libcurl info message cache 1 (Re-using existing connection! (#193) with host download.epicgames.com)
+[2019.06.22-12.55.03:276][151]LogHttp: Warning: 000002C6812F27C0: libcurl info message cache 2 (Connected to download.epicgames.com (143.204.11.37) port 80 (#193))
+[2019.06.22-12.55.03:276][151]LogHttp: Warning: 000002C6812F27C0: libcurl info message cache 3 (Closing connection 193)
+[2019.06.22-12.56.03:303][ 43]LogHttp: Warning: 000002C6812F9700: request failed, libcurl error: 0 (No error)
+[2019.06.22-12.56.03:303][ 43]LogHttp: Warning: 000002C6812F9700: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-12.56.03:303][ 43]LogHttp: Warning: 000002C6812F9700: libcurl info message cache 1 (Re-using existing connection! (#207) with host download.epicgames.com)
+[2019.06.22-12.56.03:303][ 43]LogHttp: Warning: 000002C6812F9700: libcurl info message cache 2 (Connected to download.epicgames.com (54.192.202.232) port 80 (#207))
+[2019.06.22-12.56.03:303][ 43]LogHttp: Warning: 000002C6812F9700: libcurl info message cache 3 (Closing connection 207)
+[2019.06.22-13.16.40:593][236]LogHttp: Warning: 000002C6812FE0C0: request failed, libcurl error: 0 (No error)
+[2019.06.22-13.16.40:593][236]LogHttp: Warning: 000002C6812FE0C0: libcurl info message cache 0 (Found bundle for host download.epicgames.com: 0x2c6ff23a090 [can pipeline])
+[2019.06.22-13.16.40:593][236]LogHttp: Warning: 000002C6812FE0C0: libcurl info message cache 1 (Re-using existing connection! (#265) with host download.epicgames.com)
+[2019.06.22-13.16.40:593][236]LogHttp: Warning: 000002C6812FE0C0: libcurl info message cache 2 (Connected to download.epicgames.com (54.192.202.232) port 80 (#265))
+[2019.06.22-13.16.40:593][236]LogHttp: Warning: 000002C6812FE0C0: libcurl info message cache 3 (Closing connection 265)
+[2019.06.22-13.21.43:568][371]LogBuildPatchServices: File construction complete
+[2019.06.22-13.21.43:583][372]LogBuildPatchServices: Staged install complete
+[2019.06.22-13.21.43:583][372]LogBuildPatchServices: Running backup and stage relocation
+[2019.06.22-13.21.43:665][377]LogBuildPatchServices: Create MM
+[2019.06.22-13.21.43:948][394]LogBuildPatchServices: Relocation complete 1
+[2019.06.22-13.21.43:948][394]LogBuildPatchServices: Verifying install
+[2019.06.22-13.27.20:553][661]LogBuildPatchServices: Verify stage complete 1
+[2019.06.22-13.27.20:553][661]LogBuildPatchServices: Deleting staging area.
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Reset MM.
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: InstallerId: ABB1DB644D596A55F8B16EB1A916A851
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumFilesInBuild: 418
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumFilesOutdated: 418
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumFilesToRemove: 0
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumChunksRequired: 46518
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: ChunksQueuedForDownload: 46518
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: ChunksLocallyAvailable: 0
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: ChunksInChunkDbs: 0
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumChunksDownloaded: 46518
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumChunksRecycled: 0
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumChunksReadFromChunkDbs: 0
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumFailedDownloads: 38
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumBadDownloads: 0
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumAbortedDownloads: 10
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumRecycleFailures: 0
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumChunksStoreBooted: 17
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumDriveStoreChunkLoads: 17
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumDriveStoreLoadFailures: 0
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumChunkDbChunksFailed: 0
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: TotalDownloadedData: 21947073007
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: ActiveRequestCountPeak : 25
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: AverageDownloadSpeed: 2,920,819.13 bytes (2.92 MB, 2.785 MiB) /sec
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: PeakDownloadSpeed: 4,656,840.953 bytes (4.656 MB, 4.44 MiB) /sec
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: TotalReadData: 49218113969
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: AverageDiskReadSpeed: 151,332,824.372 bytes (151.332 MB, 144.321 MiB) /sec
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: PeakDiskReadSpeed: 212,806,712.999 bytes (212.806 MB, 202.948 MiB) /sec
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: TotalWrittenData: 49218113969
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: AverageDiskWriteSpeed: 464,993,430.436 bytes (464.993 MB, 443.452 MiB) /sec
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: PeakDiskWriteSpeed: 534,194,248.798 bytes (534.194 MB, 509.447 MiB) /sec
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: NumFilesConstructed: 418
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: InitializeTime: 173 ms
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: TheoreticalDownloadTime: 2:05:14 hours
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: ConstructTime: 2:06:05 hours
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: MoveFromStageTime: 360 ms
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: FileAttributesTime: 12 ms
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: VerifyTime: 5:36 min
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: CleanUpTime: 194 ms
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: PrereqTime: 0 ms
+[2019.06.22-13.27.20:754][667]LogBuildPatchServices: Build Stat: ProcessPausedTime: 0 ms
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: ProcessActiveTime: 2:11:42 hours
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: ProcessExecuteTime: 2:11:42 hours
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: ProcessSuccess: TRUE
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: ErrorCode: OK
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: FailureReasonText: The operation was successful.
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: FailureType: SUCCESS
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: NumInstallRetries: 0
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: FinalProgressValue: 1.000000
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: OverallRequestSuccessRate: 0.999100
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: ExcellentDownloadHealthTime: 10:28 min
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: GoodDownloadHealthTime: 1:55:09 hours
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: OkDownloadHealthTime: 0 ms
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: PoorDownloadHealthTime: 241 ms
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: DisconnectedDownloadHealthTime: 27.5 sec
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: AverageMemoryStoreUse: 30.5
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: PeakMemoryStoreUse: 337
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: AverageMemoryStoreRetained: 19.7
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: PeakMemoryStoreRetained: 71
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: MemoryStoreSize: 336
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: ProcessRequiredDiskSpace: 49218113969
+[2019.06.22-13.27.20:755][667]LogBuildPatchServices: Build Stat: ProcessAvailableDiskSpace: 382708682752
+[2019.06.22-13.27.20:776][667]FCommunityPortalPatcher: Change State Patching->Success
+[2019.06.22-13.27.20:784][667]Manifest Check:   0x000002C6947C38A0   Version:   ++Fortnite+Release-9.30-CL-7095426-Windows   AppName:   Fortnite  CPAM Line: 1289 Desc: RemoveIncompleteInstallManifest 
+[2019.06.22-13.27.21:044][667]LogCommunityPortalAppManager: FCommunityPortalAppManagerImpl: NewManifest saved to C:/ProgramData/Epic/EpicGamesLauncher/Data/Manifests/4389D5024F801152212DE49B736CCBCD.item, E:\Epic Games\Fortnite/.egstore/4389D5024F801152212DE49B736CCBCD.manifest
+[2019.06.22-13.27.21:044][667]Manifest Check:   0x000002C6947C38A0   Version:   ++Fortnite+Release-9.30-CL-7095426-Windows   AppName:   Fortnite  CPAM Line: 2441 Desc: OnNewAppInstallation 
+[2019.06.22-13.27.21:208][668]FCommunityPortalPatcher: Change State Success->Idle
+[2019.06.22-13.37.35:844][224]FCommunityPortalManagerImpl::RequestDestroyMainWindowOverride
+[2019.06.22-13.37.35:857][224]LogSlate: Request Window 'Epic Games Launcher' being destroyed
+[2019.06.22-13.37.35:871][224]LogSlate: Window 'Epic Games Launcher' being destroyed
+[2019.06.22-13.37.36:055][224][MainRouter] RedirectToUrl('/null')
+[2019.06.22-13.37.36:055][224][MainRouter]    Resolved To: '/null'
+[2019.06.22-13.37.36:055][224][MainRouter]    Best Match: null
+[2019.06.22-13.37.36:060][224][MainRouter]    Navigation Complete.
+[2019.06.22-13.37.36:069][224]~SCommunityPortalMainImpl UEPVM:2
+[2019.06.22-13.37.36:088][224]Portal: Destroying User UI Layer
+[2019.06.22-13.37.36:120][224][MainRouter] RedirectToUrl('/null')
+[2019.06.22-13.37.36:120][224][MainRouter]    Resolved To: '/null'
+[2019.06.22-13.37.36:120][224][MainRouter]    Best Match: null
+[2019.06.22-13.37.36:120][224][MainRouter]    Navigation Stopped. Already at location.
+[2019.06.22-13.37.36:120][224][MainRouter]    Navigation Canceled.
+[2019.06.22-13.37.36:120][224][MainRouter] Refresh('/store/en-US/product/fortnite/home')
+[2019.06.22-13.37.36:120][224][MainRouter]    Best Match: invalid - [0] states compared
+[2019.06.22-13.37.36:120][224][MainRouter]    Navigation Canceled.
+[2019.06.22-13.37.36:126][224]Portal: Destroying User Presentation Layer
+[2019.06.22-13.37.36:132][224]FUnrealEnginePortalViewModelImple_ResetLauncherViewModel: LauncherViewModel is null
+[2019.06.22-13.37.36:133][224]FLauncherViewModelImple: Destroying LauncherViewModel
+[2019.06.22-13.37.36:140][224]Portal: Destroying App UI Layer
+[2019.06.22-13.37.36:140][224][SignInRouter] RedirectToUrl('/null')
+[2019.06.22-13.37.36:140][224][SignInRouter]    Resolved To: '/null'
+[2019.06.22-13.37.36:140][224][SignInRouter]    Best Match: null
+[2019.06.22-13.37.36:140][224][SignInRouter]    Navigation Stopped. Already at location.
+[2019.06.22-13.37.36:140][224][SignInRouter]    Navigation Canceled.
+[2019.06.22-13.37.36:140][224][SignInRouter] Refresh('/null')
+[2019.06.22-13.37.36:140][224][SignInRouter]    Best Match: invalid - [0] states compared
+[2019.06.22-13.37.36:140][224][SignInRouter]    Navigation Canceled.
+[2019.06.22-13.37.36:142][224]Portal: Destroying App Presentation Layer
+[2019.06.22-13.37.36:142][224]FCommunityPortalManagerImpl_SetUnrealEnginePortalViewModel: UnrealEnginePortalViewModel is null
+[2019.06.22-13.37.36:142][224]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:1
+[2019.06.22-13.37.36:142][224]~FPresentationImpl UEPVM:0
+[2019.06.22-13.37.36:151][224]LogSlate: Slate font cache was flushed
+[2019.06.22-14.34.34:040][850]LogSlate: Request Window '' being destroyed
+[2019.06.22-14.47.58:248][765]LogSlate: Request Window '' being destroyed
+[2019.06.22-14.47.58:314][767]Portal: Constructing App Presentation Layer
+[2019.06.22-14.47.58:325][767][SignInRouter] Refresh('/null')
+[2019.06.22-14.47.58:325][767][SignInRouter]    Best Match: invalid - [0] states compared
+[2019.06.22-14.47.58:325][767][SignInRouter]    Navigation Canceled.
+[2019.06.22-14.47.58:367][767]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:2
+[2019.06.22-14.47.58:368][767]Portal: Constructing App UI Layer
+[2019.06.22-14.47.58:372][767]Portal: Constructing User Presentation Layer
+[2019.06.22-14.47.58:438][767]FUnrealEnginePortalViewModelImple_UpdateLauncherViewModel: LauncherViewModel is valid
+[2019.06.22-14.47.58:438][767]Portal: Constructing User UI Layer
+[2019.06.22-14.47.58:457][767]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.06.22-14.47.58:516][767]~SCommunityPortalMainImpl UEPVM:2
+[2019.06.22-14.47.58:517][767]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.06.22-14.47.58:518][767][MainRouter] GoToUrl('[epic_home]')
+[2019.06.22-14.47.58:518][767][MainRouter]    Resolved To: '/store/en-US/home'
+[2019.06.22-14.47.58:518][767][MainRouter]    Best Match: app
+[2019.06.22-14.48.00:561][865]LogWebView: Launcher Integration configured for Launcher
+[2019.06.22-14.48.00:561][865]LogWebView: Lower-casing object properties on root.ue
+[2019.06.22-14.48.00:611][868]LogWebView: Launcher Integration - Checking for purchase in progress
+[2019.06.22-14.48.00:761][877]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-14.48.01:329][911][MainRouter]    Navigation Complete.
+[2019.06.22-14.48.04:989][130]LogTemp: UProductInfoJSBridge::LaunchWithOptions: Received fn-4fe75bbc5a674f4f9b356b5c90567da5-Fortnite-WEB_LAUNCH_FROM_PRODUCT_DETAILS_PAGE-
+[2019.06.22-14.48.05:038][131]LogOnlineEula: Display: OSS: Starting EulaService::GetAgreement request for key fn user d0898ad861364d8bbff5849cfa938ea7
+[2019.06.22-14.48.05:853][180]LogOnlineEula: Display: OSS: EulaService::GetAgreement request complete. url=https://eulatracking-public-service-prod06.ol.epicgames.com/eulatracking/api/public/agreements/fn/account/d0898ad861364d8bbff5849cfa938ea7?locale=en-US code=204 key=fn responselength=0
+[2019.06.22-14.48.05:853][180]LogOnlineEula: Display: OSS: EulaService::GetAgreement user has already accepted the agreement fn (no content)
+[2019.06.22-14.48.05:869][180]DEBUGSZ  old=0 new=1
+[2019.06.22-14.48.05:870][181]DEBUGSZ  old=1 new=2
+[2019.06.22-14.48.06:119][196]DEBUGSZ  old=2 new=3
+[2019.06.22-14.48.06:136][197]DEBUGSZ  old=3 new=6
+[2019.06.22-14.48.06:152][198]DEBUGSZ  old=6 new=7
+[2019.06.22-14.48.07:051][252]DEBUGSZ  old=7 new=8
+[2019.06.22-14.48.07:074][253]DEBUGSZ  old=8 new=9
+[2019.06.22-14.48.07:885][302]DEBUGSZ  old=9 new=10
+[2019.06.22-14.48.07:901][303]FCommunityPortalLaunchAppTask: Launching app 'E:/Epic Games/Fortnite/FortniteGame/Binaries/Win64/FortniteLauncher.exe' with commandline ' -AUTH_LOGIN=unused -AUTH_PASSWORD=a9ec0f53690045e99b8b5aac30054c87 -AUTH_TYPE=exchangecode -epicapp=Fortnite -epicenv=Prod -EpicPortal  -steamimportavailable -epicusername="GuguBre" -epicuserid=d0898ad861364d8bbff5849cfa938ea7 -epiclocale=en-US'
+[2019.06.22-14.48.25:996][855]LogSlate: Request Window 'Epic Games Launcher' being destroyed
+[2019.06.22-14.48.25:997][855]LogSlate: Window 'Epic Games Launcher' being destroyed
+[2019.06.22-14.48.26:003][855][MainRouter] RedirectToUrl('/null')
+[2019.06.22-14.48.26:003][855][MainRouter]    Resolved To: '/null'
+[2019.06.22-14.48.26:003][855][MainRouter]    Best Match: null
+[2019.06.22-14.48.26:003][855][MainRouter]    Navigation Complete.
+[2019.06.22-14.48.26:003][855]~SCommunityPortalMainImpl UEPVM:2
+[2019.06.22-14.48.26:004][855]Portal: Destroying User UI Layer
+[2019.06.22-14.48.26:004][855][MainRouter] RedirectToUrl('/null')
+[2019.06.22-14.48.26:004][855][MainRouter]    Resolved To: '/null'
+[2019.06.22-14.48.26:004][855][MainRouter]    Best Match: null
+[2019.06.22-14.48.26:004][855][MainRouter]    Navigation Stopped. Already at location.
+[2019.06.22-14.48.26:004][855][MainRouter]    Navigation Canceled.
+[2019.06.22-14.48.26:004][855][MainRouter] Refresh('/store/en-US/product/fortnite/home')
+[2019.06.22-14.48.26:004][855][MainRouter]    Best Match: invalid - [0] states compared
+[2019.06.22-14.48.26:004][855][MainRouter]    Navigation Canceled.
+[2019.06.22-14.48.26:004][855]Portal: Destroying User Presentation Layer
+[2019.06.22-14.48.26:004][855]FUnrealEnginePortalViewModelImple_ResetLauncherViewModel: LauncherViewModel is null
+[2019.06.22-14.48.26:004][855]FLauncherViewModelImple: Destroying LauncherViewModel
+[2019.06.22-14.48.26:006][855]Portal: Destroying App UI Layer
+[2019.06.22-14.48.26:006][855][SignInRouter] RedirectToUrl('/null')
+[2019.06.22-14.48.26:006][855][SignInRouter]    Resolved To: '/null'
+[2019.06.22-14.48.26:006][855][SignInRouter]    Best Match: null
+[2019.06.22-14.48.26:006][855][SignInRouter]    Navigation Complete.
+[2019.06.22-14.48.26:006][855][SignInRouter] Refresh('/null')
+[2019.06.22-14.48.26:006][855][SignInRouter]    Best Match: invalid - [0] states compared
+[2019.06.22-14.48.26:006][855][SignInRouter]    Navigation Canceled.
+[2019.06.22-14.48.26:006][855]Portal: Destroying App Presentation Layer
+[2019.06.22-14.48.26:006][855]FCommunityPortalManagerImpl_SetUnrealEnginePortalViewModel: UnrealEnginePortalViewModel is null
+[2019.06.22-14.48.26:006][855]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:1
+[2019.06.22-14.48.26:006][855]~FPresentationImpl UEPVM:0
+[2019.06.22-14.48.26:007][855]LogSlate: Slate font cache was flushed
+[2019.06.22-15.17.52:776][490]LogEmsContentProvider: Content build response ++Portal+Main+prod-CL-7074822-Windows.
+[2019.06.22-15.17.52:776][490]LogEmsContentProvider: Waiting for next version update.
+[2019.06.22-15.17.52:776][490]LogSelfUpdateService: Launcher build response 10.2.4-7100722+++Portal+Release-Live-Windows.
+[2019.06.22-15.17.52:776][490]LogSelfUpdateService: Launcher is up-to-date with the latest available version.
+[2019.06.22-15.17.52:776][490]LogSelfUpdateService: Waiting for next version update.
+[2019.06.22-15.34.24:621][ 21]Portal: Constructing App Presentation Layer
+[2019.06.22-15.34.24:621][ 21][SignInRouter] Refresh('/null')
+[2019.06.22-15.34.24:621][ 21][SignInRouter]    Best Match: invalid - [0] states compared
+[2019.06.22-15.34.24:621][ 21][SignInRouter]    Navigation Canceled.
+[2019.06.22-15.34.24:626][ 21]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:2
+[2019.06.22-15.34.24:626][ 21]Portal: Constructing App UI Layer
+[2019.06.22-15.34.24:627][ 21]Portal: Constructing User Presentation Layer
+[2019.06.22-15.34.24:646][ 21]FUnrealEnginePortalViewModelImple_UpdateLauncherViewModel: LauncherViewModel is valid
+[2019.06.22-15.34.24:646][ 21]Portal: Constructing User UI Layer
+[2019.06.22-15.34.24:650][ 21]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.06.22-15.34.24:715][ 21]~SCommunityPortalMainImpl UEPVM:2
+[2019.06.22-15.34.24:717][ 21]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.06.22-15.34.24:717][ 21][MainRouter] GoToUrl('[epic_home]')
+[2019.06.22-15.34.24:717][ 21][MainRouter]    Resolved To: '/store/en-US/home'
+[2019.06.22-15.34.24:717][ 21][MainRouter]    Best Match: app
+[2019.06.22-15.34.26:328][ 67]LogWebView: Launcher Integration configured for Launcher
+[2019.06.22-15.34.26:328][ 67]LogWebView: Lower-casing object properties on root.ue
+[2019.06.22-15.34.26:394][ 69]LogWebView: Launcher Integration - Checking for purchase in progress
+[2019.06.22-15.34.26:527][ 73]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.34.26:527][ 73]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.34.26:892][ 84][MainRouter]    Navigation Complete.
+[2019.06.22-15.34.41:245][514]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.35.04:787][219]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.36.41:657][124]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.37.16:542][178]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.38.17:555][ 22]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.38.41:135][735]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.39.12:025][669]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.39.52:395][889]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.40.02:827][204]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.40.41:570][375]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.42.00:327][755]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.42.16:745][251]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.42.48:200][202]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.44.33:280][377]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.44.55:124][ 37]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.45.49:348][676]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.46.01:661][ 48]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.46.15:526][467]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.46.36:844][111]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.47.02:352][881]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.47.33:888][833]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.47.43:729][130]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.48.06:172][808]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.48.26:668][427]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.49.13:069][828]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.49.23:434][141]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.49.59:156][220]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.50.03:001][336]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.50.16:260][736]LogWebView: message code not found. code: %s; fallback: %s
+[2019.06.22-15.51.11:891][468]FCommunityPortalManagerImpl::RequestDestroyMainWindowOverride
+[2019.06.22-15.51.11:891][468]LogSlate: Request Window 'Epic Games Launcher' being destroyed
+[2019.06.22-15.51.11:891][468]LogSlate: Window 'Epic Games Launcher' being destroyed
+[2019.06.22-15.51.11:904][468][MainRouter] RedirectToUrl('/null')
+[2019.06.22-15.51.11:904][468][MainRouter]    Resolved To: '/null'
+[2019.06.22-15.51.11:904][468][MainRouter]    Best Match: null
+[2019.06.22-15.51.11:904][468][MainRouter]    Navigation Complete.
+[2019.06.22-15.51.11:905][468]~SCommunityPortalMainImpl UEPVM:2
+[2019.06.22-15.51.11:906][468]Portal: Destroying User UI Layer
+[2019.06.22-15.51.11:906][468][MainRouter] RedirectToUrl('/null')
+[2019.06.22-15.51.11:906][468][MainRouter]    Resolved To: '/null'
+[2019.06.22-15.51.11:906][468][MainRouter]    Best Match: null
+[2019.06.22-15.51.11:906][468][MainRouter]    Navigation Stopped. Already at location.
+[2019.06.22-15.51.11:906][468][MainRouter]    Navigation Canceled.
+[2019.06.22-15.51.11:907][468][MainRouter] Refresh('/store/en-US/home')
+[2019.06.22-15.51.11:907][468][MainRouter]    Best Match: invalid - [0] states compared
+[2019.06.22-15.51.11:907][468][MainRouter]    Navigation Canceled.
+[2019.06.22-15.51.11:907][468]Portal: Destroying User Presentation Layer
+[2019.06.22-15.51.11:907][468]FUnrealEnginePortalViewModelImple_ResetLauncherViewModel: LauncherViewModel is null
+[2019.06.22-15.51.11:907][468]FLauncherViewModelImple: Destroying LauncherViewModel
+[2019.06.22-15.51.11:910][468]Portal: Destroying App UI Layer
+[2019.06.22-15.51.11:910][468][SignInRouter] RedirectToUrl('/null')
+[2019.06.22-15.51.11:910][468][SignInRouter]    Resolved To: '/null'
+[2019.06.22-15.51.11:910][468][SignInRouter]    Best Match: null
+[2019.06.22-15.51.11:910][468][SignInRouter]    Navigation Complete.
+[2019.06.22-15.51.11:910][468][SignInRouter] Refresh('/null')
+[2019.06.22-15.51.11:910][468][SignInRouter]    Best Match: invalid - [0] states compared
+[2019.06.22-15.51.11:910][468][SignInRouter]    Navigation Canceled.
+[2019.06.22-15.51.11:911][468]Portal: Destroying App Presentation Layer
+[2019.06.22-15.51.11:911][468]FCommunityPortalManagerImpl_SetUnrealEnginePortalViewModel: UnrealEnginePortalViewModel is null
+[2019.06.22-15.51.11:911][468]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:1
+[2019.06.22-15.51.11:911][468]~FPresentationImpl UEPVM:0
+[2019.06.22-15.51.11:911][468]LogSlate: Slate font cache was flushed
+[2019.06.22-15.51.14:726][568]Portal: Constructing App Presentation Layer
+[2019.06.22-15.51.14:726][568][SignInRouter] Refresh('/null')
+[2019.06.22-15.51.14:726][568][SignInRouter]    Best Match: invalid - [0] states compared
+[2019.06.22-15.51.14:726][568][SignInRouter]    Navigation Canceled.
+[2019.06.22-15.51.14:752][568]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:2
+[2019.06.22-15.51.14:752][568]Portal: Constructing App UI Layer
+[2019.06.22-15.51.14:752][568]Portal: Constructing User Presentation Layer
+[2019.06.22-15.51.14:829][568]FUnrealEnginePortalViewModelImple_UpdateLauncherViewModel: LauncherViewModel is valid
+[2019.06.22-15.51.14:829][568]Portal: Constructing User UI Layer
+[2019.06.22-15.51.14:832][568]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.06.22-15.51.14:841][568]LogSlate: Request Window '' being destroyed
+[2019.06.22-15.51.14:842][568]LogSlate: Request Window '' being destroyed
+[2019.06.22-15.51.14:896][568]~SCommunityPortalMainImpl UEPVM:2
+[2019.06.22-15.51.14:898][568]SCommunityPortalMainImpl::Construct UEPVM:4
+[2019.06.22-15.51.14:899][568][MainRouter] GoToUrl('[epic_home]')
+[2019.06.22-15.51.14:899][568][MainRouter]    Resolved To: '/store/en-US/home'
+[2019.06.22-15.51.14:899][568][MainRouter]    Best Match: app
+[2019.06.22-15.51.14:908][568]FCommunityPortalManagerImpl::RequestExit
+[2019.06.22-15.51.14:908][568]FCommunityPortalManagerImpl: Change State CPManagerState_Launch->CPManagerState_PreShutdownCleanup
+[2019.06.22-15.51.14:942][568]LogSlate: Request Window 'Epic Games Launcher' being destroyed
+[2019.06.22-15.51.14:943][568]LogSlate: Window 'Epic Games Launcher' being destroyed
+[2019.06.22-15.51.14:953][569]FCommunityPortalManagerImpl: Change State CPManagerState_PreShutdownCleanup->CPManagerState_Shutdown
+[2019.06.22-15.51.14:953][569]FUnrealEnginePortalViewModelImple_ResetLauncherViewModel: LauncherViewModel is null
+[2019.06.22-15.51.14:986][569]FApplicationImpl::Run Main loop exit. GC_Try:-0.044526 GC_Time:0.000000 GC_Skip:0
+[2019.06.22-15.51.14:989][569]Portal: Destroying User UI Layer
+[2019.06.22-15.51.14:989][569][MainRouter]    Canceling in progress navigation. New command issued.
+[2019.06.22-15.51.14:997][569][MainRouter]    Navigation Canceled.
+[2019.06.22-15.51.14:997][569][MainRouter] RedirectToUrl('/null')
+[2019.06.22-15.51.14:997][569][MainRouter]    Resolved To: '/null'
+[2019.06.22-15.51.14:997][569][MainRouter]    Best Match: null
+[2019.06.22-15.51.14:997][569]~SCommunityPortalMainImpl UEPVM:2
+[2019.06.22-15.51.14:997][569][MainRouter]    Navigation Complete.
+[2019.06.22-15.51.14:997][569][MainRouter] Refresh('/store/en-US/home')
+[2019.06.22-15.51.14:997][569][MainRouter]    Best Match: invalid - [0] states compared
+[2019.06.22-15.51.14:997][569][MainRouter]    Navigation Canceled.
+[2019.06.22-15.51.14:997][569]Portal: Destroying User Presentation Layer
+[2019.06.22-15.51.14:997][569]FLauncherViewModelImple: Destroying LauncherViewModel
+[2019.06.22-15.51.15:002][569]Portal: Destroying User Domain Layer
+[2019.06.22-15.51.15:026][569]Portal: Destroying User Data Access Layer
+[2019.06.22-15.51.15:026][569]Portal: Destroying App UI Layer
+[2019.06.22-15.51.15:026][569][SignInRouter] RedirectToUrl('/null')
+[2019.06.22-15.51.15:026][569][SignInRouter]    Resolved To: '/null'
+[2019.06.22-15.51.15:026][569][SignInRouter]    Best Match: null
+[2019.06.22-15.51.15:026][569][SignInRouter]    Navigation Complete.
+[2019.06.22-15.51.15:026][569][SignInRouter] Refresh('/null')
+[2019.06.22-15.51.15:026][569][SignInRouter]    Best Match: invalid - [0] states compared
+[2019.06.22-15.51.15:026][569][SignInRouter]    Navigation Canceled.
+[2019.06.22-15.51.15:026][569]Portal: Destroying App Presentation Layer
+[2019.06.22-15.51.15:026][569]FCommunityPortalManagerImpl_SetUnrealEnginePortalViewModel: UnrealEnginePortalViewModel is null
+[2019.06.22-15.51.15:026][569]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:1
+[2019.06.22-15.51.15:026][569]~FPresentationImpl UEPVM:0
+[2019.06.22-15.51.15:040][569]Portal: Destroying App Domain Layer
+[2019.06.22-15.51.15:044][569]Portal: Destroying App Data Access Layer
+[2019.06.22-15.51.15:056][569]LogSlate: Request Window '' being destroyed
+[2019.06.22-15.51.15:061][569]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.22-15.51.15:062][569]LogExit: Preparing to exit.
+[2019.06.22-15.51.15:112][569]LogExit: Object subsystem successfully closed.
+[2019.06.22-15.51.15:116][569]BuildPatchServicesModule: Shutting Down
+[2019.06.22-15.51.15:116][569]VeryVerbose: BuildPatchServicesModule: Removing Ticker
+[2019.06.22-15.51.15:116][569]VeryVerbose: BuildPatchServicesModule: Finished shutting down
+[2019.06.22-15.51.15:220][569]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2019.06.22-15.51.15:220][569]LogModuleManager: Shutting down and abandoning module WidgetCarousel (46)
+[2019.06.22-15.51.15:220][569]LogModuleManager: Shutting down and abandoning module PortalUI (44)
+[2019.06.22-15.51.15:220][569]LogModuleManager: Shutting down and abandoning module PortalPresentation (42)
+[2019.06.22-15.51.15:220][569]LogModuleManager: Shutting down and abandoning module PortalDomain (38)
+[2019.06.22-15.51.15:220][569]LogModuleManager: Shutting down and abandoning module PortalDataAccess (36)
+[2019.06.22-15.51.15:220][569]LogModuleManager: Shutting down and abandoning module HardwareSurvey (34)
+[2019.06.22-15.51.15:220][569]LogModuleManager: Shutting down and abandoning module AutomationDriver (28)
+[2019.06.22-15.51.15:220][569]LogModuleManager: Shutting down and abandoning module ImageWrapper (26)
+[2019.06.22-15.51.15:220][569]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2019.06.22-15.51.15:220][569]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (22)
+[2019.06.22-15.51.15:220][569]LogModuleManager: Shutting down and abandoning module WebBrowser (20)
+[2019.06.22-15.51.15:480][569]LogModuleManager: Shutting down and abandoning module AnalyticsET (18)
+[2019.06.22-15.51.15:480][569]LogModuleManager: Shutting down and abandoning module XMPP (13)
+[2019.06.22-15.51.15:487][569]LogModuleManager: Shutting down and abandoning module WebSockets (12)
+[2019.06.22-15.51.15:494][569]LogModuleManager: Shutting down and abandoning module HTTP (9)
+[2019.06.22-15.51.15:996][569]LogHttp: Warning: 000002C6E7FCB140: request failed, libcurl error: 35 (SSL connect error)
+[2019.06.22-15.51.15:996][569]LogHttp: Warning: 000002C6E7FCB140: libcurl info message cache 0 (  Trying 54.83.253.86...)
+[2019.06.22-15.51.15:996][569]LogHttp: Warning: 000002C6E7FCB140: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.06.22-15.51.15:996][569]LogHttp: Warning: 000002C6E7FCB140: libcurl info message cache 2 (Connected to account-public-service-prod03.ol.epicgames.com (54.83.253.86) port 443 (#402))
+[2019.06.22-15.51.15:996][569]LogHttp: Warning: 000002C6E7FCB140: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2019.06.22-15.51.15:996][569]LogHttp: Warning: 000002C6E7FCB140: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.22-15.51.15:996][569]LogHttp: Warning: 000002C6E7FCB140: libcurl info message cache 5 (SSL re-using session ID)
+[2019.06.22-15.51.15:996][569]LogHttp: Warning: 000002C6E7FCB140: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.22-15.51.15:996][569]LogHttp: Warning: 000002C6E7FCB140: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2019.06.22-15.51.15:996][569]LogHttp: Warning: 000002C6E7FCB140: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.06.22-15.51.15:996][569]LogHttp: Warning: 000002C6E7FCB140: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2019.06.22-15.51.15:996][569]LogHttp: Warning: 000002C6E7FCB140: libcurl info message cache 10 (error:0D0C50A1:lib(13):func(197):reason(161))
+[2019.06.22-15.51.15:996][569]LogHttp: Warning: 000002C6E7FCB140: libcurl info message cache 11 (Closing connection 402)
+[2019.06.22-15.51.15:996][569]LogHttp: Warning: 000002C6E7FCB140: libcurl info message cache 12 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.06.22-15.51.16:000][569]LogModuleManager: Shutting down and abandoning module SSL (8)
+[2019.06.22-15.51.16:001][569]LogModuleManager: Shutting down and abandoning module CoreUObject (4)
+[2019.06.22-15.51.16:001][569]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2019.06.22-15.51.16:002][569]LogExit: Exiting.
+[2019.06.22-15.51.16:005][569]Log file closed, 06/22/19 17:51:16

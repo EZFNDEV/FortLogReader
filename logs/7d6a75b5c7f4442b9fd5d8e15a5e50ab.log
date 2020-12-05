@@ -1,0 +1,183 @@
+Log file open, 05/08/18 12:43:36
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/FortniteGame-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/FortniteGame-WindowsClient.pak.
+LogPlatformFile: Not using cached read wrapper
+LogInit: RandInit(-253884461) SRandInit(-253884461).
+LogTaskGraph: Started task graph with 4 named threads and 34 total threads with 3 sets of task threads.
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin AESHandlerComponent
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin BlueprintContext
+LogPluginManager: Mounting plugin CommonUI
+LogPluginManager: Mounting plugin DiscordRPC
+LogPluginManager: Mounting plugin EarlyStartupPatcher
+LogPluginManager: Found config from plugin[EarlyStartupPatcher] C:/Users/H4CK3RM4N/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini
+LogPluginManager: Found config from plugin[EarlyStartupPatcher] C:/Users/H4CK3RM4N/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Game.ini
+LogPluginManager: Mounting plugin EpicCMS
+LogPluginManager: Mounting plugin EpicCMSUIFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemMcp
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin Gauntlet
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin LogitechLED
+LogPluginManager: Mounting plugin MatchmakingService
+LogPluginManager: Mounting plugin NetUI
+LogPluginManager: Mounting plugin NVIDIAGfeSDK
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystemLiveServer
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemPS4Server
+LogPluginManager: Mounting plugin OnlineSubsystemTwitch
+LogPluginManager: Mounting plugin Oodle
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PurchaseFlow
+LogPluginManager: Mounting plugin RazerChroma
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SIP
+LogPluginManager: Mounting plugin Social
+LogPluginManager: Mounting plugin SubtitlesWidgets
+LogPluginManager: Mounting plugin SubtitlesWidgetsEditor
+LogPluginManager: Mounting plugin UAC
+LogPluginManager: Mounting plugin UACBase
+LogPluginManager: Mounting plugin WinDualShock
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin RemoteSession
+LogPluginManager: Mounting plugin EpicGameplayStats
+LogPluginManager: Mounting plugin OnlineGameplayFramework
+LogPluginManager: Mounting plugin HTTPChunkInstaller
+LogPluginManager: Mounting plugin Vivox
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AndroidPermission
+LogStreaming: Display: Took  0.070s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogTemp: Using NVIDIAGfeSDKPlugin version 1.0.0
+LogInit: Build: ++Fortnite+Release-4.1-CL-4053532
+LogInit: Engine Version: 4.20.0-4053532+++Fortnite+Release-4.1
+LogInit: Compatible Engine Version: 4.20.0-4053532+++Fortnite+Release-4.1
+LogInit: Net CL: 4047718
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 770
+LogInit: Compiled (64-bit): May  4 2018 20:23:23
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Fortnite+Release-4.1
+LogInit: Filtered Command Line: -nobe
+LogInit: Base Directory: E:/Program Files/Epic Games/Fortnite/FortniteGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: false, Async Loading Thread: true, Async Post Load: true
+LogInit: Object subsystem initialized
+LogFortMemory: AppInit - CPU:331.49MB (Peak: 331.49MB)
+[2018.05.08-16.43.36:842][  0]LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2018.05.08-16.43.36:842][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsClient]
+[2018.05.08-16.43.36:843][  0]LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2018.05.08-16.43.36:843][  0]LogInit: Computer: MARIO-PC
+[2018.05.08-16.43.36:843][  0]LogInit: User: MárioGarcia
+[2018.05.08-16.43.36:843][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.05.08-16.43.36:843][  0]LogInit: High frequency timer resolution =3.609371 MHz
+[2018.05.08-16.43.36:846][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.08-16.43.36:846][  0]LogMemory: Platform Memory Stats for WindowsClient
+[2018.05.08-16.43.36:846][  0]LogMemory: Process Physical Memory: 332.71 MB used, 332.71 MB peak
+[2018.05.08-16.43.36:846][  0]LogMemory: Process Virtual Memory: 362.78 MB used, 362.78 MB peak
+[2018.05.08-16.43.36:846][  0]LogMemory: Physical Memory: 5113.51 MB used,  11205.04 MB free, 16318.54 MB total
+[2018.05.08-16.43.36:846][  0]LogMemory: Virtual Memory: 546.48 MB used,  11205.04 MB free, 134217728.00 MB total
+[2018.05.08-16.43.37:322][  0]LogInit: Using OS detected language (pt-BR).
+[2018.05.08-16.43.37:322][  0]LogInit: Using OS detected locale (pt-BR).
+[2018.05.08-16.43.37:322][  0]LogPaths: Warning: No paths for game localization data were specifed in the game configuration.
+[2018.05.08-16.43.37:345][  0]LogTextLocalizationResource: LocRes 'E:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/pt-BR/OnlineGameplayFramework.locres' failed the magic number check! Assuming this is a legacy resource (please re-generate your localization resources!)
+[2018.05.08-16.43.37:346][  0]LogTextLocalizationResource: LocRes 'E:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/Runtime/HTTPChunkInstaller/Content/Localization/HTTPChunkInstaller/pt-BR/HTTPChunkInstaller.locres' failed the magic number check! Assuming this is a legacy resource (please re-generate your localization resources!)
+[2018.05.08-16.43.37:354][  0]LogStreaming: Display: Took  0.033s to InitEngineTextLocalization.
+[2018.05.08-16.43.37:438][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.08-16.43.37:438][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.08-16.43.37:451][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.08-16.43.37:831][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 770' (Feature Level 11_0)
+[2018.05.08-16.43.37:831][  0]LogD3D11RHI:       2007/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.08-16.43.37:886][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.08-16.43.37:886][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.08-16.43.37:886][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.08-16.43.37:896][  0]LogStreaming: Display: Suspending async loading (1)
+[2018.05.08-16.43.37:904][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.08-16.43.37:904][  0]LogD3D11RHI:     GPU DeviceId: 0x1184 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.08-16.43.37:904][  0]LogWindows: EnumDisplayDevices:
+[2018.05.08-16.43.37:904][  0]LogWindows:    0. 'NVIDIA GeForce GTX 770' (P:1 D:1)
+[2018.05.08-16.43.37:904][  0]LogWindows:    1. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2018.05.08-16.43.37:904][  0]LogWindows:    2. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2018.05.08-16.43.37:905][  0]LogWindows:    3. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2018.05.08-16.43.37:905][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.05.08-16.43.37:905][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 770
+[2018.05.08-16.43.37:905][  0]LogD3D11RHI:   Driver Version: 390.77 (internal:23.21.13.9077, unified:390.77)
+[2018.05.08-16.43.37:905][  0]LogD3D11RHI:      Driver Date: 1-23-2018
+[2018.05.08-16.43.38:139][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.08-16.43.38:197][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.08-16.43.38:245][  0]LogStreaming: Display: Resuming async loading (0)
+[2018.05.08-16.43.38:249][  0]LogShaderLibrary: Display: Using ../../../FortniteGame/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 1163 unique shaders.
+[2018.05.08-16.43.38:249][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2018.05.08-16.43.38:249][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EarlyStartupPatcher and no native library supported.
+[2018.05.08-16.43.38:249][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EarlyStartupPatcher_SC and no native library supported.
+[2018.05.08-16.43.38:249][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EarlyStartupPatcher and no native library supported.
+[2018.05.08-16.43.38:249][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EarlyStartupPatcher_SC and no native library supported.
+[2018.05.08-16.43.38:249][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI and no native library supported.
+[2018.05.08-16.43.38:249][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI_SC and no native library supported.
+[2018.05.08-16.43.38:249][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI and no native library supported.
+[2018.05.08-16.43.38:249][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI_SC and no native library supported.
+[2018.05.08-16.43.38:249][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Social and no native library supported.
+[2018.05.08-16.43.38:249][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Social_SC and no native library supported.
+[2018.05.08-16.43.38:249][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Social and no native library supported.
+[2018.05.08-16.43.38:249][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Social_SC and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor_SC and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor_SC and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RemoteSession and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RemoteSession_SC and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RemoteSession and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RemoteSession_SC and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2018.05.08-16.43.38:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2018.05.08-16.43.38:253][  0]LogRHI: Display: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.

@@ -1,0 +1,1358 @@
+Log file open, 02/12/18 12:06:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogGameplayTags: Display: FGameplayTagNativeAdder::FGameplayTagNativeAdder
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-6471879) SRandInit(-6471879).
+LogTaskGraph: Started task graph with 4 named threads and 7 total threads with 3 sets of task threads.
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin AESHandlerComponent
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin BlueprintContext
+LogPluginManager: Mounting plugin CommonUI
+LogPluginManager: Mounting plugin Crashlytics
+LogPluginManager: Mounting plugin DiscordRPC
+LogPluginManager: Mounting plugin EpicCMS
+LogPluginManager: Mounting plugin EpicCMSUIFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemMcp
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin Gauntlet
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LogitechLED
+LogPluginManager: Mounting plugin MatchmakingService
+LogPluginManager: Mounting plugin NetUI
+LogPluginManager: Mounting plugin NVIDIAGfeSDK
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystemFacebook
+LogPluginManager: Mounting plugin OnlineSubsystemGoogle
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemTwitch
+LogPluginManager: Mounting plugin Oodle
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PurchaseFlow
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SlateRemote
+LogPluginManager: Mounting plugin Social
+LogPluginManager: Mounting plugin SubtitlesWidgets
+LogPluginManager: Mounting plugin SubtitlesWidgetsEditor
+LogPluginManager: Mounting plugin WinDualShock
+LogPluginManager: Mounting plugin UAC
+LogPluginManager: Mounting plugin PlayerBehaviorAnalytics
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin RemoteSession
+LogPluginManager: Mounting plugin EpicGameplayStats
+LogPluginManager: Mounting plugin SIP
+LogPluginManager: Mounting plugin HTTPChunkInstaller
+LogPluginManager: Mounting plugin OnlineGameplayFramework
+LogPluginManager: Mounting plugin Vivox
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AndroidPermission
+LogStreaming: Display: Took  0.127s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - BufferSize = 65536
+LogOnline: MCP: Mcp Startup!
+LogOnline: Verbose: MCP: Created thread (ID:10732).
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogOnline: OSS: FCommerceServiceMcp: EpicStore=
+LogInit: Build: ++Fortnite+Release-2.4.x-CL-3876086
+LogInit: Engine Version: 4.19.0-3876086+++Fortnite+Release-2.4.x
+LogInit: Compatible Engine Version: 4.19.0-3876086+++Fortnite+Release-2.4.x
+LogInit: Net CL: 3873824
+LogInit: Compiled (64-bit): Feb  7 2018 00:39:54
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Fortnite+Release-2.4.x
+LogInit: Filtered Command Line: -frombe
+LogInit: Base Directory: C:/Program Files/Epic Games/Fortnite/FortniteGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.026s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false
+LogInit: Object subsystem initialized
+LogFortMemory: AppInit - CPU:252.44MB (Peak: 252.44MB)
+[2018.02.12-11.06.37:849][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsClient]
+[2018.02.12-11.06.37:854][  0]LogInit: Computer: BF-PC
+[2018.02.12-11.06.37:854][  0]LogInit: User: legos
+[2018.02.12-11.06.37:854][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.02.12-11.06.37:854][  0]LogInit: High frequency timer resolution =3.117187 MHz
+[2018.02.12-11.06.37:854][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.02.12-11.06.37:854][  0]LogMemory: Platform Memory Stats for WindowsClient
+[2018.02.12-11.06.37:854][  0]LogMemory: Process Physical Memory: 253.39 MB used, 253.39 MB peak
+[2018.02.12-11.06.37:854][  0]LogMemory: Process Virtual Memory: 301.05 MB used, 301.05 MB peak
+[2018.02.12-11.06.37:854][  0]LogMemory: Physical Memory: 4757.28 MB used,  3297.78 MB free, 8055.06 MB total
+[2018.02.12-11.06.37:854][  0]LogMemory: Virtual Memory: 451.03 MB used,  3297.78 MB free, 134217728.00 MB total
+[2018.02.12-11.06.39:956][  0]LogInit: Using OS detected language (fr-FR).
+[2018.02.12-11.06.39:956][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.02.12-11.06.40:031][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.02.12-11.06.40:359][  0]LogTextLocalizationResource: LocRes 'C:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/Online/HTTPChunkInstaller/Content/Localization/HTTPChunkInstaller/fr/HTTPChunkInstaller.locres' failed the magic number check! Assuming this is a legacy resource (please re-generate your localization resources!)
+[2018.02.12-11.06.40:360][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccount, Key:FounderChatShardJoined):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/Game/fr/Game.locres) Source String Hash: (-1780775368) Localized String: (Vous entrez dans le salon de fondateur {RoomId})
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/fr/OnlineGameplayFramework.locres) Source String Hash: (-1780775368) Localized String: (Joined Founder room {RoomId})
+[2018.02.12-11.06.40:360][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccount, Key:GlobalChatShardJoined):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/Game/fr/Game.locres) Source String Hash: (1976527488) Localized String: (Vous entrez dans le salon {RoomId} - {SubGameMode})
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/fr/OnlineGameplayFramework.locres) Source String Hash: (1976527488) Localized String: (Joined {SubGameMode} room {RoomId})
+[2018.02.12-11.06.40:361][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:OnlineAccount, Key:FailedLoginConsole_UnableToStartPrivCheck):
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Content/Localization/Game/fr/Game.locres) Source String Hash: (1647647700) Localized String: (Vérification de vos privilèges impossible. Veuillez réessayer ultérieurement.)
+    Localization Resource: (C:/Program Files/Epic Games/Fortnite/FortniteGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/fr/OnlineGameplayFramework.locres) Source String Hash: (1647647700) Localized String: (Unable to check your privileges. Please try again later.)
+[2018.02.12-11.06.40:497][  0]LogStreaming: Display: Took  0.541s to EndInitTextLocalization.
+[2018.02.12-11.06.41:109][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.12-11.06.41:793][  0]LogD3D11RHI:    0. 'AMD Radeon R7 200 Series' (Feature Level 11_0)
+[2018.02.12-11.06.41:793][  0]LogD3D11RHI:       2028/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.02.12-11.06.42:061][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.12-11.06.42:061][  0]LogD3D11RHI:       0/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.12-11.06.42:061][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.12-11.06.42:068][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.12-11.06.42:068][  0]LogD3D11RHI:     GPU DeviceId: 0x6613 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.12-11.06.42:068][  0]LogWindows: EnumDisplayDevices:
+[2018.02.12-11.06.42:068][  0]LogWindows:    0. 'AMD Radeon R7 200 Series' (P:1 D:1)
+[2018.02.12-11.06.42:068][  0]LogWindows:    1. 'AMD Radeon R7 200 Series' (P:0 D:1)
+[2018.02.12-11.06.42:068][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.12-11.06.42:068][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R7 200 Series
+[2018.02.12-11.06.42:068][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.12-11.06.42:069][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.12-11.06.42:069][  0]LogRHI: Texture pool is 1420 MB (70% of 2028 MB)
+[2018.02.12-11.06.42:840][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.12-11.06.42:856][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.02.12-11.06.43:037][  0]LogShaderLibrary: Display: Using ../../../FortniteGame/Content/ShaderArchive-PCD3D_SM5.ushaderbytecode for material shader code. Total 56466 unique shaders.
+[2018.02.12-11.06.43:037][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library
+[2018.02.12-11.06.43:101][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak added to pak precacher.
+[2018.02.12-11.06.43:282][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.12-11.06.43:282][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.12-11.06.43:283][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.12-11.06.43:283][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.12-11.06.44:441][  0]LogStreaming: Warning: Failed to read file '../../../FortniteGame/Plugins/NetUI/AssetRegistry.bin' error.
+[2018.02.12-11.06.44:441][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/2D/Paper2D/AssetRegistry.bin' error.
+[2018.02.12-11.06.44:441][  0]LogStreaming: Warning: Failed to read file '../../../FortniteGame/Plugins/Social/AssetRegistry.bin' error.
+[2018.02.12-11.06.44:441][  0]LogStreaming: Warning: Failed to read file '../../../FortniteGame/Plugins/SubtitlesWidgetsEditor/AssetRegistry.bin' error.
+[2018.02.12-11.06.44:441][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Editor/BlueprintMaterialTextureNodes/AssetRegistry.bin' error.
+[2018.02.12-11.06.44:441][  0]LogStreaming: Warning: Failed to read file '../../../FortniteGame/Plugins/Developer/RemoteSession/AssetRegistry.bin' error.
+[2018.02.12-11.06.44:441][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Editor/CryptoKeys/AssetRegistry.bin' error.
+[2018.02.12-11.06.44:444][  0]LogAssetRegistry: FAssetRegistry took 1.1002 seconds to start up
+[2018.02.12-11.06.44:889][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.094223 seconds
+[2018.02.12-11.06.44:896][  0]LogHAL: Display: Platform has ~ 8 GB [8446341120 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.02.12-11.06.44:929][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak added to pak precacher.
+[2018.02.12-11.06.45:239][  0]LogNetVersion: FortniteGame , NetCL: 3873824, EngineNetVer: 4, GameNetVer: 0 (Checksum: 2934340450)
+[2018.02.12-11.06.45:248][  0]LogMaterial: Added default parameter collection resource, Default__MaterialParameterCollection, ID:00000000000000000000000000000000
+[2018.02.12-11.06.45:438][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 1
+[2018.02.12-11.06.45:502][  0]LogFortSignificance: Display: Set AI budget to '8,16'
+[2018.02.12-11.06.45:502][  0]LogFortSignificance: Display: Set Athena Player Pawn budget to '5,10,10,75'
+[2018.02.12-11.06.45:503][  0]LogFortSignificance: Display: Set Athena Player Pawn URO rate to '0,1,2,3'
+[2018.02.12-11.06.45:503][  0]LogFortSignificance: Display: Set bucket distances to '50,100,250,500'
+[2018.02.12-11.06.45:519][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak added to pak precacher.
+[2018.02.12-11.06.45:835][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak added to pak precacher.
+[2018.02.12-11.06.46:642][  0]LogMaterial: Added default parameter collection resource, DistortedScreenCollection, ID:B9864F384A319FAA50CECBB9E87E2DA3
+[2018.02.12-11.06.46:808][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.12-11.06.47:399][  0]LogMoviePlayer: Initializing movie player
+[2018.02.12-11.06.47:696][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.12-11.06.47:792][  0]LogOnline: OSS: Using EpicApp backend 'Fortnite' based on environment 'Prod' and override 'Fortnite'
+[2018.02.12-11.06.47:796][  0]LogInit: Display: Build flavor: '"Western"'
+[2018.02.12-11.06.48:009][  0]LogSlate: Took 0.086407 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/BurbankBigRegular-Bold.ufont' (155K)
+[2018.02.12-11.06.48:009][  0]LogOnline: Facebook Startup!
+[2018.02.12-11.06.48:009][  0]LogOnline: Google Startup!
+[2018.02.12-11.06.48:009][  0]LogOnline: Verbose: TWITCH: Twitch Startup!
+[2018.02.12-11.06.48:255][  0]LogUAC: UACClient initialized
+[2018.02.12-11.06.48:255][  0]LogSIP: Display: SIP Module Initialized
+[2018.02.12-11.06.48:255][  0]LogSIP: Display: Plugin Status: 1
+[2018.02.12-11.06.49:119][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.12-11.06.49:139][  0]LogUObjectArray: 78771 objects as part of root set at end of initial load.
+[2018.02.12-11.06.49:139][  0]LogUObjectArray: 3 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2018.02.12-11.06.49:139][  0]LogUObjectAllocator: 13994736 out of 0 bytes used by permanent object pool.
+[2018.02.12-11.06.49:139][  0]LogUObjectArray: CloseDisregardForGC: 78771/78771 objects in disregard for GC pool
+[2018.02.12-11.06.49:278][  0]LogEngine: Initializing Engine...
+[2018.02.12-11.06.49:290][  0]LogInit: Display: Limiting process virtual memory size to 8388608 KB
+[2018.02.12-11.06.49:776][  0]LogFortMemory: UFortAssetManager will split content preloading by submode
+[2018.02.12-11.06.49:776][  0]LogFortMemory: UFortAssetManager default bundle state is (Client)
+[2018.02.12-11.06.49:776][  0]LogFort: Display: Startup job "Super::StartInitialLoading()" starting
+[2018.02.12-11.06.51:605][  0]LogFort: Display: Startup job "Super::StartInitialLoading()" took 1.83 seconds to complete
+[2018.02.12-11.06.51:605][  0]LogFort: Display: Startup job "RegisterConstructorReferences()" starting
+[2018.02.12-11.06.51:605][  0]LogFort: Display: Startup job "RegisterConstructorReferences()" took 0.00 seconds to complete
+[2018.02.12-11.06.51:605][  0]LogFort: Display: Startup job "UAbilitySystemGlobals::Get().InitGlobalData()" starting
+[2018.02.12-11.06.52:494][  0]LogFort: Display: Startup job "UAbilitySystemGlobals::Get().InitGlobalData()" took 0.89 seconds to complete
+[2018.02.12-11.06.52:494][  0]LogFort: Display: Startup job "ScanForNavAgentCostData()" starting
+[2018.02.12-11.06.52:499][  0]LogFort: Display: Startup job "ScanForNavAgentCostData()" took 0.00 seconds to complete
+[2018.02.12-11.06.52:499][  0]LogFort: Display: Startup job "GetGameData()" starting
+[2018.02.12-11.06.52:499][  0]LogFort: Loading GameData: /Game/Balance/DefaultGameData.DefaultGameData ...
+[2018.02.12-11.06.53:220][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.pak added to pak precacher.
+[2018.02.12-11.06.57:545][  0]LogMaterial: Added default parameter collection resource, HomeBaseParameterCollection, ID:5E3F32F14D6E4ED04C9BCFAB36F07A73
+[2018.02.12-11.06.57:545][  0]LogMaterial: Added default parameter collection resource, Stencil_ID_Definitions, ID:281D9C06493105FC0E95569415AC1F7A
+[2018.02.12-11.06.57:545][  0]LogMaterial: Added default parameter collection resource, FortniteMaterialParameters, ID:A94D50064B63826C8C4986A4C8BDA176
+[2018.02.12-11.06.57:545][  0]LogStreaming: Warning: Took 111.22ms to ProcessLoadedPackages
+[2018.02.12-11.06.57:545][  0]LogStats:             ... GameData loaded! -  5.045 s
+[2018.02.12-11.06.57:545][  0]LogFort: Display: Startup job "GetGameData()" took 5.05 seconds to complete
+[2018.02.12-11.06.57:545][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" starting
+[2018.02.12-11.07.24:089][  0]LogStreaming: Warning: Took 2234.53ms to ProcessLoadedPackages
+[2018.02.12-11.07.24:089][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" took 26.54 seconds to complete
+[2018.02.12-11.07.24:089][  0]LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" starting
+[2018.02.12-11.07.24:133][  0]LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" took 0.04 seconds to complete
+[2018.02.12-11.07.24:133][  0]LogFort: Display: All startup jobs took 34.36 seconds to complete
+[2018.02.12-11.07.24:697][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.12-11.07.25:045][  0]LogInit: FAudioDevice initialized.
+[2018.02.12-11.07.25:055][  0]LogInit: Texture streaming: Enabled
+[2018.02.12-11.07.25:097][  0]LogFortMemory: UFortAssetManager::ChangeLoadState() changing bundle state to (Client, Menu)
+[2018.02.12-11.07.25:100][  0]LogConsoleResponse: Display: Apply Settings:
+[2018.02.12-11.07.25:223][  0]LogScheduledEvents: Queuing calendar request to MCP
+[2018.02.12-11.07.25:293][  0]LogGfeSDK: Creating GfeSDK Version 1.0.132.d2f5f552
+[2018.02.12-11.07.25:360][  0]LogGfeSDK: Start TaskRunner thread
+[2018.02.12-11.07.25:360][  0]LogGfeSDK: Creating default MessageBus wrapper
+[2018.02.12-11.07.25:394][  0]LogGfeSDK: Warning: Error creating message bus interface
+[2018.02.12-11.07.25:427][  0]LogGfeSDK: Warning: Unexpected exception during NVGSDK_Create
+[2018.02.12-11.07.25:460][  0]LogGfeSDK: Warning: Error: failed initializing SDK -1020
+[2018.02.12-11.07.25:481][  0]LogGfeSDK: Destroyed GfeSDK
+[2018.02.12-11.07.25:481][  0]LogGfeSDK: Error: Failed to create GfeSDK: -1020
+[2018.02.12-11.07.25:481][  0]LogGfeSDK: Failed to connect to GfeSDK backend
+[2018.02.12-11.07.25:482][  0]LogBlueprintContext: Display: Creating blueprint contexts for Local Player ' FortLocalPlayer_0 ' of Game Instance ' FortGameInstance_0 '
+[2018.02.12-11.07.25:554][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak added to pak precacher.
+[2018.02.12-11.07.26:763][  0]LogMaterial: Added default parameter collection resource, MPC_Hexmap, ID:20526AF7447FE747ACE05282990E27FD
+[2018.02.12-11.07.26:763][  0]LogMaterial: Added default parameter collection resource, MPC_HexZoneDifficulty, ID:A93665824698633F7FDC6281E6FF9586
+[2018.02.12-11.07.26:763][  0]LogBlueprintContext: Display: Created Blueprint Context 'HomeBaseContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:763][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortMatchmakingContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:763][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortMcpContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:763][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortOutpostContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortPartyContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortPrototypingContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'AthenaAccountContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'AthenaHUDContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'CMSContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortAbilitySystemContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortAccountStatsContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortFrontEndContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortGlobalUIContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortHeroManagementContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortHomebaseUIContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortHUDContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortInventoryContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortLeaderboardContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortPickerContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortStoreContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortTooltipUIContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortTutorialContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:765][  0]LogBlueprintContext: Display: Created Blueprint Context 'FortUIDataConfigurationContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:766][  0]LogBlueprintContext: Display: Created Blueprint Context 'CommonUIContext' for Local Player 'FortLocalPlayer_0'
+[2018.02.12-11.07.26:767][  0]LogInit: Display: Game Engine Initialized.
+[2018.02.12-11.07.26:789][  0]LogFortMemory: PostEngineInit - CPU:1284.57MB (Peak: 1306.93MB)
+[2018.02.12-11.07.26:789][  0]LogInit: Display: Starting Game.
+[2018.02.12-11.07.26:789][  0]LogHotfixManager: Display: Update State UpdateIdle -> UpdatePending
+[2018.02.12-11.07.26:789][  0]LogNet: Browse: /Game/Maps/Frontend?Name=Player
+[2018.02.12-11.07.26:803][  0]LogFortLoadingScreen: Showing loading screen when 'IsShowingInitialLoadingScreen()' is true.
+[2018.02.12-11.07.26:803][  0]LogFortLoadingScreen: Showing LoadingScreen because bCurrentlyInLoadMap is true!
+[2018.02.12-11.07.26:814][  0]LogLoad: LoadMap: /Game/Maps/Frontend?Name=Player
+[2018.02.12-11.07.26:823][  0]LogGarbage: Collecting garbage   (GCheckForIllegalMarkPendingKill = 0)
+[2018.02.12-11.07.26:881][  0]LogGarbage: 57.935247 ms for GC
+[2018.02.12-11.07.26:883][  0]LogGarbage: 2.249143 ms for unhashing unreachable objects. Clusters removed: 0.   Items 863 Cluster Items 0
+[2018.02.12-11.07.26:889][  0]LogGarbage: GC purged 863 objects (242328 -> 241465)
+[2018.02.12-11.07.26:968][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/FrontEnd/Maps/FrontEndStore
+[2018.02.12-11.07.26:968][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/FrontEnd/Maps/FrontEndStore_Pinata
+[2018.02.12-11.07.26:968][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/UI/Frontend_BG_Main
+[2018.02.12-11.07.26:968][  0]LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/UI/Frontend_SkillTree
+[2018.02.12-11.07.28:513][  0]LogMaterial: Added default parameter collection resource, MPC_StoreCardColors, ID:980B581240CECB5A06F120BFACCF6247
+[2018.02.12-11.07.28:513][  0]LogMaterial: Added default parameter collection resource, MPC_AnimatedCard, ID:6DE1D7A647069C164FCDAAB989A20E10
+[2018.02.12-11.07.28:513][  0]LogMaterial: Added default parameter collection resource, MPC_Pinata, ID:6172D0F346C152CDC7C8C2BB5264A0F1
+[2018.02.12-11.07.28:547][  0]LogAIModule: Creating AISystem for world Frontend
+[2018.02.12-11.07.28:547][  0]LogLoad: Game class is 'FortGameModeFrontEnd'
+[2018.02.12-11.07.28:549][  0]LogLevelActorContainer: Created LevelActorCluster (555) for /Game/Maps/FrontEnd/Maps/FrontEndStore.FrontEndStore:PersistentLevel with 38 objects, 13 referenced clusters and 15 mutable objects.
+[2018.02.12-11.07.28:549][  0]LogLevelActorContainer: Created LevelActorCluster (556) for /Game/Maps/UI/Frontend_BG_Main.Frontend_BG_Main:PersistentLevel with 12 objects, 1 referenced clusters and 6 mutable objects.
+[2018.02.12-11.07.28:549][  0]LogLevelActorContainer: Created LevelActorCluster (557) for /Game/Maps/UI/Frontend_SkillTree.Frontend_SkillTree:PersistentLevel with 8 objects, 1 referenced clusters and 6 mutable objects.
+[2018.02.12-11.07.28:562][  0]LogLevelActorContainer: Created LevelActorCluster (558) for /Game/Maps/Frontend.Frontend:PersistentLevel with 4 objects, 25 referenced clusters and 2 mutable objects.
+[2018.02.12-11.07.28:563][  0]LogWorld: Bringing World /Game/Maps/Frontend.Frontend up for play (max tick rate 60) at 2018.02.12-12.07.28
+[2018.02.12-11.07.28:662][  0]LogMaterial: Added default parameter collection resource, MPC_Skybox_World, ID:AD511C5F4BCECA528A142E9BEC5F9456
+[2018.02.12-11.07.28:662][  0]LogFortDayNight: AFortTimeOfDayManager::PostInitializeComponents: World is "Frontend", this is "TODM_Disabled_C_0"
+[2018.02.12-11.07.28:680][  0]LogFortDayNight: Game State in World Frontend is resetting.  TimeOfDayManager is None.
+[2018.02.12-11.07.28:683][  0]LogWorld: Bringing up level for play took: 0.127528
+[2018.02.12-11.07.28:683][  0]LogOnlineGame: Client adding GameAccountId/AuthTicket for local player to login url. FortGameOptions=[ASID={91DA386A-45E1-9098-3E7E-908FB0D39BED}?Platform=Windows?bIsFirstServerJoin=1]
+[2018.02.12-11.07.28:683][  0]LogOnlineGame: Server received GameAccountId and AuthTicket from client for player: UniqueId:[INVALID] GameAccountId=[] Platform=[Windows]
+[2018.02.12-11.07.28:689][  0]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2018.02.12-11.07.28:689][  0]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2018.02.12-11.07.28:689][  0]LogParty: Verbose: Failed to get persistent party leader
+[2018.02.12-11.07.28:690][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.12-11.07.28:691][  0]LogFortMusic: Created MusicManager using class Default__MusicManager_C.
+[2018.02.12-11.07.28:691][  0]LogFortDayNight: Day phase actor TODM_Disabled_C_0 is setting itself as the day phase handler for the GameState on World Frontend.
+[2018.02.12-11.07.28:691][  0]LogFortDayNight: SetTimeOfDayManager: World is "Frontend", Old TimeOfDayManager: "None", New TimeOfDayManager: "TODM_Disabled_C_0"
+[2018.02.12-11.07.28:691][  0]LogFortDayNight: OnRep_TimeOfDayManager: World is "Frontend", FortTimeOfDayManager is "TODM_Disabled_C_0"
+[2018.02.12-11.07.28:691][  0]LogFort: NO SKELETAL MESH FOR FeedbackAnnouncer_C_0
+[2018.02.12-11.07.28:692][  0]LogLevel: ActivateLevel /Game/Maps/WorldLightingMenu 1 1 1
+[2018.02.12-11.07.28:692][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.12-11.07.28:692][  0]LogFortMemory: ================== Health Snapshot: Waiting to Start (FortGameStateFrontEnd) =================
+[2018.02.12-11.07.28:692][  0]LogFortMemory: Hero: , Theater: , Mission: , Location: 
+[2018.02.12-11.07.28:692][  0]LogFortMemory: Games Played: 0, MeasuredPerfTime 0.00 Secs
+[2018.02.12-11.07.28:692][  0]LogFortMemory: CPU Memory: Used 1343.02MB, Peak 1343.02MB
+[2018.02.12-11.07.28:692][  0]LogFortMemory: Physical Memory: Used 5809.40MB, Total: 8055.06MB
+[2018.02.12-11.07.28:692][  0]LogFortMemory: =============================================================
+[2018.02.12-11.07.28:693][  0]LogLoad: Took 1.879070 seconds to LoadMap(/Game/Maps/Frontend)
+[2018.02.12-11.07.29:100][  0]LogFortMemory: InitComplete - CPU:1356.79MB (Peak: 1356.79MB)
+[2018.02.12-11.07.29:100][  0]LogLoad: (Engine Initialization) Total time: 55.36 seconds
+[2018.02.12-11.07.29:100][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.12-11.07.29:196][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.02.12-11.07.29:206][  0]LogSlate: Took 0.005394 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/NotoSans-Bold.ufont' (485K)
+[2018.02.12-11.07.29:211][  0]LogSlate: Took 0.003613 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/NotoSans-Regular.ufont' (484K)
+[2018.02.12-11.07.29:261][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WorldLightingMenu) is flushing async loading
+[2018.02.12-11.07.35:647][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 9 NumSamples 1 (Frame:1).
+[2018.02.12-11.07.35:647][  0]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel SplashScreenWidget_C_0: 
+[2018.02.12-11.07.35:647][  0]LogCommonInput: Verbose: Input suspension: Started
+[2018.02.12-11.07.35:647][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.07.35:647][  0]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: SplashScreenWidget_C_0
+[2018.02.12-11.07.35:647][  0]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: SplashScreenWidget_C_0
+[2018.02.12-11.07.35:647][  0]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: SplashScreenWidget_C_0
+[2018.02.12-11.07.35:647][  0]LogFortNavigation: Verbose: CenterWidget(UWidget): SplashScreenWidget_C_0 
+[2018.02.12-11.07.35:647][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.07.35:647][  0]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.02.12-11.07.35:647][  0]LogOnline: Display: CloseSplashScreen UserIndex: 0
+[2018.02.12-11.07.35:647][  0]LogOnline: Display: CloseSplashScreen: No bootable invite detected
+[2018.02.12-11.07.35:647][  0]LogHotfixManager: Display: Update already in progress
+[2018.02.12-11.07.35:648][  0]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: SplashScreenWidget_C_0
+[2018.02.12-11.07.35:648][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.07.35:648][  0]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.07.35:648][  0]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.02.12-11.07.35:659][  1]LogOnline: Verbose: MCP: Large tick time detected 58.2390
+[2018.02.12-11.07.35:659][  1]LogOnline: Verbose: OSS: No valid auth for clientId=ec684b8c687f479fadea3cb2ad83f5c6
+[2018.02.12-11.07.35:659][  1]LogOnline: Verbose: OSS: Sending Client Auth request. url=https://account-public-service-prod03.ol.epicgames.com/account, Payload=[REDACTED]
+[2018.02.12-11.07.35:664][  1]LogLevel: ActivateLevel /Game/Maps/FrontEnd/FortniteWorldMap 1 1 1
+[2018.02.12-11.07.35:672][  1]LogHotfixManager: Display: Update State UpdatePending -> CheckingForPatch
+[2018.02.12-11.07.35:672][  1]LogOnline: OSS: Sending User Privilege request. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/versioncheck?version=%2B%2BFortnite%2BRelease-2.4.x-CL-3876086-Windows
+[2018.02.12-11.07.35:672][  1]LogLogitechLED: Warning: Logitech LED failed to init
+[2018.02.12-11.07.35:673][  1]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/FortniteWorldMap) is flushing async loading
+[2018.02.12-11.07.35:987][  1]LogLevelActorContainer: Created LevelActorCluster (577) for /Game/Maps/FrontEnd/FortniteWorldMap.FortniteWorldMap:PersistentLevel with 16 objects, 38 referenced clusters and 11 mutable objects.
+[2018.02.12-11.07.36:040][  1]LogSlate: Took 0.050002 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/BurbankBigCondensed-Black.ufont' (157K)
+[2018.02.12-11.07.36:043][  2]LogLevel: ActivateLevel /Game/Maps/FortniteTownmap 1 1 1
+[2018.02.12-11.07.36:045][  2]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FortniteTownmap) is flushing async loading
+[2018.02.12-11.07.36:059][  2]LogLevelActorContainer: Created LevelActorCluster (580) for /Game/Maps/FortniteTownmap.FortniteTownmap:PersistentLevel with 134 objects, 38 referenced clusters and 8 mutable objects.
+[2018.02.12-11.07.36:063][  3]LogLevel: ActivateLevel /Game/Maps/UI/Frontend_Lobby 1 1 1
+[2018.02.12-11.07.36:064][  3]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.02.12-11.07.36:064][  3]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby) is flushing async loading
+[2018.02.12-11.07.36:066][  3]LogStreaming: Display: /Game/Maps/UI/Frontend_Lobby is prestreaming /Game/Maps/NavMeshBounds
+[2018.02.12-11.07.36:066][  3]LogStreaming: Display: /Game/Maps/UI/Frontend_Lobby is prestreaming /Game/Maps/WorldLighting
+[2018.02.12-11.07.36:069][  3]LogLevel: ActivateLevel /Game/Maps/UI/Frontend_Lobby_Default 1 1 1
+[2018.02.12-11.07.36:080][  4]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby_Default) is flushing async loading
+[2018.02.12-11.07.36:107][  4]LogLevelActorContainer: Created LevelActorCluster (585) for /Game/Maps/UI/Frontend_Lobby_Default.Frontend_Lobby_Default:PersistentLevel with 14 objects, 26 referenced clusters and 8 mutable objects.
+[2018.02.12-11.07.36:465][ 26]LogOnline: MCP: Service status updated [Normal] -> [Connected]
+[2018.02.12-11.07.36:465][ 26]LogOnlineGame: Verbose: [UOnlineAccountCommon::OnConnectionStatusChanged] [account] Connection status changed from Normal to Connected
+[2018.02.12-11.07.36:465][ 26]LogOnline: Verbose: OSS: Client auth request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token code=200 response=[REDACTED]
+[2018.02.12-11.07.36:465][ 26]LogOnline: Verbose: OSS: Client ClientId: ec684b8c687f479fadea3cb2ad83f5c6  Access[Expires: 2018.02.12-15.07.38 Remaining: 14400.18]  State: NotStarted drift: 0.18
+[2018.02.12-11.07.37:165][ 68]LogScheduledEvents: Calendar request returned HTTP 200
+[2018.02.12-11.07.37:165][ 68]LogScheduledEvents: Received new Calendar data. Events time offset is 0.000475278 hrs
+[2018.02.12-11.07.37:165][ 68]LogScheduledEvents: Updating channel 'client-matchmaking' due to new data.
+[2018.02.12-11.07.37:165][ 68]LogScheduledEvents: Updating channel 'client-events' due to new data.
+[2018.02.12-11.07.37:165][ 68]LogScheduledEvents: Calendar update complete. Current events time is 2018-02-12T11:07:38.876Z. Cache expires 2018-02-12T15:06:15.487Z.
+[2018.02.12-11.07.37:197][ 70]LogOnline: Verbose: OSS: GetUserPrivilege request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/versioncheck?version=%2B%2BFortnite%2BRelease-2.4.x-CL-3876086-Windows code=200 response={"type":"NO_UPDATE","acceptedVersions":["++Fortnite+Release-2.4.x-CL-3876086-Windows","++Fortnite+Release-2.4.x-CL-3876086-Mac"]}
+[2018.02.12-11.07.37:198][ 70]LogHotfixManager: Verbose: [OnCheckForPatchComplete] Privilege=1 PrivilegeResult=0
+[2018.02.12-11.07.37:198][ 70]LogHotfixManager: Display: Update State CheckingForPatch -> CheckingForHotfix
+[2018.02.12-11.07.37:263][ 73]LogFortLoadingScreen: Hiding loading screen when 'IsShowingInitialLoadingScreen()' is true.
+[2018.02.12-11.07.37:263][ 73]LogFortLoadingScreen: Hiding loading screen because this AFortPlayerController is not in Zone and always returns 'hide loading screen'.
+[2018.02.12-11.07.37:398][ 82]LogOnline: Verbose: MCP: EnumerateFiles request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/system code=200 response=[{"uniqueFilename":"3460cbe1c57d4a838ace32951a4d7171","filename":"DefaultEngine.ini","hash":"46fbabac2b877eb5c1e768f6ce31a36d8e48b9e4","hash256":"31f555c6c8eaf6c863d111221bb8711bd85637e86c93bd9bb80c09d9b4417f8b","length":4627,"contentType":"application/octet-stream","uploaded":"2018-01-27T17:56:00.735Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"351fee9e0ca34ec987f410da6aab8834","filename":"MacClient_RuntimeOptions.ini","hash":"cf9fd56948be3d83794809868014e1993fa41adf","hash256":"0eb50618d02f32795fc8b90d8083e80003cf062152957ab80042fb52a4180e39","length":68,"contentType":"application/octet-stream","uploaded":"2018-02-07T23:02:49.787Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"407ab578cc544045946ce4a84cde8b92","filename":"PS4_Engine.ini","hash":"3b1534ba21a16cdefd0abd8a472a8e8cd27d37ab","hash256":"3c83264d081d530130386fe85a7ec84715c62a237e47e7393c1508927d40e28c","length":58,"contentType":"application/octet-stream","uploaded":"2018-01-25T09:03:01.919Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"93acb56ad2a24e86b7b94d4b15c59974","filename":"XboxOne_Game.ini","hash":"c9172063868ac2521b96c6c0f1956e9e7268072a","hash256":"f07053b7d898eafe11b5c8edd306b9f162ee6f1174dab2deba88bd5849635878","length":270,"contentType":"application/octet-stream","uploaded":"2018-02-08T09:58:52.412Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"51daf06a568d488a91183182f9585d67","filename":"PS4_Game.ini","hash":"7a362a51d948fe7724e5b0c9b1c746236c24338b","hash256":"c1679619e5db34ebbeeca38404c43c585814f4c971bc116b70262e2d03fb0b8b","length":262,"contentType":"application/octet-stream","uploaded":"2018-02-08T09:58:52.538Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"1a46692bf9f34c18a87681016940001c","filename":"XboxOne_Engine.ini","hash":"691af5af7b53cc4d79567c01307657a02ff7d11d","hash256":"67961f2b3d9432286cc8a9add5dbf35d7a543e747acc76c6c247d71d4f28352b","length":4281,"contentType":"application/octet-stream","uploaded":"2018-01-27T17:56:00.923Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"cfe3ccd549f647ca88d18eaa58e65a11","filename":"DefaultInput.ini","hash":"9e5a095c61cc9e63563ceae6b319c52f09dd0eac","hash256":"fde856e89960e3754e55ae9b0930611c8e18401edf329f542244c70e2a1ca377","length":71,"contentType":"application/octet-stream","uploaded":"2017-12-07T18:34:20.072Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"c52c1f9246eb48ce9dade87be5a66f29","filename":"DefaultRuntimeOptions.ini","hash":"cc175a6d6951cd97d8457fba89fac46f22164e20","hash256":"52c74dbe0197ab35381170ca574896f61a5ac76c63541cc86af8594c1729adf6","length":136,"contentType":"application/octet-stream","uploaded":"2018-02-07T15:06:47.668Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"a22d837b6a2b46349421259c0a5411bf","filename":"DefaultGame.ini","hash":"b615e73e13de5961bb7ee0176c67d276fc9a2a25","hash256":"4e349d721411f4e736c059923cc9aefe115ea8a5e9f4af3d269775633215ee20","length":3202,"contentType":"application/octet-stream","uploaded":"2018-02-08T09:58:52.666Z","storageType":"S3","doNotCache":false}]
+[2018.02.12-11.07.37:424][ 82]LogOnline: MCP: FOnlineTitleFileMcp::DeleteCachedFiles Clearing cached files: [bSkipEnumerated:1]
+[2018.02.12-11.07.37:424][ 82]LogOnline: MCP:   Cleared 0 cached files.
+[2018.02.12-11.07.37:424][ 82]LogHotfixManager: Verbose: Using default hotfix DefaultEngine.ini
+[2018.02.12-11.07.37:425][ 82]LogHotfixManager: Verbose: Using default hotfix DefaultInput.ini
+[2018.02.12-11.07.37:425][ 82]LogHotfixManager: Verbose: Using default hotfix DefaultRuntimeOptions.ini
+[2018.02.12-11.07.37:425][ 82]LogHotfixManager: Verbose: Using default hotfix DefaultGame.ini
+[2018.02.12-11.07.37:461][ 85]LogOnline: Verbose: MCP: ReadFile request. Local file read from cache =../../../FortniteGame/PersistentDownloadDir/EMS/3460cbe1c57d4a838ace32951a4d7171
+[2018.02.12-11.07.37:461][ 85]LogOnline: Verbose: MCP: ReadFile request. Local file read from cache =../../../FortniteGame/PersistentDownloadDir/EMS/a22d837b6a2b46349421259c0a5411bf
+[2018.02.12-11.07.37:461][ 85]LogOnline: Verbose: MCP: Local file hash matches cloud header. No need to download for filename=3460cbe1c57d4a838ace32951a4d7171
+[2018.02.12-11.07.37:461][ 85]LogHotfixManager: Hotfix file (DefaultEngine.ini) downloaded. Size was (4627)
+[2018.02.12-11.07.37:461][ 85]LogOnline: Verbose: MCP: Local file hash matches cloud header. No need to download for filename=a22d837b6a2b46349421259c0a5411bf
+[2018.02.12-11.07.37:461][ 85]LogHotfixManager: Hotfix file (DefaultGame.ini) downloaded. Size was (3202)
+[2018.02.12-11.07.37:478][ 86]LogOnline: Verbose: MCP: ReadFile request. Local file read from cache =../../../FortniteGame/PersistentDownloadDir/EMS/cfe3ccd549f647ca88d18eaa58e65a11
+[2018.02.12-11.07.37:478][ 86]LogOnline: Verbose: MCP: Local file hash matches cloud header. No need to download for filename=cfe3ccd549f647ca88d18eaa58e65a11
+[2018.02.12-11.07.37:478][ 86]LogHotfixManager: Hotfix file (DefaultInput.ini) downloaded. Size was (71)
+[2018.02.12-11.07.37:494][ 87]LogOnline: Verbose: MCP: ReadFile request. Local file read from cache =../../../FortniteGame/PersistentDownloadDir/EMS/c52c1f9246eb48ce9dade87be5a66f29
+[2018.02.12-11.07.37:494][ 87]LogOnline: Verbose: MCP: Local file hash matches cloud header. No need to download for filename=c52c1f9246eb48ce9dade87be5a66f29
+[2018.02.12-11.07.37:494][ 87]LogHotfixManager: Hotfix file (DefaultRuntimeOptions.ini) downloaded. Size was (136)
+[2018.02.12-11.07.37:498][ 87]LogHotfixManager: Verbose: Reloading /Script/Engine.Default__AudioSettings
+[2018.02.12-11.07.37:500][ 87]LogHotfixManager: Verbose: Reloading /Script/Qos.Default__QosRegionManager
+[2018.02.12-11.07.37:515][ 87]LogHotfixManager: Verbose: Reloading /Engine/Transient.QosRegionManager_0
+[2018.02.12-11.07.37:515][ 87]LogQos: SetSelectedRegion: failed to find region id NONE
+[2018.02.12-11.07.37:515][ 87]LogQos: SetSelectedRegion: failed to find region id 
+[2018.02.12-11.07.37:515][ 87]LogQos: Warning: Unable to set a good region!
+[2018.02.12-11.07.37:515][ 87]LogQos: Warning: Wanted to set NONE, failed to fall back to 
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Region Info:
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Current:  
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Overall Result: Invalid
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Region: NA-East [NAE] Ping: 9999
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Region: NA-West [NAW] Ping: 9999
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Region: Europe [EU] Ping: 9999
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Region: Océanie [OCE] Ping: 9999
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Region: Brésil [BR] Ping: 9999
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Region: Asie [ASIA] Ping: 9999
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Region: Testtj [Testtj] Ping: 9999
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Region: Testsa [Testsa] Ping: 9999
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Region: Ohio [OH] Ping: 9999
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Region: Londres [GB] Ping: 9999
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Region: Testou [Testou] Ping: 9999
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Region: Testpf [Testpf] Ping: 9999
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: Region: Testdi [Testdi] Ping: 9999
+[2018.02.12-11.07.37:516][ 87]LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+[2018.02.12-11.07.37:516][ 87]LogHotfixManager: Updating config from DefaultEngine.ini took 0.020462 seconds and reloaded 3 objects
+[2018.02.12-11.07.37:520][ 87]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortGameInstance
+[2018.02.12-11.07.37:520][ 87]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortGameModeAthena
+[2018.02.12-11.07.37:520][ 87]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortGlobals
+[2018.02.12-11.07.37:521][ 87]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortMatchmakingV2
+[2018.02.12-11.07.37:521][ 87]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortOnlineAccount
+[2018.02.12-11.07.37:521][ 87]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortOnlineAccountMobile
+[2018.02.12-11.07.37:521][ 87]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortPlayerControllerAthena
+[2018.02.12-11.07.37:521][ 87]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortWorldManager
+[2018.02.12-11.07.37:522][ 87]LogHotfixManager: Verbose: Reloading /Engine/Transient.FortEngine_0:FortGlobals_0
+[2018.02.12-11.07.37:529][ 87]LogHotfixManager: Verbose: Reloading /Game/Athena/Athena_PlayerController.Default__Athena_PlayerController_C
+[2018.02.12-11.07.37:534][ 87]LogHotfixManager: Verbose: Reloading /Engine/Transient.FortEngine_0:FortGameInstance_0
+[2018.02.12-11.07.37:534][ 87]LogHotfixManager: Verbose: Reloading /Engine/Transient.FortEngine_0:FortGameInstance_0.FortMatchmakingV2_0
+[2018.02.12-11.07.37:537][ 87]LogHotfixManager: Verbose: Reloading /Engine/Transient.FortEngine_0:FortLocalPlayer_0.FortOnlineAccount_0
+[2018.02.12-11.07.37:538][ 87]LogHotfixManager: Updating config from DefaultGame.ini took 0.020793 seconds and reloaded 13 objects
+[2018.02.12-11.07.37:542][ 87]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortPlayerInputAthena
+[2018.02.12-11.07.37:557][ 87]LogHotfixManager: Updating config from DefaultInput.ini took 0.019079 seconds and reloaded 1 objects
+[2018.02.12-11.07.37:560][ 87]LogHotfixManager: Verbose: Reloading /Script/FortniteGame.Default__FortRuntimeOptions
+[2018.02.12-11.07.37:576][ 87]LogHotfixManager: Updating config from DefaultRuntimeOptions.ini took 0.018075 seconds and reloaded 1 objects
+[2018.02.12-11.07.37:576][ 87]LogHotfixManager: Display: Hotfix data has been successfully applied
+[2018.02.12-11.07.37:576][ 87]LogHotfixManager: Display: Checking for assets to be patched using data from 'AssetHotfix' section in the Game .ini file
+[2018.02.12-11.07.37:576][ 87]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_SR_Ore_T03 updated column EnvDmgPB from 15.00 to 25.00.
+[2018.02.12-11.07.37:576][ 87]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_SR_Ore_T03 updated column EnvDmgMid from 15.00 to 25.00.
+[2018.02.12-11.07.37:576][ 87]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_SR_Ore_T03 updated column EnvDmgLong from 15.00 to 25.00.
+[2018.02.12-11.07.37:576][ 87]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_SR_Ore_T03 updated column EnvDmgMaxRange from 15.00 to 25.00.
+[2018.02.12-11.07.37:576][ 87]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_VR_Ore_T03 updated column EnvDmgPB from 15.00 to 25.00.
+[2018.02.12-11.07.37:576][ 87]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_VR_Ore_T03 updated column EnvDmgMid from 15.00 to 25.00.
+[2018.02.12-11.07.37:576][ 87]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_VR_Ore_T03 updated column EnvDmgLong from 15.00 to 25.00.
+[2018.02.12-11.07.37:576][ 87]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_VR_Ore_T03 updated column EnvDmgMaxRange from 15.00 to 25.00.
+[2018.02.12-11.07.37:576][ 87]LogHotfixManager: Display: Successfully patched all 8 assets from the 'AssetHotfix' section in the Game .ini file.  These assets will be forced to remain loaded.
+[2018.02.12-11.07.37:576][ 87]LogHotfixManager: Display: OnHotfixCheckComplete 1
+[2018.02.12-11.07.37:677][ 93]LogHotfixManager: Display: Update State CheckingForHotfix -> WaitingOnInitialLoad
+[2018.02.12-11.07.37:679][ 94]LogHotfixManager: Finished initial load/hotfix phase in 0.001483s
+[2018.02.12-11.07.37:679][ 94]LogHotfixManager: Display: Update State WaitingOnInitialLoad -> InitialLoadComplete
+[2018.02.12-11.07.37:679][ 94]LogHotfixManager: Display: CheckComplete UpdateSuccess
+[2018.02.12-11.07.38:194][124]LogHotfixManager: Display: External CheckComplete UpdateSuccess
+[2018.02.12-11.07.38:194][124]LogHotfixManager: Display: Update State InitialLoadComplete -> UpdatePending
+[2018.02.12-11.07.38:194][124]LogOnlineGame: Verbose: [UOnlineAccountCommon::AutoLogin] Attempting AutoLogin for player with e-mail unused on controller 0
+[2018.02.12-11.07.38:194][124]LogOnlineGame: [UOnlineAccountCommon::StartLogin] Starting Login state machine
+[2018.02.12-11.07.38:211][125]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Vérification de la file d'attente des services Epic... (LoginWaitingRoom)
+[2018.02.12-11.07.38:228][126]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Connexion aux services Epic... (LoggingIn)
+[2018.02.12-11.07.38:228][126]LogOnlineGame: Verbose: [UOnlineAccountCommon::LoginStep_LoggingIn] No valid credentials, attempting AutoLogin
+[2018.02.12-11.07.38:228][126]LogOnline: OSS: Sending Login request. url=https://account-public-service-prod03.ol.epicgames.com/account, type=exchangecode, id=[REDACTED]
+[2018.02.12-11.07.38:512][144]LogOnline: Verbose: OSS: Login request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token code=200 response=[REDACTED]
+[2018.02.12-11.07.38:513][144]LogOnline: Verbose: OSS: User ClientId: ec684b8c687f479fadea3cb2ad83f5c6 AccountId: d8aab09b1c854d33a66c04a41ef452a9 Access[Expires: 2018.02.12-19.07.40 Remaining: 28800.17] Refresh[Expires: 2018.02.13-11.07.40 Remaining: 86400.17] State: Valid drift: 0.17
+[2018.02.12-11.07.38:513][144]LogOnline: Verbose: OSS: Starting QueryLoggedInUserInfo request.
+[2018.02.12-11.07.38:513][144]LogOnline: Verbose: OSS: Starting QueryExternalAuths request.
+[2018.02.12-11.07.38:746][158]LogOnline: OSS: Kill auth sessions request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/sessions/kill?killType=OTHERS_ACCOUNT_CLIENT_SERVICE code=204 response=[REDACTED]
+[2018.02.12-11.07.39:079][178]LogOnline: Verbose: OSS: QueryLoggedInUserInfo request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/public/account/d8aab09b1c854d33a66c04a41ef452a9 code=200 response=[REDACTED]
+[2018.02.12-11.07.39:312][192]LogOnline: Verbose: OSS: QueryExternalAuths request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/public/account/d8aab09b1c854d33a66c04a41ef452a9/externalAuths code=200 response=[REDACTED]
+[2018.02.12-11.07.39:312][192]LogOnlineGame: Verbose: [UOnlineAccountCommon::LoginStep_OnLoginComplete] Login completed. UserId=[d8aab09b1c854d33a66c04a41ef452a9] DisplayName=[] EpicAccountId=[]
+[2018.02.12-11.07.39:312][192]LogOnlineGame: Verbose: [UOnlineAccountCommon::LoginStep_OnLoginComplete] Login completed, continuing login process
+[2018.02.12-11.07.39:312][192]LogOnlineGame: Display: [UOnlineAccountCommon::ProcessUserLogin] Successfully logged in user. UserId=[d8aab09b1c854d33a66c04a41ef452a9] DisplayName=[AegonLeDragon] EpicAccountId=[d8aab09b1c854d33a66c04a41ef452a9] AuthTicket=[<Redacted>]
+[2018.02.12-11.07.39:314][192]LogParty: [UParty::ClearPendingPartyJoin] Clearing pending party join: HadPendingInvite=[false]
+[2018.02.12-11.07.39:314][192]LogOnlineGame: Verbose: [UOnlineAccountCommon::OnLoginStatusChanged] Login status changed for User d8aab09b1c854d33a66c04a41ef452a9 (local user 0) from 0 to 2
+[2018.02.12-11.07.39:328][192]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Vérification du CLUF... (EulaDownload)
+[2018.02.12-11.07.39:328][192]LogOnline: Display: OSS: Starting EulaService::GetAgreement request for key fn
+[2018.02.12-11.07.40:313][252]LogOnline: Display: OSS: EulaService::GetAgreement request complete. url=https://eulatracking-public-service-prod06.ol.epicgames.com/eulatracking/api/shared/agreements/fn?locale=fr-FR&withLocaleFallback=true code=200 key=fn responselength=28786
+[2018.02.12-11.07.40:327][252]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login:  (CheckPlatformPlayAllowed)
+[2018.02.12-11.07.40:546][266]LogOnlineGame: UFortOnlineAccount::CheckPlatformPlayAllowed_HttpRequestComplete: play IS allowed on this platform
+[2018.02.12-11.07.40:561][266]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Connexion aux services... (CheckServiceAvailability)
+[2018.02.12-11.07.40:561][266]LogOnlineGame: Verbose: [UOnlineAccountCommon::LoginStep_CheckServiceAvailability] bShouldSkipAvailabilityCheck is not true, checking service availability
+[2018.02.12-11.07.40:563][267]LogOnline: Verbose: OSS: Started QueryServiceStatus request as user.
+[2018.02.12-11.07.41:280][310]LogOnline: Verbose: OSS: QueryServiceStatus request complete. url=https://lightswitch-public-service-prod06.ol.epicgames.com/lightswitch/api/service/bulk/status?serviceId=Fortnite code=200 response=[{"serviceInstanceId":"fortnite","status":"UP","message":"Servers going down for maintenance","maintenanceUri":null,"overrideCatalogIds":["a7f138b2e51945ffbfdacc1af0541053"],"allowedActions":["PLAY","DOWNLOAD"],"banned":false,"launcherInfoDTO":{"appName":"Fortnite","catalogItemId":"4fe75bbc5a674f4f9b356b5c90567da5","namespace":"fn"}}]
+[2018.02.12-11.07.41:295][310]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Vérification des droits... (CheckEntitledToPlay)
+[2018.02.12-11.07.41:295][310]LogOnline: Verbose: OSS: Started QueryGameAccess request as user.
+[2018.02.12-11.07.41:513][324]LogOnline: OSS: QueryAvailableFeatures request complete and valid. Response string length is 9, code is 200
+[2018.02.12-11.07.41:516][324]LogOnline: OSS: QueryAvailableFeatures request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/enabled_features code=200 response=["store"]
+[2018.02.12-11.07.41:526][324]LogOnline: Verbose: OSS: QueryGameAccess received 1 enabled features
+[2018.02.12-11.07.41:528][324]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Téléchargement des paramètres utilisateur... (DownloadingClientSettings)
+[2018.02.12-11.07.41:528][324]LogOnline: Verbose: MCP: Starting EnumerateUserFiles request.
+[2018.02.12-11.07.41:747][338]LogOnline: Verbose: MCP: EnumerateUserFiles request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/user/d8aab09b1c854d33a66c04a41ef452a9 code=200 response=[{"uniqueFilename":"ClientSettings.Sav","filename":"ClientSettings.Sav","hash":"ab037c8ec5f5f25b32a22a60164ce88f94975180","hash256":"edfc73dd356cf4854777ab6a7c0ed995005db619d76ac84997c00a8fc052a3f9","length":24349,"contentType":"text/plain","uploaded":"2018-02-11T13:57:53.633Z","storageType":"S3","accountId":"d8aab09b1c854d33a66c04a41ef452a9"}]
+[2018.02.12-11.07.41:747][338]LogOnline: Verbose: MCP: ReadUserFile request. Local file failed to read from cache =C:/Users/legos/AppData/Local/FortniteGame/Saved/Cloud/d8aab09b1c854d33a66c04a41ef452a9/ClientSettings.Sav
+[2018.02.12-11.07.41:747][338]LogOnline: Verbose: MCP: Starting ReadUserFile request. filename=ClientSettings.Sav
+[2018.02.12-11.07.42:280][370]LogOnline: Verbose: MCP: ReadUserFile request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/user/d8aab09b1c854d33a66c04a41ef452a9/ClientSettings.Sav code=200 length=24349 type=text/plain
+[2018.02.12-11.07.42:287][370]LogOnline: Verbose: MCP: WriteUserFile request complete. Local file cache updated =C:/Users/legos/AppData/Local/FortniteGame/Saved/Cloud/d8aab09b1c854d33a66c04a41ef452a9/ClientSettings.Sav
+[2018.02.12-11.07.42:299][370]LogConsoleResponse: Display: Apply Settings:
+[2018.02.12-11.07.42:302][370]LogConsoleResponse: Display: 
+[2018.02.12-11.07.42:302][370]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2018.02.12-11.07.42:302][370]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed to find hero. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2018.02.12-11.07.42:302][370]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed initialization, using default parts. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2018.02.12-11.07.42:302][370]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2018.02.12-11.07.42:302][370]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed to find hero. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2018.02.12-11.07.42:302][370]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed initialization, using default parts. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2018.02.12-11.07.42:303][370]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2018.02.12-11.07.42:303][370]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed to find hero. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2018.02.12-11.07.42:303][370]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed initialization, using default parts. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2018.02.12-11.07.42:303][370]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2018.02.12-11.07.42:303][370]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed to find hero. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2018.02.12-11.07.42:303][370]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed initialization, using default parts. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2018.02.12-11.07.42:303][370]LogFort: Warning: GetOrInitializeHero called with invalid player info!
+[2018.02.12-11.07.42:303][370]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed to find hero. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2018.02.12-11.07.42:303][370]LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed initialization, using default parts. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+[2018.02.12-11.07.42:303][370]LogVivoxVoiceChat: FVivox::Connect
+[2018.02.12-11.07.42:304][370]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Téléchargement du profil... (QueryProfile)
+[2018.02.12-11.07.42:305][370]LogFortPlayerRegistration: BindToPlayerState trying to initialize ability system actor
+[2018.02.12-11.07.42:305][370]LogFortPlayerRegistration: UpdateAbilitySystemActor with no profile/world, clearing [AegonLeDragon]
+[2018.02.12-11.07.42:305][370]LogFortQuest: UFortQuestManager::InitQuests: FromMCP=true, FromUpdate=false.
+[2018.02.12-11.07.42:305][370]LogFort: Loading GameData: /Game/Balance/AthenaGameData.AthenaGameData ...
+[2018.02.12-11.07.42:306][370]LogStats:             ... GameData loaded! -  0.001 s
+[2018.02.12-11.07.42:306][370]LogFortQuest: UFortQuestManager::InitQuests: FromMCP=true, FromUpdate=false.
+[2018.02.12-11.07.42:306][370]LogFortQuest: UFortQuestManager::InitQuests: Updating player: d8aab09b1c854d33a66c04a41ef452a9, bHasInitialUpdate: 0, bTutorialCompleted: 0
+[2018.02.12-11.07.42:306][370]LogFortQuest: UFortQuestManager::InitQuests: HasCompletedOnboardingQuests: 0
+[2018.02.12-11.07.42:306][370]LogFortPlayerRegistration: BindToPlayerController trying to initialize ability system actor
+[2018.02.12-11.07.42:306][370]LogFortPlayerRegistration: UpdateAbilitySystemActor with no profile/world, clearing [AegonLeDragon]
+[2018.02.12-11.07.42:306][370]LogFort: UFortRegisteredPlayerInfo::SynchronizeProfile is adding FFortProfileSynchronizeRequest : RequestId [0].
+[2018.02.12-11.07.42:306][370]LogProfileSys: Requesting full profile update for profile 'profile0' for player 'AegonLeDragon'
+[2018.02.12-11.07.42:306][370]LogProfileSys: Requesting full profile update for profile 'athena' for player 'AegonLeDragon'
+[2018.02.12-11.07.42:306][370]LogProfileSys: MCP-Profile: Dispatching request to https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/d8aab09b1c854d33a66c04a41ef452a9/client/QueryProfile?profileId=profile0&rvn=-1
+[2018.02.12-11.07.42:306][370]LogProfileSys: MCP-Profile: Command QueryProfile queued to send
+[2018.02.12-11.07.42:306][370]LogOnlineGame: Verbose: UFortMcpResource: Dispatching request to https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/world/info
+[2018.02.12-11.07.42:306][370]LogProfileSys: MCP-Profile: Command QueryProfile queued to send
+[2018.02.12-11.07.42:306][370]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] initial WaitingFor flags [34].
+[2018.02.12-11.07.42:306][370]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] final WaitingFor flags [34].
+[2018.02.12-11.07.42:307][370]LogFort: Initialized MCP profile for FortPlayerControllerFrontEnd_0 (force sync: yes)
+[2018.02.12-11.07.42:307][370]LogFortLoadingScreen: Showing loading screen when 'IsShowingInitialLoadingScreen()' is false.
+[2018.02.12-11.07.42:307][370]LogFortLoadingScreen: Loading profile content
+[2018.02.12-11.07.42:458][370]LogSlate: Took 0.100318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.02.12-11.07.42:864][396]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/d8aab09b1c854d33a66c04a41ef452a9/client/QueryProfile?profileId=profile0&rvn=-1
+[2018.02.12-11.07.42:865][396]LogProfileSys: Display: MCP-Version = prod-live Release-2.4.x-Release-2.4x build b1014 cl 3882100
+[2018.02.12-11.07.42:886][396]LogProfileSys: Requesting full profile update for profile 'profile0' for player 'AegonLeDragon'
+[2018.02.12-11.07.42:886][396]LogProfileSys: Requesting full profile update for profile 'athena' for player 'AegonLeDragon'
+[2018.02.12-11.07.42:886][396]LogProfileSys: MCP-Profile: Dispatching request to https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/d8aab09b1c854d33a66c04a41ef452a9/client/QueryProfile?profileId=athena&rvn=-1
+[2018.02.12-11.07.42:928][397]LogProfileSys: MCP-Profile: Full profile update (rev=212, version=campaign_grant_for_downtime_jan_25_2018@w=9) for AegonLeDragon accountId=d8aab09b1c854d33a66c04a41ef452a9 profileId=profile0.
+[2018.02.12-11.07.42:977][397]LogProfileSys: Display: HandleFullProfileUpdate Complete:
+[2018.02.12-11.07.42:977][397]LogProfileSys: Display: 	TotalTime: 0.05
+[2018.02.12-11.07.42:977][397]LogProfileSys: Display: 	StatUpdate: 0.00
+[2018.02.12-11.07.42:977][397]LogProfileSys: Display: 	ItemUpdate: 0.05
+[2018.02.12-11.07.42:977][397]LogProfileSys: Display: 	DestroyOld: 0.00
+[2018.02.12-11.07.42:977][397]LogParty: Display: Homebase updated for Team Member: 
+[2018.02.12-11.07.42:977][397]LogFortQuest: UFortQuestManager::InitQuests: FromMCP=true, FromUpdate=true.
+[2018.02.12-11.07.42:978][397]LogFortQuest: UFortQuestManager::InitQuests: Updating player: d8aab09b1c854d33a66c04a41ef452a9, bHasInitialUpdate: 0, bTutorialCompleted: 0
+[2018.02.12-11.07.42:978][397]LogFortQuest: UFortQuestManager::InitQuests: HasCompletedOnboardingQuests: 0
+[2018.02.12-11.07.42:979][397]LogFort: GetOrInitializeHero called with valid player info
+[2018.02.12-11.07.42:979][397]LogFortPlayerRegistration: UFortRegisteredPlayerInfo::OnAccountInventoryChanged trying to initialize ability system actor
+[2018.02.12-11.07.42:979][397]LogFortPlayerRegistration: InitializeAbilitySystemActor initialized with proxy for AegonLeDragon
+[2018.02.12-11.07.43:089][397]LogFort: ApplyHeroEffectsAndAbilities succeeded
+[2018.02.12-11.07.43:090][397]LogFort: ApplyHomebaseEffectsOnPlayerSetup Succeeded
+[2018.02.12-11.07.43:090][397]LogParty: Display: Homebase updated for Team Member: 
+[2018.02.12-11.07.43:090][397]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] initial WaitingFor flags [34].
+[2018.02.12-11.07.43:090][397]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] final WaitingFor flags [30].
+[2018.02.12-11.07.43:145][402]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/d8aab09b1c854d33a66c04a41ef452a9/client/QueryProfile?profileId=athena&rvn=-1
+[2018.02.12-11.07.43:146][402]LogProfileSys: MCP-Profile: Full profile update (rev=260, version=grant_for_downtime_jan_25_2018@w=5) for AegonLeDragon accountId=d8aab09b1c854d33a66c04a41ef452a9 profileId=athena.
+[2018.02.12-11.07.43:147][402]LogProfileSys: Display: HandleFullProfileUpdate Complete:
+[2018.02.12-11.07.43:147][402]LogProfileSys: Display: 	TotalTime: 0.00
+[2018.02.12-11.07.43:147][402]LogProfileSys: Display: 	StatUpdate: 0.00
+[2018.02.12-11.07.43:147][402]LogProfileSys: Display: 	ItemUpdate: 0.00
+[2018.02.12-11.07.43:147][402]LogProfileSys: Display: 	DestroyOld: 0.00
+[2018.02.12-11.07.43:147][402]LogFortQuest: UFortQuestManager::InitQuests: FromMCP=true, FromUpdate=true.
+[2018.02.12-11.07.43:147][402]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] initial WaitingFor flags [30].
+[2018.02.12-11.07.43:147][402]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] final WaitingFor flags [10].
+[2018.02.12-11.07.45:846][563]LogVivoxVoiceChat: onConnectCompleted https://fnwp.www.vivox.com/api2/
+[2018.02.12-11.07.51:064][874]LogOnline: Verbose: OSS: QueryTheaterList request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/world/info code=200
+[2018.02.12-11.07.51:226][874]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] initial WaitingFor flags [10].
+[2018.02.12-11.07.51:226][874]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) Request.RequestId [0] final WaitingFor flags [0].
+[2018.02.12-11.07.51:226][874]LogFort: UFortRegisteredPlayerInfo::UpdateSynchronizeRequest(IN RequestId [0]) is removing FFortProfileSynchronizeRequest : Request.RequestId [0].
+[2018.02.12-11.07.51:239][874]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Échange des achats hors ligne... (RedeemOfflinePurchases)
+[2018.02.12-11.07.51:272][876]LogFort: Setting up first time rich presence
+[2018.02.12-11.07.51:293][877]LogOnline: OSS: FOnlineIdentityMcp::HandleXmppConnectionCreated
+[2018.02.12-11.07.51:293][877]LogOnline: Verbose: MCP: FOnlineSessionMcp::HandleXmppConnectionCreated
+[2018.02.12-11.07.51:293][877]LogOnline: Verbose: OSS: FOnlineFriendsMcp::HandleXmppConnectionCreated
+[2018.02.12-11.07.51:293][877]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::HandleXmppConnectionCreated
+[2018.02.12-11.07.51:293][877]LogOnline: Verbose: OSS: FOnlinePresenceMcp::HandleXmppConnectionCreated
+[2018.02.12-11.07.51:475][888]LogCatalogHelper: Found receipt with 1 offers for appstore=EpicPurchasingService
+[2018.02.12-11.07.51:475][888]LogCatalogHelper:   Offer 0 had 1 line-items
+[2018.02.12-11.07.51:475][888]LogCatalogHelper: Validated no receipts
+[2018.02.12-11.07.51:490][888]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Recherche de sessions à rejoindre... (CheckingRejoin)
+[2018.02.12-11.07.51:492][889]LogOnline: OSS: Sending FindFriendSession request. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/matchmaking/session/findPlayer/d8aab09b1c854d33a66c04a41ef452a9, friendid=d8aab09b1c854d33a66c04a41ef452a9
+[2018.02.12-11.07.51:741][904]LogOnline: Verbose: OSS: FindFriendSessionUrl request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/matchmaking/session/findPlayer/d8aab09b1c854d33a66c04a41ef452a9 code=200 response=<Payload>
+[2018.02.12-11.07.51:758][905]LogOnline: Verbose: Async task 'FOnlineAsyncTaskMcpFindFriendSession bWasSuccessful: 1' succeeded in 0.265482 seconds
+[2018.02.12-11.07.51:758][905]LogOnline: Verbose: OSS: Num Valid / Total Search Results 0 / 0
+[2018.02.12-11.07.51:758][905]LogOnline: Verbose: OSS: BestSessionIdx -1
+[2018.02.12-11.07.51:758][905]LogOnlineGame: Verbose: [UFortOnlineAccount::OnRejoinCheckComplete] Rejoin check completed with Result (RejoinNotRequired)
+[2018.02.12-11.07.51:773][905]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Vérification de la connexion aux centres de données... (DoQosPingTests)
+[2018.02.12-11.07.51:773][905]LogQos: Verbose: Pinging [NAE] 34.193.154.39:22222
+[2018.02.12-11.07.51:785][905]LogQos: Verbose: Pinging [NAE] 52.203.3.55:22222
+[2018.02.12-11.07.51:796][905]LogQos: Verbose: Pinging [NAE] 54.82.195.216:22222
+[2018.02.12-11.07.51:807][905]LogQos: Verbose: Pinging [NAE] 34.194.116.183:22222
+[2018.02.12-11.07.51:818][905]LogQos: Verbose: Pinging [NAE] 34.193.154.39:22222
+[2018.02.12-11.07.51:829][905]LogQos: Verbose: Pinging [NAW] 13.56.40.30:22222
+[2018.02.12-11.07.51:841][905]LogQos: Verbose: Pinging [NAW] 52.53.85.226:22222
+[2018.02.12-11.07.51:852][905]LogQos: Verbose: Pinging [NAW] 13.57.85.73:22222
+[2018.02.12-11.07.51:863][905]LogQos: Verbose: Pinging [NAW] 13.56.62.131:22222
+[2018.02.12-11.07.51:874][905]LogQos: Verbose: Pinging [NAW] 13.56.40.30:22222
+[2018.02.12-11.07.51:885][905]LogQos: Verbose: Pinging [EU] 18.194.220.44:22222
+[2018.02.12-11.07.51:896][905]LogQos: Verbose: Pinging [EU] 18.194.228.16:22222
+[2018.02.12-11.07.51:907][905]LogQos: Verbose: Pinging [EU] 35.156.234.249:22222
+[2018.02.12-11.07.51:919][905]LogQos: Verbose: Pinging [EU] 35.158.209.186:22222
+[2018.02.12-11.07.51:930][905]LogQos: Verbose: Pinging [EU] 18.194.220.44:22222
+[2018.02.12-11.07.51:941][905]LogQos: Verbose: Pinging [OCE] 13.210.30.168:22222
+[2018.02.12-11.07.51:952][905]LogQos: Verbose: Pinging [OCE] 13.210.108.126:22222
+[2018.02.12-11.07.51:964][905]LogQos: Verbose: Pinging [OCE] 13.210.58.172:22222
+[2018.02.12-11.07.51:975][905]LogQos: Verbose: Pinging [OCE] 13.210.122.252:22222
+[2018.02.12-11.07.51:986][905]LogQos: Verbose: Pinging [OCE] 13.210.30.168:22222
+[2018.02.12-11.07.51:997][905]LogQos: Verbose: Pinging [BR] 52.67.68.145:22222
+[2018.02.12-11.07.52:008][905]LogQos: Verbose: Pinging [BR] 54.207.41.123:22222
+[2018.02.12-11.07.52:019][905]LogQos: Verbose: Pinging [BR] 18.231.38.143:22222
+[2018.02.12-11.07.52:030][905]LogQos: Verbose: Pinging [BR] 18.231.52.12:22222
+[2018.02.12-11.07.52:041][905]LogQos: Verbose: Pinging [BR] 52.67.68.145:22222
+[2018.02.12-11.07.52:052][905]LogQos: Verbose: Pinging [ASIA] 13.125.33.160:22222
+[2018.02.12-11.07.52:064][905]LogQos: Verbose: Pinging [ASIA] 13.124.108.227:22222
+[2018.02.12-11.07.52:075][905]LogQos: Verbose: Pinging [ASIA] 52.78.81.204:22222
+[2018.02.12-11.07.52:086][905]LogQos: Verbose: Pinging [ASIA] 13.125.18.11:22222
+[2018.02.12-11.07.52:097][905]LogQos: Verbose: Pinging [ASIA] 13.125.33.160:22222
+[2018.02.12-11.07.52:108][905]LogQos: Verbose: Pinging [Testtj] 13.115.140.167:22222
+[2018.02.12-11.07.52:119][905]LogQos: Verbose: Pinging [Testtj] 13.115.206.205:22222
+[2018.02.12-11.07.52:130][905]LogQos: Verbose: Pinging [Testtj] 52.196.239.119:22222
+[2018.02.12-11.07.52:142][905]LogQos: Verbose: Pinging [Testtj] 52.69.44.52:22222
+[2018.02.12-11.07.52:153][905]LogQos: Verbose: Pinging [Testtj] 13.115.140.167:22222
+[2018.02.12-11.07.52:164][905]LogQos: Verbose: Pinging [Testsa] 52.221.166.208:22222
+[2018.02.12-11.07.52:175][905]LogQos: Verbose: Pinging [Testsa] 52.74.234.192:22222
+[2018.02.12-11.07.52:186][905]LogQos: Verbose: Pinging [Testsa] 13.228.51.104:22222
+[2018.02.12-11.07.52:197][905]LogQos: Verbose: Pinging [Testsa] 52.220.191.249:22222
+[2018.02.12-11.07.52:208][905]LogQos: Verbose: Pinging [Testsa] 52.221.166.208:22222
+[2018.02.12-11.07.52:220][905]LogQos: Verbose: Pinging [OH] 13.59.18.131:22222
+[2018.02.12-11.07.52:231][905]LogQos: Verbose: Pinging [OH] 18.216.47.148:22222
+[2018.02.12-11.07.52:242][905]LogQos: Verbose: Pinging [OH] 18.221.198.242:22222
+[2018.02.12-11.07.52:253][905]LogQos: Verbose: Pinging [OH] 52.15.144.157:22222
+[2018.02.12-11.07.52:264][905]LogQos: Verbose: Pinging [OH] 13.59.18.131:22222
+[2018.02.12-11.07.52:275][905]LogQos: Verbose: Pinging [GB] 52.56.183.213:22222
+[2018.02.12-11.07.52:286][905]LogQos: Verbose: Pinging [GB] 35.176.251.200:22222
+[2018.02.12-11.07.52:298][905]LogQos: Verbose: Pinging [GB] 35.176.71.245:22222
+[2018.02.12-11.07.52:309][905]LogQos: Verbose: Pinging [GB] 52.56.149.83:22222
+[2018.02.12-11.07.52:320][905]LogQos: Verbose: Pinging [GB] 52.56.183.213:22222
+[2018.02.12-11.07.52:331][905]LogQos: Verbose: Pinging [Testou] 34.215.225.150:22222
+[2018.02.12-11.07.52:342][905]LogQos: Verbose: Pinging [Testou] 34.215.53.191:22222
+[2018.02.12-11.07.52:353][905]LogQos: Verbose: Pinging [Testou] 35.166.120.237:22222
+[2018.02.12-11.07.52:364][905]LogQos: Verbose: Pinging [Testou] 52.34.35.6:22222
+[2018.02.12-11.07.52:375][905]LogQos: Verbose: Pinging [Testou] 34.215.225.150:22222
+[2018.02.12-11.07.52:386][905]LogQos: Verbose: Pinging [Testpf] 52.47.178.167:22222
+[2018.02.12-11.07.52:397][905]LogQos: Verbose: Pinging [Testpf] 52.47.193.251:22222
+[2018.02.12-11.07.52:408][905]LogQos: Verbose: Pinging [Testpf] 52.47.107.154:22222
+[2018.02.12-11.07.52:420][905]LogQos: Verbose: Pinging [Testpf] 52.47.140.95:22222
+[2018.02.12-11.07.52:431][905]LogQos: Verbose: Pinging [Testpf] 52.47.178.167:22222
+[2018.02.12-11.07.52:442][905]LogQos: Verbose: Pinging [Testdi] 34.243.61.206:22222
+[2018.02.12-11.07.52:453][905]LogQos: Verbose: Pinging [Testdi] 52.18.254.19:22222
+[2018.02.12-11.07.52:464][905]LogQos: Verbose: Pinging [Testdi] 52.48.115.87:22222
+[2018.02.12-11.07.52:475][905]LogQos: Verbose: Pinging [Testdi] 34.243.155.72:22222
+[2018.02.12-11.07.52:486][905]LogQos: Verbose: Pinging [Testdi] 34.243.61.206:22222
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [Testdi] 34.243.61.206: 52
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [Testpf] 52.47.178.167: 36
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [Testpf] 52.47.140.95: 38
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [Testpf] 52.47.107.154: 32
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [Testpf] 52.47.193.251: 36
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [Testpf] 52.47.178.167: 37
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [GB] 52.56.183.213: 41
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [GB] 52.56.149.83: 43
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [GB] 35.176.71.245: 43
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [GB] 35.176.251.200: 46
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [GB] 52.56.183.213: 45
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [OH] 13.59.18.131: 134
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [OH] 52.15.144.157: 141
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [OH] 18.221.198.242: 150
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [OH] 18.216.47.148: 160
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [OH] 13.59.18.131: 172
+[2018.02.12-11.07.52:499][906]LogQos: Verbose: Ping Complete [Testsa] 52.221.166.208: 296
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [Testtj] 13.115.140.167: 293
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [Testtj] 52.69.44.52: 279
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [Testtj] 52.196.239.119: 281
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [Testtj] 13.115.206.205: 286
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [Testtj] 13.115.140.167: 293
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [ASIA] 13.125.33.160: 313
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [ASIA] 13.125.18.11: 337
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [ASIA] 52.78.81.204: 309
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [ASIA] 13.124.108.227: 344
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [ASIA] 13.125.33.160: 338
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [BR] 52.67.68.145: 261
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [BR] 18.231.52.12: 252
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [BR] 18.231.38.143: 252
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [BR] 54.207.41.123: 254
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [BR] 52.67.68.145: 252
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [OCE] 13.210.30.168: 319
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [OCE] 13.210.122.252: 308
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [OCE] 13.210.58.172: 316
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [OCE] 13.210.108.126: 313
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [OCE] 13.210.30.168: 310
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [EU] 18.194.220.44: 41
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [EU] 35.158.209.186: 42
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [EU] 35.156.234.249: 42
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [EU] 18.194.228.16: 40
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [EU] 18.194.220.44: 47
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [NAW] 13.56.40.30: 190
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [NAW] 13.56.62.131: 175
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [NAW] 13.57.85.73: 175
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [NAW] 52.53.85.226: 176
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [NAW] 13.56.40.30: 191
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [NAE] 34.193.154.39: 115
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [NAE] 34.194.116.183: 126
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [NAE] 54.82.195.216: 125
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [NAE] 52.203.3.55: 129
+[2018.02.12-11.07.52:500][906]LogQos: Verbose: Ping Complete [NAE] 34.193.154.39: 139
+[2018.02.12-11.07.52:520][908]LogQos: Verbose: Ping Complete [Testdi] 52.18.254.19: 55
+[2018.02.12-11.07.52:537][909]LogQos: Verbose: Ping Complete [Testsa] 52.74.234.192: 352
+[2018.02.12-11.07.52:537][909]LogQos: Verbose: Ping Complete [Testdi] 52.48.115.87: 55
+[2018.02.12-11.07.52:537][909]LogQos: Verbose: Ping Complete [Testdi] 34.243.155.72: 49
+[2018.02.12-11.07.52:554][910]LogQos: Verbose: Ping Complete [Testdi] 34.243.61.206: 56
+[2018.02.12-11.07.52:554][910]LogQos: Verbose: Ping Complete [Testou] 34.215.225.150: 206
+[2018.02.12-11.07.52:554][910]LogQos: Verbose: Ping Complete [Testsa] 52.221.166.208: 330
+[2018.02.12-11.07.52:554][910]LogQos: Verbose: Ping Complete [Testsa] 52.220.191.249: 354
+[2018.02.12-11.07.52:554][910]LogQos: Verbose: Ping Complete [Testsa] 13.228.51.104: 355
+[2018.02.12-11.07.52:570][911]LogQos: Verbose: Ping Complete [Testou] 34.215.53.191: 214
+[2018.02.12-11.07.52:570][911]LogQos: Verbose: Ping Complete [Testou] 35.166.120.237: 206
+[2018.02.12-11.07.52:570][911]LogQos: Verbose: Ping Complete [Testou] 52.34.35.6: 198
+[2018.02.12-11.07.52:587][912]LogQos: Verbose: Ping Complete [Testou] 34.215.225.150: 210
+[2018.02.12-11.07.52:587][912]LogQos: Verbose: Region[NAE] Avg: 126 Num: 5; Adjusted: 126
+[2018.02.12-11.07.52:587][912]LogQos: Verbose: Region[NAW] Avg: 181 Num: 5; Adjusted: 181
+[2018.02.12-11.07.52:587][912]LogQos: Verbose: Region[EU] Avg: 42 Num: 5; Adjusted: 42
+[2018.02.12-11.07.52:587][912]LogQos: Verbose: Region[OCE] Avg: 313 Num: 5; Adjusted: 313
+[2018.02.12-11.07.52:587][912]LogQos: Verbose: Region[BR] Avg: 254 Num: 5; Adjusted: 254
+[2018.02.12-11.07.52:587][912]LogQos: Verbose: Region[ASIA] Avg: 328 Num: 5; Adjusted: 328
+[2018.02.12-11.07.52:587][912]LogQos: Verbose: Region[Testtj] Avg: 286 Num: 5; Adjusted: 286
+[2018.02.12-11.07.52:587][912]LogQos: Verbose: Region[Testsa] Avg: 337 Num: 5; Adjusted: 337
+[2018.02.12-11.07.52:587][912]LogQos: Verbose: Region[OH] Avg: 151 Num: 5; Adjusted: 151
+[2018.02.12-11.07.52:587][912]LogQos: Verbose: Region[GB] Avg: 43 Num: 5; Adjusted: 43
+[2018.02.12-11.07.52:587][912]LogQos: Verbose: Region[Testou] Avg: 206 Num: 5; Adjusted: 206
+[2018.02.12-11.07.52:587][912]LogQos: Verbose: Region[Testpf] Avg: 35 Num: 5; Adjusted: 35
+[2018.02.12-11.07.52:587][912]LogQos: Verbose: Region[Testdi] Avg: 53 Num: 5; Adjusted: 53
+[2018.02.12-11.07.52:587][912]LogQos: Verbose: No region currently set, returning NONE
+[2018.02.12-11.07.52:587][912]LogQos: SetSelectedRegion: failed to find region id NONE
+[2018.02.12-11.07.52:601][912]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Création du groupe... (CreatingParty)
+[2018.02.12-11.07.52:602][912]LogOnlineParty: Warning: OSS::Party: FOnlinePartySystemMcp::PublishPartyInfoToPresence failure to publish presence user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.07.52:602][912]LogParty: Display: OnCreatePartyInternalComplete() 067409904F1AFD109510CBB73E8B2515 Succeeded
+[2018.02.12-11.07.52:602][912]LogFort: Setting up first time rich presence
+[2018.02.12-11.07.52:602][912]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.07.52:602][912]LogFort: Setting up first time rich presence
+[2018.02.12-11.07.52:603][912]LogOnlineParty: Verbose: OSS::Party: UpdatePartyMemberData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.07.52:603][912]LogOnlineParty: Verbose: OSS::Party: UpdatePartyMemberData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.07.52:603][912]LogParty: Display: Local player [AegonLeDragon] (ID [d8aab09b1c854d33a66c04a41ef452a9]) joined a new party [067409904F1AFD109510CBB73E8B2515].
+[2018.02.12-11.07.52:604][912]LogOnline: OnPartyJoined 067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.07.52:604][912]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.07.52:604][912]LogParty: Display: OnCreatePersistentPartyComplete() Succeeded
+[2018.02.12-11.07.52:604][912]LogParty: Verbose: UFortPartyGameState::UpdateAcceptingMembers()
+[2018.02.12-11.07.52:604][912]LogParty: Verbose: DenialReason: Invalid subgame
+[2018.02.12-11.07.52:604][912]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.updatepartyconfiguration user=d8aab09b1c854d33a66c04a41ef452a9 to=all payload={"partyId":"067409904F1AFD109510CBB73E8B2515","presencePermissions":-1961316796,"invitePermissions":2,"partyFlags":2,"notAcceptingMembersReason":1,"maxMembers":4,"password":"","accessKey":"BC7B243E4D0072998DA23B85F7EE9115","clientData":""}
+[2018.02.12-11.07.52:604][912]LogOnlineParty: Warning: OSS::Party: FOnlinePartySystemMcp::PublishPartyInfoToPresence failure to publish presence user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.07.52:604][912]LogOnlineParty: Verbose: OSS::Party: UpdateParty request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.07.52:604][912]LogParty: Verbose: [067409904F1AFD109510CBB73E8B2515] Party config updated Succeeded
+[2018.02.12-11.07.52:604][912]LogOnlineParty: OSS::Party: CreateParty request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515 state=Disconnected
+[2018.02.12-11.07.52:606][913]LogParty: [067409904F1AFD109510CBB73E8B2515] Party config changed
+[2018.02.12-11.07.52:606][913]LogParty: [067409904F1AFD109510CBB73E8B2515] Player d8aab09b1c854d33a66c04a41ef452a9 data received
+[2018.02.12-11.07.52:606][913]LogParty: Verbose: HandlePartyMemberJoined: Party [067409904F1AFD109510CBB73E8B2515] Registering team member [d8aab09b1c854d33a66c04a41ef452a9]!
+[2018.02.12-11.07.52:606][913]LogParty: Display: New party member state for [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] added to the local player's party [067409904F1AFD109510CBB73E8B2515].
+[2018.02.12-11.07.52:606][913]LogFortQuest: UFortQuestManager::InitQuests: FromMCP=true, FromUpdate=false.
+[2018.02.12-11.07.52:606][913]LogFortQuest: UFortQuestManager::InitQuests: FromMCP=true, FromUpdate=false.
+[2018.02.12-11.07.52:606][913]LogFortQuest: UFortQuestManager::InitQuests: Updating player: d8aab09b1c854d33a66c04a41ef452a9, bHasInitialUpdate: 1, bTutorialCompleted: 0
+[2018.02.12-11.07.52:606][913]LogFortQuest: UFortQuestManager::InitQuests: HasCompletedOnboardingQuests: 0
+[2018.02.12-11.07.52:606][913]LogFortPlayerRegistration: BindToPlayerController trying to initialize ability system actor
+[2018.02.12-11.07.52:607][913]LogFortPlayerRegistration: BindToPlayerState trying to initialize ability system actor
+[2018.02.12-11.07.52:607][913]LogParty: Verbose: UFortUITeamInfo::GetParty: Adding for party leader Id [d8aab09b1c854d33a66c04a41ef452a9]
+[2018.02.12-11.07.52:607][913]LogParty: Display: Adding [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] as a new member to [d8aab09b1c854d33a66c04a41ef452a9]'s party via an existing UITeamMember in [AegonLeDragon]'s game.
+[2018.02.12-11.07.52:607][913]LogParty: Display: New member [d8aab09b1c854d33a66c04a41ef452a9] added to UI Party led by [d8aab09b1c854d33a66c04a41ef452a9].
+[2018.02.12-11.07.52:607][913]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9].
+[2018.02.12-11.07.52:607][913]LogParty: Display: [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] added to team [MAX] at index [0] in [AegonLeDragon]'s game.
+[2018.02.12-11.07.52:607][913]LogParty: Display: Got bad homebase data
+[2018.02.12-11.07.52:608][913]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9].
+[2018.02.12-11.07.52:608][913]LogParty: Display: [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] team member data updated, team [MAX] at index [0] in [AegonLeDragon]'s game.
+[2018.02.12-11.07.52:608][913]LogParty: Display: Got bad homebase data
+[2018.02.12-11.07.52:618][913]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Activation du son... (ConnectToVivox)
+[2018.02.12-11.07.52:618][913]LogVivoxVoiceChat: FVivox::Connect
+[2018.02.12-11.07.52:635][914]LogOnlineGame: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Finalisation de la connexion... (Completed)
+[2018.02.12-11.07.52:635][914]LogOnlineGame: Verbose: [UOnlineAccountCommon::LoginStep_Completed]
+[2018.02.12-11.07.52:636][914]LogProfileSys: MCP-Profile: Dispatching request to https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/storefront/v2/catalog?rvn=212
+[2018.02.12-11.07.52:640][914]LogOnlineGame: Verbose: [UOnlineAccountCommon::TriggerLoginComplete]
+[2018.02.12-11.07.52:640][914]LogOnlineGame: Verbose: [UFortUIStateWidget_Login::HandleLoginRequestComplete] [Result=2] [ErrorReason=]
+[2018.02.12-11.07.52:646][914]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel MOTD_C_0: 
+[2018.02.12-11.07.52:646][914]LogCommonInput: Verbose: Input suspension: Started
+[2018.02.12-11.07.52:646][914]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.07.52:646][914]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: MOTD_C_0
+[2018.02.12-11.07.52:646][914]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: MOTD_C_0
+[2018.02.12-11.07.52:646][914]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: MOTD_C_0
+[2018.02.12-11.07.52:646][914]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.07.52:646][914]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.02.12-11.07.52:646][914]LogFort: Setting up first time rich presence
+[2018.02.12-11.07.52:646][914]LogOnlineGame: Verbose: UFortOnlineAccount::UAC_ClientLogin, logging in local player with ID INVALID
+[2018.02.12-11.07.52:671][916]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.02.12-11.07.52:778][922]LogOnlineParty: OSS::Party: FOnlinePartySystemMcp::OnXmppLoginChanged - logged in user d8aab09b1c854d33a66c04a41ef452a9
+[2018.02.12-11.07.52:778][922]LogOnlineParty: OSS::Party: FOnlinePartySystemMcp::OnLoggedIntoXmpp - Updating party data user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515 state=Disconnected
+[2018.02.12-11.07.52:778][922]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.updatepartyconfiguration user=d8aab09b1c854d33a66c04a41ef452a9 to=all payload={"partyId":"067409904F1AFD109510CBB73E8B2515","presencePermissions":-1465413308,"invitePermissions":2,"partyFlags":2,"notAcceptingMembersReason":1,"maxMembers":4,"password":"","accessKey":"BC7B243E4D0072998DA23B85F7EE9115","clientData":""}
+[2018.02.12-11.07.52:778][922]LogParty: Verbose: PartyStateChanged: [067409904F1AFD109510CBB73E8B2515] state changed to Active
+[2018.02.12-11.07.52:778][922]LogOnlineParty: Display: OSS::Party: Publishing party to presence DisplayName(AegonLeDragon) PartyId(067409904F1AFD109510CBB73E8B2515) LeaderId(d8aab09b1c854d33a66c04a41ef452a9) LeaderDisplayName(AegonLeDragon) AccessKey(BC7B243E4D0072998DA23B85F7EE9115) HasPassword(0) IsAcceptingMembers(0) NotAcceptingReason(1)
+[2018.02.12-11.07.52:778][922]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::PublishPartyInfoToPresence success to publish presence user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.07.52:778][922]LogOnline: OSS: FOnlineIdentityMcp::OnXmppLoginChanged d8aab09b1c854d33a66c04a41ef452a9@prod.ol.epicgames.com/V2:Fortnite:WIN::2088949B4ECEA8E7A8C99D987DC22047 loggedin
+[2018.02.12-11.07.53:584][963]LogFortLoadingScreen: Hiding loading screen when 'IsShowingInitialLoadingScreen()' is false.
+[2018.02.12-11.07.53:584][963]LogFortLoadingScreen: Hiding loading screen because this AFortPlayerController is not in Zone and always returns 'hide loading screen'.
+[2018.02.12-11.07.53:833][976]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=d8aab09b1c854d33a66c04a41ef452a9@prod.ol.epicgames.com/V2:Fortnite:WIN::2088949B4ECEA8E7A8C99D987DC22047 [Online] [2018.02.12-11.07.52] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"d8aab09b1c854d33a66c04a41ef452a9\",\"sourceDisplayName\":\"AegonLeDragon\",\"partyId\":\"067409904F1AFD109510CBB73E8B2515\",\"partyTypeId\":286331153,\"leaderId\":\"d8aab09b1c854d33a66c04a41ef452a9\",\"leaderDisplayName\":\"AegonLeDragon\",\"key\":\"BC7B243E4D0072998DA23B85F7EE9115\",\"appId\":\"Fortnite\",\"buildId\":\"3873824\",\"partyFlags\":4,\"notAcceptingReason\":1}","Name":"party.joininfodata.286331153"}]}]
+[2018.02.12-11.07.53:851][977]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=d8aab09b1c854d33a66c04a41ef452a9@prod.ol.epicgames.com/V2:Fortnite:WIN::2088949B4ECEA8E7A8C99D987DC22047 [Online] [2018.02.12-11.07.52] [{"Status":"","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"d8aab09b1c854d33a66c04a41ef452a9\",\"sourceDisplayName\":\"AegonLeDragon\",\"partyId\":\"067409904F1AFD109510CBB73E8B2515\",\"partyTypeId\":286331153,\"leaderId\":\"d8aab09b1c854d33a66c04a41ef452a9\",\"leaderDisplayName\":\"AegonLeDragon\",\"key\":\"BC7B243E4D0072998DA23B85F7EE9115\",\"appId\":\"Fortnite\",\"buildId\":\"3873824\",\"partyFlags\":4,\"notAcceptingReason\":1}","Name":"party.joininfodata.286331153"}]}]
+[2018.02.12-11.07.54:304][  0]LogOnline: Verbose: OSS: Starting QueryOffersById request.
+[2018.02.12-11.07.54:447][  8]LogOnline: Verbose: OSS: You have 3 friends.
+[2018.02.12-11.07.54:447][  8]LogOnlineGame: Verbose: [UFortPartyContext::OnFriendsListUpdated] Friendslist has updated
+[2018.02.12-11.07.54:447][  8]LogOnline: Verbose: MCP: Starting QueryUserInfo request.
+[2018.02.12-11.07.54:981][ 36]LogOnline: Verbose: MCP: QueryUserInfo request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/public/account?accountId=b4799078bb774b20a9397dbcbb5225c1&accountId=e169d73a0fa041b1a3fd696363c55749&accountId=0d504116c8c445a8a88fb64ae441dae1 code=200 response=<REDACTED>
+[2018.02.12-11.07.54:982][ 36]LogOnline: Verbose: Adding user from query user info
+[2018.02.12-11.07.54:982][ 36]LogOnline: Verbose: ArePlatformsJoinable - PlatformA=[WIN] and PlatformB=[] are not considered joinable
+[2018.02.12-11.07.54:982][ 36]LogOnline: Verbose: **** Friend Service - Adding friended item ArtHur42660
+[2018.02.12-11.07.54:982][ 36]LogOnline: Verbose: Adding user from query user info
+[2018.02.12-11.07.54:982][ 36]LogOnline: Verbose: ArePlatformsJoinable - PlatformA=[WIN] and PlatformB=[] are not considered joinable
+[2018.02.12-11.07.54:982][ 36]LogOnline: Verbose: **** Friend Service - Adding friended item lodudu
+[2018.02.12-11.07.55:244][ 50]LogOnline: Verbose: OSS: You have 0 blocked players.
+[2018.02.12-11.07.55:244][ 50]LogOnline: Verbose: MCP: Starting QueryUserInfo request.
+[2018.02.12-11.07.55:587][ 68]LogOnline: Verbose: OSS: QueryOffers request complete. url=https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/bulk/offers?id=3b4c5df9efa5415b941cf74262865e4e&id=559f2ba95f874ec987d0ebfd2cc9c70a&id=4daadb392f1c4ee2b5a3af443e614d2a&id=ede05b3c97e9475a8d9be91da65750f0&id=f5c0e8ab6c9a4530999041e89e9b6934&id=9aa9f44cd8c24652953a1b204755b193&id=e2f25dae43604a839dd6f2c21b675d5e&id=d2da86026c71429a9cf5e76dfd89a1d3&id=e852b1940299435884365cec7dc3a608&id=35759d71512b47e5b2825669f1d9166a&id=c8319a037f9840e8b7549de480efb9c7&id=f05c43f7c1d24f5fbb1a6fa5a5a60edb&id=57f0419c4e4a4ea4858b2f37a98d5315&id=41134f4ff35a45a4923604cbb15e487d&id=85125898f3914946a9443bcce4667660&returnItemDetails=false&country=FR&locale=fr-FR code=200
+[2018.02.12-11.07.55:591][ 68]LogOnline: Verbose: OSS: Starting QueryOfferPromotions request.
+[2018.02.12-11.07.55:591][ 68]LogOnline: Verbose: MCP: QueryUserInfo request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/public/account?accountId=0d504116c8c445a8a88fb64ae441dae1 code=200 response=<REDACTED>
+[2018.02.12-11.07.55:808][ 80]LogOnline: Verbose: OSS: You have 0 recent players.
+[2018.02.12-11.07.56:371][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.02.12-11.07.56:429][113]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: MOTD_C_0
+[2018.02.12-11.07.56:429][113]LogCommonInput: Verbose: Input suspension: Started
+[2018.02.12-11.07.56:429][113]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.07.56:429][113]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.07.56:429][113]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.02.12-11.07.56:430][113]LogGameMode: GameMode returned ReadyToStartMatch
+[2018.02.12-11.07.56:430][113]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.12-11.07.56:431][113]LogHotfixManager: Display: Returning cached update result 1
+[2018.02.12-11.07.56:431][113]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.12-11.07.56:431][113]LogFortMemory: ================== Health Snapshot: Start of Match (FortGameStateFrontEnd) =================
+[2018.02.12-11.07.56:431][113]LogFortMemory: Hero: , Theater: , Mission: , Location: 
+[2018.02.12-11.07.56:431][113]LogFortMemory: Games Played: 0, MeasuredPerfTime 0.00 Secs
+[2018.02.12-11.07.56:431][113]LogFortMemory: CPU Memory: Used 1397.27MB, Peak 1424.49MB
+[2018.02.12-11.07.56:431][113]LogFortMemory: Physical Memory: Used 5750.52MB, Total: 8055.06MB
+[2018.02.12-11.07.56:431][113]LogFortMemory: =============================================================
+[2018.02.12-11.07.56:432][113]LogFortLoadingScreen: Showing loading screen when 'IsShowingInitialLoadingScreen()' is false.
+[2018.02.12-11.07.56:432][113]LogFortLoadingScreen: Showing LoadingScreen because important patch check in progress
+[2018.02.12-11.07.56:443][113]LogGarbage: Collecting garbage   (GCheckForIllegalMarkPendingKill = 0)
+[2018.02.12-11.07.56:503][113]LogGarbage: 59.816431 ms for GC
+[2018.02.12-11.07.56:504][113]LogGarbage: 1.492050 ms for unhashing unreachable objects. Clusters removed: 0.   Items 463 Cluster Items 0
+[2018.02.12-11.07.56:512][114]LogOnline: Verbose: OSS: QueryOfferPromotions request complete. url=https://priceengine-public-service-ecomprod01.ol.epicgames.com/priceengine/api/shared/offers/price code=200 response={"accountId":"d8aab09b1c854d33a66c04a41ef452a9","identityId":"d8aab09b1c854d33a66c04a41ef452a9","country":"FR","taxCalculationStatus":"NOT_APPLICABLE","totalPrice":{"currencyCode":"EUR","discountPrice":99485,"originalPrice":99485,"discountPercentage":100,"discount":0,"basePayoutPrice":99485,"basePayoutCurrencyCode":"USD"},"totalPaymentPrice":{"paymentCurrencyExchangeRate":1.0,"paymentCurrencyCode":"EUR","paymentCurrencySymbol":"€","paymentCurrencyAmount":99485},"coupons":[],"lineOffers":[{"lineId":"1","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":10999,"unitPrice":10999,"originalPrice":10999,"originalUnitPrice":10999,"discountPercentage":100,"discount":0,"basePayoutPrice":10999,"basePayoutCurrencyCode":"USD"},"offerId":"57f0419c4e4a4ea4858b2f37a98d5315","appliedRules":[],"ref":"57f0419c4e4a4ea4858b2f37a98d5315"},{"lineId":"2","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":3999,"unitPrice":3999,"originalPrice":3999,"originalUnitPrice":3999,"discountPercentage":100,"discount":0,"basePayoutPrice":3999,"basePayoutCurrencyCode":"USD"},"offerId":"e2f25dae43604a839dd6f2c21b675d5e","appliedRules":[],"ref":"e2f25dae43604a839dd6f2c21b675d5e"},{"lineId":"3","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":2499,"unitPrice":2499,"originalPrice":2499,"originalUnitPrice":2499,"discountPercentage":100,"discount":0,"basePayoutPrice":2499,"basePayoutCurrencyCode":"USD"},"offerId":"559f2ba95f874ec987d0ebfd2cc9c70a","appliedRules":[],"ref":"559f2ba95f874ec987d0ebfd2cc9c70a"},{"lineId":"4","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":14999,"unitPrice":14999,"originalPrice":14999,"originalUnitPrice":14999,"discountPercentage":100,"discount":0,"basePayoutPrice":14999,"basePayoutCurrencyCode":"USD"},"offerId":"85125898f3914946a9443bcce4667660","appliedRules":[],"ref":"85125898f3914946a9443bcce4667660"},{"lineId":"5","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":1999,"unitPrice":1999,"originalPrice":1999,"originalUnitPrice":1999,"discountPercentage":100,"discount":0,"basePayoutPrice":1999,"basePayoutCurrencyCode":"USD"},"offerId":"9aa9f44cd8c24652953a1b204755b193","appliedRules":[],"ref":"9aa9f44cd8c24652953a1b204755b193"},{"lineId":"6","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":5999,"unitPrice":5999,"originalPrice":5999,"originalUnitPrice":5999,"discountPercentage":100,"discount":0,"basePayoutPrice":5999,"basePayoutCurrencyCode":"USD"},"offerId":"3b4c5df9efa5415b941cf74262865e4e","appliedRules":[],"ref":"3b4c5df9efa5415b941cf74262865e4e"},{"lineId":"7","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":4999,"unitPrice":4999,"originalPrice":4999,"originalUnitPrice":4999,"discountPercentage":100,"discount":0,"basePayoutPrice":4999,"basePayoutCurrencyCode":"USD"},"offerId":"f5c0e8ab6c9a4530999041e89e9b6934","appliedRules":[],"ref":"f5c0e8ab6c9a4530999041e89e9b6934"},{"lineId":"8","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":5999,"unitPrice":5999,"originalPrice":5999,"originalUnitPrice":5999,"discountPercentage":100,"discount":0,"basePayoutPrice":5999,"basePayoutCurrencyCode":"USD"},"offerId":"41134f4ff35a45a4923604cbb15e487d","appliedRules":[],"ref":"41134f4ff35a45a4923604cbb15e487d"},{"lineId":"9","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":9999,"unitPrice":9999,"originalPrice":9999,"originalUnitPrice":9999,"discountPercentage":100,"discount":0,"basePayoutPrice":9999,"basePayoutCurrencyCode":"USD"},"offerId":"4daadb392f1c4ee2b5a3af443e614d2a","appliedRules":[],"ref":"4daadb392f1c4ee2b5a3af443e614d2a"},{"lineId":"10","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":8999,"unitPrice":8999,"originalPrice":8999,"originalUnitPrice":8999,"discountPercentage":100,"discount":0,"basePayoutPrice":8999,"basePayoutCurrencyCode":"USD"},"offerId":"d2da86026c71429a9cf5e76dfd89a1d3","appliedRules":[],"ref":"d2da86026c71429a9cf5e76dfd89a1d3"},{"lineId":"11","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":8999,"unitPrice":8999,"originalPrice":8999,"originalUnitPrice":8999,"discountPercentage":100,"discount":0,"basePayoutPrice":8999,"basePayoutCurrencyCode":"USD"},"offerId":"c8319a037f9840e8b7549de480efb9c7","appliedRules":[],"ref":"c8319a037f9840e8b7549de480efb9c7"},{"lineId":"12","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":2999,"unitPrice":2999,"originalPrice":2999,"originalUnitPrice":2999,"discountPercentage":100,"discount":0,"basePayoutPrice":2999,"basePayoutCurrencyCode":"USD"},"offerId":"35759d71512b47e5b2825669f1d9166a","appliedRules":[],"ref":"35759d71512b47e5b2825669f1d9166a"},{"lineId":"13","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":9999,"unitPrice":9999,"originalPrice":9999,"originalUnitPrice":9999,"discountPercentage":100,"discount":0,"basePayoutPrice":9999,"basePayoutCurrencyCode":"USD"},"offerId":"e852b1940299435884365cec7dc3a608","appliedRules":[],"ref":"e852b1940299435884365cec7dc3a608"},{"lineId":"14","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":5999,"unitPrice":5999,"originalPrice":5999,"originalUnitPrice":5999,"discountPercentage":100,"discount":0,"basePayoutPrice":5999,"basePayoutCurrencyCode":"USD"},"offerId":"f05c43f7c1d24f5fbb1a6fa5a5a60edb","appliedRules":[],"ref":"f05c43f7c1d24f5fbb1a6fa5a5a60edb"},{"lineId":"15","quantity":1,"taxSkuId":"FN_Currency","price":{"currencyCode":"EUR","discountPrice":999,"unitPrice":999,"originalPrice":999,"originalUnitPrice":999,"discountPercentage":100,"discount":0,"basePayoutPrice":999,"basePayoutCurrencyCode":"USD"},"offerId":"ede05b3c97e9475a8d9be91da65750f0","appliedRules":[],"ref":"ede05b3c97e9475a8d9be91da65750f0"}]}
+[2018.02.12-11.07.56:513][114]LogCatalogHelper: RefreshCatalog complete (HTTP 200)
+[2018.02.12-11.07.56:537][115]LogHotfixManager: Display: CheckComplete UpdateSuccess
+[2018.02.12-11.07.56:539][115]LogGarbage: GC purged 463 objects (263754 -> 263291)
+[2018.02.12-11.07.56:539][115]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.02.12-11.07.57:037][145]LogHotfixManager: Display: External CheckComplete UpdateSuccess
+[2018.02.12-11.07.57:037][145]LogHotfixManager: Display: Update State UpdatePending -> UpdateComplete
+[2018.02.12-11.07.57:037][145]LogFort: Display: AFortGameModeFrontEnd::OnUpdateCheckComplete called. Result=1
+[2018.02.12-11.07.57:045][145]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel SubgameSelectScreen_C_0: 
+[2018.02.12-11.07.57:045][145]LogCommonInput: Verbose: Input suspension: Started
+[2018.02.12-11.07.57:045][145]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.07.57:045][145]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: SubgameSelectScreen_C_0
+[2018.02.12-11.07.57:045][145]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: SubgameSelectScreen_C_0
+[2018.02.12-11.07.57:045][145]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: SubgameSelectScreen_C_0
+[2018.02.12-11.07.57:045][145]LogFortNavigation: Verbose: CenterWidget(UWidget): CampaignBtn 
+[2018.02.12-11.07.57:046][145]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.07.57:046][145]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.02.12-11.07.57:070][147]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.02.12-11.07.58:540][232]LogFortLoadingScreen: Hiding loading screen when 'IsShowingInitialLoadingScreen()' is false.
+[2018.02.12-11.07.58:540][232]LogFortLoadingScreen: Hiding loading screen because this AFortPlayerController is not in Zone and always returns 'hide loading screen'.
+[2018.02.12-11.08.35:600][454]LogFortMemory: Heartbeat - CPU:1366.38MB (Peak: 1424.49MB)
+[2018.02.12-11.08.38:502][629]LogOnline: Verbose: OSS: VerifyAuth request. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/verify, user id=d8aab09b1c854d33a66c04a41ef452a9, state=1, accessexpires=28740.16
+[2018.02.12-11.08.38:752][644]LogOnline: Verbose: OSS: Verify auth request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/verify code=200
+[2018.02.12-11.08.38:752][644]LogOnline: Verbose: OSS: User ClientId: ec684b8c687f479fadea3cb2ad83f5c6 AccountId: d8aab09b1c854d33a66c04a41ef452a9 Access[Expires: 2018.02.12-19.07.39 Remaining: 28739.46] Method: exchange_code drift: 0.47
+[2018.02.12-11.08.57:544][770]LogGarbage: Collecting garbage   (GCheckForIllegalMarkPendingKill = 0)
+[2018.02.12-11.08.57:627][770]LogGarbage: 82.348284 ms for GC
+[2018.02.12-11.08.57:629][770]LogGarbage: 1.624862 ms for unhashing unreachable objects. Clusters removed: 0.   Items 124 Cluster Items 0
+[2018.02.12-11.08.57:667][773]LogGarbage: GC purged 124 objects (263570 -> 263446)
+[2018.02.12-11.09.00:891][967]LogOnlineGame: NOT requesting rooms for athena global chat, currently disabled for athena game mode.
+[2018.02.12-11.09.00:891][967]LogJson: Warning: Field last_incremented_time was not found.
+[2018.02.12-11.09.00:891][967]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2018.02.12-11.09.00:891][967]LogProfileSys: MCP-Profile: Dispatching request to https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/d8aab09b1c854d33a66c04a41ef452a9/client/IncrementNamedCounterStat?profileId=profile0&rvn=212
+[2018.02.12-11.09.00:891][967]LogProfileSys: MCP-Profile: Command IncrementNamedCounterStat queued to send
+[2018.02.12-11.09.00:891][967]LogFortMemory: ---------------------
+[2018.02.12-11.09.00:891][967]LogFortMemory: UFortAssetManager::ChangeGameSubMode is changing mode from [NoMode] to Athena
+[2018.02.12-11.09.00:892][967]LogFortMemory: UFortAssetManager::ChangeGameSubMode() changing bundle state to (Menu, Client, ClientAthena)
+[2018.02.12-11.09.00:903][967]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: SubgameSelectScreen_C_0
+[2018.02.12-11.09.00:903][967]LogCommonInput: Verbose: Input suspension: Started
+[2018.02.12-11.09.00:903][967]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.00:903][967]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.00:903][967]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.02.12-11.09.00:929][967]LogMcpContext: [QueryUnredeemedFriendCodes] Attempting to query friend codes
+[2018.02.12-11.09.00:954][967]LogDataTable: Warning: UDataTable::FindRow : 'UFortGlobalUIContext::GetHealthyGamingData' requested row 'fr' not in DataTable '/Game/UI/Foundation/Config/HealthyGamingData.HealthyGamingData'.
+[2018.02.12-11.09.00:977][967]LogFort: Frontend Behavior Cohort: MapScreen
+[2018.02.12-11.09.00:977][967]LogParty: Verbose: UFortPartyContext::HandlePendingInvites
+[2018.02.12-11.09.00:977][967]LogParty: Resetting parties for frontend, bLeavePartyWhenReturningToFrontEnd: 0
+[2018.02.12-11.09.00:977][967]LogParty: Verbose: Resetting parties for frontend
+[2018.02.12-11.09.00:978][967]LogOnlineParty: Verbose: OSS::Party: UpdatePartyMemberData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.00:978][967]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.00:978][967]LogOnlineParty: Verbose: OSS::Party: UpdateParty request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.00:978][967]LogParty: Verbose: [067409904F1AFD109510CBB73E8B2515] Party config updated Succeeded
+[2018.02.12-11.09.00:978][967]LogParty: Verbose: UFortPartyGameState::UpdateAcceptingMembers()
+[2018.02.12-11.09.00:978][967]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.updatepartyconfiguration user=d8aab09b1c854d33a66c04a41ef452a9 to=all payload={"partyId":"067409904F1AFD109510CBB73E8B2515","presencePermissions":-1961316796,"invitePermissions":2,"partyFlags":3,"notAcceptingMembersReason":0,"maxMembers":4,"password":"","accessKey":"BC7B243E4D0072998DA23B85F7EE9115","clientData":""}
+[2018.02.12-11.09.00:978][967]LogOnlineParty: Display: OSS::Party: Publishing party to presence DisplayName(AegonLeDragon) PartyId(067409904F1AFD109510CBB73E8B2515) LeaderId(d8aab09b1c854d33a66c04a41ef452a9) LeaderDisplayName(AegonLeDragon) AccessKey(BC7B243E4D0072998DA23B85F7EE9115) HasPassword(0) IsAcceptingMembers(1) NotAcceptingReason(0)
+[2018.02.12-11.09.00:978][967]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::PublishPartyInfoToPresence success to publish presence user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.00:978][967]LogOnlineParty: Verbose: OSS::Party: UpdateParty request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.00:978][967]LogParty: Verbose: [067409904F1AFD109510CBB73E8B2515] Party config updated Succeeded
+[2018.02.12-11.09.00:978][967]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.00:978][967]LogParty: Display: UFortPartyContext::HandlePartyResetForFrontend: PartyState [067409904F1AFD109510CBB73E8B2515]
+[2018.02.12-11.09.00:978][967]LogParty: Display: UFortPartyContext::HandlePartyLeft: PartyState [null], Reason Unknown
+[2018.02.12-11.09.00:978][967]LogParty: Display: Local player [AegonLeDragon] (ID [d8aab09b1c854d33a66c04a41ef452a9]) left party [null]
+[2018.02.12-11.09.00:978][967]LogParty: Verbose: UFortUITeamInfo::Empty: Removing party leader Id [d8aab09b1c854d33a66c04a41ef452a9]
+[2018.02.12-11.09.00:979][967]LogParty: Verbose: UFortUITeamInfo::GetParty: Adding for party leader Id [d8aab09b1c854d33a66c04a41ef452a9]
+[2018.02.12-11.09.00:979][967]LogParty: Display: Local player [AegonLeDragon] (ID [d8aab09b1c854d33a66c04a41ef452a9]) joined a new party [067409904F1AFD109510CBB73E8B2515].
+[2018.02.12-11.09.00:979][967]LogParty: Verbose: HandlePartyMemberJoined: Party [067409904F1AFD109510CBB73E8B2515] Registering team member [d8aab09b1c854d33a66c04a41ef452a9]!
+[2018.02.12-11.09.00:979][967]LogParty: Display: New party member state for [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] added to the local player's party [067409904F1AFD109510CBB73E8B2515].
+[2018.02.12-11.09.00:979][967]LogFortQuest: UFortQuestManager::InitQuests: FromMCP=true, FromUpdate=false.
+[2018.02.12-11.09.00:979][967]LogFortPlayerRegistration: BindToPlayerController trying to initialize ability system actor
+[2018.02.12-11.09.00:980][967]LogFort: Warning: No attribute initialization category when HeroType is Ramirez, soldat d'assistance
+[2018.02.12-11.09.00:980][967]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.00:980][967]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.00:980][967]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.00:980][967]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.00:980][967]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.00:980][967]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.00:980][967]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.00:980][967]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.00:980][967]LogFort: ApplyHeroEffectsAndAbilities succeeded
+[2018.02.12-11.09.00:981][967]LogFort: ApplyHomebaseEffectsOnPlayerSetup Succeeded
+[2018.02.12-11.09.00:981][967]LogFortPlayerRegistration: BindToPlayerState trying to initialize ability system actor
+[2018.02.12-11.09.00:981][967]LogParty: Display: Removing [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] from [AegonLeDragon]'s team.
+[2018.02.12-11.09.00:981][967]LogParty: Display: Adding [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] as a new member to [d8aab09b1c854d33a66c04a41ef452a9]'s party via an existing UITeamMember in [AegonLeDragon]'s game.
+[2018.02.12-11.09.00:981][967]LogParty: Display: New member [d8aab09b1c854d33a66c04a41ef452a9] added to UI Party led by [d8aab09b1c854d33a66c04a41ef452a9].
+[2018.02.12-11.09.00:981][967]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9].
+[2018.02.12-11.09.00:981][967]LogParty: Display: [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] team member data updated, team [MAX] at index [0] in [AegonLeDragon]'s game.
+[2018.02.12-11.09.00:981][967]LogParty: Display: Got bad homebase data
+[2018.02.12-11.09.00:981][967]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9].
+[2018.02.12-11.09.00:982][967]LogParty: Display: [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] team member data updated, team [MAX] at index [0] in [AegonLeDragon]'s game.
+[2018.02.12-11.09.00:982][967]LogParty: Display: Got bad homebase data
+[2018.02.12-11.09.00:982][967]LogParty: Display: UFortPartyContext::HandlePartyResetForFrontend exit
+[2018.02.12-11.09.01:001][967]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.01:001][967]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.01:106][967]LogFortNavigation: Verbose: CenterWidget(UWidget): AthenaSeasonReward_C_0 
+[2018.02.12-11.09.01:182][967]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel AthenaTabsScreen_C_0: 
+[2018.02.12-11.09.01:182][967]LogCommonInput: Verbose: Input suspension: Started
+[2018.02.12-11.09.01:182][967]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.01:182][967]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: AthenaTabsScreen_C_0
+[2018.02.12-11.09.01:182][967]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: AthenaTabsScreen_C_0
+[2018.02.12-11.09.01:182][967]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: AthenaTabsScreen_C_0
+[2018.02.12-11.09.01:182][967]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding outro op for top activatable panel
+[2018.02.12-11.09.01:182][967]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel AthenaLobby_C_0: 
+[2018.02.12-11.09.01:182][967]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.01:182][967]LogCommonInput: Verbose: StartNextOperation: deactivate for panel: AthenaTabsScreen_C_0
+[2018.02.12-11.09.01:182][967]LogCommonInput: Verbose: OnPostPanelDeactivatedForPush: deactivated panel: AthenaTabsScreen_C_0
+[2018.02.12-11.09.01:182][967]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.01:182][967]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: AthenaLobby_C_0
+[2018.02.12-11.09.01:182][967]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: AthenaLobby_C_0
+[2018.02.12-11.09.01:182][967]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: AthenaLobby_C_0
+[2018.02.12-11.09.01:182][967]LogFortNavigation: Verbose: CenterWidget(UWidget): ButtonGamepadSelect 
+[2018.02.12-11.09.01:184][967]LogProfileSys: MCP-Profile: Command ClientQuestLogin queued to send
+[2018.02.12-11.09.01:184][967]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.01:184][967]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.02.12-11.09.01:186][967]LogParty: [067409904F1AFD109510CBB73E8B2515] Party config changed
+[2018.02.12-11.09.01:186][967]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.data user=d8aab09b1c854d33a66c04a41ef452a9 to all
+[2018.02.12-11.09.01:186][967]LogParty: [067409904F1AFD109510CBB73E8B2515] Player d8aab09b1c854d33a66c04a41ef452a9 data received
+[2018.02.12-11.09.01:187][967]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9].
+[2018.02.12-11.09.01:187][967]LogParty: Display: [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] team member data updated, team [MAX] at index [0] in [AegonLeDragon]'s game.
+[2018.02.12-11.09.01:187][967]LogParty: Display: Got bad homebase data
+[2018.02.12-11.09.01:189][967]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.memberdata user=d8aab09b1c854d33a66c04a41ef452a9 to all
+[2018.02.12-11.09.01:189][967]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=d8aab09b1c854d33a66c04a41ef452a9@prod.ol.epicgames.com/V2:Fortnite:WIN::2088949B4ECEA8E7A8C99D987DC22047 [Online] [2018.02.12-11.09.00] [{"Status":"Battle Royale","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"d8aab09b1c854d33a66c04a41ef452a9\",\"sourceDisplayName\":\"AegonLeDragon\",\"partyId\":\"067409904F1AFD109510CBB73E8B2515\",\"partyTypeId\":286331153,\"leaderId\":\"d8aab09b1c854d33a66c04a41ef452a9\",\"leaderDisplayName\":\"AegonLeDragon\",\"key\":\"BC7B243E4D0072998DA23B85F7EE9115\",\"appId\":\"Fortnite\",\"buildId\":\"3873824\",\"partyFlags\":4,\"notAcceptingReason\":1}","Name":"party.joininfodata.286331153"},{"Type":"String","Value":"{\"homeBaseRating\":1}","Name":"FortBasicInfo"}]}]
+[2018.02.12-11.09.01:248][967]LogSlate: Took 0.001282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.12-11.09.01:281][968]LogOnlineParty: Verbose: OSS::Party: UpdatePartyMemberData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.01:282][968]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2018.02.12-11.09.01:283][968]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2018.02.12-11.09.01:283][968]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2018.02.12-11.09.01:283][968]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2018.02.12-11.09.01:289][969]LogParty: [067409904F1AFD109510CBB73E8B2515] Player d8aab09b1c854d33a66c04a41ef452a9 data received
+[2018.02.12-11.09.01:290][969]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9].
+[2018.02.12-11.09.01:290][969]LogParty: Display: [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] team member data updated, team [MAX] at index [0] in [AegonLeDragon]'s game.
+[2018.02.12-11.09.01:290][969]LogParty: Display: Got bad homebase data
+[2018.02.12-11.09.01:292][969]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.memberdata user=d8aab09b1c854d33a66c04a41ef452a9 to all
+[2018.02.12-11.09.01:297][969]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.02.12-11.09.01:336][970]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=d8aab09b1c854d33a66c04a41ef452a9@prod.ol.epicgames.com/V2:Fortnite:WIN::2088949B4ECEA8E7A8C99D987DC22047 [Online] [2018.02.12-11.09.00] [{"Status":"Battle Royale","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"d8aab09b1c854d33a66c04a41ef452a9\",\"sourceDisplayName\":\"AegonLeDragon\",\"partyId\":\"067409904F1AFD109510CBB73E8B2515\",\"partyTypeId\":286331153,\"leaderId\":\"d8aab09b1c854d33a66c04a41ef452a9\",\"leaderDisplayName\":\"AegonLeDragon\",\"key\":\"BC7B243E4D0072998DA23B85F7EE9115\",\"appId\":\"Fortnite\",\"buildId\":\"3873824\",\"partyFlags\":6,\"notAcceptingReason\":0}","Name":"party.joininfodata.286331153"},{"Type":"String","Value":"{\"homeBaseRating\":1}","Name":"FortBasicInfo"}]}]
+[2018.02.12-11.09.01:829][982]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/d8aab09b1c854d33a66c04a41ef452a9/client/IncrementNamedCounterStat?profileId=profile0&rvn=212
+[2018.02.12-11.09.01:830][982]LogParty: Display: Homebase updated for Team Member: 
+[2018.02.12-11.09.01:830][982]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9].
+[2018.02.12-11.09.01:830][982]LogParty: Display: [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] team member data updated, team [MAX] at index [0] in [AegonLeDragon]'s game.
+[2018.02.12-11.09.01:830][982]LogParty: Display: Got bad homebase data
+[2018.02.12-11.09.01:832][982]LogProfileSys: MCP-Profile: Dispatching request to https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/d8aab09b1c854d33a66c04a41ef452a9/client/ClientQuestLogin?profileId=athena&rvn=260
+[2018.02.12-11.09.02:066][988]LogProfileSys: (200) https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/d8aab09b1c854d33a66c04a41ef452a9/client/ClientQuestLogin?profileId=athena&rvn=260
+[2018.02.12-11.09.02:993][ 12]LogHotfixManager: Display: Update State UpdateComplete -> UpdatePending
+[2018.02.12-11.09.03:018][ 12]LogSlate: Took 0.020962 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/NotoSans-Italic.ufont' (273K)
+[2018.02.12-11.09.03:226][ 18]LogHotfixManager: Display: Update State UpdatePending -> CheckingForPatch
+[2018.02.12-11.09.03:226][ 18]LogOnline: OSS: Sending User Privilege request. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/versioncheck?version=%2B%2BFortnite%2BRelease-2.4.x-CL-3876086-Windows
+[2018.02.12-11.09.03:538][ 26]LogOnline: Verbose: OSS: GetUserPrivilege request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/versioncheck?version=%2B%2BFortnite%2BRelease-2.4.x-CL-3876086-Windows code=200 response={"type":"NO_UPDATE","acceptedVersions":["++Fortnite+Release-2.4.x-CL-3876086-Windows","++Fortnite+Release-2.4.x-CL-3876086-Mac"]}
+[2018.02.12-11.09.03:538][ 26]LogHotfixManager: Verbose: [OnCheckForPatchComplete] Privilege=1 PrivilegeResult=0
+[2018.02.12-11.09.03:538][ 26]LogHotfixManager: Display: Update State CheckingForPatch -> CheckingForHotfix
+[2018.02.12-11.09.03:767][ 32]LogOnline: Verbose: MCP: EnumerateFiles request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/system code=200 response=[{"uniqueFilename":"3460cbe1c57d4a838ace32951a4d7171","filename":"DefaultEngine.ini","hash":"46fbabac2b877eb5c1e768f6ce31a36d8e48b9e4","hash256":"31f555c6c8eaf6c863d111221bb8711bd85637e86c93bd9bb80c09d9b4417f8b","length":4627,"contentType":"application/octet-stream","uploaded":"2018-01-27T17:56:00.735Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"351fee9e0ca34ec987f410da6aab8834","filename":"MacClient_RuntimeOptions.ini","hash":"cf9fd56948be3d83794809868014e1993fa41adf","hash256":"0eb50618d02f32795fc8b90d8083e80003cf062152957ab80042fb52a4180e39","length":68,"contentType":"application/octet-stream","uploaded":"2018-02-07T23:02:49.787Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"407ab578cc544045946ce4a84cde8b92","filename":"PS4_Engine.ini","hash":"3b1534ba21a16cdefd0abd8a472a8e8cd27d37ab","hash256":"3c83264d081d530130386fe85a7ec84715c62a237e47e7393c1508927d40e28c","length":58,"contentType":"application/octet-stream","uploaded":"2018-01-25T09:03:01.919Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"93acb56ad2a24e86b7b94d4b15c59974","filename":"XboxOne_Game.ini","hash":"c9172063868ac2521b96c6c0f1956e9e7268072a","hash256":"f07053b7d898eafe11b5c8edd306b9f162ee6f1174dab2deba88bd5849635878","length":270,"contentType":"application/octet-stream","uploaded":"2018-02-08T09:58:52.412Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"51daf06a568d488a91183182f9585d67","filename":"PS4_Game.ini","hash":"7a362a51d948fe7724e5b0c9b1c746236c24338b","hash256":"c1679619e5db34ebbeeca38404c43c585814f4c971bc116b70262e2d03fb0b8b","length":262,"contentType":"application/octet-stream","uploaded":"2018-02-08T09:58:52.538Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"1a46692bf9f34c18a87681016940001c","filename":"XboxOne_Engine.ini","hash":"691af5af7b53cc4d79567c01307657a02ff7d11d","hash256":"67961f2b3d9432286cc8a9add5dbf35d7a543e747acc76c6c247d71d4f28352b","length":4281,"contentType":"application/octet-stream","uploaded":"2018-01-27T17:56:00.923Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"cfe3ccd549f647ca88d18eaa58e65a11","filename":"DefaultInput.ini","hash":"9e5a095c61cc9e63563ceae6b319c52f09dd0eac","hash256":"fde856e89960e3754e55ae9b0930611c8e18401edf329f542244c70e2a1ca377","length":71,"contentType":"application/octet-stream","uploaded":"2017-12-07T18:34:20.072Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"c52c1f9246eb48ce9dade87be5a66f29","filename":"DefaultRuntimeOptions.ini","hash":"cc175a6d6951cd97d8457fba89fac46f22164e20","hash256":"52c74dbe0197ab35381170ca574896f61a5ac76c63541cc86af8594c1729adf6","length":136,"contentType":"application/octet-stream","uploaded":"2018-02-07T15:06:47.668Z","storageType":"S3","doNotCache":false},{"uniqueFilename":"a22d837b6a2b46349421259c0a5411bf","filename":"DefaultGame.ini","hash":"b615e73e13de5961bb7ee0176c67d276fc9a2a25","hash256":"4e349d721411f4e736c059923cc9aefe115ea8a5e9f4af3d269775633215ee20","length":3202,"contentType":"application/octet-stream","uploaded":"2018-02-08T09:58:52.666Z","storageType":"S3","doNotCache":false}]
+[2018.02.12-11.09.03:768][ 32]LogOnline: MCP: FOnlineTitleFileMcp::DeleteCachedFiles Clearing cached files: [bSkipEnumerated:1]
+[2018.02.12-11.09.03:768][ 32]LogOnline: MCP:   Cleared 0 cached files.
+[2018.02.12-11.09.03:768][ 32]LogHotfixManager: Verbose: Using default hotfix DefaultEngine.ini
+[2018.02.12-11.09.03:768][ 32]LogHotfixManager: Verbose: Using default hotfix DefaultInput.ini
+[2018.02.12-11.09.03:769][ 32]LogHotfixManager: Verbose: Using default hotfix DefaultRuntimeOptions.ini
+[2018.02.12-11.09.03:769][ 32]LogHotfixManager: Verbose: Using default hotfix DefaultGame.ini
+[2018.02.12-11.09.03:769][ 32]LogHotfixManager: Display: Returned hotfix data is the same as last application, skipping the apply phase
+[2018.02.12-11.09.03:769][ 32]LogHotfixManager: Display: Checking for assets to be patched using data from 'AssetHotfix' section in the Game .ini file
+[2018.02.12-11.09.03:769][ 32]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_SR_Ore_T03 updated column EnvDmgPB from 25.00 to 25.00.
+[2018.02.12-11.09.03:769][ 32]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_SR_Ore_T03 updated column EnvDmgMid from 25.00 to 25.00.
+[2018.02.12-11.09.03:769][ 32]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_SR_Ore_T03 updated column EnvDmgLong from 25.00 to 25.00.
+[2018.02.12-11.09.03:769][ 32]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_SR_Ore_T03 updated column EnvDmgMaxRange from 25.00 to 25.00.
+[2018.02.12-11.09.03:769][ 32]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_VR_Ore_T03 updated column EnvDmgPB from 25.00 to 25.00.
+[2018.02.12-11.09.03:769][ 32]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_VR_Ore_T03 updated column EnvDmgMid from 25.00 to 25.00.
+[2018.02.12-11.09.03:769][ 32]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_VR_Ore_T03 updated column EnvDmgLong from 25.00 to 25.00.
+[2018.02.12-11.09.03:769][ 32]LogHotfixManager: Display: Data table /Game/Athena/Items/Weapons/AthenaRangedWeapons row Assault_LMG_Athena_VR_Ore_T03 updated column EnvDmgMaxRange from 25.00 to 25.00.
+[2018.02.12-11.09.03:769][ 32]LogHotfixManager: Display: Successfully patched all 8 assets from the 'AssetHotfix' section in the Game .ini file.  These assets will be forced to remain loaded.
+[2018.02.12-11.09.03:769][ 32]LogHotfixManager: Display: OnHotfixCheckComplete 2
+[2018.02.12-11.09.03:884][ 35]LogHotfixManager: Display: Update State CheckingForHotfix -> WaitingOnInitialLoad
+[2018.02.12-11.09.03:920][ 36]LogHotfixManager: Finished initial load/hotfix phase in 0.035765s
+[2018.02.12-11.09.03:920][ 36]LogHotfixManager: Display: Update State WaitingOnInitialLoad -> InitialLoadComplete
+[2018.02.12-11.09.03:920][ 36]LogHotfixManager: Display: CheckComplete UpdateSuccess_NoChange
+[2018.02.12-11.09.04:455][ 50]LogHotfixManager: Display: External CheckComplete UpdateSuccess_NoChange
+[2018.02.12-11.09.04:455][ 50]LogHotfixManager: Display: Update State InitialLoadComplete -> UpdateComplete
+[2018.02.12-11.09.04:455][ 50]LogOnlineParty: Verbose: OSS::Party: UpdatePartyMemberData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.04:491][ 51]LogParty: [067409904F1AFD109510CBB73E8B2515] Player d8aab09b1c854d33a66c04a41ef452a9 data received
+[2018.02.12-11.09.04:491][ 51]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.04:492][ 51]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.updatepartyconfiguration user=d8aab09b1c854d33a66c04a41ef452a9 to=all payload={"partyId":"067409904F1AFD109510CBB73E8B2515","presencePermissions":-1961316796,"invitePermissions":2,"partyFlags":2,"notAcceptingMembersReason":1,"maxMembers":4,"password":"","accessKey":"BC7B243E4D0072998DA23B85F7EE9115","clientData":""}
+[2018.02.12-11.09.04:492][ 51]LogOnlineParty: Display: OSS::Party: Publishing party to presence DisplayName(AegonLeDragon) PartyId(067409904F1AFD109510CBB73E8B2515) LeaderId(d8aab09b1c854d33a66c04a41ef452a9) LeaderDisplayName(AegonLeDragon) AccessKey(BC7B243E4D0072998DA23B85F7EE9115) HasPassword(0) IsAcceptingMembers(0) NotAcceptingReason(1)
+[2018.02.12-11.09.04:492][ 51]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::PublishPartyInfoToPresence success to publish presence user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.04:492][ 51]LogOnlineParty: Verbose: OSS::Party: UpdateParty request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.04:492][ 51]LogParty: Verbose: [067409904F1AFD109510CBB73E8B2515] Party config updated Succeeded
+[2018.02.12-11.09.04:492][ 51]LogFort: MapPreload: Scanning for map assets to preload
+[2018.02.12-11.09.04:497][ 51]LogFort: MapPreload: Finished scanning for map assets to preload. Found 380 packages in 0.01 seconds (deps 0.00 s, ptoa 0.00 s, filter 0.00)
+[2018.02.12-11.09.04:497][ 51]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9].
+[2018.02.12-11.09.04:497][ 51]LogParty: Display: [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] team member data updated, team [MAX] at index [0] in [AegonLeDragon]'s game.
+[2018.02.12-11.09.04:497][ 51]LogParty: Display: Got bad homebase data
+[2018.02.12-11.09.04:499][ 51]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.memberdata user=d8aab09b1c854d33a66c04a41ef452a9 to all
+[2018.02.12-11.09.04:547][ 51]LogStreaming: Error: Couldn't find file for package /Script/Foliage requested by async loading code. NameToLoad: /Script/Foliage
+[2018.02.12-11.09.04:547][ 51]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2018.02.12-11.09.04:547][ 51]LogStreaming: Error: Found 0 dependent packages...
+[2018.02.12-11.09.04:548][ 51]LogStreaming: Error: Couldn't find file for package /Script/FortniteGame requested by async loading code. NameToLoad: /Script/FortniteGame
+[2018.02.12-11.09.04:548][ 51]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2018.02.12-11.09.04:548][ 51]LogStreaming: Error: Found 0 dependent packages...
+[2018.02.12-11.09.04:591][ 52]LogParty: [067409904F1AFD109510CBB73E8B2515] Party config changed
+[2018.02.12-11.09.04:591][ 52]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.data user=d8aab09b1c854d33a66c04a41ef452a9 to all
+[2018.02.12-11.09.04:707][ 54]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=d8aab09b1c854d33a66c04a41ef452a9@prod.ol.epicgames.com/V2:Fortnite:WIN::2088949B4ECEA8E7A8C99D987DC22047 [Online] [2018.02.12-11.09.04] [{"Status":"Battle Royale","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"d8aab09b1c854d33a66c04a41ef452a9\",\"sourceDisplayName\":\"AegonLeDragon\",\"partyId\":\"067409904F1AFD109510CBB73E8B2515\",\"partyTypeId\":286331153,\"leaderId\":\"d8aab09b1c854d33a66c04a41ef452a9\",\"leaderDisplayName\":\"AegonLeDragon\",\"key\":\"BC7B243E4D0072998DA23B85F7EE9115\",\"appId\":\"Fortnite\",\"buildId\":\"3873824\",\"partyFlags\":4,\"notAcceptingReason\":1}","Name":"party.joininfodata.286331153"},{"Type":"String","Value":"{\"homeBaseRating\":1}","Name":"FortBasicInfo"}]}]
+[2018.02.12-11.09.13:056][186]LogFort: MapPreload: Finished preloading 756 assets, took 8.564283 seconds
+[2018.02.12-11.09.13:056][186]LogOnlineParty: Verbose: OSS::Party: UpdatePartyMemberData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.13:057][186]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.13:057][186]LogOnlineGame: [UFortMatchmakingV2::StartMatchmaking] Starting matchmaking to bucket: '3873824:0:EU:2'
+[2018.02.12-11.09.14:176][186]LogMatchmakingServiceClient: StartMatchmaking - Starting matchmaking to bucket: '3873824:0:EU:2'
+[2018.02.12-11.09.14:176][186]LogOnlineGame: [UFortMatchmakingV2::OnMatchmakingStartedInternal] Matchmaking started
+[2018.02.12-11.09.14:176][186]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.14:176][186]LogMatchmakingServiceClient: ChangeState - 'None' -> 'ObtainingTicket'
+[2018.02.12-11.09.14:176][186]LogOnlineGame: [UFortMatchmakingV2::OnMatchmakingStateChangedInternal] OldState: None, NewState: ObtainingTicket
+[2018.02.12-11.09.14:176][186]LogMatchmakingServiceClient: ObtainTicket - Sending ticket request: "https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/matchmakingservice/ticket/player/d8aab09b1c854d33a66c04a41ef452a9?partyPlayerIds=d8aab09b1c854d33a66c04a41ef452a9&bucketId=3873824%3A0%3AEU%3A2&player.platform=Windows&player.option.fillTeam=false"
+[2018.02.12-11.09.14:176][186]LogStreaming: Warning: Took 1120.27ms to ProcessLoadedPackages
+[2018.02.12-11.09.14:184][187]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.data user=d8aab09b1c854d33a66c04a41ef452a9 to all
+[2018.02.12-11.09.14:184][187]LogParty: [067409904F1AFD109510CBB73E8B2515] Player d8aab09b1c854d33a66c04a41ef452a9 data received
+[2018.02.12-11.09.14:185][187]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9].
+[2018.02.12-11.09.14:185][187]LogParty: Display: [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] team member data updated, team [MAX] at index [0] in [AegonLeDragon]'s game.
+[2018.02.12-11.09.14:185][187]LogParty: Display: Got bad homebase data
+[2018.02.12-11.09.14:186][187]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.memberdata user=d8aab09b1c854d33a66c04a41ef452a9 to all
+[2018.02.12-11.09.14:489][196]LogMatchmakingServiceClient: ObtainTicket_HttpRequestComplete - bSuceeded: 1
+[2018.02.12-11.09.14:489][196]LogMatchmakingServiceClient: ChangeState - 'ObtainingTicket' -> 'ConnectingToService'
+[2018.02.12-11.09.14:489][196]LogOnlineGame: [UFortMatchmakingV2::OnMatchmakingStateChangedInternal] OldState: ObtainingTicket, NewState: ConnectingToService
+[2018.02.12-11.09.14:489][196]LogMatchmakingServiceClient: ConnectToMatchmakingService - Connecting to service: "wss://fortnite-matchmaking-public-service-live-prod.ol.epicgames.com:443"
+[2018.02.12-11.09.15:092][212]LogWebSockets: Warning: Lws(Error): SSL error: self signed certificate in certificate chain (preverify_ok=0;err=19;depth=1) 
+[2018.02.12-11.09.15:093][212]LogWebSockets: Warning: Lws(Error): SSL connect error 336134278: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed 
+[2018.02.12-11.09.15:105][212]LogMatchmakingServiceClient: Error: HandleWebSocketConnectionError - "lws_ssl_client_connect2 failed"
+[2018.02.12-11.09.15:105][212]LogMatchmakingServiceClient: HandleError - Type: 'FailedToConnectToService', Code: 'lws_ssl_client_connect2 failed'
+[2018.02.12-11.09.15:105][212]LogFortUI: Error: [UFortAthenaMatchmakingWidget::OnMatchmakingError] Attempting to queue error: FailedToConnectToMMS, code: lws_ssl_client_connect2 failed
+[2018.02.12-11.09.15:109][212]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding outro op for top activatable panel
+[2018.02.12-11.09.15:109][212]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel ErrorWindow_C_0: 
+[2018.02.12-11.09.15:109][212]LogCommonInput: Verbose: Input suspension: Started
+[2018.02.12-11.09.15:109][212]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.15:109][212]LogCommonInput: Verbose: StartNextOperation: begin outro for panel: AthenaLobby_C_0
+[2018.02.12-11.09.15:109][212]LogCommonInput: Verbose: OnPostPanelDeactivatedForPush: deactivated panel: AthenaLobby_C_0
+[2018.02.12-11.09.15:109][212]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.15:109][212]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: ErrorWindow_C_0
+[2018.02.12-11.09.15:109][212]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: ErrorWindow_C_0
+[2018.02.12-11.09.15:109][212]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: ErrorWindow_C_0
+[2018.02.12-11.09.15:109][212]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.15:109][212]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.02.12-11.09.15:110][212]LogFortNavigation: Verbose: CenterWidget(UWidget): MessageList 
+[2018.02.12-11.09.15:110][212]LogMatchmakingServiceClient: ChangeState - 'ConnectingToService' -> 'Finished'
+[2018.02.12-11.09.15:110][212]LogOnlineGame: [UFortMatchmakingV2::OnMatchmakingStateChangedInternal] OldState: ConnectingToService, NewState: Finished
+[2018.02.12-11.09.15:110][212]LogMatchmakingServiceClient: DisconnectFromMatchmakingService - Disconnecting from service
+[2018.02.12-11.09.15:110][212]LogMatchmakingServiceClient: Finalize - bSuccess: 0
+[2018.02.12-11.09.15:110][212]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.15:111][212]LogOnlineParty: Verbose: OSS::Party: UpdatePartyMemberData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.15:111][212]LogParty: Verbose: UFortPartyGameState::UpdateAcceptingMembers()
+[2018.02.12-11.09.15:111][212]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.updatepartyconfiguration user=d8aab09b1c854d33a66c04a41ef452a9 to=all payload={"partyId":"067409904F1AFD109510CBB73E8B2515","presencePermissions":-1961316796,"invitePermissions":2,"partyFlags":3,"notAcceptingMembersReason":0,"maxMembers":4,"password":"","accessKey":"BC7B243E4D0072998DA23B85F7EE9115","clientData":""}
+[2018.02.12-11.09.15:111][212]LogOnlineParty: Display: OSS::Party: Publishing party to presence DisplayName(AegonLeDragon) PartyId(067409904F1AFD109510CBB73E8B2515) LeaderId(d8aab09b1c854d33a66c04a41ef452a9) LeaderDisplayName(AegonLeDragon) AccessKey(BC7B243E4D0072998DA23B85F7EE9115) HasPassword(0) IsAcceptingMembers(1) NotAcceptingReason(0)
+[2018.02.12-11.09.15:111][212]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::PublishPartyInfoToPresence success to publish presence user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.15:111][212]LogOnlineParty: Verbose: OSS::Party: UpdateParty request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.15:111][212]LogParty: Verbose: [067409904F1AFD109510CBB73E8B2515] Party config updated Succeeded
+[2018.02.12-11.09.15:111][212]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.15:111][212]LogOnlineGame: [UFortMatchmakingV2::CleanupMatchmaking] Cleaning up matchmaking session
+[2018.02.12-11.09.15:142][213]LogParty: [067409904F1AFD109510CBB73E8B2515] Party config changed
+[2018.02.12-11.09.15:142][213]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.data user=d8aab09b1c854d33a66c04a41ef452a9 to all
+[2018.02.12-11.09.15:142][213]LogParty: [067409904F1AFD109510CBB73E8B2515] Player d8aab09b1c854d33a66c04a41ef452a9 data received
+[2018.02.12-11.09.15:143][213]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9].
+[2018.02.12-11.09.15:143][213]LogParty: Display: [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] team member data updated, team [MAX] at index [0] in [AegonLeDragon]'s game.
+[2018.02.12-11.09.15:143][213]LogParty: Display: Got bad homebase data
+[2018.02.12-11.09.15:144][213]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.memberdata user=d8aab09b1c854d33a66c04a41ef452a9 to all
+[2018.02.12-11.09.15:188][214]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.02.12-11.09.15:313][217]LogOnline: Verbose: OSS: FOnlinePresenceMcp::OnXmppPresenceReceived from=d8aab09b1c854d33a66c04a41ef452a9@prod.ol.epicgames.com/V2:Fortnite:WIN::2088949B4ECEA8E7A8C99D987DC22047 [Online] [2018.02.12-11.09.15] [{"Status":"Battle Royale","bIsPlaying":false,"bIsJoinable":false,"bHasVoiceSupport":false,"SessionId":"","Properties":[{"Type":"String","Value":"{\"sourceId\":\"d8aab09b1c854d33a66c04a41ef452a9\",\"sourceDisplayName\":\"AegonLeDragon\",\"partyId\":\"067409904F1AFD109510CBB73E8B2515\",\"partyTypeId\":286331153,\"leaderId\":\"d8aab09b1c854d33a66c04a41ef452a9\",\"leaderDisplayName\":\"AegonLeDragon\",\"key\":\"BC7B243E4D0072998DA23B85F7EE9115\",\"appId\":\"Fortnite\",\"buildId\":\"3873824\",\"partyFlags\":6,\"notAcceptingReason\":0}","Name":"party.joininfodata.286331153"},{"Type":"String","Value":"{\"homeBaseRating\":1}","Name":"FortBasicInfo"}]}]
+[2018.02.12-11.09.18:253][285]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: ErrorWindow_C_0
+[2018.02.12-11.09.18:253][285]LogCommonInput: Verbose: PopActivatablePanel: Adding intro to previous panel: AthenaLobby_C_0
+[2018.02.12-11.09.18:253][285]LogCommonInput: Verbose: Input suspension: Started
+[2018.02.12-11.09.18:253][285]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.18:254][285]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.18:254][285]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: AthenaLobby_C_0
+[2018.02.12-11.09.18:254][285]LogFortNavigation: Verbose: CenterWidget(UWidget): ButtonGamepadSelect 
+[2018.02.12-11.09.18:259][285]LogOnlineParty: Verbose: OSS::Party: UpdatePartyMemberData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.18:260][285]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2018.02.12-11.09.18:260][285]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2018.02.12-11.09.18:260][285]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2018.02.12-11.09.18:260][285]LogFortCustomization: Warning: NULL SkeletalMeshComponentPtr address in UpdateMeshMaterialsWithColorSwatchValues, Custom Color Component has not been initialized!
+[2018.02.12-11.09.18:260][285]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.18:260][285]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.02.12-11.09.18:261][285]LogParty: [067409904F1AFD109510CBB73E8B2515] Player d8aab09b1c854d33a66c04a41ef452a9 data received
+[2018.02.12-11.09.18:261][285]LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9].
+[2018.02.12-11.09.18:262][285]LogParty: Display: [AegonLeDragon] Id [d8aab09b1c854d33a66c04a41ef452a9] team member data updated, team [MAX] at index [0] in [AegonLeDragon]'s game.
+[2018.02.12-11.09.18:262][285]LogParty: Display: Got bad homebase data
+[2018.02.12-11.09.18:263][285]LogOnlineParty: Verbose: OSS::Party: FOnlinePartySystemMcp::XmppMessage SendToParty success type=com.epicgames.party.memberdata user=d8aab09b1c854d33a66c04a41ef452a9 to all
+[2018.02.12-11.09.18:341][287]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.02.12-11.09.20:920][354]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding outro op for top activatable panel
+[2018.02.12-11.09.20:920][354]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel TopBar: 
+[2018.02.12-11.09.20:920][354]LogCommonInput: Verbose: Input suspension: Started
+[2018.02.12-11.09.20:920][354]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.20:920][354]LogCommonInput: Verbose: StartNextOperation: begin outro for panel: AthenaLobby_C_0
+[2018.02.12-11.09.20:920][354]LogCommonInput: Verbose: OnPostPanelDeactivatedForPush: deactivated panel: AthenaLobby_C_0
+[2018.02.12-11.09.20:920][354]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.20:920][354]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: TopBar
+[2018.02.12-11.09.20:920][354]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: TopBar
+[2018.02.12-11.09.20:920][354]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: TopBar
+[2018.02.12-11.09.20:920][354]LogFortNavigation: Verbose: CenterWidget(UWidget): Feedback 
+[2018.02.12-11.09.20:920][354]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.20:920][354]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.02.12-11.09.20:995][356]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.02.12-11.09.22:271][387]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding outro op for top activatable panel
+[2018.02.12-11.09.22:271][387]LogCommonInput: Verbose: InternalPushActivatablePanel : Adding push for new activatable panel ConfirmationWindow_C_0: 
+[2018.02.12-11.09.22:271][387]LogCommonInput: Verbose: Input suspension: Started
+[2018.02.12-11.09.22:271][387]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.22:271][387]LogCommonInput: Verbose: StartNextOperation: begin outro for panel: TopBar
+[2018.02.12-11.09.22:272][387]LogCommonInput: Verbose: OnPostPanelDeactivatedForPush: deactivated panel: TopBar
+[2018.02.12-11.09.22:272][387]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.22:272][387]LogCommonInput: Verbose: StartNextOperation: activatable panel pushed on stack for panel: ConfirmationWindow_C_0
+[2018.02.12-11.09.22:272][387]LogCommonInput: Verbose: StartNextOperation: begin intro for panel: ConfirmationWindow_C_0
+[2018.02.12-11.09.22:273][387]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: ConfirmationWindow_C_0
+[2018.02.12-11.09.22:273][387]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.22:273][387]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.02.12-11.09.22:355][389]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.02.12-11.09.24:101][428]LogCommonInput: Verbose: PopActivatablePanel: Adding pop for panel: ConfirmationWindow_C_0
+[2018.02.12-11.09.24:101][428]LogCommonInput: Verbose: PopActivatablePanel: Adding intro to previous panel: TopBar
+[2018.02.12-11.09.24:101][428]LogCommonInput: Verbose: Input suspension: Started
+[2018.02.12-11.09.24:101][428]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.24:101][428]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.24:101][428]LogCommonInput: Verbose: OnPrePanelActivated: panel activated complete: TopBar
+[2018.02.12-11.09.24:101][428]LogFortNavigation: Verbose: CenterWidget(UWidget): Feedback 
+[2018.02.12-11.09.24:101][428]LogCommonInput: Verbose: Begin StartNextOperation
+[2018.02.12-11.09.24:101][428]LogCommonInput: Verbose: StartNextOperation: Finished, Clearing pending ops
+[2018.02.12-11.09.24:103][428]LogOnline: Verbose: MCP: Starting WriteUserFile request. filename=ClientSettings.Sav
+[2018.02.12-11.09.24:190][430]LogCommonInput: Verbose: Input suspension: Stopped
+[2018.02.12-11.09.25:424][460]LogOnline: Verbose: MCP: WriteUserFile request complete. url=https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/user/d8aab09b1c854d33a66c04a41ef452a9/ClientSettings.Sav code=200 response=
+[2018.02.12-11.09.25:431][460]LogOnline: Verbose: MCP: WriteUserFile request complete. Local file cache updated =C:/Users/legos/AppData/Local/FortniteGame/Saved/Cloud/d8aab09b1c854d33a66c04a41ef452a9/ClientSettings.Sav
+[2018.02.12-11.09.25:433][460]Closing by request
+[2018.02.12-11.09.25:433][460]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.02.12-11.09.25:482][460]LogOnlineGame: Verbose: OnDisconnectFromLobbyComplete GameSession Success: 1
+[2018.02.12-11.09.25:482][460]LogOnlineParty: Verbose: OSS::Party: UpdatePartyData request success. user=d8aab09b1c854d33a66c04a41ef452a9 party=067409904F1AFD109510CBB73E8B2515
+[2018.02.12-11.09.25:482][460]LogParty: Verbose: UFortPartyGameState::UpdateAcceptingMembers()
+[2018.02.12-11.09.25:482][460]LogParty: Display: Local player [AegonLeDragon] disconnected from lobby. Destroying all team info except the local party.
+[2018.02.12-11.09.25:483][460]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2018.02.12-11.09.25:516][460]LogFort: SetIsDisconnecting: Player Disconnecting State Change OldState: 0 NewState: 1
+[2018.02.12-11.09.25:516][460]LogFortPlayerRegistration: UnbindFromPlayerController trying to initialize ability system actor
+[2018.02.12-11.09.25:517][460]LogFort: Warning: No attribute initialization category when HeroType is Ramirez, soldat d'assistance
+[2018.02.12-11.09.25:517][460]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.25:517][460]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.25:517][460]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.25:517][460]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.25:517][460]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.25:517][460]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.25:517][460]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.25:517][460]LogFort: Warning: CharacterDefinition HID_007_Athena_Commando_M contains a combined stat gameplay effect that has a modifier that isn't attribute based or a custom class.
+[2018.02.12-11.09.25:517][460]LogFort: ApplyHeroEffectsAndAbilities succeeded
+[2018.02.12-11.09.25:518][460]LogFort: ApplyHomebaseEffectsOnPlayerSetup Succeeded
+[2018.02.12-11.09.25:518][460]LogParty: Display: HandleZonePlayerStateRemoved: [d8aab09b1c854d33a66c04a41ef452a9]
+[2018.02.12-11.09.25:519][460]LogVivoxVoiceChat: FVivox::Logout 
+[2018.02.12-11.09.25:519][460]LogFortPlayerRegistration: UFortGameInstance::UnregisterAllPlayerInfos called with 1 registered players; bServerRestarting: False
+[2018.02.12-11.09.25:519][460]LogFortPlayerRegistration: UFortRegisteredPlayerInfo::StartUnregistration for player AegonLeDragon
+[2018.02.12-11.09.25:519][460]LogFortPlayerRegistration: UFortRegisteredPlayerInfo::PerformUnregistrationFinalTeardown for AegonLeDragon
+[2018.02.12-11.09.25:521][460]LogBlueprintContext: Display: Destroying blueprint contexts for Local Player ' FortLocalPlayer_0 ' of Game Instance ' FortGameInstance_0 '
+[2018.02.12-11.09.26:351][460]LogSlate: Request Window 'Fortnite ' being destroyed
+[2018.02.12-11.09.26:376][460]LogSlate: Window 'Fortnite ' being destroyed
+[2018.02.12-11.09.26:377][460]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.12-11.09.26:380][460]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.12-11.09.26:985][460]LogExit: Preparing to exit.
+[2018.02.12-11.09.26:985][460]LogMoviePlayer: Shutting down movie player
+[2018.02.12-11.09.27:249][460]LogMaterial: Removed default parameter collection resource, Default__MaterialParameterCollection, ID:00000000000000000000000000000000
+[2018.02.12-11.09.27:249][460]LogMaterial: Removed default parameter collection resource, DistortedScreenCollection, ID:B9864F384A319FAA50CECBB9E87E2DA3
+[2018.02.12-11.09.27:249][460]LogMaterial: Removed default parameter collection resource, HomeBaseParameterCollection, ID:5E3F32F14D6E4ED04C9BCFAB36F07A73
+[2018.02.12-11.09.27:249][460]LogMaterial: Removed default parameter collection resource, Stencil_ID_Definitions, ID:281D9C06493105FC0E95569415AC1F7A
+[2018.02.12-11.09.27:249][460]LogMaterial: Removed default parameter collection resource, FortniteMaterialParameters, ID:A94D50064B63826C8C4986A4C8BDA176
+[2018.02.12-11.09.27:249][460]LogMaterial: Removed default parameter collection resource, MPC_AnimatedCard, ID:6DE1D7A647069C164FCDAAB989A20E10
+[2018.02.12-11.09.27:249][460]LogMaterial: Removed default parameter collection resource, MPC_Hexmap, ID:20526AF7447FE747ACE05282990E27FD
+[2018.02.12-11.09.27:249][460]LogMaterial: Removed default parameter collection resource, MPC_HexZoneDifficulty, ID:A93665824698633F7FDC6281E6FF9586
+[2018.02.12-11.09.27:249][460]LogMaterial: Removed default parameter collection resource, MPC_Pinata, ID:6172D0F346C152CDC7C8C2BB5264A0F1
+[2018.02.12-11.09.27:249][460]LogMaterial: Removed default parameter collection resource, MPC_StoreCardColors, ID:980B581240CECB5A06F120BFACCF6247
+[2018.02.12-11.09.27:249][460]LogOnline: Display: OSS: Removing 2 named interfaces
+[2018.02.12-11.09.27:295][460]LogMaterial: Removed default parameter collection resource, MPC_Skybox_World, ID:AD511C5F4BCECA528A142E9BEC5F9456
+[2018.02.12-11.09.27:300][460]LogExit: Game engine shut down
+[2018.02.12-11.09.27:653][460]LogGarbage: GC purged 238927 objects (373977 -> 135050)
+[2018.02.12-11.09.27:827][460]LogGarbage: GC purged 374101 objects (373977 -> -124)
+[2018.02.12-11.09.27:827][460]LogGarbage: Freed 2934800b from 79 GC array pools.
+[2018.02.12-11.09.27:827][460]LogExit: Object subsystem successfully closed.
+[2018.02.12-11.09.27:937][460]LogD3D11RHI: Shutdown
+[2018.02.12-11.09.27:937][460]LogD3D11RHI: CleanupD3DDevice
+[2018.02.12-11.09.28:010][460]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.12-11.09.28:010][460]LogOnline: Verbose: MCP: FOnlineSubsystemMcp::Preunload() Name: DefaultInstance Dedicated: false
+[2018.02.12-11.09.28:011][460]LogModuleManager: Shutting down and abandoning module WebSockets (214)
+[2018.02.12-11.09.28:015][460]LogModuleManager: Shutting down and abandoning module WebBrowser (212)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module GameFeedback (210)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module AIModule (208)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (206)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (204)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module PlayerBehaviorAnalyticsCommon (202)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module PlayerBehaviorAnalyticsClient (200)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module PlayerBehaviorAnalyticsServer (198)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module SessionServices (196)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (194)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module MovieScene (192)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module GeometryCache (190)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (188)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module AnalyticsET (186)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module SocialDefaults (184)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module FortniteUI (182)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module AndroidPermission (180)
+[2018.02.12-11.09.28:024][460]LogModuleManager: Shutting down and abandoning module Vivox (178)
+[2018.02.12-11.09.28:055][460]LogVivoxVoiceChat: onDisconnected  
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module GameSubCatalog (176)
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module McpProfileSys (174)
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module SIP (172)
+[2018.02.12-11.09.28:187][460]LogSIP: Display: SIP Module Shutdown
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module RemoteSession (170)
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module BackChannel (168)
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module UACCommon (166)
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module UACClient (164)
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module UACServer (162)
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module WinDualShock (160)
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module SubtitlesWidgets (158)
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module SocialTypes (156)
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module Social (154)
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module SlateRemote (152)
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module PurchaseFlow (150)
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (148)
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module OodleHandlerComponent (146)
+[2018.02.12-11.09.28:187][460]LogModuleManager: Shutting down and abandoning module LoginFlow (136)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module Rejoin (134)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module Hotfix (132)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module Lobby (130)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module Party (128)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module Qos (126)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module NetUI (124)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module MatchmakingServiceDedicatedServer (122)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module MatchmakingServiceClient (120)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module LogitechLED (118)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module EpicCMSUIFramework (116)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module EpicCMS (114)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module DiscordRPC (112)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module CommonUI (110)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (108)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module PlatformCrypto (106)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module AESHandlerComponent (104)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module FortniteGame (102)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module TcpMessaging (100)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module EpicGameplayStatsRuntime (98)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module SignificanceManager (96)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module PhysXVehicles (94)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module Paper2D (92)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (90)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module GameplayAbilities (88)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module Crashlytics (86)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module BlueprintContext (84)
+[2018.02.12-11.09.28:188][460]LogModuleManager: Shutting down and abandoning module WmfMedia (82)
+[2018.02.12-11.09.28:189][460]LogModuleManager: Shutting down and abandoning module FortniteLoadingScreen (80)
+[2018.02.12-11.09.28:189][460]LogModuleManager: Shutting down and abandoning module PacketHandler (78)
+[2018.02.12-11.09.28:189][460]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (76)
+[2018.02.12-11.09.28:189][460]LogModuleManager: Shutting down and abandoning module MediaAssets (74)
+[2018.02.12-11.09.28:189][460]LogModuleManager: Shutting down and abandoning module Overlay (72)
+[2018.02.12-11.09.28:189][460]LogModuleManager: Shutting down and abandoning module UMG (70)
+[2018.02.12-11.09.28:189][460]LogModuleManager: Shutting down and abandoning module Slate (68)
+[2018.02.12-11.09.28:189][460]LogModuleManager: Shutting down and abandoning module MRMesh (66)
+[2018.02.12-11.09.28:189][460]LogModuleManager: Shutting down and abandoning module Messaging (64)
+[2018.02.12-11.09.28:189][460]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (62)
+[2018.02.12-11.09.28:189][460]LogModuleManager: Shutting down and abandoning module XAudio2 (60)
+[2018.02.12-11.09.28:189][460]LogModuleManager: Shutting down and abandoning module Networking (58)
+[2018.02.12-11.09.28:189][460]LogModuleManager: Shutting down and abandoning module Core (54)
+[2018.02.12-11.09.28:189][460]LogModuleManager: Shutting down and abandoning module Media (52)
+[2018.02.12-11.09.28:196][460]LogModuleManager: Shutting down and abandoning module LevelSequence (50)
+[2018.02.12-11.09.28:196][460]LogModuleManager: Shutting down and abandoning module ImageWrapper (46)
+[2018.02.12-11.09.28:196][460]LogModuleManager: Shutting down and abandoning module InputCore (44)
+[2018.02.12-11.09.28:196][460]LogModuleManager: Shutting down and abandoning module PhysXCooking (42)
+[2018.02.12-11.09.28:196][460]LogModuleManager: Shutting down and abandoning module HTTPChunkInstaller (40)
+[2018.02.12-11.09.28:196][460]LogModuleManager: Shutting down and abandoning module NVIDIAGfeSDK (38)
+[2018.02.12-11.09.28:196][460]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (34)
+[2018.02.12-11.09.28:196][460]LogOnline: Verbose: MCP: FOnlineSubsystemMcp::Shutdown() Name: DefaultInstance Dedicated: false
+[2018.02.12-11.09.28:196][460]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.02.12-11.09.28:260][460]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.02.12-11.09.28:260][460]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.02.12-11.09.28:260][460]LogOnline: Display: FOnlineSubsystemFacebook::Shutdown()
+[2018.02.12-11.09.28:260][460]LogOnline: Display: FOnlineSubsystemFacebookCommon::Shutdown()
+[2018.02.12-11.09.28:260][460]LogOnline: Display: FOnlineSubsystemGoogle::Shutdown()
+[2018.02.12-11.09.28:260][460]LogOnline: Display: FOnlineSubsystemGoogleCommon::Shutdown()
+[2018.02.12-11.09.28:260][460]LogOnline: Verbose: Unloading online subsystem: MCP
+[2018.02.12-11.09.28:260][460]LogOnline: MCP: Mcp Shutdown!
+[2018.02.12-11.09.28:260][460]LogOnline: Verbose: Unloading online subsystem: Facebook
+[2018.02.12-11.09.28:260][460]LogOnline: Facebook Shutdown!
+[2018.02.12-11.09.28:260][460]LogOnline: Verbose: Unloading online subsystem: Google
+[2018.02.12-11.09.28:260][460]LogOnline: Google Shutdown!
+[2018.02.12-11.09.28:260][460]LogOnline: Verbose: Unloading online subsystem: NULL
+[2018.02.12-11.09.28:260][460]LogOnline: Verbose: Unloading online subsystem: TWITCH
+[2018.02.12-11.09.28:260][460]LogOnline: Verbose: TWITCH: Twitch Shutdown!
+[2018.02.12-11.09.28:260][460]LogModuleManager: Shutting down and abandoning module XMPP (31)
+[2018.02.12-11.09.28:261][460]LogModuleManager: Shutting down and abandoning module HTTP (29)
+[2018.02.12-11.09.28:761][460]LogHttp: Warning: 00000214F440AC00: request failed, libcurl error: 27 (Out of memory)
+[2018.02.12-11.09.28:761][460]LogHttp: Warning: 00000214F440AC00: libcurl info message cache 0 (  Trying 34.193.247.34...)
+[2018.02.12-11.09.28:761][460]LogHttp: Warning: 00000214F440AC00: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.02.12-11.09.28:761][460]LogHttp: Warning: 00000214F440AC00: libcurl info message cache 2 (Connected to account-public-service-prod03.ol.epicgames.com (34.193.247.34) port 443 (#22))
+[2018.02.12-11.09.28:761][460]LogHttp: Warning: 00000214F440AC00: libcurl info message cache 3 (SSL: couldn't create a context: error:140A90F1:lib(20):func(169):reason(241))
+[2018.02.12-11.09.28:761][460]LogHttp: Warning: 00000214F440AC00: libcurl info message cache 4 (Closing connection 22)
+[2018.02.12-11.09.28:761][460]LogHttp: Warning: 00000214F4405F80: request failed, libcurl error: 27 (Out of memory)
+[2018.02.12-11.09.28:761][460]LogHttp: Warning: 00000214F4405F80: libcurl info message cache 0 (Found bundle for host account-public-service-prod03.ol.epicgames.com: 0x214c22d2980 [serially])
+[2018.02.12-11.09.28:761][460]LogHttp: Warning: 00000214F4405F80: libcurl info message cache 1 (Hostname 'account-public-service-prod03.ol.epicgames.com' was found in DNS cache)
+[2018.02.12-11.09.28:761][460]LogHttp: Warning: 00000214F4405F80: libcurl info message cache 2 (  Trying 34.193.247.34...)
+[2018.02.12-11.09.28:761][460]LogHttp: Warning: 00000214F4405F80: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.02.12-11.09.28:761][460]LogHttp: Warning: 00000214F4405F80: libcurl info message cache 4 (Connected to account-public-service-prod03.ol.epicgames.com (34.193.247.34) port 443 (#23))
+[2018.02.12-11.09.28:761][460]LogHttp: Warning: 00000214F4405F80: libcurl info message cache 5 (SSL: couldn't create a context: error:140A90F1:lib(20):func(169):reason(241))
+[2018.02.12-11.09.28:761][460]LogHttp: Warning: 00000214F4405F80: libcurl info message cache 6 (Closing connection 23)
+[2018.02.12-11.09.28:775][460]LogModuleManager: Shutting down and abandoning module SSL (28)
+[2018.02.12-11.09.28:777][460]LogModuleManager: Shutting down and abandoning module ShaderCore (24)
+[2018.02.12-11.09.28:777][460]LogModuleManager: Shutting down and abandoning module Landscape (22)
+[2018.02.12-11.09.28:777][460]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (20)
+[2018.02.12-11.09.28:778][460]LogModuleManager: Shutting down and abandoning module OpenGLDrv (18)
+[2018.02.12-11.09.28:778][460]LogModuleManager: Shutting down and abandoning module D3D11RHI (16)
+[2018.02.12-11.09.28:778][460]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (14)
+[2018.02.12-11.09.28:778][460]LogModuleManager: Shutting down and abandoning module Renderer (12)
+[2018.02.12-11.09.28:778][460]LogModuleManager: Shutting down and abandoning module Engine (10)
+[2018.02.12-11.09.28:778][460]LogModuleManager: Shutting down and abandoning module CoreUObject (8)
+[2018.02.12-11.09.28:778][460]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2018.02.12-11.09.28:778][460]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2018.02.12-11.09.28:778][460]LogModuleManager: Shutting down and abandoning module LauncherCheck (2)
+[2018.02.12-11.09.28:781][460]LogExit: Exiting.
+[2018.02.12-11.09.28:794][460]Log file closed, 02/12/18 12:09:28

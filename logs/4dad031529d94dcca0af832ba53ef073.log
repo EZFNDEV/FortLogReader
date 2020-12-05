@@ -1,0 +1,901 @@
+Log file open, 07/13/18 04:33:21
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remaing pending
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s4-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s4-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 22 total threads with 3 sets of task threads.
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin AESHandlerComponent
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin BlueprintContext
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CommonUI
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin Crashlytics
+LogPluginManager: Mounting plugin DiscordRPC
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FortniteEarlyStartupPatcher
+LogPluginManager: Found config from plugin[FortniteEarlyStartupPatcher] C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini
+LogPluginManager: Found config from plugin[FortniteEarlyStartupPatcher] C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Game.ini
+LogPluginManager: Mounting plugin EpicCMS
+LogPluginManager: Mounting plugin EpicCMSUIFramework
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemMcp
+LogPluginManager: Mounting plugin FunctionalTestingEditor
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin Gauntlet
+LogPluginManager: Mounting plugin ImagePlate
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LogitechLED
+LogPluginManager: Mounting plugin MatchmakingService
+LogPluginManager: Mounting plugin NetUI
+LogPluginManager: Mounting plugin NVIDIAGfeSDK
+LogPluginManager: Mounting plugin OnlineSubsystemLiveServer
+LogPluginManager: Mounting plugin OnlineSubsystemFacebook
+LogPluginManager: Mounting plugin OnlineSubsystemGoogle
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemPS4Server
+LogPluginManager: Mounting plugin OnlineSubsystemTwitch
+LogPluginManager: Mounting plugin Oodle
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PurchaseFlow
+LogPluginManager: Mounting plugin RazerChroma
+LogPluginManager: Mounting plugin ReplicationGraph
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SIP
+LogPluginManager: Mounting plugin Social
+LogPluginManager: Mounting plugin SubtitlesWidgets
+LogPluginManager: Mounting plugin SubtitlesWidgetsEditor
+LogPluginManager: Mounting plugin UAC
+LogPluginManager: Mounting plugin UACBase
+LogPluginManager: Mounting plugin AppboyClient
+LogPluginManager: Mounting plugin WinDualShock
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin RemoteSession
+LogPluginManager: Mounting plugin EpicGameplayStats
+LogPluginManager: Mounting plugin OnlineGameplayFramework
+LogPluginManager: Mounting plugin HTTPChunkInstaller
+LogPluginManager: Mounting plugin Vivox
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin AndroidPermission
+LogStreaming: Display: Took  0.063s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: MCP: Mcp Startup!
+LogOnline: Verbose: MCP: Created thread (ID:12196).
+LogOnlineVoice: OSS: Voice interface disabled by config [OnlineSubsystem].bHasVoiceEnabled
+LogInit: Build: ++Fortnite+Release-5.0-CL-4204761
+LogInit: Engine Version: 4.21.0-4204761+++Fortnite+Release-5.0
+LogInit: Compatible Engine Version: 4.21.0-4204439+++Fortnite+Release-5.0
+LogInit: Net CL: 4198873
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jul 11 2018 16:54:38
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Fortnite+Release-5.0
+LogInit: Filtered Command Line: -nobe
+LogInit: Base Directory: D:/Epic Games/Fortnite/FortniteGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Pre-allocating for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 17825792 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogInit: Object subsystem initialized
+LogFortMemory: AppInit - CPU:301.65MB (Peak: 301.65MB)
+LogConfig: Setting CVar [[r.NeverOcclusionTestDistance:1250]]
+LogConfig: Setting CVar [[t.FPSChart.DoCsvProfile:1]]
+LogConfig: Setting CVar [[Fort.SplitContentPreloadingBySubMode:1]]
+LogConfig: Setting CVar [[tick.LightweightTimeguardThresholdMS:30]]
+LogConfig: Setting CVar [[r.AllowStaticLighting:0]]
+LogConfig: Setting CVar [[r.Shadow.CacheWPOPrimitives:1]]
+LogConfig: Setting CVar [[r.CapsuleIndirectConeAngle:.2]]
+LogConfig: Setting CVar [[r.AOSpecularOcclusionMode:0]]
+LogConfig: Setting CVar [[r.SupportSimpleForwardShading:1]]
+LogConfig: Setting CVar [[p.BatchPhysXTasksSize:8]]
+LogConfig: Setting CVar [[r.DoLazyStaticMeshUpdate:1]]
+LogConfig: Setting CVar [[FX.BatchAsync:1]]
+LogConfig: Setting CVar [[FX.BatchAsyncBatchSize:32]]
+LogConfig: Setting CVar [[grass.TickInterval:5]]
+LogConfig: Setting CVar [[r.DistanceFields.ForceMaxAtlasSize:1]]
+LogConfig: Setting CVar [[r.DistanceFields.AtlasSizeZ:1024]]
+LogConfig: Setting CVar [[Compat.MAX_GPUSKIN_BONES:75]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[Slate.TickInvisibleWidgets:0]]
+LogConfig: Setting CVar [[net.ProcessQueuedBunchesMillisecondLimit:0]]
+LogConfig: Setting CVar [[Fort.AutomaticReplayRecording:1]]
+LogConfig: Setting CVar [[InGamePerformanceTracking.Enabled:1]]
+LogConfig: Setting CVar [[InGamePerformanceTracking.HistorySize:240]]
+LogConfig: Setting CVar [[t.FPSChart.InterestingFramerates:30,60]]
+LogConfig: Setting CVar [[p.DisableQueryOnlyActors:1]]
+LogConfig: Setting CVar [[r.StencilForLODDither:1]]
+LogConfig: Setting CVar [[r.gpucrash.collectionenable:1]]
+LogConfig: Setting CVar [[r.gpucrash.datadepth:5]]
+LogConfig: Setting CVar [[demo.WithLevelStreamingFixes:1]]
+LogConfig: Setting CVar [[net.DisableRemapScriptActors:1]]
+LogConfig: Setting CVar [[demo.ReplayStreamerAutoDemoPrefix:UnsavedReplay-]]
+LogConfig: Setting CVar [[demo.ReplayStreamerAutoDemoUseDateTimePostfix:1]]
+LogConfig: Setting CVar [[Fort.AthenaReplayBrowserDisplayFileName:1]]
+LogConfig: Setting CVar [[Fort.AutomaticClientReplayRecordingLimit:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.NeverOcclusionTestDistance:1250]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[t.FPSChart.DoCsvProfile:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[Fort.SplitContentPreloadingBySubMode:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[tick.LightweightTimeguardThresholdMS:30]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:0]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.Shadow.CacheWPOPrimitives:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.CapsuleIndirectConeAngle:.2]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.AOSpecularOcclusionMode:0]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.SupportSimpleForwardShading:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[p.BatchPhysXTasksSize:8]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.DoLazyStaticMeshUpdate:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[FX.BatchAsync:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[FX.BatchAsyncBatchSize:32]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[grass.TickInterval:5]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.DistanceFields.ForceMaxAtlasSize:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.DistanceFields.AtlasSizeZ:1024]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[Compat.MAX_GPUSKIN_BONES:75]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[Slate.TickInvisibleWidgets:0]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[net.ProcessQueuedBunchesMillisecondLimit:0]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[Fort.AutomaticReplayRecording:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[InGamePerformanceTracking.Enabled:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[InGamePerformanceTracking.HistorySize:240]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[t.FPSChart.InterestingFramerates:30,60]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[p.DisableQueryOnlyActors:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.StencilForLODDither:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.gpucrash.collectionenable:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.gpucrash.datadepth:5]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[demo.WithLevelStreamingFixes:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[net.DisableRemapScriptActors:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[demo.ReplayStreamerAutoDemoPrefix:UnsavedReplay-]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[demo.ReplayStreamerAutoDemoUseDateTimePostfix:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[Fort.AthenaReplayBrowserDisplayFileName:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[Fort.AutomaticClientReplayRecordingLimit:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.ExpandNewlyOcclusionTestedBBoxesAmount:75]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.EarlyZPass:2]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.DBuffer:0]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.LightShaftRenderToSeparateTranslucency:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:0]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.TonemapperFilm:1]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.Streaming.MaxTextureUVDensity:2500]]
+[2018.07.13-02.33.23:222][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[r.Mobile.SkyLightPermutation:2]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini]
+[2018.07.13-02.33.23:223][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:1]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:40.0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:10.0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.ProcessPrestreamingRequests:1]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.ForceGCAfterLevelStreamedOut:0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.ContinuouslyIncrementalGCWhileLevelsPendingPurge:0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.AllowLevelRequestsWhileAsyncLoadingInMatch:1]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[s.MaxLevelRequestsAtOnceWhileInMatch:2]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:17825792]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:1]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:1]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:1]]
+[2018.07.13-02.33.23:223][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini]
+[2018.07.13-02.33.23:223][  0]LogConfig: Setting CVar [[n.VerifyPeer:1]]
+[2018.07.13-02.33.23:336][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:336][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.07.13-02.33.23:336][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:2.0]]
+[2018.07.13-02.33.23:336][  0]LogConfig: Setting CVar [[Fort.Scalability.AIBudget:8,16]]
+[2018.07.13-02.33.23:336][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget:5,10,10,75]]
+[2018.07.13-02.33.23:336][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget.URORates:0,1,2,3]]
+[2018.07.13-02.33.23:336][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget.SkelMeshMinLOD:0,1,1,2]]
+[2018.07.13-02.33.23:336][  0]LogConfig: Setting CVar [[Fort.Scalability.BucketDistances:50,100,250,500]]
+[2018.07.13-02.33.23:336][  0]LogConfig: Setting CVar [[Fort.Scalability.PlayerCosmeticPropBudget:0]]
+[2018.07.13-02.33.23:336][  0]LogConfig: Setting CVar [[Fort.Scalability.TieUROToLODs:1]]
+[2018.07.13-02.33.23:336][  0]LogConfig: Setting CVar [[Fort.Scalability.EnableAnimCurveOptimizations:1]]
+[2018.07.13-02.33.23:336][  0]LogConfig: Setting CVar [[Fort.Scalability.MinCullDistanceOverride:-1.0]]
+[2018.07.13-02.33.23:336][  0]LogConfig: Setting CVar [[Fort.Scalability.MaxCullDistanceOverride:-1.0]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[Athena.Scalability.SecondarySkelMeshTickingThreshold:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[p.AnimDynamicsLODThreshold:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[p.RigidBodyLODThreshold:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.StaticMeshLODDistanceScale:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.SecondaryScale:1.0]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.HLOD.DistanceOverride:40000,35000]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[Athena.Scalability.HLODProxyMaxDrawDistance:0.0]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMaxAngle:80.0]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMaxAngleScale:1.0]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMinAngle:15.0]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMinAngleScale:2.0]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[Athena.EnableProxyPredictionPawnLOD:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[Athena.EnableProxySimulatedStepUpLOD:0]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[Athena.EnableProxySimulatedStepUpMinNormalZ:0.1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[Athena.ForceThrottledSimulatedFloorChecks:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingSkipFramesLowestLOD:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingSkipFramesInvisible:3]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.Tonemapper.Sharpen:0.5]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.SimpleForwardShading:0]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[Fort.TODDirectionalLightUpdateRate:0]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.Shadow.MaxNumPointShadowCacheUpdatesPerFrame:-1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.Shadow.MaxNumSpotShadowCacheUpdatesPerFrame:-1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.07.13-02.33.23:337][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[Fort.Wind:1]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[fx.Significance.MaxRange:7000]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[p.AnimDynamicsWind:1]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.07.13-02.33.23:338][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.07.13-02.33.23:338][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsClient]
+[2018.07.13-02.33.23:345][  0]LogConfig: Setting CVar [[dp.AllowScalabilityGroupsToChangeAtRuntime:1]]
+[2018.07.13-02.33.23:345][  0]LogHAL: Display: Platform has ~ 16 GB [17118724096 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.07.13-02.33.23:345][  0]LogConfig: Setting CVar [[au.DisableEnvelopeFollowing:1]]
+[2018.07.13-02.33.23:345][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2018.07.13-02.33.23:345][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.07.13-02.33.23:345][  0]LogConfig: Setting CVar [[sg.ViewDistanceQuality:2]]
+[2018.07.13-02.33.23:345][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:345][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.07.13-02.33.23:345][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.67]]
+[2018.07.13-02.33.23:345][  0]LogConfig: Setting CVar [[Fort.Scalability.AIBudget:8,16]]
+[2018.07.13-02.33.23:345][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget:5,10,10,75]]
+[2018.07.13-02.33.23:345][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget.URORates:0,1,2,3]]
+[2018.07.13-02.33.23:345][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget.SkelMeshMinLOD:0,1,1,2]]
+[2018.07.13-02.33.23:345][  0]LogConfig: Setting CVar [[Fort.Scalability.BucketDistances:50,100,250,500]]
+[2018.07.13-02.33.23:345][  0]LogConfig: Setting CVar [[Fort.Scalability.PlayerCosmeticPropBudget:0]]
+[2018.07.13-02.33.23:345][  0]LogConfig: Setting CVar [[Fort.Scalability.TieUROToLODs:1]]
+[2018.07.13-02.33.23:345][  0]LogConfig: Setting CVar [[Fort.Scalability.EnableAnimCurveOptimizations:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[Fort.Scalability.MinCullDistanceOverride:-1.0]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[Fort.Scalability.MaxCullDistanceOverride:-1.0]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[Athena.Scalability.SecondarySkelMeshTickingThreshold:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[p.AnimDynamicsLODThreshold:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[p.RigidBodyLODThreshold:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.StaticMeshLODDistanceScale:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.SecondaryScale:1.0]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.HLOD.DistanceOverride:40000,35000]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[Athena.Scalability.HLODProxyMaxDrawDistance:0.0]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMaxAngle:80.0]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMaxAngleScale:1.0]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMinAngle:15.0]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMinAngleScale:2.0]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[Athena.EnableProxyPredictionPawnLOD:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[Athena.EnableProxySimulatedStepUpLOD:0]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[Athena.EnableProxySimulatedStepUpMinNormalZ:0.1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[Athena.ForceThrottledSimulatedFloorChecks:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingSkipFramesLowestLOD:2]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingSkipFramesInvisible:4]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[sg.AntiAliasingQuality:2]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.Tonemapper.Sharpen:0.5]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[sg.ShadowQuality:2]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:2]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.SimpleForwardShading:0]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.Shadow.MaxNumPointShadowCacheUpdatesPerFrame:2]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.Shadow.MaxNumSpotShadowCacheUpdatesPerFrame:4]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[Fort.TODDirectionalLightUpdateRate:0]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[sg.PostProcessQuality:2]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2018.07.13-02.33.23:346][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[sg.TextureQuality:2]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[sg.EffectsQuality:2]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Fort.Wind:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[fx.Significance.MaxRange:7000]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[p.AnimDynamicsWind:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2018.07.13-02.33.23:347][  0]LogInit: Going up to parent DeviceProfile []
+[2018.07.13-02.33.23:347][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.67]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Fort.Scalability.AIBudget:8,16]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget:5,10,10,75]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget.URORates:0,1,2,3]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Fort.Scalability.AthenaPlayerBudget.SkelMeshMinLOD:0,1,1,2]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Fort.Scalability.BucketDistances:50,100,250,500]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Fort.Scalability.PlayerCosmeticPropBudget:0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Fort.Scalability.TieUROToLODs:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Fort.Scalability.EnableAnimCurveOptimizations:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Fort.Scalability.MinCullDistanceOverride:-1.0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Fort.Scalability.MaxCullDistanceOverride:-1.0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Athena.Scalability.SecondarySkelMeshTickingThreshold:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[p.AnimDynamicsLODThreshold:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[p.RigidBodyLODThreshold:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.StaticMeshLODDistanceScale:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.SecondaryScale:1.0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.HLOD.DistanceOverride:40000,35000]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Athena.Scalability.HLODProxyMaxDrawDistance:0.0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMaxAngle:80.0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMaxAngleScale:1.0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMinAngle:15.0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.ViewDistanceScale.FieldOfViewMinAngleScale:2.0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Athena.EnableProxyPredictionPawnLOD:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Athena.EnableProxySimulatedStepUpLOD:0]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Athena.EnableProxySimulatedStepUpMinNormalZ:0.1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Athena.ForceThrottledSimulatedFloorChecks:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingSkipFramesLowestLOD:2]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[Athena.NetworkSmoothingSkipFramesInvisible:4]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.Tonemapper.Sharpen:0.5]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:2]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2018.07.13-02.33.23:347][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.SimpleForwardShading:0]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.Shadow.MaxNumPointShadowCacheUpdatesPerFrame:2]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.Shadow.MaxNumSpotShadowCacheUpdatesPerFrame:4]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[Fort.TODDirectionalLightUpdateRate:0]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[Fort.Wind:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[fx.Significance.MaxRange:7000]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[p.AnimDynamicsWind:1]]
+[2018.07.13-02.33.23:348][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2018.07.13-02.33.23:349][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Scalability.ini]
+[2018.07.13-02.33.23:349][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.07.13-02.33.23:349][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.07.13-02.33.23:349][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Tobe_Continued/AppData/Local/FortniteGame/Saved/Config/WindowsClient/Engine.ini]
+[2018.07.13-02.33.23:349][  0]LogConfig: Setting CVar [[net.AllowAsyncLoading:1]]
+[2018.07.13-02.33.23:349][  0]LogConfig: Setting CVar [[net.DelayUnmappedRPCs:1]]
+[2018.07.13-02.33.23:349][  0]LogConfig: Setting CVar [[net.MaxRPCPerNetUpdate:10]]
+[2018.07.13-02.33.23:349][  0]LogConfig: Setting CVar [[net.PingExcludeFrameTime:1]]
+[2018.07.13-02.33.23:349][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:1]]
+[2018.07.13-02.33.23:349][  0]LogConfig: Setting CVar [[OSS.VerboseSessionInPayloads:0]]
+[2018.07.13-02.33.23:349][  0]LogConfig: Setting CVar [[OSS.VerboseSessionOutPayloads:0]]
+[2018.07.13-02.33.23:349][  0]LogConfig: Setting CVar [[OSS.VerboseIdentityPayloads:0]]
+[2018.07.13-02.33.23:349][  0]LogConfig: Setting CVar [[httpReplay.ChunkUploadDelayInSeconds:20]]
+[2018.07.13-02.33.23:349][  0]LogConfig: Setting CVar [[demo.CheckpointUploadDelayInSeconds:60]]
+[2018.07.13-02.33.23:349][  0]LogConfig: Setting CVar [[demo.ForceDisableAsyncPackageMapLoading:0]]
+[2018.07.13-02.33.23:349][  0]LogConfig: Setting CVar [[gpad.LeftStickInnerDeadzone:0.24]]
+[2018.07.13-02.33.23:349][  0]LogConfig: Setting CVar [[gpad.LeftStickOuterDeadzone:0.01]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[gpad.RightStickInnerDeadzone:0.27]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[gpad.RightStickOuterDeadzone:0.01]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[demo.UseNetRelevancy:0]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[demo.CullDistanceOverride:3000]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[demo.RecordHzWhenNotRelevant:2]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[demo.ClientRecordAsyncEndOfFrame:1]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[tick.DoAsyncEndOfFrameTasks:1]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[Athena.Vehicle.bDisplayTricksInDeathLog:1]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[Athena.Vehicle.ShowAirHeightOver:3]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[Athena.Vehicle.ShowAirDistanceOver:5]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[Analytic.DumpPlayerInventoryPerZonePhase:1]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[Weapon.TryToFireRestrictedByTypeCooldowns:1]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[r.StaticMesh.StripMinLodDataDuringCooking:1]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[r.SkeletalMesh.StripMinLodDataDuringCooking:1]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[r.ForceStripAdjacencyDataDuringCooking:1]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[r.AOGlobalDFStartDistance:100]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[r.RHICmdBalanceParallelLists:0]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[foliage.MinVertsToSplitNode:8192]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[p.ForceMbpServer:1]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[p.ForceNoKSPairs:1]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[p.ForceNoKKPairs:1]]
+[2018.07.13-02.33.23:350][  0]LogConfig: Setting CVar [[dp.AllowScalabilityGroupsToChangeAtRuntime:1]]
+[2018.07.13-02.33.23:350][  0]LogInit: Computer: DESKTOP-EAQCHJS
+[2018.07.13-02.33.23:350][  0]LogInit: User: TobeContinued
+[2018.07.13-02.33.23:350][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.13-02.33.23:350][  0]LogInit: High frequency timer resolution =3.914068 MHz
+[2018.07.13-02.33.23:352][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.13-02.33.23:352][  0]LogMemory: Platform Memory Stats for WindowsClient
+[2018.07.13-02.33.23:352][  0]LogMemory: Process Physical Memory: 302.74 MB used, 302.74 MB peak
+[2018.07.13-02.33.23:352][  0]LogMemory: Process Virtual Memory: 350.95 MB used, 350.95 MB peak
+[2018.07.13-02.33.23:352][  0]LogMemory: Physical Memory: 6765.61 MB used,  9560.08 MB free, 16325.69 MB total
+[2018.07.13-02.33.23:352][  0]LogMemory: Virtual Memory: 4625.54 MB used,  9560.08 MB free, 134217728.00 MB total
+[2018.07.13-02.33.25:127][  0]LogInit: Using OS detected language (fr-FR).
+[2018.07.13-02.33.25:127][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.07.13-02.33.25:133][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.07.13-02.33.25:236][  0]LogStreaming: Display: Took  0.109s to InitEngineTextLocalization.
+[2018.07.13-02.33.25:236][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.13-02.33.25:756][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.13-02.33.25:756][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.13-02.33.25:992][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.13-02.33.27:867][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.07.13-02.33.27:867][  0]LogD3D11RHI:       6052/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.13-02.33.28:284][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.13-02.33.28:284][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.13-02.33.28:284][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.13-02.33.28:304][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.13-02.33.28:304][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.13-02.33.28:304][  0]LogWindows: EnumDisplayDevices:
+[2018.07.13-02.33.28:304][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.07.13-02.33.28:304][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.07.13-02.33.28:305][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2018.07.13-02.33.28:305][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2018.07.13-02.33.28:305][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.07.13-02.33.28:719][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.13-02.33.28:736][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.13-02.33.28:785][  0]LogShaderLibrary: Display: Using ../../../FortniteGame/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 1487 unique shaders.
+[2018.07.13-02.33.28:785][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2018.07.13-02.33.28:786][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes and no native library supported.
+[2018.07.13-02.33.28:786][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes_SC and no native library supported.
+[2018.07.13-02.33.28:786][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes and no native library supported.
+[2018.07.13-02.33.28:786][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes_SC and no native library supported.
+[2018.07.13-02.33.28:786][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ControlRig and no native library supported.
+[2018.07.13-02.33.28:786][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ControlRig_SC and no native library supported.
+[2018.07.13-02.33.28:787][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ControlRig and no native library supported.
+[2018.07.13-02.33.28:787][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ControlRig_SC and no native library supported.
+[2018.07.13-02.33.28:787][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteEarlyStartupPatcher and no native library supported.
+[2018.07.13-02.33.28:787][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteEarlyStartupPatcher_SC and no native library supported.
+[2018.07.13-02.33.28:787][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteEarlyStartupPatcher and no native library supported.
+[2018.07.13-02.33.28:787][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteEarlyStartupPatcher_SC and no native library supported.
+[2018.07.13-02.33.28:788][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ImagePlate and no native library supported.
+[2018.07.13-02.33.28:788][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ImagePlate_SC and no native library supported.
+[2018.07.13-02.33.28:788][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ImagePlate and no native library supported.
+[2018.07.13-02.33.28:788][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: ImagePlate_SC and no native library supported.
+[2018.07.13-02.33.28:788][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI and no native library supported.
+[2018.07.13-02.33.28:788][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI_SC and no native library supported.
+[2018.07.13-02.33.28:789][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI and no native library supported.
+[2018.07.13-02.33.28:789][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI_SC and no native library supported.
+[2018.07.13-02.33.28:789][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2018.07.13-02.33.28:789][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2018.07.13-02.33.28:789][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2018.07.13-02.33.28:790][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2018.07.13-02.33.28:790][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Social and no native library supported.
+[2018.07.13-02.33.28:790][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Social_SC and no native library supported.
+[2018.07.13-02.33.28:790][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Social and no native library supported.
+[2018.07.13-02.33.28:790][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Social_SC and no native library supported.
+[2018.07.13-02.33.28:790][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor and no native library supported.
+[2018.07.13-02.33.28:790][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor_SC and no native library supported.
+[2018.07.13-02.33.28:791][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor and no native library supported.
+[2018.07.13-02.33.28:791][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor_SC and no native library supported.
+[2018.07.13-02.33.28:791][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RemoteSession and no native library supported.
+[2018.07.13-02.33.28:791][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RemoteSession_SC and no native library supported.
+[2018.07.13-02.33.28:791][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RemoteSession and no native library supported.
+[2018.07.13-02.33.28:792][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RemoteSession_SC and no native library supported.
+[2018.07.13-02.33.28:792][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2018.07.13-02.33.28:792][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2018.07.13-02.33.28:792][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2018.07.13-02.33.28:792][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2018.07.13-02.33.28:792][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2018.07.13-02.33.28:793][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2018.07.13-02.33.28:793][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2018.07.13-02.33.28:793][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2018.07.13-02.33.28:793][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2018.07.13-02.33.28:793][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2018.07.13-02.33.28:793][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2018.07.13-02.33.28:793][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2018.07.13-02.33.28:794][  0]LogRHI: Display: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+[2018.07.13-02.33.28:888][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak added to pak precacher.
+[2018.07.13-02.33.29:211][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.13-02.33.29:237][  0]LogSlate: Using FreeType 2.6.0
+[2018.07.13-02.33.29:256][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.13-02.33.30:145][  0]LogShaderLibrary: Display: Using ../../../FortniteGame/Content/ShaderArchive-FortniteGame-PCD3D_SM5.ushaderbytecode for material shader code. Total 94394 unique shaders.
+[2018.07.13-02.33.30:145][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library FortniteGame
+[2018.07.13-02.33.30:145][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteGame_SC and no native library supported.
+[2018.07.13-02.33.30:150][  0]LogRHI: Display: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+[2018.07.13-02.33.30:151][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteGame and no native library supported.
+[2018.07.13-02.33.30:151][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteGame_SC and no native library supported.
+[2018.07.13-02.33.30:151][  0]LogRHI: Display: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+[2018.07.13-02.33.30:151][  0]LogInit: Using OS detected language (fr-FR).
+[2018.07.13-02.33.30:151][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.07.13-02.33.30:156][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.07.13-02.33.30:825][  0]LogStreaming: Display: Took  0.674s to InitGameTextLocalization.
+[2018.07.13-02.33.32:343][  0]LogAssetRegistry: FAssetRegistry took 1.5176 seconds to start up
+[2018.07.13-02.33.32:662][  0]LogStreaming: Display: Flushing async loaders.
+[2018.07.13-02.33.32:726][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.064311 seconds
+[2018.07.13-02.33.32:777][  0]LogNetVersion: FortniteGame 1.0.0, NetCL: 4198873, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1403369070)
+[2018.07.13-02.33.32:777][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak added to pak precacher.
+[2018.07.13-02.33.32:986][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s4-WindowsClient.pak added to pak precacher.
+[2018.07.13-02.33.32:995][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_A requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_A
+[2018.07.13-02.33.32:995][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.32:996][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_B requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_B
+[2018.07.13-02.33.32:996][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.32:996][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_X requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_X
+[2018.07.13-02.33.32:996][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.32:997][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_Y requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_Y
+[2018.07.13-02.33.32:997][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.32:997][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_L requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_L
+[2018.07.13-02.33.32:997][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.32:998][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_R requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_R
+[2018.07.13-02.33.32:998][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.32:999][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_LeftStickClick requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_LeftStickClick
+[2018.07.13-02.33.32:999][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.32:999][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_RightStickClick requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_RightStickClick
+[2018.07.13-02.33.32:999][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.33:000][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_SpecialRight requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_SpecialRight
+[2018.07.13-02.33.33:000][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.33:001][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_SpecialLeft requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_SpecialLeft
+[2018.07.13-02.33.33:001][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.33:021][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Dpad_Left requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Dpad_Left
+[2018.07.13-02.33.33:021][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.33:022][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Dpad_Up requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Dpad_Up
+[2018.07.13-02.33.33:022][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.33:022][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Dpad_Right requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Dpad_Right
+[2018.07.13-02.33.33:022][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.33:023][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Dpad_Down requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Dpad_Down
+[2018.07.13-02.33.33:023][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.33:023][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_RT requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_RT
+[2018.07.13-02.33.33:023][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.33:024][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_LT requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_Button_LT
+[2018.07.13-02.33.33:024][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.33:057][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_LeftStick requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_LeftStick
+[2018.07.13-02.33.33:057][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.33:057][  0]LogStreaming: Error: Couldn't find file for package /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_RightStick requested by async loading code. NameToLoad: /Game/UI/Foundation/Textures/Icons/ErebusButtons/Erebus_RightStick
+[2018.07.13-02.33.33:057][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.33:390][  0]LogGameplayTags: Display: Loading Tag File: ../../../FortniteGame/Config/Tags/LootTags.ini
+[2018.07.13-02.33.33:436][  0]LogFortSignificance: Display: Set AI budget to '8,16'
+[2018.07.13-02.33.33:436][  0]LogFortSignificance: Display: Set Athena Player Pawn budget to '5,10,10,75'
+[2018.07.13-02.33.33:436][  0]LogFortSignificance: Display: Set Athena Player Pawn URO rate to '0,1,2,3'
+[2018.07.13-02.33.33:436][  0]LogFortSignificance: Display: Set Athena Player Pawn URO interpolation to '1,1,1,1'
+[2018.07.13-02.33.33:436][  0]LogFortSignificance: Display: Set Athena Player SkelMeshMinLOD to '0,1,1,2'
+[2018.07.13-02.33.33:436][  0]LogFortSignificance: Display: Set bucket distances to '50,100,250,500'
+[2018.07.13-02.33.33:489][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak added to pak precacher.
+[2018.07.13-02.33.34:085][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.07.13-02.33.34:798][  0]LogOnline: OSS: Using EpicApp backend 'Fortnite' with host 'fortnite-public-service-prod11.ol.epicgames.com' based on environment 'Prod' and override 'Fortnite'
+[2018.07.13-02.33.34:798][  0]LogOnline: OSS: Unable to find code config for: OnlineSubsystemMcp.OnlineIdentityMcp  Relying on INI for these configs.
+[2018.07.13-02.33.34:800][  0]LogOnline: OSS: Unable to find code config for: OnlineSubsystemMcp.OnlineAccountMappingMcp  Relying on INI for these configs.
+[2018.07.13-02.33.34:801][  0]LogOnline: OSS: Unable to find code config for: OnlineSubsystemMcp.OnlineUsersMcp  Relying on INI for these configs.
+[2018.07.13-02.33.34:802][  0]LogInit: Display: Build flavor: '"Western"'
+[2018.07.13-02.33.34:964][  0]LogSlate: Took 0.022707 seconds to synchronously load lazily loaded font '../../../FortniteGame/Content/UI/Foundation/Fonts/BurbankBigRegular-Bold.ufont' (155K)
+[2018.07.13-02.33.34:964][  0]LogOnline: Facebook: Facebook Startup!
+[2018.07.13-02.33.34:964][  0]LogOnline: Google: Google Startup!
+[2018.07.13-02.33.34:964][  0]LogOnline: Verbose: TWITCH: Twitch Startup!
+[2018.07.13-02.33.35:252][  0]LogSIP: Display: SIP Module Initialized
+[2018.07.13-02.33.35:252][  0]LogSIP: Display: Plugin Status: 1
+[2018.07.13-02.33.35:252][  0]LogUAC: UACClient initialized
+[2018.07.13-02.33.35:252][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.13-02.33.35:260][  0]LogUObjectArray: 96261 objects as part of root set at end of initial load.
+[2018.07.13-02.33.35:260][  0]LogUObjectArray: 61 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2018.07.13-02.33.35:260][  0]LogUObjectAllocator: 17199608 out of 17825792 bytes used by permanent object pool.
+[2018.07.13-02.33.35:260][  0]LogUObjectArray: CloseDisregardForGC: 96261/96261 objects in disregard for GC pool
+[2018.07.13-02.33.35:274][  0]LogMoviePlayer: Warning: PassLoadingScreenWindowBackToGame failed.  No Window
+[2018.07.13-02.33.35:293][  0]LogEngine: Initializing Engine...
+[2018.07.13-02.33.35:307][  0]LogInit: Display: Limiting process virtual memory size to 16777216 KB
+[2018.07.13-02.33.35:602][  0]LogFortMemory: UFortAssetManager will split content preloading by submode
+[2018.07.13-02.33.35:602][  0]LogFortMemory: UFortAssetManager default bundle state is (Client)
+[2018.07.13-02.33.35:602][  0]LogFort: Display: Fastcook is 0
+[2018.07.13-02.33.35:603][  0]LogFort: Display: Startup job "Super::StartInitialLoading()" starting
+[2018.07.13-02.33.36:008][  0]LogFort: Display: Startup job "Super::StartInitialLoading()" took 0.41 seconds to complete
+[2018.07.13-02.33.36:008][  0]LogFort: Display: Startup job "RegisterConstructorReferences()" starting
+[2018.07.13-02.33.36:008][  0]LogFort: Display: Startup job "RegisterConstructorReferences()" took 0.00 seconds to complete
+[2018.07.13-02.33.36:008][  0]LogFort: Display: Startup job "InitializeAbilitySystem()" starting
+[2018.07.13-02.33.36:244][  0]LogFort: Display: Startup job "InitializeAbilitySystem()" took 0.24 seconds to complete
+[2018.07.13-02.33.36:244][  0]LogFort: Display: Startup job "ScanForNavAgentCostData()" starting
+[2018.07.13-02.33.36:252][  0]LogFort: Display: Startup job "ScanForNavAgentCostData()" took 0.01 seconds to complete
+[2018.07.13-02.33.36:252][  0]LogFort: Display: Startup job "GetGameData()" starting
+[2018.07.13-02.33.36:252][  0]LogFort: Loading GameData: /Game/Balance/DefaultGameData.DefaultGameData ...
+[2018.07.13-02.33.47:272][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak added to pak precacher.
+[2018.07.13-02.33.47:272][  0]LogPakFile: New pak file ../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.pak added to pak precacher.
+[2018.07.13-02.33.47:272][  0]LogStreaming: Warning: FAsyncPackage::LoadImports for /Game/Effects/SplineTrails/Blueprints/BP_SplineVolumeTrail_v1b: Skipping import BoolProperty /Script/Engine.Texture:DeferCompression, depends on missing native class
+[2018.07.13-02.33.47:272][  0]LogStats:             ... GameData loaded! - 11.020 s
+[2018.07.13-02.33.47:272][  0]LogFort: Display: Startup job "GetGameData()" took 11.02 seconds to complete
+[2018.07.13-02.33.47:272][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" starting
+[2018.07.13-02.33.56:808][  0]LogStreaming: Error: Couldn't find file for package /Game/Building/TextureData/WallOuter/Diffuses/AIDebugTrans requested by async loading code. NameToLoad: /Game/Building/TextureData/WallOuter/Diffuses/AIDebugTrans
+[2018.07.13-02.33.56:808][  0]LogStreaming: Error: Found 0 dependent packages...
+[2018.07.13-02.33.56:808][  0]LogStreaming: Warning: Took 717.53ms to ProcessLoadedPackages
+[2018.07.13-02.33.57:054][  0]LogStreaming: Warning: Took 245.41ms to ProcessLoadedPackages
+[2018.07.13-02.33.57:715][  0]LogStreaming: Warning: Took 219.96ms to ProcessLoadedPackages
+[2018.07.13-02.33.59:498][  0]LogStreaming: Warning: Took 1782.97ms to ProcessLoadedPackages
+[2018.07.13-02.33.59:498][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" took 12.23 seconds to complete
+[2018.07.13-02.33.59:498][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupSubAssets()" starting
+[2018.07.13-02.33.59:693][  0]LogFort: Display: Startup job "LoadHandle = PreloadStartupSubAssets()" took 0.20 seconds to complete
+[2018.07.13-02.33.59:693][  0]LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" starting
+[2018.07.13-02.33.59:712][  0]LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" took 0.02 seconds to complete
+[2018.07.13-02.33.59:712][  0]LogFort: Display: All startup jobs took 24.11 seconds to complete
+[2018.07.13-02.33.59:712][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.07.13-02.34.00:195][  0]LogInit: XAudio2 using 'Elgato (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.13-02.34.00:737][  0]LogInit: FAudioDevice initialized.
+[2018.07.13-02.34.00:750][  0]LogNetVersion: Set ProjectVersion to 1.0.0. Version Checksum will be recalculated on next use.
+[2018.07.13-02.34.00:750][  0]LogInit: Texture streaming: Enabled
+[2018.07.13-02.34.00:772][  0]LogFortMemory: UFortAssetManager::ChangeLoadState() changing bundle state to (Client, Menu)
+[2018.07.13-02.34.00:817][  0]LogConsoleResponse: Display: Apply Settings:
+[2018.07.13-02.34.00:842][  0]LogGfeSDK: 2018-07-13T04:34:00.843[I] GAME              Core.cpp:31   Creating GfeSDK Version 1.1.195.b747996a
+
+[2018.07.13-02.34.00:842][  0]LogGfeSDK: 2018-07-13T04:34:00.843[I] TASK        TaskRunner.cpp:39   Start TaskRunner thread
+
+[2018.07.13-02.34.00:843][  0]LogGfeSDK: 2018-07-13T04:34:00.843[D] GAME       FactoryImpl.cpp:28   Get shared messagebus interface directly
+
+[2018.07.13-02.34.02:020][  0]LogGfeSDK: 2018-07-13T04:34:02.018[D] TASK        Controller.cpp:231  Joined Bus
+
+[2018.07.13-02.34.02:020][  0]LogGfeSDK: 2018-07-13T04:34:02.018[D] TASK     CallbackContext.h:68   Message JoinMessageBus[join] return value: NVGSDK_SUCCESS Joined bus
+
+[2018.07.13-02.34.02:020][  0]LogGfeSDK: Warning: 2018-07-13T04:34:02.019[E] GAME MessagebusWrapper.cpp:121  Failed to post message to messagebus bus message to string
+
