@@ -11,14 +11,19 @@ file_count = 0
 versions = {}
 blacklist = json.loads(open('blacklist.json').read())
 
+CurrentPackets = {'InPackets': [], 'OutPackets': []}
+RPC_Functions = json.loads(open('RPC_Functions.json').read())
+
 # TODO: Parse the XMPP, maybe there is a module to do it
 def parse_xmpp(message: str):
     return {}
 
 def parse(filepath: str):
-    global logs_read, file_count
+    global logs_read, file_count, CurrentPackets, RPC_Functions
 
     Build = None
+    CurrentSessionID = ''
+
     try:
         lines = open(f'{logs_dir}/{filepath}').readlines()
     except:
@@ -112,7 +117,7 @@ def parse(filepath: str):
             if CategoryName == 'LogInit':
                 if LogSubType == 'Build':
                     Build = Result
-                    versions[Build] = {'Build': Build, 'CreatedAt': CreatedAt, 'Actions': {}, 'Init': {}}
+                    versions[Build] = {'Build': Build, 'CreatedAt': CreatedAt, 'Actions': {}, 'Init': {}, 'Matches': {}}
                 elif Build:
                     if LogSubType.startswith('- '):
                         continue
@@ -127,7 +132,6 @@ def parse(filepath: str):
                             'CPU': Result.split(', CPU: ')[1].split(', ')[0].strip(),
                             'GPU': Result.split(', GPU: ')[1]
                         }
-                        print(Result)
                     elif LogSubType == 'WinSock':
                         if 'version' in Result and 'MaxUdp' in Result and 'MaxSocks' in Result:
                             if not LogSubType in versions[Build]['Init']:
@@ -184,7 +188,7 @@ def parse(filepath: str):
                                 'Outgoing': False,
                                 'RawMessage': line.split('xmpp debug: RECV: ')[1]
                             })
-                        # Recived
+                        # Received
                         elif 'conn debug: SENT:' in line:
                             versions[Build]["Actions"][ActionNumber]['XMPP']['Messages'].append({
                                 'Incoming': False,
@@ -260,12 +264,242 @@ def parse(filepath: str):
                                     Query[q.split('=')[0]] = ''
                             Map = Map.split('?')[0]
                         versions[Build]["Actions"][ActionNumber]['GameServer'] = {'ServerAddress' : IP,'Port': Port,'Map': Map, 'Query': Query}
+                        if 'EncryptionToken' in Query:
+                            if not Query['EncryptionToken'].split(':')[1] in versions[Build]['Matches']:
+                                versions[Build]['Matches'][Query['EncryptionToken'].split(':')[1]] = {
+                                    'InPackets': [],
+                                    'OutPackets': [],
+                                    'ServerAddress' : IP,
+                                    'Port': Port,
+                                    'Map': Map,
+                                    'SessionID': Query['EncryptionToken'].split(':')[1],
+                                    'AccountID': Query['EncryptionToken'].split(':')[0],
+                                    'PacketsFound': os.path.exists(f"packets/{Query['EncryptionToken'].split(':')[1]}.json"),
+                                    'Packets': []
+                                }
+                                pkts = json.loads(open(f"packets/{Query['EncryptionToken'].split(':')[1]}.json").read())
+                                CurrentPackets = {'InPackets': [], 'OutPackets': []}
+                                for pkt in pkts:
+                                    if pkt['from_server']:
+                                        CurrentPackets['InPackets'].append(pkt['payload'])
+                                    else:
+                                        CurrentPackets['OutPackets'].append(pkt['payload'])
+                                CurrentSessionID = Query['EncryptionToken'].split(':')[1]
                     elif LogSubType == 'UChannel':
                         pass
                     elif LogSubType == 'NetworkFailure':
                         pass
                     elif LogSubType == 'Error':
                         pass
+                elif CategoryName == 'LogNetTraffic':
+                    if LogSubType == 'VeryVerbose':
+                        if 'VeryVerbose: Sending:' in line:
+                            PacketIdx = len(versions[Build]['Matches'][CurrentSessionID]['OutPackets'])
+                            versions[Build]['Matches'][CurrentSessionID]['OutPackets'].append({'Payload': CurrentPackets["OutPackets"][PacketIdx], 'Bunches': []})
+                        elif 'VeryVerbose: SetChannelActor:' in line:
+                            Actor_Type = line.split(' Actor: ')[1].split(' ')[0]
+                            Actor_Path = line.split(' Actor: ')[1].split(' ')[1].split('.')[0]
+                            Actor_NetGUID = line.split('NetGUID: ')[1]
+
+                            if Actor_Type == 'FortPickupAthena':
+                                pass
+                    elif LogSubType == 'Verbose':
+                        if ': Received ' in line:
+                            PacketIdx = len(versions[Build]['Matches'][CurrentSessionID]['InPackets'])
+                            versions[Build]['Matches'][CurrentSessionID]['InPackets'].append({'Payload': CurrentPackets["InPackets"][PacketIdx], 'Bunches': []})
+                    elif 'Bunch Create ' in line:
+                        pass
+                    elif 'Channel Actor ' in line:
+                        pass
+                    elif 'Channel ' in line and ' ack timeout); resending ' in line:
+                        pass
+                    elif 'Creating Replicator' in line:
+                        pass
+                    elif 'Replicate' in line:
+                        Actor = '_'.join(line.split('Replicate ')[1].split(', ')[0].split('_')[:-1])
+                    elif 'Sent RPC: ' in line:
+                        # https://github.com/EpicGames/UnrealEngine/blob/2bf1a5b83a7076a0fd275887b373f8ec9e99d431/Engine/Source/Runtime/Engine/Private/NetDriver.cpp#L2319
+                        RPC_Type = line.split('Sent RPC: ')[1].split(' ')[0]
+                        RPC_Path = line.split('Sent RPC: ')[1].split(' ')[1].split('.')[0]
+                        RPC_Function_Name = line.split('Sent RPC: ')[1].split(' ')[1].split('::')[1].split(' ')[0]
+                        RPC_Length = line.split('[')[1].split(' bytes')[0]
+
+                        if not RPC_Type in RPC_Functions:
+                            RPC_Functions[RPC_Type] = []
+
+                        if not RPC_Function_Name in RPC_Functions[RPC_Type]:
+                            RPC_Functions[RPC_Type].append(RPC_Function_Name)
+
+                        versions[Build]['Matches'][CurrentSessionID]['InPackets'][len(versions[Build]['Matches'][CurrentSessionID]['InPackets']) - 1]['Bunches'].append({
+                            'RPC_Type': RPC_Type,
+                            'RPC_Path': RPC_Path,
+                            'RPC_Function_Name': RPC_Function_Name
+                        })
+                        
+                        if RPC_Type == 'Athena_PlayerController_C':       
+                            if RPC_Function_Name == 'ServerUpdateMultipleLevelsVisibility':
+                                pass
+                            elif RPC_Function_Name == 'ServerUpdateLevelVisibility':
+                                pass
+                            elif RPC_Function_Name == 'ServerReadyToStartMatch':
+                                pass
+                            elif RPC_Function_Name == 'ServerThankBusDriver':
+                                pass
+                        elif RPC_Type == 'UACNetworkComponent':
+                            if RPC_Function_Name == 'SendPacketToServer':
+                                pass
+                        elif RPC_Type == 'FortAbilitySystemComponentAthena':
+                            pass
+                        elif RPC_Type == 'PlayerPawn_Athena_C':
+                            if RPC_Function_Name == 'ServerMovePacked':
+                                pass
+                        elif RPC_Type == 'FortPlayerStateAthena':
+                            if RPC_Function_Name == 'Server_SetCanEditCreativeIsland':
+                                pass
+                            elif RPC_Function_Name == 'ServerPlayEmoteItem':
+                                pass
+                        elif RPC_Type == 'FortBroadcastRemoteClientInfo':   
+                            pass
+                        elif RPC_Type == 'B_Athena_Pickaxe_Generic_C':      
+                            pass
+                        elif RPC_Type == 'B_Melee_Impact_Pickaxe_Athena_StarWand_C':
+                            pass
+                        elif RPC_Type == 'B_Prj_Bullet_Sniper_C':
+                            pass
+                        elif RPC_Type == 'AthenaMarkerComponent':
+                            if RPC_Function_Name == 'ServerAddMapMarker':
+                                pass
+                        elif RPC_Type == 'B_Pistol_Vigilante_Athena_C':
+                            pass
+                        elif RPC_Type == 'Prop_TirePile_03_C':
+                            pass
+                        elif RPC_Type == 'B_Rifle_Sniper_Suppressed_Athena_C':
+                            pass
+                        elif RPC_Type == 'B_ConsumableSmall_HalfShield_Athena_C':
+                            pass
+                        elif RPC_Type == 'FortControllerComponent_Aircraft':
+                            if RPC_Function_Name == 'ServerAttemptAircraftJump':
+                                pass
+                        elif RPC_Type == 'FortControllerComponent_Interaction':
+                            pass
+                        elif RPC_Type == 'Prop_TirePile_04_C':
+                            pass
+                        elif RPC_Type == 'B_FloppingRabbit_Weap_Athena_C':
+                            pass
+                        elif RPC_Type == 'Prop_TirePile_01_C':
+                            pass
+                        elif RPC_Type == 'B_Shotgun_Heavy_Athena_C':
+                            pass
+                        elif RPC_Type == 'B_PetrolWeapon_C':
+                            pass
+                        elif RPC_Type == 'B_Shotgun_Charge_Athena_C':
+                            pass
+                        elif RPC_Type == 'B_Assault_Auto_Athena_C':
+                            pass
+                        elif RPC_Type == 'B_Grenade_Shockwave_Athena_C':
+                            pass
+                        elif RPC_Type == 'BP_ZeroPoint_2Point0_C':
+                            pass
+                        elif RPC_Type == 'BP_IO_Slider_C':
+                            if RPC_Function_Name == 'OpenDoors':
+                                pass
+                        elif RPC_Type == 'B_Prj_Athena_Consumable_Thrown_ShieldSmall_C':
+                            pass
+                        elif RPC_Type == 'B_ConsumableSmall_MiniShield_Athena_C':
+                            pass
+                        elif RPC_Type == 'BGA_Petrol_Pickup_C':
+                            pass
+                        elif RPC_Type == 'SR_Valet_C':
+                            pass
+                        elif RPC_Type == 'Valet_SportsCar_Vehicle_C':
+                            pass
+                        elif RPC_Type == 'B_HappyGhost_Athena_C':
+                            pass
+                        elif RPC_Type == 'B_Pistol_Light_PDW_Athena_C':
+                            pass
+                        elif RPC_Type == 'B_Pistol_AutoHeavy_Athena_Supp_Child_C':
+                            pass
+                        elif RPC_Type == 'GA_Athena_Consumable_ThrowWithTrajectory_Parent_C':
+                            pass
+                        elif RPC_Type == 'Valet_BasicTruck_Vehicle_C':
+                            pass
+                        elif RPC_Type == 'AthenaSupplyDrop_C':
+                            pass
+                        elif RPC_Type == 'BGA_Athena_SCMachine_C':
+                            pass
+                        elif RPC_Type == 'Prj_Athena_Consumable_Thrown_Coconut_C':
+                            pass
+                        elif RPC_Type == 'B_Assault_Heavy_Athena_C':
+                            pass
+                        elif RPC_Type == 'B_Assault_PistolCaliber_AR_Athena_C':
+                            pass
+                        elif RPC_Type == 'BGA_Athena_FlopperSpawn_World_C':
+                            pass
+                        elif RPC_Type == 'MeatballVehicle_L_C':
+                            pass
+                        elif RPC_Type == 'B_Meatball_Launcher_Athena_C':
+                            pass
+                        elif RPC_Type == 'Prj_Athena_HappyGhost_C':
+                            pass
+                        elif RPC_Type == 'B_Athena_HappyGhost_Wire_C':
+                            pass
+                        elif RPC_Type == 'Prj_Athena_FloppingRabbit_HighTier_C':
+                            pass
+                        elif RPC_Type == 'B_Prj_Meatball_Missile_C':
+                            pass
+                        elif RPC_Type == 'SR_Core_C':
+                            pass
+                        elif RPC_Type == 'B_Athena_FloppingRabbit_Wire_HighTier_C':
+                            pass
+                        elif RPC_Type == 'B_Prj_Athena_Consumable_Thrown_FlopperShield_C':
+                            pass
+                        elif RPC_Type == 'Prop_BouncyUmbrella_C_C':
+                            pass
+                        elif RPC_Type == 'B_Flopper_Weap_Athena_C':
+                            pass
+                        elif RPC_Type == 'NPC_Pawn_SpicySake_Parent_C':
+                            pass
+                        elif RPC_Type == 'GA_SurfaceChange_Sand_C':
+                            pass
+                        elif RPC_Type == 'Apollo_GasPump_Valet_C':
+                            pass
+                        elif RPC_Type == 'Valet_BasicCar_Vehicle_C':
+                            pass
+                        elif RPC_Type == 'B_Rifle_Sniper_Athena_HighTier_C':
+                            pass
+                        elif RPC_Type == 'B_Prj_Athena_Consumable_Thrown_Shields_C':
+                            pass
+                        elif RPC_Type == 'Athena_Prop_SilkyBingo_C':
+                            pass
+                        elif RPC_Type == 'Prj_Athena_FloppingRabbit_C':
+                            pass
+                        elif RPC_Type == 'B_Prj_Athena_Consumable_Thrown_Medkit_C':
+                            pass
+                        elif RPC_Type == 'Valet_SportsCar_Vehicle_Upgrade_C':
+                            pass
+                        elif RPC_Type == 'BP_BountyBoard_C':
+                            pass
+                        elif RPC_Type == 'Prop_BouncyUmbrella_A_C':
+                            pass
+                        elif RPC_Type == 'B_Rifle_Sniper_Athena_C':
+                            pass
+                        elif RPC_Type == 'B_ChillBronco_Athena_C':
+                            pass
+                        elif RPC_Type == 'B_Shotgun_HighSemiAuto_Athena_C':
+                            pass
+                        else:
+                            print(f'Unknown RPC_Type: {RPC_Type}')
+
+                    elif LogSubType == 'UActorChannel':
+                        if 'UActorChannel::ReadContentBlockHeader' in line:
+                            pass
+                    elif 'LogNetTraffic:       Actor' in line:
+                        pass
+                    else:
+                        if 'Created channel ' in line and 'of type ' in line:
+                            pass
+                        else:
+                            pass
                 elif CategoryName == 'LogWorld':
                     if 'Bringing World' in line:
                         pass
@@ -326,7 +560,7 @@ def parse(filepath: str):
                 elif CategoryName == 'LogMatchmakingServiceClient':
                     if not 'MatchmakingServiceClient' in versions[Build]["Actions"][ActionNumber]:
                         versions[Build]["Actions"][ActionNumber]['MatchmakingServiceClient'] = {'HandleStatusUpdateMessage': {'Messages': []}, 'HandleQueuedStatusUpdate': [], 'ChangeState': []}
-                    # Recived
+                    # Received
                     if line.startswith('LogMatchmakingServiceClient: Verbose: HandleWebSocketMessage - Received message'):
                         info = {}
                         try:
@@ -455,3 +689,4 @@ for Build in list(versions.keys()):
 
 open('Versions.json', 'w+').write(json.dumps(versions, indent=2))
 print(f'Total Versions Parsed: {len(versions)}')
+open('RPC_Functions.json', 'w+').write(json.dumps(RPC_Functions, indent=2))

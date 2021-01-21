@@ -1,0 +1,222 @@
+{
+  "Athena_PlayerController_C": [
+    "ServerSetClientHasFinishedLoading",
+    "ServerUpdateMultipleLevelsVisibility",
+    "ServerSetPartyOwner",
+    "ServerShortTimeout",
+    "ServerSetSpectatorLocation",
+    "ServerUpdateLevelVisibility",
+    "ServerReadyToStartMatch",
+    "ServerClientPawnLoaded",
+    "ServerAcknowledgePossession",
+    "ServerUpdateCamera",
+    "ServerExecuteInventoryItem",
+    "ServerLoadingScreenDropped",
+    "ServerSendClientProgressUpdate",
+    "ServerTouchActiveTime",
+    "ServerModifyStat",
+    "ServerReportClientFPS",
+    "ServerAttemptExitVehicle",
+    "ServerRequestSeatChange",
+    "ServerReturnToMainMenu",
+    "ServerVoiceChatRequestJoinToken",
+    "ServerCheckClientPossessionReliable",
+    "ServerVerifyViewTarget",
+    "ServerPlayEmoteItem",
+    "ServerEndEditingBuildingActor",
+    "ServerClientIsReadyToRespawn",
+    "ServerCreateBuildingActor"
+  ],
+  "UACNetworkComponent": [
+    "SendPacketToServer"
+  ],
+  "FortBroadcastRemoteClientInfo": [
+    "ServerSetPlayerInventoryActive",
+    "ClientRemotePlayerDamagedResourceBuilding",
+    "ServerSetPlayerBuildableClass",
+    "ClientRemotePlayerHitMarkers",
+    "ServerSetPlayerInteracting",
+    "ServerSetPlayerFullScreenMapActive",
+    "ClientRemotePlayerAddMapMarker",
+    "ClientRemotePlayerRemoveMapMarker"
+  ],
+  "PlayerPawn_Athena_C": [
+    "ServerMovePacked",
+    "ServerUnmarkRespawned",
+    "ServerHandlePickupInfo",
+    "ServerSendAimbotDetectionStatus",
+    "ServerUpdateVehicleInputStateReliable",
+    "ServerUpdateVehicleInputStateUnreliable",
+    "MulticastUpdateVehicleInputStateReliable"
+  ],
+  "FortAbilitySystemComponentAthena": [
+    "ServerTryActivateAbility",
+    "ServerEndAbility",
+    "ServerCurrentMontageSetPlayRate",
+    "ServerCurrentMontageSetNextSectionName",
+    "ServerCancelAbility",
+    "ServerAbilityRPCBatch",
+    "ServerTryActivateAbilityWithEventData"
+  ],
+  "B_Athena_Pickaxe_Generic_C": [
+    "ServerReleaseWeaponAbility"
+  ],
+  "AthenaMarkerComponent": [
+    "ServerAddMapMarker",
+    "ServerRemoveMapMarker"
+  ],
+  "Valet_SportsCar_Vehicle_C": [
+    "ServerUpdateStateSync",
+    "ServerMove",
+    "BroadcastResetWaterIdleTimeEmpty",
+    "ClientBroadcastHitDetection"
+  ],
+  "SR_Valet_C": [
+    "AuthPlayIndex",
+    "MulticastClearRadioSourceOverride"
+  ],
+  "B_Shotgun_Heavy_Athena_C": [
+    "ServerReleaseWeaponAbility"
+  ],
+  "Prop_TirePile_03_C": [
+    "MakeWobbleEffect"
+  ],
+  "B_Assault_Heavy_Athena_C": [
+    "ServerReleaseWeaponAbility"
+  ],
+  "Prop_TirePile_04_C": [
+    "MakeWobbleEffect"
+  ],
+  "Prop_TirePile_01_C": [
+    "MakeWobbleEffect"
+  ],
+  "FortPlayerStateAthena": [
+    "ServerSetInAircraft"
+  ],
+  "NPC_Pawn_SpicySake_Parent_C": [
+    "NPC"
+  ],
+  "FortControllerComponent_Interaction": [
+    "ServerAttemptInteract"
+  ],
+  "B_Assault_Auto_Athena_C": [
+    "ServerSetMuzzleTraceNearWall",
+    "ServerReleaseWeaponAbility"
+  ],
+  "B_Pistol_Vigilante_Athena_C": [
+    "ServerReleaseWeaponAbility",
+    "ServerSetMuzzleTraceNearWall"
+  ],
+  "MeatballVehicle_L_C": [
+    "ServerMove",
+    "ServerUpdateStateSync",
+    "HitWithPickaxe",
+    "BroadcastResetWaterIdleTimeEmpty",
+    "ClientBroadcastHitDetection"
+  ],
+  "SR_Core_C": [
+    "MulticastClearRadioSourceOverride"
+  ],
+  "B_Meatball_Launcher_Athena_C": [
+    "ServerReleaseWeaponAbility"
+  ],
+  "B_Prj_Meatball_Missile_C": [
+    "HideOnExplode"
+  ],
+  "GA_SurfaceChange_Sand_C": [
+    "RepFromClientRemoveGEResetMeshHeight"
+  ],
+  "BP_IO_Slider_C": [
+    "RaiseElevator",
+    "OpenDoors"
+  ],
+  "Prj_Athena_HappyGhost_C": [
+    "HandleCost"
+  ],
+  "B_Athena_HappyGhost_Wire_C": [
+    "ReelFinished"
+  ],
+  "B_Assault_PistolCaliber_AR_Athena_C": [
+    "ServerReleaseWeaponAbility"
+  ],
+  "B_Prj_Athena_Consumable_Thrown_ShieldSmall_C": [
+    "SpawnedItemFx"
+  ],
+  "GA_Athena_Consumable_ThrowWithTrajectory_Parent_C": [
+    "Server_SpawnProjectile"
+  ],
+  "B_ConsumableSmall_MiniShield_Athena_C": [
+    "ServerReleaseWeaponAbility"
+  ],
+  "Valet_BasicCar_Vehicle_C": [
+    "BroadcastResetWaterIdleTimeEmpty",
+    "ClientBroadcastHitDetection"
+  ],
+  "Prop_BouncyUmbrella_C_C": [
+    "MakeWobbleEffect"
+  ],
+  "AthenaSupplyDrop_C": [
+    "Multicast_ApplyGravityForFall"
+  ],
+  "Apollo_GasPump_Valet_C": [
+    "OnFireFx"
+  ],
+  "B_Rifle_Sniper_Athena_HighTier_C": [
+    "ServerReleaseWeaponAbility"
+  ],
+  "B_Prj_Athena_Consumable_Thrown_Shields_C": [
+    "SpawnedItemFx"
+  ],
+  "Athena_Prop_SilkyBingo_C": [
+    "OnFireFx"
+  ],
+  "BGA_Athena_FlopperSpawn_World_C": [
+    "PlaySpawnItemHightier",
+    "HideAndKill"
+  ],
+  "Prj_Athena_FloppingRabbit_C": [
+    "FullDip",
+    "TryCatch",
+    "HideAndKill"
+  ],
+  "B_Athena_FloppingRabbit_Wire_C": [
+    "PlayMontage"
+  ],
+  "Valet_BasicTruck_Vehicle_C": [
+    "BroadcastResetWaterIdleTimeEmpty",
+    "ClientBroadcastHitDetection",
+    "ServerUpdateStateSync",
+    "ServerMove",
+    "ServerStartFire"
+  ],
+  "B_Prj_Athena_Consumable_Thrown_Medkit_C": [
+    "SpawnedItemFx"
+  ],
+  "Valet_SportsCar_Vehicle_Upgrade_C": [
+    "ServerUpdateStateSync",
+    "ServerMove",
+    "BroadcastResetWaterIdleTimeEmpty",
+    "ClientBroadcastHitDetection"
+  ],
+  "BP_BountyBoard_C": [
+    "MulticastSetInteractionText"
+  ],
+  "Prop_BouncyUmbrella_A_C": [
+    "MakeWobbleEffect"
+  ],
+  "BGA_Athena_SCMachine_C": [
+    "TriggerRespawnFX"
+  ],
+  "B_Rifle_Sniper_Athena_C": [
+    "ServerReleaseWeaponAbility"
+  ],
+  "B_ChillBronco_Athena_C": [
+    "ServerReleaseWeaponAbility"
+  ],
+  "B_Pistol_Light_PDW_Athena_C": [
+    "ServerReleaseWeaponAbility"
+  ],
+  "B_Shotgun_HighSemiAuto_Athena_C": [
+    "ServerReleaseWeaponAbility"
+  ]
+}
