@@ -25,7 +25,11 @@
     "ServerPlayEmoteItem",
     "ServerEndEditingBuildingActor",
     "ServerClientIsReadyToRespawn",
-    "ServerCreateBuildingActor"
+    "ServerCreateBuildingActor",
+    "ServerUpdatePrimaryQuickBarSlots",
+    "ServerRestartPlayer",
+    "ServerEnteredCursorMode",
+    "ServerEnteredCameraMode"
   ],
   "UACNetworkComponent": [
     "SendPacketToServer"
@@ -217,6 +221,47 @@
     "ServerReleaseWeaponAbility"
   ],
   "B_Shotgun_HighSemiAuto_Athena_C": [
+    "ServerReleaseWeaponAbility"
+  ],
+  "FortControllerComponent_Aircraft": [
+    "ServerAttemptAircraftJump"
+  ],
+  "NPC_Pawn_Irwin_Prey_Nug_C": [
+    "NetMulticast_OnTurn"
+  ],
+  "NPC_Pawn_Irwin_Prey_Burt_C": [
+    "NetMulticast_OnTurn"
+  ],
+  "NPC_Pawn_Irwin_Simple_Smackie_C": [
+    "NetMulticast_OnTurn"
+  ],
+  "B_Assault_Bone_Athena_Weap_C": [
+    "ServerReleaseWeaponAbility",
+    "ServerSetMuzzleTraceNearWall"
+  ],
+  "B_Assault_Scrap_Athena_C": [
+    "ServerSetMuzzleTraceNearWall",
+    "ServerReleaseWeaponAbility"
+  ],
+  "B_Pistol_SixShooter_Athena_C": [
+    "ServerReleaseWeaponAbility",
+    "ServerSetMuzzleTraceNearWall"
+  ],
+  "B_Shotgun_Scrap_Athena_C": [
+    "ServerReleaseWeaponAbility",
+    "ServerSetMuzzleTraceNearWall"
+  ],
+  "B_ConsumableSmall_HalfShield_Athena_C": [
+    "ServerReleaseWeaponAbility"
+  ],
+  "B_HappyGhost_Athena_C": [
+    "ServerReleaseWeaponAbility",
+    "ServerSetMuzzleTraceNearWall"
+  ],
+  "B_Prj_Athena_Consumable_Thrown_Meat_C": [
+    "SpawnedItemFx"
+  ],
+  "B_ConsumableSmall_Bandages_Athena_C": [
     "ServerReleaseWeaponAbility"
   ]
 }
